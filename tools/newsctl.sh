@@ -80,6 +80,36 @@ io.open(dst, 'w', encoding='utf-8', newline='\n').write(t)
 PY
     echo "[add] data/$base"
   done
+  # data/ の変更をそのまま公開ブランチへ反映（index.html は触らない）
+  cmd_sync
+}
+
+# data/ と tools/ の変更のみを commit & push する。index.html は再生成しない。
+cmd_sync() {
+  local r; r="$(_remote)" || return $?
+  git -C "$REPO_DIR" config user.name  "${GIT_AUTHOR_NAME:-news-bot}"
+  git -C "$REPO_DIR" config user.email "${GIT_AUTHOR_EMAIL:-news-bot@users.noreply.github.com}"
+  git -C "$REPO_DIR" add -A data tools
+  if git -C "$REPO_DIR" diff --cached --quiet; then
+    echo "[skip] 変更なし"
+    return 0
+  fi
+  git -C "$REPO_DIR" commit -q -m "add news data $(TZ=Asia/Tokyo date +%FT%H:%MJST)" || return 1
+  local i rc=1
+  for i in 1 2 3; do
+    _nop git -C "$REPO_DIR" push "$r" "HEAD:$GH_BRANCH" > /tmp/newsctl_push.log 2>&1
+    rc=$?
+    [ "$rc" -eq 0 ] && break
+    # 先行タスクの push と競合した場合は rebase して再試行
+    _nop git -C "$REPO_DIR" pull --rebase -q "$r" "$GH_BRANCH" >> /tmp/newsctl_push.log 2>&1
+    sleep 3
+  done
+  _mask < /tmp/newsctl_push.log
+  if [ "$rc" -ne 0 ]; then
+    echo "[push失敗] exit=$rc" >&2
+    return "$rc"
+  fi
+  echo "[pushOK]"
 }
 
 cmd_build() {
@@ -123,7 +153,8 @@ case "${1:-}" in
   status)  cmd_status ;;
   pull)    cmd_pull ;;
   add)     shift; cmd_add "$@" ;;
+  sync)    cmd_sync ;;
   build)   cmd_build ;;
   publish) cmd_publish ;;
-  *) echo "usage: $0 {status|pull|add <json>...|build|publish}" >&2; exit 64 ;;
+  *) echo "usage: $0 {status|pull|add <json>...|sync|build|publish}" >&2; exit 64 ;;
 esac
