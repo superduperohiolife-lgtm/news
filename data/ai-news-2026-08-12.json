@@ -1,0 +1,133 @@
+{
+  "date": "2026-08-12",
+  "sub": "水",
+  "articles": [
+    {
+      "sec": "モデル・製品",
+      "badges": ["new", "us"],
+      "title": "OpenAI、攻撃側能力を解禁した「GPT-5.6-Cyber」をDaybreak Redで提供",
+      "summary": "OpenAIは8月10日、サイバーセキュリティ特化プログラム「Daybreak」をRed／Blueの2階層に拡張し、専用モデルGPT-5.6-Cyberを投入。高度セキュリティ要求への応答率は95.0%で、防御向けのGPT-5.6 Sol（Daybreak Blue）の2.0%、前世代GPT-5.5-Cyberの57.3%を大きく上回る。同モデルによる調査でChrome V8の脆弱性CVE-2026-15903のほか、モバイルOS 5件以上、重大DB脆弱性3件、カーネル権限昇格400件超を発見したとする。",
+      "insight": "デュアルユースを「拒否」ではなく「身元確認＋利用審査」で扱う設計。9月1日からハードウェアセキュリティキーが必須になる点は、社内で試す場合の前提条件。",
+      "meta": ["応答率 95.0%（Sol比47倍）", "ハードキー必須 9/1〜", "発見例 カーネル権限昇格400件超"],
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/"
+    },
+    {
+      "sec": "モデル・製品",
+      "badges": ["new"],
+      "title": "NVIDIA、30B MoE「Nemotron 3.5 Lightning」とルーティング基盤NeMo Switchyardを公開",
+      "summary": "NVIDIAが8月上旬、オープンウェイトの30BクラスMoEモデル「Nemotron 3.5 Lightning」を公開。gpt-oss-120b相当の性能を約1/4のパラメータで実現し、出力速度は最大4倍、エージェントのタスク完了は約30%高速化とする。併せてOSSのモデル振り分けライブラリNeMo Switchyardを公開し、NVIDIA社内評価ではOpus 4.8単独運用に比べタスク完了コストを約1/3に抑えつつ精度を維持したとする。CrowdStrike、Harvey、CodeRabbit等が既にカスタマイズ利用。",
+      "insight": "「最上位モデルに全部投げる」運用からの脱却が、ベンダー自身のツールとして製品化されてきた段階。RTX PC〜Jetson〜クラウドまで同一モデルが載る点も、機密データを外に出さない構成に効く。",
+      "meta": ["30B MoE（A3B）", "出力最大4倍・タスク30%高速", "配布 Hugging Face / OpenRouter / NIM"],
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/"
+    },
+    {
+      "sec": "モデル・製品",
+      "badges": ["new", "us"],
+      "title": "Anthropic、Claude Codeの自動実行モードを8月14日から既定ON",
+      "summary": "Anthropicは8月9日、Claude Codeの「auto mode」をPro／Max／Team向けに8月14日から既定で有効化すると発表。不可逆・破壊的・環境外への操作以外は都度承認なしで進む。有料ユーザー1,053人での検証では、有害な操作の検出率が自動モードで89%、人手承認では13.6%にとどまり、ユーザーは承認プロンプトの97%をそのまま許可していたという。プロンプトインジェクション検査とカスタム拒否ルールも追加。",
+      "insight": "「人が都度見る」前提の安全策が形骸化しているという主張を、自社データで裏づけた形。既存の運用ルールを見直す場合は、まずhard denyルールの整備が先。",
+      "meta": ["既定ON 8/14〜", "有害操作検出 89% vs 人手13.6%", "承認プロンプト素通り率 97%"],
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/"
+    },
+    {
+      "sec": "企業・産業動向",
+      "badges": ["new", "us"],
+      "title": "Anthropic、ビットコイン採掘のRiotと20年・191MW・91億ドルの計算契約",
+      "summary": "AnthropicがRiot Platformsのテキサス州ロックデール拠点で、IT容量191MWを20年間確保する契約を締結。契約額は91億ドルで、2度の5年延長オプション行使時は最大161億ドル・2048年6月までとなる。2027年12月に96MW、2028年6月に全容量が稼働予定。Morgan Stanleyが開発費として5.73億ドルのつなぎ融資を提供。発表を受けRiot株は8月10日の時間外で約25%上昇した。Riotは直近6か月でAI各社と計241MW・約98億ドルのリース契約を締結済み。",
+      "insight": "採掘施設の「電力と冷却が既にある」資産価値がAI側の需要と噛み合った事例。計算資源の調達先がクラウド3社から電力保有事業者へ広がっている。",
+      "meta": ["91億ドル／20年（最大161億ドル）", "191MW・2028年6月フル稼働", "RIOT株 時間外+約25%"],
+      "source": "The Next Web",
+      "sourceUrl": "https://thenextweb.com/news/anthropic-riot-9bn-data-centre-deal"
+    },
+    {
+      "sec": "企業・産業動向",
+      "badges": ["new", "us"],
+      "title": "IBMとTogether AI、2.4億ドルでオープンモデル推論クラスタを構築",
+      "summary": "IBMとTogether AIが8月11日、複数年で2.4億ドルの契約を締結。NVIDIA HGX B300とSpectrum-Xイーサネットを用いた大規模推論クラスタをIBM Cloud上に構築し、企業向けにオープンソースモデルの推論を提供する。提供開始は2027年第1四半期の見込み。NVIDIAは前世代比で「AIファクトリー出力30倍」を掲げる。Together AIは直近でシリーズCを8億ドル調達し、月間400兆トークンを処理している。",
+      "insight": "推論専用の大規模クラスタをクラウド事業者が外部AI企業向けに切り出す構図。オープンウェイト運用の受け皿が増えれば、クローズドAPI一択からの分散が進む。",
+      "meta": ["2.4億ドル・複数年", "NVIDIA HGX B300", "提供開始 2027年Q1"],
+      "source": "IBM Newsroom",
+      "sourceUrl": "https://newsroom.ibm.com/2026-08-11-IBM-and-Together-AI-Sign-Multi-Year-Agreement-to-Scale-Open-Source-AI-Inference-with-NVIDIA-AI-Infrastructure-on-IBM-Cloud"
+    },
+    {
+      "sec": "企業・産業動向",
+      "badges": ["new", "us"],
+      "title": "元xAI共同創業者のRiver AI、11億ドル調達「ユーザーが所有するAI」を掲げる",
+      "summary": "Igor Babuschkin氏のRiver AIが8月11日、シードとシリーズA合計で11億ドルの調達を発表。General CatalystとAMPがリードし、NVIDIA、AMD Ventures、Y Combinator、Temasekが参加。主力のRiver APIは35B〜1Tのオープンウェイトモデルを自社データで追加学習でき、複雑な強化学習タスクを15〜20分、クローズド比2〜4倍のコスト効率で実行できるとする。評価額は50億ドルと報じられている(要確認)。",
+      "insight": "「モデルはラボではなく使う人のために働くべき」という主張を資本が支持した格好。オープンウェイト＋自社データの追加学習が、独自性の主戦場になりつつある。",
+      "meta": ["調達 11億ドル", "対応 35B〜1Tパラメータ", "RLタスク 15〜20分・2〜4倍のコスト効率"],
+      "source": "Tech Startups",
+      "sourceUrl": "https://techstartups.com/2026/08/11/former-xai-co-founder-igor-babuschkins-river-ai-raises-1-1-billion-to-build-your-own-personal-ai/"
+    },
+    {
+      "sec": "企業・産業動向",
+      "badges": ["prev", "us"],
+      "title": "Intel、AI向け株式発行を200億ドルへ増額（既報の続報）",
+      "summary": "8月8日に公表した150億ドル規模の普通株発行について、Bloombergは8月10日、需要の強さを受けて発行規模を200億ドルへ増額したと報じた。応募需要は1,000億ドル規模とされる(要確認)。資金はAI基盤の設備投資とファウンドリ／先端パッケージングの立て直しに充てられる。",
+      "insight": "半導体製造への資金流入が、モデル開発への投資と並走している。国内で影響が出るのは装置・材料の受注動向。",
+      "meta": ["発行額 150億→200億ドル", "報道日 8/10", "用途 ファウンドリ／先端パッケージング"],
+      "source": "AI Weekly（Bloomberg報道の要約）",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "sec": "規制・ガバナンス",
+      "badges": ["new"],
+      "title": "北京の命令でMeta-Manusの20億ドル買収が解消、Manusが独立企業に復帰",
+      "summary": "AIエージェント企業Manusが8月11日、独立企業として再出発すると発表。2025年12月にMetaが約20億ドルで買収していたが、中国当局が解消を命じ、Metaは6月から巻き戻しに着手していた。移行に伴い一部ユーザーのデータ削除手続きが進む。中国が自国AI企業の海外売却を止めた初期の事例として、越境M&Aの前提が変わったとの指摘が出ている。",
+      "insight": "AI企業の買収は各国の輸出管理・データ規制の審査対象。中国拠点のAIツールを業務に組み込む場合、提供主体が途中で変わる前提でのデータ持ち出し設計が要る。",
+      "meta": ["買収額 約20億ドル（2025年12月）", "解消発表 8/11", "一部ユーザーのデータ削除手続き"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/08/11/manus-china-meta-acquisition.html"
+    },
+    {
+      "sec": "規制・ガバナンス",
+      "badges": ["new"],
+      "title": "Spotify、AI生成アーティストに「AI Persona」表示・既定でレコメンド対象外へ",
+      "summary": "Spotifyは8月11日、実在しないAI生成のアーティスト名義に「AI Persona」バッジを付ける方針を発表。8月11日からSpotify for Artistsで自己申告を受け付け、バッジ表示は9月中旬から段階適用する。写実的なAI画像や名義を使う一定規模以上のプロフィールは同社側でも精査する。該当楽曲は編集・アルゴリズム・パーソナライズの各レコメンドから既定で除外され、明示的にフォローしたユーザーには従来どおり表示される。誤判定には異議申立が可能。",
+      "insight": "「AIで作ったか」ではなく「名義が実在人物か」を分けて開示させる設計。生成コンテンツの流通側ガバナンスの実装例として参考になる。",
+      "meta": ["自己申告 8/11〜", "バッジ適用 9月中旬〜", "既定でレコメンド除外"],
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/"
+    },
+    {
+      "sec": "規制・ガバナンス",
+      "badges": ["us"],
+      "title": "米国は州法先行が続く、イリノイ州がフロンティアAIの第三者監査を義務化",
+      "summary": "連邦の包括枠組み法案GAAIAは成立の見通しが立たず、企業は州法の分断に対応する状況が続く。イリノイ州S.B.315（7月6日成立）は、収益5億ドル超の開発者に対しフロンティアモデルの独立第三者による安全監査を義務づける全米初の州法。コロラド州のチャットボット安全法（7月1日成立・2027年1月施行）は未成年保護に特化した初の規制。FTCは7月1日、AI出力の誘導を開示しない行為に連邦取引委員会法5条の欺瞞規制を適用する方針を示し、州法遵守は抗弁にならないと警告した。",
+      "insight": "「州法を守っていれば連邦は大丈夫」が成り立たない旨をFTCが明言した点が実務上は重い。米国向けサービスは州別要件と連邦の開示義務を別建てで確認する必要。",
+      "meta": ["IL S.B.315 対象＝収益5億ドル超", "CO チャットボット法 2027年1月施行", "FTC法5条を適用方針"],
+      "source": "Mintz（AI: The Washington Report 8月号）",
+      "sourceUrl": "https://www.mintz.com/insights-center/viewpoints/54941/2026-08-07-ai-washington-report-august-2026-edition"
+    },
+    {
+      "sec": "業務活用術",
+      "badges": ["new", "us"],
+      "title": "Rippling、AIトークン費がR&D予算の40%に膨張→15%へ圧縮した仕組みを製品化",
+      "summary": "Ripplingは8月7日、社内のAI利用コストと成果を紐づける「AI Spend Console」を発表。同社ではトークン費が前月比80%増で伸び、R&D人件費予算の40%に達する見込みだった。従業員の10〜15%が総コストの60%を占め、月5万ドルを使うエンジニアもいたという。用途に応じて安価なモデルへ振り分けるAIゲートウェイを導入した結果、比率は15%へ低下。7月のトークン消費は6,000億と高水準ながら、費用は4月比37%に収まった。中国製のGLM 5.2は「85%安価でほぼ同等の性能」だったとする。",
+      "insight": "コスト膨張の主因は「全タスクを最新・最上位モデルに投げる」既定動作。個人向けでも、用途別にモデルを使い分けるルールを先に決めるだけで効果が出る。",
+      "meta": ["R&D予算比 40%→15%", "7月消費 6,000億トークン／費用は4月比37%", "上位10〜15%の従業員がコストの60%"],
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/"
+    },
+    {
+      "sec": "業務活用術",
+      "badges": ["new"],
+      "title": "暗号化された思考過程が復号可能と判明、公開リポジトリから認証情報182件を復元",
+      "summary": "8月11日に公開されたプレプリント「Stealing Reasoning Traces from Proprietary LLM APIs」で、Anthropic・OpenAI・Googleが返す暗号化reasoningブロックが、同一プロバイダ内ならセッション・アカウント・モデルをまたいで復号・再利用できることが示された。公開リポジトリから抽出した315,320件のブロックから、個人情報367件と認証情報182件を復元。さらに同系列の下位モデルが上位モデルの暗号化reasoningを平文出力でき、上位モデルの拒否を迂回できるという。脆弱性自体は5〜6月に独立研究者が指摘していたが、公表時点で構造的な修正は未適用。",
+      "insight": "エージェントのセッションログやトレースをGitHub等に上げている場合は即確認が要る。当面は「暗号化reasoning＝可読」と見なして、公開済みの成果物を棚卸しするのが安全側。",
+      "meta": ["抽出 315,320ブロック", "復元 個人情報367件・認証情報182件", "arXiv 2608.09867"],
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2608.09867"
+    }
+  ],
+  "weekly": [
+    "Anthropicがビットコイン採掘のRiotと20年・191MW・91億ドルの計算契約。計算資源の調達先がクラウド3社から電力保有事業者へ拡大",
+    "OpenAIがGPT-5.6-Cyberを審査付きで提供開始（高度要求への応答率95.0%）。攻撃側能力を持つモデルを「拒否」ではなく「身元確認と利用審査」で扱う方向へ",
+    "暗号化reasoningの復号攻撃がAnthropic・OpenAI・Googleの3社横断で成立。公開リポジトリから認証情報182件が復元され、ログ公開の運用見直しが急務",
+    "NVIDIAがNemotron 3.5 Lightning（30B MoE）とルーティング基盤Switchyardを公開。最上位モデル一択からの脱却をベンダー自身が製品化",
+    "Ripplingの事例：AIトークン費がR&D予算の40%まで膨張し、用途別のモデル振り分けで15%へ圧縮。原因は「全部を最新・最上位モデルへ」の既定動作"
+  ]
+}
