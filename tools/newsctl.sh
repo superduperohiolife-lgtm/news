@@ -41,7 +41,7 @@ cmd_status() {
   echo "branch : $(git -C "$REPO_DIR" rev-parse --abbrev-ref HEAD 2>/dev/null)"
   echo "today  : $d (JST)"
   local n=0
-  for c in econ ai auto; do
+  for c in general life work; do
     if [ -f "$DATA_DIR/$c-news-$d.json" ]; then
       echo "  [o] $c-news-$d.json"
       n=$((n+1))
@@ -52,6 +52,46 @@ cmd_status() {
   echo "today_json_count=$n"
   echo "data_files=$(ls -1 "$DATA_DIR"/*.json 2>/dev/null | wc -l)"
   [ "$n" -gt 0 ]
+}
+
+# 直近の過去掲載日の見出し一覧を出力する（重複判定・続報判定の材料）。
+# 使い方: newsctl.sh prev [general|life|work]  … 省略時は全カテゴリ
+cmd_prev() {
+  local want="${1:-}"
+  python3 - "$DATA_DIR" "$want" <<'PY'
+import sys, os, re, json, glob, subprocess
+data_dir, want = sys.argv[1], (sys.argv[2] if len(sys.argv) > 2 else "")
+today = subprocess.run(["date", "+%F"], env={**os.environ, "TZ": "Asia/Tokyo"},
+                       capture_output=True, text=True).stdout.strip()
+CATS = {"general-news": "general", "life-news": "life", "work-news": "work",
+        "econ-news": "work", "ai-news": "work", "auto-news": "work"}
+byday = {}
+for p in glob.glob(os.path.join(data_dir, "*-news-*.json")):
+    b = os.path.basename(p)
+    m = re.match(r"^(.+)-news-(\d{4}-\d{2}-\d{2})\.json$", b)
+    if not m:
+        continue
+    ck = CATS.get(m.group(1) + "-news")
+    d = m.group(2)
+    if not ck or d >= today:
+        continue
+    byday.setdefault(d, []).append((ck, p))
+if not byday:
+    print("[prev] 過去データなし")
+    sys.exit(0)
+d = max(byday)
+print("[prev] 直近掲載日: %s" % d)
+for ck, p in sorted(byday[d]):
+    if want and ck != want:
+        continue
+    try:
+        j = json.load(open(p, encoding="utf-8"))
+    except Exception:
+        continue
+    for a in j.get("articles", []):
+        f = a.get("field", "")
+        print("  - [%s%s] %s" % (ck, ("/" + f) if f else "", a.get("title", "")))
+PY
 }
 
 cmd_pull() {
@@ -152,9 +192,10 @@ cmd_publish() {
 case "${1:-}" in
   status)  cmd_status ;;
   pull)    cmd_pull ;;
+  prev)    shift; cmd_prev "${1:-}" ;;
   add)     shift; cmd_add "$@" ;;
   sync)    cmd_sync ;;
   build)   cmd_build ;;
   publish) cmd_publish ;;
-  *) echo "usage: $0 {status|pull|add <json>...|sync|build|publish}" >&2; exit 64 ;;
+  *) echo "usage: $0 {status|pull|prev [cat]|add <json>...|sync|build|publish}" >&2; exit 64 ;;
 esac
