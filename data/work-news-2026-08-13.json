@@ -5,86 +5,18 @@
   "articles": [
     {
       "rank": 1,
-      "field": "econ",
-      "sec": "マクロ指標・中央銀行",
-      "badges": ["us"],
-      "title": "米7月CPIは+3.4%で市場予想と一致、9月据え置き確率が64%へ上昇",
-      "summary": "米労働統計局が8/12に発表した7月CPIは前月比+0.1%、前年比+3.4%（6月は+3.5%）。コアは前月比+0.2%、前年比+2.5%でいずれも予想通り。月次上昇の約3分の2を住居費が占め、エネルギーは前月比-1.5%ながら前年比では+14.7%と高止まり。CME FedWatchでは9月会合の据え置き確率が発表前の52%から64%へ上昇した。",
-      "insight": "予想一致でも据え置きに傾いたのは7月雇用の2.3万人減と合わせ読まれたため。ただし3.4%は目標を大きく上回り、利上げシナリオが消えたわけではない。",
-      "meta": ["ヘッドライン +3.4%", "コア +2.5%", "9月据え置き 52%→64%"],
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
-      "followup": {
-        "since": "2026-08-12",
-        "whatsNew": "前日は「予想+3.4%／コア+2.5%」の段階だったが実績が予想と完全一致で確定し、9月据え置き確率が12ポイント上昇した。"
-      }
-    },
-    {
-      "rank": 2,
       "field": "india",
       "sec": "経営・ガバナンス",
       "badges": [],
       "title": "タタ・サンズのシャンドラセカラン会長が辞任表明、グループ株が一斉安",
-      "summary": "タタ・サンズ会長のN・シャンドラセカラン氏が8/12、再任を求めない意向を表明。任期満了は2027年2月20日だが、8月18日のAGMを前に取締役会で再任合意が得られなかったことが理由とされる。2025年9月に指名委員会が5年の任期延長を支持したものの、2026年2月の取締役会で異議が出て棚上げとなっていた。同氏は後任候補から自らを外し、速やかな後継選定プロセス開始を求めた。",
+      "summary": "タタ・サンズ会長のN・シャンドラセカラン氏が8/12、再任を求めない意向を表明した。任期満了は2027年2月20日だが、8月18日のAGMを前に取締役会で再任合意が得られなかったことが理由とされる。2025年9月に指名委員会が5年の任期延長を支持したものの、2026年2月の取締役会で異議が出て棚上げとなっていた。同氏は後任候補から自らを外し、速やかな後継選定プロセス開始を求めた。8/12のTCS株は3.93%安。",
       "insight": "2016年のミストリー解任以来10年ぶりのトップ交代局面。タタ・サンズ上場の可否や取締役会構成をめぐるトラスト側との対立が背景と報じられ、TCS・タタ・モーターズなど上場子会社の資本政策にも波及しうる。",
       "meta": ["任期満了 2027/2/20", "AGM 8/18", "TCS -3.93%（8/12）"],
       "source": "Business Standard",
       "sourceUrl": "https://www.business-standard.com/companies/news/n-chandrasekaran-resigns-tata-sons-chairman-succession-process-126081200693_1.html"
     },
     {
-      "rank": 3,
-      "field": "econ",
-      "sec": "市場（日本株）",
-      "badges": ["jp"],
-      "title": "日経平均は3日続伸、8/13終値6万8495円で6万8000円台を回復",
-      "summary": "8/13の東京市場で日経平均は前日比+970.94円（+1.44%）の68,495.00円と3日続伸（Trading Economics、8/13時点）。前引けは+1,085円の6万8,609円で、寄り付き後には一時1,200円超上昇した。米CPI通過によるFRB利上げ観測の後退を追い風に、AI・半導体関連と銀行株が主導。8/12の終値は67,524.06円（+553.84円）だった。",
-      "insight": "米金利低下観測に加え159円台の円安が輸出・半導体株の追い風。日銀9月利上げ観測下でも銀行株が買われる構図。",
-      "meta": ["8/13終値 68,495.00円", "+970.94円（+1.44%）", "3日続伸"],
-      "source": "Trading Economics",
-      "sourceUrl": "https://tradingeconomics.com/japan/stock-market",
-      "followup": {
-        "since": "2026-08-12",
-        "whatsNew": "前日の「6万6000円台・夜間先物440円安」から一転、8/12・8/13の2日で約3,000円上昇し6万8000円台を回復した。"
-      }
-    },
-    {
-      "rank": 4,
-      "field": "auto",
-      "sec": "品質・リコール",
-      "badges": ["us", "jp"],
-      "title": "トヨタ、米国でカムリHV 50万8354台をリコール メーター表示不良",
-      "summary": "NHTSAへの届出によると、対象は2025・2026年式カムリ ハイブリッドの一部で計508,354台。始動時にインストルメントクラスタの表示が立ち上がらず、ハザード・ウインカーの作動表示、シートベルト警告、スマートキーのリマインダーなど安全関連の情報表示が無効になる恐れがある。対応は販売店でのディスプレイ用ソフトウェアの無償アップデート。",
-      "insight": "ハード交換不要の表示系ソフト起因でありながら50万台規模。車載ソフトの検証負荷がリコール件数を押し上げる構図が続く。",
-      "meta": ["対象 508,354台", "2025-26年式カムリHV", "無償ソフト更新"],
-      "source": "Claims Journal（Reuters配信）",
-      "sourceUrl": "https://www.claimsjournal.com/news/national/2026/08/12/339443.htm"
-    },
-    {
-      "rank": 5,
-      "field": "AI",
-      "sec": "資金調達",
-      "badges": ["us"],
-      "title": "AIコーディングのCognition、評価額400億ドルでの追加調達を協議か",
-      "summary": "Bloomberg報道をTechCrunchが8/12に伝えたもの。2026年5月に評価額260億ドルで10億ドルを調達したばかりで、わずか3か月での再ラウンド協議となる。ARRが5月時点の4.92億ドルから10億ドルに到達したことが400億ドルという評価額の根拠とされる。エンタープライズ利用は前月比50%増で、顧客にメルセデス・ベンツ、NASA、ゴールドマン・サックス。製品はコーディングエージェント「Devin」。",
-      "insight": "コーディングエージェントはデモからARR10億ドル級の実業へ移行し、評価倍率よりも売上成長速度が値付けを決める局面に入った。",
-      "meta": ["評価額 $40B", "ARR $1B", "3か月で1.5倍"],
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/"
-    },
-    {
-      "rank": 6,
-      "field": "econ",
-      "sec": "マクロ指標・中央銀行",
-      "badges": ["jp"],
-      "title": "日本の7月企業物価は+7.2%、2カ月連続7%台で9月利上げ観測を後押し",
-      "summary": "日銀が8/13に発表した7月の国内企業物価指数は前年比+7.2%（6月+7.3%、市場予想+7.4%）で2カ月連続の7%超、前月比は+0.1%。非鉄金属が前年比+40.6%、円安を反映した輸入物価指数は同+29.1%と押し上げ要因になった。エコノミストは9月17〜18日会合で政策金利を1.0%から1.25%へ引き上げると予想している。",
-      "insight": "予想はわずかに下回ったが、中東情勢による原油高で再加速の余地があり、日銀のインフレ上振れ警戒を裏付ける材料。",
-      "meta": ["前年比 +7.2%（予想+7.4%）", "輸入物価 +29.1%", "9月会合 1.0%→1.25%予想"],
-      "source": "ロイター",
-      "sourceUrl": "https://finance.yahoo.com/economy/policy/articles/japans-wholesale-inflation-spikes-july-000616602.html"
-    },
-    {
-      "rank": 7,
+      "rank": 2,
       "field": "ad",
       "sec": "ロボタクシー・商用化",
       "badges": ["us"],
@@ -96,35 +28,31 @@
       "sourceUrl": "https://www.fox5vegas.com/2026/08/11/zoox-begins-charging-robotaxi-rides-las-vegas-more-autonomous-vehicle-companies-look-move-traditional-driver-moves-out/"
     },
     {
-      "rank": 8,
-      "field": "econ",
-      "sec": "決算",
+      "rank": 3,
+      "field": "AI",
+      "sec": "資金調達",
       "badges": ["us"],
-      "title": "AIインフラ決算が急伸、CoreWeave+17%・スーパーマイクロ+13%",
-      "summary": "8/12の米国市場でAIインフラ関連が軒並み急騰。CoreWeaveが+17.43%、Nebius Groupが+20.94%、Super Micro Computerが+12.85%、光通信部品のLumentumが+14%、エヌビディアが+3%上昇した。CoreWeaveは受注残高の急増と需要加速を示す四半期決算、スーパーマイクロは第4四半期の利益が予想を上回り強気ガイダンスを提示。今四半期は決算発表済みS&P500企業の87%が市場予想を上回っている。",
-      "insight": "「AI投資減速」懸念の火消し役となり、8/11のアルファベット3.4%安の流れを反転させた。次の焦点はエヌビディア決算。",
-      "meta": ["8/12終値ベース", "CoreWeave +17.4%", "S&P500企業の87%が予想超え"],
-      "source": "Yahoo Finance",
-      "sourceUrl": "https://finance.yahoo.com/markets/article/ai-infrastructure-stocks-surge-after-strong-earnings-from-coreweave-supermicro-142304399.html"
+      "title": "AIコーディングのCognition、評価額400億ドルでの追加調達を協議か",
+      "summary": "Bloomberg報道をTechCrunchが8/12に伝えたもの。2026年5月に評価額260億ドルで10億ドルを調達したばかりで、わずか3か月での再ラウンド協議となる。ARRが5月時点の4.92億ドルから10億ドルに到達したことが400億ドルという評価額の根拠とされる。エンタープライズ利用は前月比50%増で、顧客にメルセデス・ベンツ、NASA、ゴールドマン・サックス。製品はコーディングエージェント「Devin」。",
+      "insight": "コーディングエージェントはデモからARR10億ドル級の実業へ移行し、評価倍率よりも売上成長速度が値付けを決める局面に入った。",
+      "meta": ["評価額 $40B", "ARR $1B", "3か月で1.5倍"],
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/"
     },
     {
-      "rank": 9,
+      "rank": 4,
       "field": "econ",
-      "sec": "市場（為替）",
-      "badges": ["us", "jp"],
-      "title": "ドル円は159円台へ円安進行、介入前水準の半値戻しを達成",
-      "summary": "ドル円は8/12に159.42前後で引け、8/13朝の東京時間も159円台半ばで推移（8/13 8時台時点）。7月30日〜8月3日の日米協調介入による下落幅の50%戻しにあたる159.48を達成し、次の目標は61.8%戻しの160〜165円圏とされる。米CPI発表直後は円高に振れたものの一時的で、日米金利差縮小観測にもかかわらず円買いは限定的だった。",
-      "insight": "「FRB据え置き＋日銀利上げ」でも円が買われない構図は、金利差以外の構造要因が主導している証左。介入効果の減衰は再介入圧力を高める。",
-      "meta": ["8/12終値 159.42前後", "8/13朝 159円台半ば", "介入分の半値戻し"],
-      "source": "外為どっとコム",
-      "sourceUrl": "https://www.gaitame.com/media/entry/2026/08/13/081204",
-      "followup": {
-        "since": "2026-08-12",
-        "whatsNew": "前日の「157円台」から約2円の円安が進み、7/31の日米協調介入による円高分の半分を消した。"
-      }
+      "sec": "マクロ指標・中央銀行",
+      "badges": ["jp"],
+      "title": "日本の7月企業物価は+7.2%、2カ月連続7%台で9月利上げ観測を後押し",
+      "summary": "日銀が8/13に発表した7月の国内企業物価指数は前年比+7.2%（6月+7.3%、市場予想+7.4%）で2カ月連続の7%超、前月比は+0.1%。非鉄金属が前年比+40.6%、円安を反映した輸入物価指数は同+29.1%と押し上げ要因になった。エコノミストは9月17〜18日会合で政策金利を1.0%から1.25%へ引き上げると予想している。",
+      "insight": "予想はわずかに下回ったが、中東情勢による原油高で再加速の余地があり、日銀のインフレ上振れ警戒を裏付ける材料。",
+      "meta": ["前年比 +7.2%（予想+7.4%）", "輸入物価 +29.1%", "9月会合 1.0%→1.25%予想"],
+      "source": "ロイター",
+      "sourceUrl": "https://finance.yahoo.com/economy/policy/articles/japans-wholesale-inflation-spikes-july-000616602.html"
     },
     {
-      "rank": 10,
+      "rank": 5,
       "field": "AI",
       "sec": "規制",
       "badges": [],
@@ -136,43 +64,31 @@
       "sourceUrl": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/"
     },
     {
-      "rank": 11,
+      "rank": 6,
       "field": "AI",
       "sec": "規制",
       "badges": ["us"],
       "title": "Amazon、Twitch配信者のコンテンツを既定でAI学習に利用 オプトアウト方式",
-      "summary": "配信アーカイブの音声・映像（数千時間規模）を生成AIの学習に既定で使用する方針を8/12に発表。配信者はチャンネル設定→セキュリティとプライバシー→「training for generative AI」から手動で無効化する必要がある。Twitchの最高製品責任者Mike Minton氏は「オプトインにしたら誰もオプトインしない」と発言し、コミュニティから強い反発が出た。",
+      "summary": "配信アーカイブの音声・映像（数千時間規模）を生成AIの学習に既定で使用する方針を8/12に発表した。配信者はチャンネル設定→セキュリティとプライバシー→「training for generative AI」から手動で無効化する必要がある。Twitchの最高製品責任者Mike Minton氏は「オプトインにしたら誰もオプトインしない」と発言し、コミュニティから強い反発が出た。",
       "insight": "学習データ枯渇を背景に、プラットフォームが保有するUGCの「既定利用」へ踏み込んだ事例。同意設定の発見しにくさ自体が今後の規制論点になる。",
       "meta": ["既定ON／オプトアウト", "音声・映像 数千時間", "設定は3階層下"],
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/"
     },
     {
-      "rank": 12,
+      "rank": 7,
       "field": "india",
       "sec": "経済・インフレ",
       "badges": [],
       "title": "インド7月CPIは4.45%と19か月ぶり高水準、RBIの利上げ観測が浮上",
-      "summary": "統計局（NSO）が8/12に公表した7月CPI上昇率は前年比4.45%で19か月ぶりの高水準。ロイター予想4.5%はわずかに下回ったが、RBIの中期目標4%を2か月連続で上回った（許容レンジ2〜6%内）。食品インフレは6月の5.32%から5.52%へ加速し、弱いモンスーンを背景に生姜・にんにく・玉ねぎが大幅上昇。コアCPIは3.9%、輸送は4.43%で原油高が波及している。",
+      "summary": "統計局（NSO）が8/12に公表した7月CPI上昇率は前年比4.45%で19か月ぶりの高水準となった。ロイター予想4.5%はわずかに下回ったが、RBIの中期目標4%を2か月連続で上回った（許容レンジ2〜6%内）。食品インフレは6月の5.32%から5.52%へ加速し、弱いモンスーンを背景に生姜・にんにく・玉ねぎが大幅上昇。コアCPIは3.9%、輸送は4.43%で原油高が波及している。",
       "insight": "RBIレポ金利は8/5会合で4会合連続の5.25%据え置き。市場では10月7日会合は据え置き、12月に25bp利上げの可能性が指摘されている。",
       "meta": ["CPI +4.45%（7月）", "食品 +5.52%", "レポ金利 5.25%"],
       "source": "Business Standard",
       "sourceUrl": "https://www.business-standard.com/amp/economy/news/india-s-inflation-rises-to-4-45-but-unlikely-to-shift-rbi-rate-outlook-126081201381_1.html"
     },
     {
-      "rank": 13,
-      "field": "AI",
-      "sec": "資金調達",
-      "badges": ["us"],
-      "title": "OpenAI出資のThrive Holdings、20億ドルを調達 評価額120億ドル",
-      "summary": "SoftBank、D1 Capital Partners、Altimeter Capitalが主導。既存の伝統的企業を買収してAIを業務に組み込む「AI版プライベートエクイティ」型モデルで、プラットフォーム上に70社超を保有する。会計領域の「Current」に50社以上、ITサービスの「Shield」に約20社。TaxAIが7,000件超の税務申告を精度98%で処理し準備時間を30%以上削減したとする。OpenAIは2025年12月に出資済み。",
-      "insight": "「AIを売る」のではなく「AIで原価を下げた事業を保有する」ロールアップ型。SIerや士業の再編モデルになりうる。",
-      "meta": ["調達 $2B／評価額 $12B", "保有70社超", "申告7,000件・精度98%"],
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/"
-    },
-    {
-      "rank": 14,
+      "rank": 8,
       "field": "auto",
       "sec": "調達・財務",
       "badges": ["us"],
@@ -184,19 +100,47 @@
       "sourceUrl": "https://gmauthority.com/blog/2026/08/gm-reaches-auto-parts-supply-deal-worth-up-to-4-5b/"
     },
     {
-      "rank": 15,
+      "rank": 9,
+      "field": "AI",
+      "sec": "資金調達",
+      "badges": ["us"],
+      "title": "OpenAI出資のThrive Holdings、20億ドルを調達 評価額120億ドル",
+      "summary": "SoftBank、D1 Capital Partners、Altimeter Capitalが主導した。既存の伝統的企業を買収してAIを業務に組み込む「AI版プライベートエクイティ」型モデルで、プラットフォーム上に70社超を保有する。会計領域の「Current」に50社以上、ITサービスの「Shield」に約20社。TaxAIが7,000件超の税務申告を精度98%で処理し準備時間を30%以上削減したとする。OpenAIは2025年12月に出資済み。",
+      "insight": "「AIを売る」のではなく「AIで原価を下げた事業を保有する」ロールアップ型。SIerや士業の再編モデルになりうる。",
+      "meta": ["調達 $2B／評価額 $12B", "保有70社超", "申告7,000件・精度98%"],
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/"
+    },
+    {
+      "rank": 10,
+      "field": "econ",
+      "sec": "通商・地政学",
+      "badges": ["us"],
+      "title": "ホルムズ海峡の通航が3カ月ぶり低水準、米イラン交渉は未合意",
+      "summary": "8/12までの5日間平均でホルムズ海峡の船舶通航は1日約13隻と、5月12日以来の低水準に接近した。2月28日の米・イスラエルによるイラン攻撃前の1日平均130隻から約90%減の状態が続く。海峡経由の原油輸出は7日平均で日量約900万バレル、パイプラインを含む湾岸諸国全体では約1,500万バレル（紛争前は約2,000万バレル）。イラン側は米国が要求を受け入れるまで全面再開しないとしている。",
+      "insight": "「合意近い」との発言が原油を下押ししたが、実データは正常化どころか悪化。期待と実態の乖離が原油の高ボラティリティ要因になっている。",
+      "meta": ["5日平均 13隻/日", "紛争前比 -90%", "海峡経由原油 日量約900万バレル"],
+      "source": "CNBC",
+      "sourceUrl": "https://uk.finance.yahoo.com/news/ship-traffic-strait-hormuz-near-180011589.html",
+      "followup": {
+        "since": "2026-08-12",
+        "whatsNew": "前日の「ホルムズ交渉は最終段階」との報道に対し、通航量が3カ月ぶり低水準へ悪化しイラン側が全面再開を拒否している実態が数値で判明した。"
+      }
+    },
+    {
+      "rank": 11,
       "field": "AI",
       "sec": "モデル・製品",
       "badges": ["us"],
       "title": "Google、Made by Google '26でPixel 11とGemini新機能を発表",
-      "summary": "8/12開催のハードウェアイベントでPixel 11シリーズ、Pixel Watch 5、追跡タグPixel Tagを発表。Gemini関連では、Live Transcribeがアメリカ手話（ASL）の翻訳に対応しPixelカメラ経由で手話をテキスト化、話し言葉の言い淀みや冗長な文を処理する音声入力「Rambler」、Pixelカメラから直接起動できるCircle to Searchを追加した。Pixel Tagは単体29ドル、4個パック99ドル。",
-      "insight": "モデル世代の刷新ではなく「アクセシビリティ×入力体験」でのGemini差別化に軸足。搭載モデルの版数やオンデバイス処理の別は明示されていない（要確認）。",
+      "summary": "8/12開催のハードウェアイベントでPixel 11シリーズ、Pixel Watch 5、追跡タグPixel Tagを発表した。Gemini関連では、Live Transcribeがアメリカ手話（ASL）の翻訳に対応しPixelカメラ経由で手話をテキスト化、話し言葉の言い淀みや冗長な文を処理する音声入力「Rambler」、Pixelカメラから直接起動できるCircle to Searchを追加。Pixel Tagは単体29ドル、4個パック99ドル。",
+      "insight": "モデル世代の刷新ではなく「アクセシビリティ×入力体験」でのGemini差別化に軸足。搭載モデルの版数やオンデバイス処理の別は発表資料に明示なし（要確認）。",
       "meta": ["Pixel Tag $29／4個 $99", "ASL翻訳対応", "音声入力 Rambler"],
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/"
     },
     {
-      "rank": 16,
+      "rank": 12,
       "field": "ad",
       "sec": "中国勢・決算",
       "badges": [],
@@ -208,31 +152,19 @@
       "sourceUrl": "https://www.globenewswire.com/news-release/2026/08/12/3343512/0/en/accelerating-european-expansion-through-proven-asset-light-model-driving-rapid-overseas-revenue-growth-2q2026-total-revenue-reached-rmb231-7-million-up-82-2-year-over-year.html"
     },
     {
-      "rank": 17,
-      "field": "ad",
-      "sec": "日本・実証",
-      "badges": ["jp"],
-      "title": "NTTグループ3社、名古屋都心でレベル4オンデマンド実証を9月11日開始",
-      "summary": "8/12発表。NTTドコモビジネス・NTTモビリティ・NTTドコモの3社が、May Mobilityの自動運転ソフトを用いてドライバー不要のレベル4運行とオンデマンド配車を組み合わせた実証を行う。期間は2026年9月11日〜2027年3月19日の平日、車両3台、名古屋駅・スパイラルタワーズ・名古屋市科学館など5カ所の乗降地点を設定する。無人時の乗客対応としてAI会話キャラクターを搭載する。",
-      "insight": "都心部・平日・半年間という条件設定は、限定エリア短期実証から一段進んだ運用検証。May Mobilityソフト採用は日本市場での米国スタック実運用事例として注目。",
-      "meta": ["車両3台・乗降5地点", "2026/9/11〜2027/3/19", "May Mobility製ソフト"],
-      "source": "レスポンス",
-      "sourceUrl": "https://response.jp/article/2026/08/12/415198.html"
-    },
-    {
-      "rank": 18,
+      "rank": 13,
       "field": "india",
-      "sec": "自動車・市場",
-      "badges": ["jp"],
-      "title": "インド新車小売、7月は過去最高の259万台 乗用車が初の40万台超",
-      "summary": "ディーラー協会FADAが8/10に公表した7月の新車小売販売は2,591,138台で前年同月比+25.89%と月間の過去最高を記録。乗用車は416,555台（+19.13%）で初めて40万台を突破し、二輪1,818,289台（+28.25%）、商用車99,666台（+24.04%）と主要6カテゴリすべてが7月として過去最高となった。乗用車のメーカー別はマルチ・スズキ161,873台（シェア38.9%）が首位、トヨタ・キルロスカは29,443台で5位。EVは全カテゴリ計327,901台（+66%）。",
-      "insight": "GST率合理化・所得税減税・新型車投入が需要を押し上げたと分析される。9月からの祭事シーズンに向け在庫積み増しが進む局面で、日系はマルチ・スズキが約4割シェアを維持。",
-      "meta": ["小売 2,591,138台（+25.9%）", "乗用車 416,555台", "EV浸透率 12%超"],
-      "source": "AutoPunditz（FADAデータ）",
-      "sourceUrl": "https://www.autopunditz.com/post/india-auto-retail-sales-july-2026-fada-record-25-lakh"
+      "sec": "自動車・決算",
+      "badges": [],
+      "title": "タタ・モーターズ（商用車）Q1純利益83%増、原材料高でマージンは低下",
+      "summary": "分割後の商用車会社タタ・モーターズが8/12にQ1 FY27（4〜6月期）決算を発表した。連結税引後利益は前年同期比83%増の約2,600クロー（媒体により2,556〜2,600クローと幅あり）。CV単体売上高は23%増の19,329クロー、税引前利益（特別項目前）は26%増の2,057クロー。単体EBITDAマージンは11.7%（前年同期12.3%）と原材料インフレで低下した。総卸売台数は108,700台（+26%）、VAHANベースの国内シェアは36.8%。",
+      "insight": "電動小型商用車は5〜6月に構成比約10%と過去最高。増益の一方でマージン圧縮が進んでおり、コモディティ高が続けば下期の利益率が焦点。",
+      "meta": ["純利益 +83%", "卸売 108,700台（+26%）", "国内シェア 36.8%"],
+      "source": "Autocar Professional",
+      "sourceUrl": "https://www.autocarpro.in/news/tata-motors-commercial-vehicles-net-profit-rises-83-percent-in-q1-fy27-134067"
     },
     {
-      "rank": 19,
+      "rank": 14,
       "field": "auto",
       "sec": "生産・販売",
       "badges": ["us"],
@@ -244,7 +176,7 @@
       "sourceUrl": "https://www.coxautoinc.com/insights/july-2026-atp-report/"
     },
     {
-      "rank": 20,
+      "rank": 15,
       "field": "auto",
       "sec": "生産・工場",
       "badges": ["jp"],
@@ -254,11 +186,71 @@
       "meta": ["出火 8/11 21:35頃", "けが人・設備被害なし", "生産・出荷影響は調査中"],
       "source": "大同特殊鋼",
       "sourceUrl": "https://www.daido.co.jp/common/pdf/pages/info/260812_chita.pdf"
+    },
+    {
+      "rank": 16,
+      "field": "ad",
+      "sec": "L2+〜L4認可・実証",
+      "badges": [],
+      "title": "Wayve×Uberのロンドン計画にTfLがPHVライセンス交付、安全ドライバーは継続",
+      "summary": "8/6、ロンドン交通局（TfL）がWayveの自動運転改造車（フォード マスタング Mach-E）に対しPrivate Hire Vehicle（PHV）ライセンスを交付した。車両はWayveのAI Driverに加えサラウンドビューカメラとレーダーを搭載する。ただし現時点ではTfL認可の訓練済み安全ドライバーの同乗が必須で、包括的な安全性実証と運行免許という追加ハードルが残る。Uberの待機リストには直近8週間で10万人超が登録した。",
+      "insight": "「車両登録」は通ったが「無人運行」は未認可という段階分離が明確。英国の段階的認可プロセスは各国が採る典型モデルになる可能性がある。",
+      "meta": ["PHVライセンス交付", "安全ドライバー同乗必須", "待機リスト 10万人超"],
+      "source": "electrive.com",
+      "sourceUrl": "https://www.electrive.com/2026/08/06/wayve-and-ubers-london-robotaxi-project-passes-key-hurdle/"
+    },
+    {
+      "rank": 17,
+      "field": "india",
+      "sec": "自動車・市場",
+      "badges": ["jp"],
+      "title": "インド新車小売、7月は過去最高の259万台 乗用車が初の40万台超",
+      "summary": "ディーラー協会FADAが8/10に公表した7月の新車小売販売は2,591,138台で前年同月比+25.89%と月間の過去最高を記録した。乗用車は416,555台（+19.13%）で初めて40万台を突破し、二輪1,818,289台（+28.25%）、商用車99,666台（+24.04%）と主要6カテゴリすべてが7月として過去最高となった。乗用車のメーカー別はマルチ・スズキ161,873台（シェア38.9%）が首位、トヨタ・キルロスカは29,443台で5位。EVは全カテゴリ計327,901台（+66%）。",
+      "insight": "GST率合理化・所得税減税・新型車投入が需要を押し上げたと分析される。9月からの祭事シーズンに向け在庫積み増しが進む局面で、日系はマルチ・スズキが約4割シェアを維持。",
+      "meta": ["小売 2,591,138台（+25.9%）", "乗用車 416,555台", "EV浸透率 12%超"],
+      "source": "AutoPunditz（FADAデータ）",
+      "sourceUrl": "https://www.autopunditz.com/post/india-auto-retail-sales-july-2026-fada-record-25-lakh"
+    },
+    {
+      "rank": 18,
+      "field": "econ",
+      "sec": "M&A",
+      "badges": ["us"],
+      "title": "ウェンディーズにペルツ氏主導の非公開化提案観測、株価15%高",
+      "summary": "ロイターは8/12、ネルソン・ペルツ氏率いるTrian Fund ManagementがBlueFive Capital、Flynn Groupと組んでウェンディーズを非公開化する買収提案を準備していると報じた。ペルツ氏はウェンディーズ株の16.24%を保有する。報道を受け株価は8/12午前の取引で15%急伸し、時価総額は約14.4億ドル。同社は「Trianからの提案があれば受託者責任に沿って徹底的に検討する」とコメントした。ペルツ氏は2022年にも買収を試みている。",
+      "insight": "外食チェーンのバリュエーション低下を突いたアクティビストによる非公開化案件。成立すれば同業界の再編観測に波及しうる。",
+      "meta": ["Trian保有 16.24%", "株価 +15%（8/12）", "時価総額 約$1.44B"],
+      "source": "Reuters（QSR Web経由）",
+      "sourceUrl": "https://www.qsrweb.com/news/wendys-shares-surge-15-as-investor-group-explores-takeover-bid/"
+    },
+    {
+      "rank": 19,
+      "field": "auto",
+      "sec": "新車・EV",
+      "badges": ["us"],
+      "title": "起亜、2027年型EV3の米国価格を発表 廉価グレードは2万9890ドル",
+      "summary": "起亜が米国向け2027年型EV3の価格を公表した。エントリーのLight FWDが29,890ドル（別途送料1,495ドル）、Wind FWD 34,990ドル、Land AWD 41,690ドル、最上位GT AWDが45,890ドル。EPA航続はエントリーが221マイル、大容量電池を積む中位以上が321マイル。",
+      "insight": "連邦EV税額控除の縮小後を見据えた「素の価格」勝負。3万ドル割れの提示は米国の低価格EV帯の価格基準を再設定する動き。",
+      "meta": ["$29,890〜$45,890", "送料別 $1,495", "航続 221〜321マイル"],
+      "source": "Kia Media",
+      "sourceUrl": "https://www.kiamedia.com/us/en/media/pressreleases/25004/kia-announces-pricing-for-2027-ev3"
+    },
+    {
+      "rank": 20,
+      "field": "auto",
+      "sec": "新車",
+      "badges": ["us"],
+      "title": "フォード、2万5000ドルの新型SUVをディーラーに披露 2029年メキシコ生産",
+      "summary": "フォードがディーラー向け会合で、北米ラインアップ最安となる約25,000ドルの未発表クロスオーバーの初期モックアップとプロトタイプ映像を公開した。出席者によれば2029年にメキシコのエルモシージョ工場で生産予定で、ガソリンとハイブリッドを設定する。現行のマーベリック（28,145ドル）、エスケープ（30,350ドル）、ブロンコ スポーツ（31,845ドル）を下回る価格帯に入る。詳細スペックは未発表（要確認）。",
+      "insight": "EVではなくガソリン／HVで最廉価帯を埋める選択。エスケープ生産終了で空いた入門SUV枠を、関税環境下でもメキシコ生産で埋める判断が読み取れる。",
+      "meta": ["約 $25,000", "2029年・エルモシージョ工場", "ガソリン＋HV"],
+      "source": "Carscoops",
+      "sourceUrl": "https://www.carscoops.com/2026/08/ford-budget-suv-pricing/"
     }
   ],
   "weekly": [
-    "米7月CPIが+3.4%で予想と一致、9月据え置き確率が64%へ上昇し日経平均は6万8495円まで3日続伸",
     "タタ・サンズのシャンドラセカラン会長が辞任表明、10年ぶりのトップ交代局面でグループ株が一斉安",
-    "Zooxがラスベガスで有料ロボタクシーを開始、ハンドルなし車両による商用運行は全米初"
+    "Zooxがラスベガスで有料ロボタクシーを開始、ハンドルなし車両による商用運行は全米初",
+    "AIコーディングのCognitionが評価額400億ドルで調達協議、ARRは3か月で4.92億→10億ドル"
   ]
 }
