@@ -1,0 +1,135 @@
+{
+"date":"2026-08-14","sub":"金","cat":"work",
+"articles":[
+{"rank":1,"field":"econ","sec":"マクロ・中央銀行","badges":["us"],
+ "title":"米7月PPIは前月比横ばい、前年比+4.7% エネルギー下落がサービス上昇を相殺",
+ "summary":"米労働統計局が8/13に公表した7月の生産者物価指数（最終需要）は前月比で横ばい。未調整の前年比は+4.7%。エネルギー価格の下落がサービス価格の上昇を打ち消した。前日のCPI（前年比+3.4%）に続き市場予想を下回る内容で、9月利上げ観測の後退につながった。",
+ "insight":"CPI・PPIが2日連続で上振れを回避。年内1回の利下げを織り込む地合いが続く。",
+ "meta":["前月比 0.0%","前年比 +4.7%","発表 8/13"],
+ "source":"Quartz / BLS","sourceUrl":"https://qz.com/producer-price-index-july-2026-wholesale-inflation-081326"},
+
+{"rank":2,"field":"econ","sec":"市場","badges":["us"],
+ "title":"S&P500が終値で最高値更新、7801.84 ナスダックは+0.95%",
+ "summary":"8/13の米株はPPI鈍化を受け上昇。S&P500は53.34ポイント高（+0.69%）の7801.84で終値の最高値を更新した。ナスダック総合は251.65ポイント高（+0.95%）の26840.14、ダウ工業株30種は14.60ドル高（+0.03%）の53784.87とほぼ横ばい。新規失業保険申請は前週比で増加、継続受給は減少した。",
+ "meta":["S&P500 7801.84","NASDAQ 26840.14","DOW 53784.87"],
+ "source":"Yahoo Finance","sourceUrl":"https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-13-sp-500-record-high-nasdaq-dow-inflation-100145282.html",
+ "followup":{"since":"2026-08-13","whatsNew":"前日は7749.95で「最高値に接近」だったが、8/13終値で最高値を更新した。"}},
+
+{"rank":3,"field":"AI","sec":"企業・産業動向","badges":["us"],
+ "title":"Anthropic、動画生成のDecartを約60億ドルで買収交渉と報道",
+ "summary":"Anthropicがイスラエルのスタートアップ Decart を約60億ドルで買収する方向で協議していると8/13に報じられた。Decartは生成動画とGPU最適化を手がける。実現すればAnthropicにとって過去最大の買収となる。交渉は初期段階で、成立は未確定（要確認）。",
+ "insight":"テキスト中心のAnthropicが動画モダリティと推論最適化を同時に取り込む狙い。",
+ "meta":["買収額 約60億ドル(交渉中)","領域 生成動画・GPU最適化"],
+ "source":"Fortune","sourceUrl":"https://fortune.com/2026/08/13/anthropic-said-in-talks-to-buy-startup-decart-for-6-billion/"},
+
+{"rank":4,"field":"ad","sec":"ロボタクシー","badges":["us"],
+ "title":"Waymo、フェニックス圏のサービス範囲を55平方マイル拡大 合計350平方マイル超へ",
+ "summary":"Waymoは8/13、フェニックス都市圏の営業エリアを55平方マイル拡大したと発表。ギルバート市全域、チャンドラーの追加地区、サンタン・ランチが対象で、合計サービス面積は350平方マイル超になった。フェニックス・メサ・ゲートウェイ空港も近く追加予定。メサの車両拠点に近く、出庫から数分で乗客を拾える運用上の利点があるとしている。",
+ "meta":["拡大 55平方マイル","合計 350平方マイル超","発表 8/13"],
+ "source":"AZFamily","sourceUrl":"https://www.azfamily.com/2026/08/13/waymo-expands-service-by-55-square-miles-adding-gilbert-chandler-neighborhoods/"},
+
+{"rank":5,"field":"econ","sec":"決算","badges":["us"],
+ "title":"アプライドマテリアルズQ3は売上91.2億ドルで四半期最高、Q4は102.5億ドル見通し",
+ "summary":"半導体製造装置のアプライドマテリアルズは8/13引け後にFY2026第3四半期決算を発表。売上高は前年同期比25%増の91.2億ドルと四半期最高、GAAP EPSは3.17ドル（+43%）、非GAAP EPSは3.50ドル（+41%）。半導体システム部門が70.4億ドルでファウンドリ/ロジックが同部門の67%。第4四半期は売上102.5億ドル±5億ドル、非GAAP EPS 4.02ドル±0.20ドルを見込む。",
+ "insight":"2026暦年の半導体システム売上見通しを上方修正し、2027年も成長が続くとの見解を示した。",
+ "meta":["Q3売上 91.2億ドル(+25%)","非GAAP EPS 3.50ドル","Q4ガイド 102.5億ドル"],
+ "source":"StockTitan / Applied Materials IR","sourceUrl":"https://www.stocktitan.net/news/AMAT/applied-materials-announces-third-quarter-2026-eidtjhapaxsm.html"},
+
+{"rank":6,"field":"econ","sec":"決算","badges":["us"],
+ "title":"シスコ、四半期売上172.5億ドルで過去最高も株価は約9%安 利益率懸念",
+ "summary":"シスコのFY2026第4四半期は売上高172.5億ドルで市場予想を上回り、通期でも過去最高を記録。翌期ガイダンスも市場予想を上回ったが、8/13の株価は約9%下落した。AI需要による増収の一方、利益率の圧迫が嫌気された。",
+ "meta":["Q4売上 172.5億ドル","株価 約-9%(8/13)"],
+ "source":"CNBC","sourceUrl":"https://www.cnbc.com/2026/08/13/cisco-shares-slide-9percent-despite-earnings-beat-and-strong-guidance.html"},
+
+{"rank":7,"field":"AI","sec":"AIインフラ","badges":["us"],
+ "title":"データセンター専業のVantage、評価額約1000億ドルでのIPOを検討と報道",
+ "summary":"データセンター専業のVantage Data Centersが、評価額およそ1000億ドル、調達額約100億ドル規模のIPOを検討していると8/13に報じられた。AI向け計算需要の拡大を背景に、インフラ事業の上場としては最大級となる可能性がある。検討段階のため条件・時期は未確定（要確認）。",
+ "meta":["評価額 約1000億ドル(検討中)","調達 約100億ドル(検討中)"],
+ "source":"Tech Startups","sourceUrl":"https://techstartups.com/2026/08/13/top-tech-news-today-august-13-2026-anthropic-deepmind-google-lenovo-microsoft-spacexai-more/"},
+
+{"rank":8,"field":"AI","sec":"規制・ガバナンス","badges":["us"],
+ "title":"Google DeepMind、AGI安全性を扱う独立監視機関の設立を提唱",
+ "summary":"Google DeepMindが、AGIの安全性を業界横断で監督する独立機関の設立を提唱していると8/13に報じられた。国際原子力機関（IAEA）を参考にしたモデルで、他のAI研究機関や米政府関係者と初期段階の協議に入っているという。具体的な枠組み・参加企業は未定（要確認）。",
+ "insight":"EU AI法の透明性義務対応が進むなか、米国側は業界主導の自主監督枠組みを模索する構図。",
+ "source":"Tech Startups","sourceUrl":"https://techstartups.com/2026/08/13/top-tech-news-today-august-13-2026-anthropic-deepmind-google-lenovo-microsoft-spacexai-more/"},
+
+{"rank":9,"field":"ad","sec":"ロボタクシー","badges":["us"],
+ "title":"Waymo、メサ工場に専用ロボタクシー「Ojai」953台 うち684台が完成済み",
+ "summary":"アリゾナ州メサのWaymo工場で、専用設計ロボタクシー「Ojai」が953台確認され、うち684台が配備可能な完成状態にあると8/12に報じられた（空撮に基づく推計・要確認）。6月初旬の約500台から急増した計算。Ojaiは吉利（Zeekr）製の車体にMagnaが第6世代センサー（カメラ13台・LiDAR4基）を搭載する。ヒョンデ・IONIQ 5ベースの完成車12台も初めて確認された。",
+ "insight":"生産・改造がボトルネックでないことを示す在庫水準。週100万回（現状約50万回）という年内目標の実現性を左右するのは配備ペース。",
+ "meta":["Ojai 953台/完成684台(推計)","週間有料乗車 約50万回","年内目標 週100万回"],
+ "source":"Electrek","sourceUrl":"https://electrek.co/2026/08/12/waymo-ojai-robotaxis-arizona-factory/"},
+
+{"rank":10,"field":"auto","sec":"新型車・コンセプト","badges":["us","jp"],
+ "title":"アキュラ「NEXERA Vision」公開 次期RDXハイブリッドから量産デザインへ反映",
+ "summary":"ホンダの北米高級ブランド アキュラは、モントレー・カーウィークのThe Quailで次世代デザインを示すコンセプト「NEXERA Vision」を8/14に公開。マットチタン外装、バタフライドア、アキュラ初の22インチセンターロックホイール、ブレンボ製カーボンセラミックブレーキを採用。内装は再生アルミ、再生ポリエステル混のアルカンターラ、CircuLeatherなど再生材を使う。今後数年で登場する次期RDXハイブリッドを皮切りに量産車のデザインへ展開する。",
+ "meta":["公開 8/14 The Quail","反映第1弾 次期RDX HV"],
+ "source":"Acura News","sourceUrl":"https://acuranews.com/en-US/releases/acura-nexera-vision-debuts-at-monterey-car-week-redefining-the-future-of-acura-design",
+ "followup":{"since":"2026-08-13","whatsNew":"前日は「8/14公開予定」の予告のみだったが、車名「NEXERA Vision」と外内装の詳細、量産反映の第1弾が次期RDXハイブリッドであることが判明した。"}},
+
+{"rank":11,"field":"india","sec":"対印投資・AIインフラ","badges":[],
+ "title":"L&T、Together AI向けにチェンナイでAIデータセンター建設 Nvidia B300約1万基",
+ "summary":"インドの建設大手L&Tが、米Together AI向けにチェンナイのデータセンターキャンパスを整備する計画が8/13に報じられた。NvidiaのB300を約1万基導入する構想で、投資規模は1000億〜1500億ルピー（約15.7億ドル）とされる。インドを海外AI事業者の計算拠点として誘致する動きが具体化した形（詳細は要確認）。",
+ "meta":["GPU 約1万基(B300)","投資 約15.7億ドル","立地 チェンナイ"],
+ "source":"Tech Startups","sourceUrl":"https://techstartups.com/2026/08/13/top-tech-news-today-august-13-2026-anthropic-deepmind-google-lenovo-microsoft-spacexai-more/"},
+
+{"rank":12,"field":"econ","sec":"商品","badges":["us"],
+ "title":"金は1.24%安の4412.20ドル、原油も下落 米政権が「軍事より経済圧力」姿勢",
+ "summary":"8/13の商品市況は、金が1.24%安の1オンス4412.20ドル。原油はトランプ政権が地政学的緊張への対応で軍事行動より経済的圧力を優先する姿勢を示したことを受けて下落した。インフレ指標の鈍化と合わせ、リスク資産に資金が向かう構図となった。",
+ "meta":["金 4412.20ドル(-1.24%)","取得時点 8/13終値"],
+ "source":"Yahoo Finance","sourceUrl":"https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-13-sp-500-record-high-nasdaq-dow-inflation-100145282.html"},
+
+{"rank":13,"field":"AI","sec":"企業・産業動向","badges":[],
+ "title":"レノボ第1四半期は売上269億ドルで43%増、AI関連が売上の35%に",
+ "summary":"レノボの四半期決算は売上高269億ドルで前年同期比43%増。AI関連売上は60%成長し、全社売上に占める比率は35%に達した。AIサーバー・AI PCの需要拡大がハードウェア事業を押し上げている。",
+ "meta":["売上 269億ドル(+43%)","AI比率 35%"],
+ "source":"Tech Startups","sourceUrl":"https://techstartups.com/2026/08/13/top-tech-news-today-august-13-2026-anthropic-deepmind-google-lenovo-microsoft-spacexai-more/"},
+
+{"rank":14,"field":"auto","sec":"新型車・EV","badges":["us"],
+ "title":"ルシード、高性能SUV「Gravity Sapphire」を8/14ペブルビーチで公開",
+ "summary":"ルシードは高性能SUV「Gravity Sapphire」を8/14午後4時（PDT）にペブルビーチのConcours Villageで公開する。Air Sapphireと同じ3モーター構成が想定され、出力は約1234馬力と見込まれるが、正式なスペックと価格は公開時まで非開示（要確認）。手頃な価格帯のCosmosは2027年へ延期されており、高性能グレード先行の戦略が続く。",
+ "meta":["公開 8/14 16:00 PDT","想定出力 約1234hp(要確認)"],
+ "source":"autoevolution","sourceUrl":"https://www.autoevolution.com/news/lucid-motors-teases-gravity-sapphire-performance-suv-launching-at-monterey-car-week-274128.html"},
+
+{"rank":15,"field":"india","sec":"インド自動車市場","badges":[],
+ "title":"インドの7月EV乗用車販売は32,036台で前年比83%増 タタがシェア42.5%",
+ "summary":"インドの7月のEV乗用車登録は32,036台で前年同月（17,515台）比82.9%増。前月比では1.5%減とほぼ横ばいだった。タタ・モーターズが13,630台（シェア42.5%、前年比102.5%増）で首位、マヒンドラが7,710台（同24.1%）で2位に浮上、MGは5,665台（同17.7%）で3位。マルチ・スズキ（1,596台）とVinFast（1,480台）が上位5社に入った。",
+ "meta":["7月 32,036台(+82.9%)","タタ 42.5%","マヒンドラ 24.1%"],
+ "source":"Autopunditz","sourceUrl":"https://www.autopunditz.com/post/india-electric-car-sales-july-2026-tata-mahindra-mg"},
+
+{"rank":16,"field":"AI","sec":"業務活用・スタートアップ","badges":[],
+ "title":"リーガルAIのLegora、評価額100億ドル超へ 4カ月で約2倍",
+ "summary":"文書レビュー・ドラフト作成・デューデリジェンスを手がけるリーガルAIのLegoraが、評価額100億ドル超で資金調達を進めていると8/13に報じられた。4カ月前の56億ドルから約2倍。ARRは約1.5億ドルで、四半期あたり50%成長という（要確認）。",
+ "meta":["評価額 100億ドル超","ARR 約1.5億ドル"],
+ "source":"Tech Startups","sourceUrl":"https://techstartups.com/2026/08/13/top-tech-news-today-august-13-2026-anthropic-deepmind-google-lenovo-microsoft-spacexai-more/"},
+
+{"rank":17,"field":"ad","sec":"自動運転スタートアップ","badges":["jp","us"],
+ "title":"日本の自動運転Turing、1年以内に米国拠点開設へ 5年後にIPO評価額100億ドルを視野",
+ "summary":"完全自動運転の開発を進める日本のTuringが、1年以内に米国オフィスを開設する方針であると8/13に報じられた。5年以内に評価額約100億ドルでのIPOを目指すという（目標値・要確認）。スバル、デンソーとの連携を進めている。",
+ "meta":["米国拠点 1年以内","IPO目標 5年で約100億ドル(要確認)"],
+ "source":"Tech Startups","sourceUrl":"https://techstartups.com/2026/08/13/top-tech-news-today-august-13-2026-anthropic-deepmind-google-lenovo-microsoft-spacexai-more/"},
+
+{"rank":18,"field":"auto","sec":"新型車・コンセプト","badges":["us"],
+ "title":"BMW、モントレーで「M Concept Neue Klasse」と「Vision BMW ALPINA」を北米初公開",
+ "summary":"BMWはモントレー・カーウィーク2026で、次世代Mの方向性を示す「BMW M Concept Neue Klasse」と、アルピナ統合後の姿を示す「Vision BMW ALPINA」の2台を北米初公開する。あわせてM3の節目（登場40年）を記念する展示と、Kith for BMWコラボの新章も披露する。",
+ "meta":["コンセプト 2台","北米初公開"],
+ "source":"BMW Group PressClub","sourceUrl":"https://www.press.bmwgroup.com/usa/article/detail/T0459872EN_US/bmw-sets-monterey-car-week-2026-program-with-two-concept-debuts-m3-milestones-and-a-new-chapter-in-the-kith-for-bmw-collaboration?language=en_US"},
+
+{"rank":19,"field":"auto","sec":"新型車・ハイパーカー","badges":[],
+ "title":"ブガッティ、一点物「Destrier」を公開 1578bhpのW16をボライド用モノコックに搭載",
+ "summary":"ブガッティはモントレー・カーウィークで、ソリテール（一点物）プログラム第3弾となる「Destrier」を公開した。エンジンはボライドと同じ8.0Lクアッドターボ W16で1578bhp。従来のシロン系ではなくボライドのカーボンモノコックを用い、全高は約1メートルとブガッティ史上最も低い。価格は非公表だが、40台限定のボライドが1台350万ポンドだったことから極めて高額になる見込み（要確認）。",
+ "meta":["出力 1578bhp","W16 8.0L 4ターボ","一点物(ソリテール第3弾)"],
+ "source":"evo","sourceUrl":"https://www.evo.co.uk/bugatti/208991/bugatti-destrier-revealed-as-the-ultimate-one-off-w16-hypercar-really-this-time"},
+
+{"rank":20,"field":"india","sec":"インド市場","badges":[],
+ "title":"インド株は8/13まちまち センセックス小幅高、ニフティは3日続落",
+ "summary":"8/13のインド株はセンセックスが113.61ポイント高（+0.15%）の78,079.96、ニフティ50が40.10ポイント安（-0.16%）の24,395.85でまちまち。ニフティは3営業日続落となった。金属株（Nifty Metal -1%）と民間銀行株が重しとなる一方、不動産株は1%高。値上がり2,088銘柄・値下がり2,052銘柄と拮抗した。",
+ "meta":["センセックス 78,079.96(+0.15%)","ニフティ 24,395.85(-0.16%)","取得時点 8/13終値"],
+ "source":"HDFC Sky","sourceUrl":"https://hdfcsky.com/news/stock-market-close-report-today-august-13-2026-markets-end-mixed-as-nifty-finishes-lower-for-third-day-while-sensex-edges-higher"}
+],
+"weekly":[
+"米7月PPIは前月比横ばい・前年比+4.7%と鈍化し、S&P500は7801.84で終値の最高値を更新",
+"Anthropicが動画生成のDecartを約60億ドルで買収交渉と報道、AIのモダリティ拡張が加速",
+"Waymoがフェニックス圏を55平方マイル拡大し合計350平方マイル超へ、メサ工場には完成車684台"
+]
+}
