@@ -1,0 +1,246 @@
+{
+  "date": "2026-08-18",
+  "sub": "火",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "金利・債券",
+      "badges": ["us"],
+      "title": "米30年債利回りが2007年以来の高水準、債券売りが加速",
+      "summary": "8/17の米債市場で売りが加速し、30年債利回りが2007年以来の高水準を付けた。中東情勢を背景とした原油高がインフレ再燃観測を呼び、長期ゾーンに売り圧力。前週末時点で10年債は4.7%弱、30年債は約5.26%（8/14時点、Edward Jones集計）。",
+      "insight": "長期金利の水準訂正が続けば、株式のバリュエーション前提が崩れやすい。",
+      "meta": ["30年債 2007年以来の高水準", "10年債 4.7%弱(8/14時点)"],
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-17/us-bond-selloff-drives-30-year-yields-to-the-highest-since-2007"
+    },
+    {
+      "rank": 2,
+      "field": "AI",
+      "sec": "インフラ・投資",
+      "badges": ["us"],
+      "title": "Nvidia、OpenAIのオハイオ10GWデータセンターで最大1050億ドルの債務を保証",
+      "summary": "Nvidiaが、OpenAIのパイク郡10ギガワット級データセンターに関するリース・電力契約について最大1050億ドルの履行保証を引き受けたと報じられた。用地はウラン濃縮施設の跡地。AIインフラの資金調達がチップメーカーの信用力に依存する構図が一段と鮮明になった。",
+      "insight": "GPU販売元が需要側の信用補完まで担う循環的な構造。リスクの所在が見えにくくなる。",
+      "meta": ["保証枠 最大$105B", "10GW / パイク郡(オハイオ)"],
+      "source": "AI Weekly（Bloomberg報）",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 3,
+      "field": "AI",
+      "sec": "M&A",
+      "badges": ["us"],
+      "title": "Stripe、AIゲートウェイのOpenRouterを70億ドル超で買収",
+      "summary": "Stripeが、モデル振り分けと課金基盤を担うOpenRouterの買収を70億ドル超で確定。2026年5月のシリーズBでの評価額13億ドルから約5倍の水準。モデルのルーティングと決済を押さえる狙い。",
+      "insight": "推論の「取次ぎ層」が決済基盤に統合される動き。API調達先の選定に影響しうる。",
+      "meta": ["買収額 $7B超", "5月評価額 $1.3B → 約5倍"],
+      "source": "AI Weekly（TechCrunch報）",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 4,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "米株3指数が8/17に下落、原油高と対イラン緊張が重し",
+      "summary": "8/17の米市場はダウ・S&P500・ナスダックがそろって下落。中東情勢を受けた原油上昇と長期金利上昇が重しとなった。ブレント原油は同日朝時点で約88.81ドル/バレル、金は4,451.90ドル（いずれも8/17取得時点）。",
+      "meta": ["ブレント 約$88.81/bbl(8/17時点)", "金 $4,451.90(8/17時点)"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html"
+    },
+    {
+      "rank": 5,
+      "field": "AI",
+      "sec": "企業業績",
+      "badges": ["us"],
+      "title": "Anthropic、2026年Q2売上を115億ドルと開示 前年比14倍で営業黒字",
+      "summary": "Anthropicが2026年第2四半期の暫定売上を115億ドルと公表。前年同期比で約14倍、営業利益はプラスとした。生成AI企業として突出した収益拡大ペース。",
+      "insight": "API調達コストの交渉余地や値下げ余力を占う材料。",
+      "meta": ["Q2売上 $11.5B", "前年比 約14倍", "営業利益 黒字"],
+      "source": "AI Weekly（Yahoo Finance報）",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 6,
+      "field": "AI",
+      "sec": "障害・運用",
+      "badges": ["us"],
+      "title": "GitHubで世界規模の障害、Copilotを含む主要機能でエラー率約20%",
+      "summary": "MicrosoftがGitHubの全世界的な障害を確認。Web、API、Copilotを含むサービスで中核機能のエラー率が約20%に達し、CI/CDやコーディングエージェントのワークフローが停止した。",
+      "insight": "GitHub Actions依存のデプロイは代替手順の用意が必要。",
+      "meta": ["エラー率 約20%", "Web/API/Copilotに影響"],
+      "source": "AI Weekly（BleepingComputer報）",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 7,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "Waymo、加州CPUCの承認で18郡へ有料無人運行を拡大",
+      "summary": "カリフォルニア州公益事業委員会がWaymoの有料完全無人運行を18郡（北部12・南部6）へ拡大することを承認。高速道路や夜間、雨・霧・雹での走行も対象で、除外は広範囲の積雪・凍結のみ。対象は約3,000台（Jaguar I-Paceと第6世代のOjai）で、累計2,000万回超の走行実績。年内に有料100万回を目標。",
+      "insight": "米国の無人運行は「都市単位」から「州単位」の免許運用へ移行しつつある。",
+      "meta": ["18郡（北部12・南部6）", "約3,000台 / 累計2,000万回超", "年内 有料100万回目標"],
+      "source": "Electrek",
+      "sourceUrl": "https://electrek.co/2026/08/14/waymo-cpuc-approval-california-expansion-18-counties/",
+      "followup": {
+        "since": "2026-08-14",
+        "whatsNew": "フェニックス圏の範囲拡大に続き、カリフォルニア州当局が18郡での有料無人運行を正式承認した点が新しい。"
+      }
+    },
+    {
+      "rank": 8,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": ["us"],
+      "title": "Google、Gemini 3.7 Flashを公開 コーディング指標が大幅改善",
+      "summary": "Googleが3.6公開から3週間でGemini 3.7 Flashをリリース。コーディング系ベンチマークで改善し、FrontierCodeは34.4%から43.6%へ上昇した。",
+      "meta": ["FrontierCode 34.4% → 43.6%", "3.6から3週間"],
+      "source": "AI Weekly（Google DeepMind報）",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 9,
+      "field": "auto",
+      "sec": "品質・リコール",
+      "badges": ["us", "jp"],
+      "title": "NHTSA 8/17公表のリコール、テスラ・リビアン・トヨタが対象",
+      "summary": "米NHTSAが8/17付でリコールを公表。テスラはModel 3（2017-2023）とModel Y（2020-2023）のロービームが明るすぎFMVSS 108不適合（26V507）、リビアンはR1S/R1T（2025-2026）の前方ウインカー不作動（26V508）、トヨタはCamry Hybrid／bZ Woodland（2025-2026）でメーター表示欠落と横滑り防止装置の停止（26V511・26V512）。対象台数は当該サマリーに記載なし（要確認）。",
+      "meta": ["Tesla 26V507 / Rivian 26V508", "Toyota 26V511・26V512", "台数は要確認"],
+      "source": "The Auto Channel（NHTSA集計）",
+      "sourceUrl": "https://www.theautochannel.com/news/2026/08/17/1704306-official-nhtsa-detailed-recalls-summary-august-17-2026.html"
+    },
+    {
+      "rank": 10,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "インド株8/17は小幅安、ニフティ24,287.65 IT株が1.75%安",
+      "summary": "8/17のインド市場はセンセックスが281.09ポイント安の77,728.16（-0.36%）、ニフティ50が78.35ポイント安の24,287.65（-0.32%）で終了。IT（-1.75%）、FMCG（-1.05%）、医薬（-0.39%）が下落し、金属（+1.26%）と不動産（+1.46%）が上昇。個別ではHCLテクノロジーズ-2.57%、インフォシス-2.51%。",
+      "insight": "IT株の下げは世界的なテック支出への警戒が背景。日系の対印IT取引にも影響しうる。",
+      "meta": ["センセックス 77,728.16(-0.36%)", "ニフティ 24,287.65(-0.32%)", "Nifty IT -1.75%"],
+      "source": "Liquide",
+      "sourceUrl": "https://blog.liquide.life/share-market-today-sensex-falls-281-points-nifty-slips-below-24-300-it-pharma-drag-metal-and-realty-outperform/"
+    },
+    {
+      "rank": 11,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": ["us"],
+      "title": "Anthropic、破滅的ミスアライメントのリスク評価を「極めて低い」から「低い」へ引き上げ",
+      "summary": "Anthropicが2026年8月のリスク報告で、破滅的ミスアライメントの評価を「very low」から「low」に引き上げた。あわせて、Mythos 5を上回る能力を持つ未公開の社内モデルの存在に言及した。",
+      "insight": "フロンティア各社の自己申告リスク評価は、今後の規制・調達要件の参照点になりうる。",
+      "meta": ["評価 very low → low", "未公開社内モデルに言及"],
+      "source": "AI Weekly（Unite.ai報）",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 12,
+      "field": "econ",
+      "sec": "マクロ",
+      "badges": ["us"],
+      "title": "米7月小売売上高は前月比-0.6%、ミシガン大消費者信頼感は51.0へ低下",
+      "summary": "7月の米小売売上高（総合）は前月比-0.6%と、+0.1%の市場予想に反して減少。8月のミシガン大学消費者信頼感指数は7月の55.2から51.0へ低下した。一方7月のCPI・PPIは落ち着いており、9月FOMCは据え置き観測が優勢。",
+      "meta": ["小売売上 -0.6%（予想+0.1%）", "ミシガン大 51.0（前月55.2）"],
+      "source": "Edward Jones",
+      "sourceUrl": "https://www.edwardjones.com/us-en/market-news-insights/stock-market-news/daily-market-recap"
+    },
+    {
+      "rank": 13,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": [],
+      "title": "Pony.aiとUber、欧州で2,000台超のロボタクシー展開へ",
+      "summary": "Pony.aiとUberが欧州で2,000台超のロボタクシーを展開する計画を明らかにした。中国系AV企業の欧州進出が本格化し、Uberはプラットフォーム側として複数のAV事業者を束ねる構図を強めている。",
+      "insight": "Uberは自社開発せず「配車面の共通レイヤー」を取りに行く戦略が鮮明。",
+      "meta": ["2,000台超 / 欧州"],
+      "source": "Daily Kanban",
+      "sourceUrl": "https://dailykanban.com/"
+    },
+    {
+      "rank": 14,
+      "field": "auto",
+      "sec": "新車・EV",
+      "badges": [],
+      "title": "フェラーリ初のEV「Luce」が4,000万ドルで落札 予想の36倍",
+      "summary": "RM Sotheby'sのオークションでフェラーリ初の電気自動車「Luce」が4,000万ドルで落札された。事前予想の110万ドルの36倍で、売却益は慈善目的。",
+      "meta": ["落札 $40M", "予想 $1.1M の36倍"],
+      "source": "Electrek",
+      "sourceUrl": "https://electrek.co/"
+    },
+    {
+      "rank": 15,
+      "field": "econ",
+      "sec": "決算・金融政策",
+      "badges": ["us"],
+      "title": "今週は小売決算が集中、9月利上げ観測は3分の1未満へ低下",
+      "summary": "ウォルマート、ターゲット、ロウズ、ホーム・デポの決算が今週に集中し、新学期商戦下の消費動向が焦点。インフレと雇用の指標がまちまちとなり、トレーダーは9月の利上げ確率を3分の1未満まで引き下げた（8/17時点）。",
+      "meta": ["WMT/TGT/LOW/HDが今週決算", "9月利上げ確率 1/3未満(8/17時点)"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html"
+    },
+    {
+      "rank": 16,
+      "field": "india",
+      "sec": "IPO・資本市場",
+      "badges": [],
+      "title": "インドでIPO2件が申込開始、上場2件はプレミアム期待",
+      "summary": "8/17にHorizon Industrial ParksとLalithaa Jewellery Martの2件がIPO申込を開始。同日、Dhoot TransmissionとMolbio Diagnosticsが上場し、それぞれ約30%、14.17%の初値上昇が見込まれていた（上場前の市場予想、要確認）。",
+      "meta": ["申込開始 2件", "上場時想定 +30% / +14.17%（予想・要確認）"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/markets/news/stock-market-live-17-august-nse-bse-sensex-today-nifty50-gift-nifty-brent-crude-q1-results-today-ipo-listing-126081700053_1.html"
+    },
+    {
+      "rank": 17,
+      "field": "auto",
+      "sec": "新車・EV",
+      "badges": [],
+      "title": "JLR「フリーランダー8」、発売48時間で1万台超の予約",
+      "summary": "ジャガー・ランドローバーのレトロ調電動SUV「フリーランダー8」が、受注開始から48時間で1万台超の事前予約を集めた。ブランド復刻を軸にした電動SUV戦略が初動で機能した形。",
+      "meta": ["48時間で1万台超の予約"],
+      "source": "Electrek",
+      "sourceUrl": "https://electrek.co/"
+    },
+    {
+      "rank": 18,
+      "field": "ad",
+      "sec": "自律配送",
+      "badges": ["us"],
+      "title": "UberとZipline、自律ドローン配送で提携 2029年末に1日100万件を目標",
+      "summary": "UberとZiplineが自律ドローン配送で戦略提携。2029年末までに1日100万件の配送を目標に、Ziplineの既存展開地域から開始する。",
+      "insight": "地上の自動運転と並行して、ラストマイルの自律化がUberのポートフォリオに加わる。",
+      "meta": ["2029年末 1日100万件目標"],
+      "source": "AI Weekly（Uber IR報）",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 19,
+      "field": "auto",
+      "sec": "新機能",
+      "badges": ["us"],
+      "title": "テスラ、Model Y PremiumにV2L機能 2.4kW・80ドルのアダプタで対応",
+      "summary": "テスラがModel Y Premium向けに、車両から外部給電するV2L（vehicle-to-load）機能を追加。出力は2.4kWで、80ドルのアダプタ購入で利用できる。",
+      "meta": ["出力 2.4kW", "アダプタ $80"],
+      "source": "Electrek",
+      "sourceUrl": "https://electrek.co/"
+    },
+    {
+      "rank": 20,
+      "field": "auto",
+      "sec": "商用・建機",
+      "badges": [],
+      "title": "LiuGong、350トン級の電動鉱山ダンプ「ZL230E」を中国で投入",
+      "summary": "中国のLiuGongが350トン級のバッテリー式鉱山ダンプ「ZL230E」を発表。同社によれば中国最大トン数の電動鉱山車両で、鉱山オペレーションの電動化が大型機まで広がっている。",
+      "meta": ["350トン級", "中国最大トン数（同社発表）"],
+      "source": "Electrek",
+      "sourceUrl": "https://electrek.co/"
+    }
+  ],
+  "weekly": [
+    "米30年債利回りが2007年以来の高水準。原油高と中東情勢がインフレ再燃観測を呼び、株式にも波及",
+    "NvidiaがOpenAIのオハイオ10GWデータセンターで最大1050億ドルを債務保証。AIインフラの資金構造が一段と循環的に",
+    "Waymoが加州CPUCの承認で18郡へ有料無人運行を拡大。約3,000台・累計2,000万回、年内に有料100万回を目標"
+  ]
+}
