@@ -1,0 +1,241 @@
+{
+  "date": "2026-08-20",
+  "sub": "木",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "中央銀行",
+      "badges": ["us"],
+      "title": "FOMC議事要旨、多くの当局者が「利上げが必要になり得る」と発言",
+      "summary": "8/19公表の7月28-29日FOMC議事要旨で、多くの参加者が追加利上げの可能性に言及していたことが判明。同会合は政策金利3.50-3.75%を据え置いたが、ローガン・ハマック・カシュカリの3総裁が0.25%利上げを主張して反対票を投じており、タカ派的な地合いが3名を超えて広がっていた形。市場は9月会合の据え置きを約65%織り込み(8/19時点)。",
+      "insight": "AI投資ブームと供給ショックがインフレ定着を招くとの警戒が、利下げ期待の後退を招いている",
+      "meta": ["FF金利 3.50-3.75%", "反対票3名(利上げ主張)", "9月据え置き織り込み 約65%"],
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-19/fed-minutes-show-many-officials-said-rate-hikes-may-be-needed"
+    },
+    {
+      "rank": 2,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": ["us"],
+      "title": "OpenAI、Astraモデルの訓練を停止 サイバー能力が「critical」判定",
+      "summary": "OpenAIがAstraモデルの訓練ワークロードを停止したと報じられた。サイバー攻撃能力が社内評価で「critical」水準に達したことが理由。同社は先の Hugging Face 侵害を受けた安全対策強化も発表しており、フロンティアモデルの能力評価が開発停止という実運用の判断に直結した事例。",
+      "insight": "能力しきい値による自主停止は、AI各社の準備度フレームワークが実効性を持ち始めた兆候",
+      "meta": ["対象: Astraモデル", "判定: critical(サイバー能力)"],
+      "source": "Tech Startups",
+      "sourceUrl": "https://techstartups.com/2026/08/19/top-tech-news-today-august-19-2026-landspace-microsoft-nvidia-openai-samsung-unitree-z-ai-more/"
+    },
+    {
+      "rank": 3,
+      "field": "econ",
+      "sec": "市場・金利",
+      "badges": ["us"],
+      "title": "米財務省が国債買い戻しを倍増、上限20億ドル→40億ドル超へ 長期金利は急低下",
+      "summary": "米財務省は債務買い戻し(バイバック)の1回あたり上限を20億ドルから少なくとも40億ドルへ倍増すると発表。対象は10〜30年ゾーン。発表を受けて米国債利回りは大幅に低下し、前日まで2007年以来の高水準にあった30年債売りが一服した。",
+      "insight": "供給側の需給操作で長期ゾーンを支える構図。財政発行圧力が続く中の緩衝材",
+      "meta": ["買い戻し上限 $2B→$4B以上", "対象 10-30年債"],
+      "source": "TheStreet",
+      "sourceUrl": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-19-2026"
+    },
+    {
+      "rank": 4,
+      "field": "AI",
+      "sec": "半導体・インフラ",
+      "badges": ["us"],
+      "title": "Cerebras、CS-4を発表 750ペタフロップス・GPU比30倍の推論を主張",
+      "summary": "CerebrasがウェハースケールAIシステムの新世代CS-4を発表。750ペタフロップス、I/O 7.2テラビット/秒で、10兆パラメータ級モデルでも毎秒1,000トークン超、GPUシステム比30倍の推論速度を謳う(いずれもメーカー公表値・第三者検証は要確認)。初回出荷は今四半期。",
+      "meta": ["750 PFLOPS", "I/O 7.2 Tb/s", "10Tパラメータで1,000+ tok/s"],
+      "source": "Tech Startups",
+      "sourceUrl": "https://techstartups.com/2026/08/19/top-tech-news-today-august-19-2026-landspace-microsoft-nvidia-openai-samsung-unitree-z-ai-more/"
+    },
+    {
+      "rank": 5,
+      "field": "econ",
+      "sec": "個別株・決算",
+      "badges": ["us"],
+      "title": "モデルナが3倍近い急騰、メラノーマ・ワクチンの第3相が良好 メルクも2桁高",
+      "summary": "モデルナ(MRNA)株が第3相メラノーマ・ワクチン試験の良好な結果を受け8/19の取引で+121〜141%(記事内表記に幅、取引時間中)と急騰。共同開発のメルク(MRK)も+11〜12%。一方でデル-7.2%、クラウドストライク-7.1%と半導体・ハイテクは軟調で、指数は健康関連と景気敏感株が支える展開。",
+      "meta": ["MRNA +121〜141%(場中)", "MRK +11〜12%", "DELL -7.2% / CRWD -7.1%"],
+      "source": "TheStreet",
+      "sourceUrl": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-19-2026"
+    },
+    {
+      "rank": 6,
+      "field": "auto",
+      "sec": "品質・リコール",
+      "badges": ["us"],
+      "title": "ステランティス、バックカメラ不具合で約85万台をリコール",
+      "summary": "ステランティスがバックカメラの表示不具合を理由に米国で約85万台のリコールを実施。後方視界表示の要件不適合は近年の大規模リコールで頻出する項目で、ソフト起因なら OTA 対応の可否が費用を左右する(修理方法は要確認)。",
+      "meta": ["対象 約850,000台", "事象: バックカメラ表示不良"],
+      "source": "CBT News",
+      "sourceUrl": "https://www.cbtnews.com/cbt-automotive-newscast-august-18-2026"
+    },
+    {
+      "rank": 7,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "テスラ、Cybercabのオースティン投入を8月下旬に照準 まず社員が乗車",
+      "summary": "テスラがハンドルなし専用車Cybercabの公道サービス投入をオースティンで8月末に照準を合わせていると報じられた。初期は従業員が乗車する段階を踏み、その後に一般公開へ移行する見込み(正式発表前・要確認)。既存のModel Yベース車両からの置き換えが進めば、単位経済性が大きく変わる。",
+      "insight": "専用設計車の投入は「運転席のないL4」を量産前提で運用する初の本格ケース",
+      "meta": ["投入地: オースティン", "時期: 8月下旬(報道)", "初期は社員乗車"],
+      "source": "IBTimes UK",
+      "sourceUrl": "https://www.ibtimes.co.uk/tesla-autonomous-cybercab-austin-debut-1814748"
+    },
+    {
+      "rank": 8,
+      "field": "econ",
+      "sec": "通商・地政学",
+      "badges": ["us"],
+      "title": "対カナダ50%関税を延期、米加は自動車関税15%で協議",
+      "summary": "トランプ大統領がカナダ製品への50%関税の発動を延期し、通商合意が近いと示唆。並行して米加は自動車分野で15%関税とする案を軸に協議中と伝えられた(協議段階・要確認)。北米サプライチェーンを持つ完成車・部品各社にとって当面の不確実性は残る。",
+      "meta": ["50%関税 → 発動延期", "自動車関税 15%案で協議中"],
+      "source": "CBT News",
+      "sourceUrl": "https://www.cbtnews.com/cbt-automotive-newscast-august-19-2026"
+    },
+    {
+      "rank": 9,
+      "field": "AI",
+      "sec": "製品・安全",
+      "badges": ["us"],
+      "title": "OpenAI、13〜17歳向けの安全版ChatGPTを提供開始",
+      "summary": "OpenAIが13〜17歳を対象とした年齢制限版ChatGPTを公開。自傷・自殺関連や恋愛・性的なやり取りをブロックし、保護者向けに利用時間帯(クワイエットアワー)設定と安全アラートを提供する。未成年保護をめぐる各国の規制圧力への先回り対応の色合いが濃い。",
+      "meta": ["対象 13-17歳", "保護者向け: 時間帯設定・安全通知"],
+      "source": "AI Weekly",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 10,
+      "field": "econ",
+      "sec": "商品・地政学",
+      "badges": ["us"],
+      "title": "原油続伸、WTI85.99ドル 対イラン緊張でUAEが貿易停止",
+      "summary": "8/19の取引でWTIは+1.24%の85.99ドル、ブレントは+1.1%の約92ドルと続伸(いずれも場中値)。トランプ大統領がイランとの和平協議は行われていないと明言し、ミサイル発射を受けUAEがイランとの貿易を停止したと報じられたことが背景。金は4,427.70ドル(+0.16%)。",
+      "meta": ["WTI $85.99 (+1.24%, 場中)", "Brent 約$92 (+1.1%)", "金 $4,427.70"],
+      "source": "TheStreet",
+      "sourceUrl": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-19-2026"
+    },
+    {
+      "rank": 11,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "インド株が7日続落、ニフティ24,078.30 シップロケットは35%高で上場",
+      "summary": "8/19のインド市場はセンセックスが325.78ポイント安の76,909.68(-0.42%)、ニフティ50が76.60ポイント安の24,078.30(-0.32%)で、下落は7営業日連続。原油高と地政学リスクが重しとなる中、ニフティITは業種別で唯一の堅調でHCLテックが上昇。新規上場のシップロケットは公開価格比35%高で初値を形成した。",
+      "meta": ["Nifty 24,078.30 (-0.32%)", "Sensex 76,909.68 (-0.42%)", "7営業日続落"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/markets/news/stock-market-live-august-19-nse-bse-sensex-today-nifty-gift-nifty-behari-lal-engineering-shiprocket-ipo-listing-today-126081900099_1.html",
+      "followup": {
+        "since": "2026-08-18",
+        "whatsNew": "前回掲載の8/17終値(ニフティ24,287.65)から下落が7営業日連続に伸び、シップロケットが35%高で上場した点が新しい"
+      }
+    },
+    {
+      "rank": 12,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": [],
+      "title": "ユニツリー株が上場初日に数百％高、時価総額660億ドル",
+      "summary": "中国のヒューマノイドロボット企業ユニツリー(Unitree)が上場し、初値から株価が数百％上昇。デビュー時のピークで時価総額660億ドルに達したと伝えられた。ロボティクスに対する中国市場の期待の大きさを示す一方、実収益との乖離は大きい。",
+      "meta": ["時価総額 $66B(初日ピーク)", "上場日 8/19"],
+      "source": "AI Weekly",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 13,
+      "field": "econ",
+      "sec": "半導体・コスト",
+      "badges": [],
+      "title": "サムスン、4/5/8nmの受託製造価格を15%引き上げ 平沢工場はフル稼働",
+      "summary": "サムスン電子が4nm・5nm・8nmプロセスの受託製造価格を15%引き上げたと報じられた。平沢(ピョンテク)工場はフル稼働状態にあり、AI需要による先端・成熟ノード双方の逼迫が価格転嫁に波及している。半導体を組み込む機器メーカーの原価にじわりと効く。",
+      "meta": ["値上げ幅 15%", "対象 4nm/5nm/8nm"],
+      "source": "Tech Startups",
+      "sourceUrl": "https://techstartups.com/2026/08/19/top-tech-news-today-august-19-2026-landspace-microsoft-nvidia-openai-samsung-unitree-z-ai-more/"
+    },
+    {
+      "rank": 14,
+      "field": "AI",
+      "sec": "雇用・業務影響",
+      "badges": ["us"],
+      "title": "AI起因の人員削減が2026年累計126,305人、前年通年を既に上回る",
+      "summary": "2026年のAIを理由とする人員削減は8/18時点で累計126,305人となり、2025年通年の122,606人を既に超過。セールスフォース、リンクトイン、Etsy、Zillowなどが挙げられている。同時期のデータでは、コーディングエージェントを導入したチームの週次PRが21→65件へ増えた一方、未導入チームは8→10件にとどまるとの分析も出ている。",
+      "insight": "生産性上昇の果実が人員計画の縮小として先に表れている構図",
+      "meta": ["2026年累計 126,305人", "2025年通年 122,606人"],
+      "source": "AI Weekly",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 15,
+      "field": "ad",
+      "sec": "自律フリート・物流",
+      "badges": ["us"],
+      "title": "Einride、Tesla Semi 500台を自社フリートに追加する契約",
+      "summary": "自律電動貨物のEinrideが、Tesla Semiを500台導入する契約を締結。同社は無人運行を前提としたフリート運用を志向しており、量産EVトラックの調達で車両供給のボトルネックを埋める狙い。自律走行の適用は段階的とみられる(適用範囲は要確認)。",
+      "meta": ["導入台数 500台", "車種 Tesla Semi"],
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/category/transportation/"
+    },
+    {
+      "rank": 16,
+      "field": "auto",
+      "sec": "市場・在庫",
+      "badges": ["us"],
+      "title": "米新車在庫は75日分に縮小、7月販売+8.5% 3年落ち中古は3.2万ドル超",
+      "summary": "米新車在庫は75日分まで絞られ、7月の新車販売は前年同月比8.5%増。新車価格は8月中旬に2026年の最高水準に達したが、賃金の伸びが吸収して新車の購入可能性(アフォーダビリティ)は横ばい。一方で3年落ち中古車の価格は32,000ドルを超え、中古側の負担感は悪化している。",
+      "meta": ["新車在庫 75日分", "7月販売 +8.5%", "3年落ち中古 $32,000超"],
+      "source": "CBT News",
+      "sourceUrl": "https://www.cbtnews.com/cbt-automotive-newscast-august-19-2026"
+    },
+    {
+      "rank": 17,
+      "field": "AI",
+      "sec": "資金調達",
+      "badges": ["us"],
+      "title": "Temporalが約5億ドル調達、評価額120億ドル超",
+      "summary": "耐障害性ワークフロー基盤のTemporalが約5億ドルを調達し、評価額は120億ドル超となった。AIエージェントの長時間実行・リトライ制御を支えるオーケストレーション層に資金が集まる流れを象徴する案件。",
+      "meta": ["調達額 約$500M", "評価額 $12B超"],
+      "source": "AI Weekly",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 18,
+      "field": "ad",
+      "sec": "自律配送",
+      "badges": ["us"],
+      "title": "Amazon Prime Air、年内に全米約500都市へ拡大 拠点は11から6倍増",
+      "summary": "Amazonがドローン配送Prime Airを年内に全米約500都市へ拡大する計画。現在の11拠点から6倍規模へ引き上げるとしており、自律配送の対象エリアが実験段階から面展開へ移る節目となる。実際の展開ペースは当局承認に左右される(要確認)。",
+      "meta": ["対象 約500都市(年内)", "拠点 11→6倍"],
+      "source": "Tech Startups",
+      "sourceUrl": "https://techstartups.com/2026/08/19/top-tech-news-today-august-19-2026-landspace-microsoft-nvidia-openai-samsung-unitree-z-ai-more/"
+    },
+    {
+      "rank": 19,
+      "field": "auto",
+      "sec": "決算",
+      "badges": [],
+      "title": "ジャガー・ランドローバー、第1四半期利益が73%減 関税緩和でも下押し",
+      "summary": "ジャガー・ランドローバー(JLR)の第1四半期利益が前年同期比73%減。関税面での軽減措置を受けてなお大幅な減益となった。同社は北米向けモデルの生産移管も進めており、通商環境の変化が収益構造に及ぼす影響が続いている。",
+      "meta": ["Q1利益 -73%"],
+      "source": "CBT News",
+      "sourceUrl": "https://www.cbtnews.com/cbt-automotive-newscast-august-19-2026"
+    },
+    {
+      "rank": 20,
+      "field": "india",
+      "sec": "IT・AI",
+      "badges": [],
+      "title": "Perplexity、無料提供でインドのユーザーが数百万人規模で増加",
+      "summary": "Perplexityがインドで実施した無料提供策により、同国のユーザーが数百万人規模で増えたと報じられた。人口規模で先にシェアを取る戦略だが、収益化の道筋は依然不透明。インドはAIサービスの獲得競争で最大の増分市場になりつつある。",
+      "meta": ["増加規模 数百万人(インド)"],
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/latest/"
+    }
+  ],
+  "weekly": [
+    "FOMC議事要旨で多くの当局者が利上げの可能性に言及。政策金利3.50-3.75%据え置きの裏で、9月据え置き織り込みは約65%に",
+    "OpenAIがAstraモデルの訓練を停止。サイバー攻撃能力が社内評価で「critical」に達したことが理由で、能力しきい値が開発判断に直結",
+    "テスラがCybercabのオースティン投入を8月下旬に照準。まず社員乗車で開始し、ハンドルなし専用車のサービス運用が始まる見込み"
+  ]
+}
