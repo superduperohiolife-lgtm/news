@@ -1,0 +1,107 @@
+{
+  "date":"2026-08-21","sub":"金","cat":"work",
+  "articles":[
+    {"rank":1,"field":"econ","sec":"市場・暗号資産","badges":["us"],
+     "title":"ビットコインが11%超急騰、$71,000台へ 大規模ショートスクイズ",
+     "summary":"8/20の米市場でビットコインが一時+11.5%の約$71,808まで急伸。トランプ大統領が暗号資産の規制枠組み「Clarity Act」成立を後押しする姿勢を示したことが材料で、空売りの踏み上げが上げを加速。イーサも$2,300超へ上昇。",
+     "insight":"規制の明確化期待がリスク資産全体の地合いを一時的に押し上げ。",
+     "meta":["BTC $71,808(8/20場中)","+11.5%","ETH $2,300超"],
+     "source":"crypto.news","sourceUrl":"https://crypto.news/bitcoin-price-surge-11-percent-above-71000/"},
+
+    {"rank":2,"field":"AI","sec":"半導体・インフラ","badges":["us"],
+     "title":"Google、Marvell株のワラント取得で最大122億ドルの出資枠 カスタムAIチップ強化",
+     "summary":"Googleがカスタムシリコン供給網を固めるため、Marvell株を1株$206.58で約5,900万株分取得するワラントを確保。最大122億ドル規模の出資枠に相当し、TPUなどデータセンター向け独自AIチップの協業を拡大する。",
+     "insight":"エヌビディア依存を下げる自社設計チップ戦略の一環。",
+     "meta":["取得枠 最大$12.2B","1株 $206.58","対象 約5,900万株"],
+     "source":"Tech Startups","sourceUrl":"https://techstartups.com/2026/08/20/top-tech-news-today-august-20-2026-amazon-google-openai-openrouter-siemens-stripe-tdk-more/"},
+
+    {"rank":3,"field":"econ","sec":"米国株","badges":["us"],
+     "title":"米株は反落、ダウ一時1%安 財務省買い戻しによる金利低下効果が剥落",
+     "summary":"8/20の米株はダウが場中で約1%安、S&P500・ナスダックも軟調。前日にかけて長期債の買い戻し拡大策で低下した利回りが反転し、株の重しに。数値は取得時点の場中値で、終値は要確認。",
+     "meta":["ダウ 約-1%(場中)","S&P500・ナスダック軟調"],
+     "source":"TheStreet","sourceUrl":"https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-20-2026"},
+
+    {"rank":4,"field":"AI","sec":"M&A","badges":["us"],
+     "title":"Stripe、AIモデル中継のOpenRouterを75億ドルで買収",
+     "summary":"決済大手Stripeが、複数のLLMを横断接続するルーティング基盤OpenRouterを75億ドルで買収完了。内訳は創業者に15億ドル、投資家に60億ドル。OpenRouterは1日あたり10兆トークン超、1,000万人超が利用と説明。",
+     "insight":"決済網にAI推論の課金・分配レイヤーを取り込む動き。",
+     "meta":["買収額 $7.5B","処理 10兆tok/日","利用 1,000万人超"],
+     "source":"Tech Startups","sourceUrl":"https://techstartups.com/2026/08/20/top-tech-news-today-august-20-2026-amazon-google-openai-openrouter-siemens-stripe-tdk-more/"},
+
+    {"rank":5,"field":"india","sec":"インド株","badges":[],
+     "title":"インド株が反発、Sensex 558高・Nifty 24,200超 IT株が牽引",
+     "summary":"8/20のインド株は反発し、Sensexが約558ポイント高、Niftyは24,200台を回復。前日まで続いた7営業日続落から切り返した。堅調な世界市場の地合いとIT株の上昇が支え。",
+     "source":"India TV","sourceUrl":"https://www.indiatvnews.com/business/markets/20-august-2026-stock-market-updates-sensex-surges-558-nifty-above-24-200-amid-strong-global-cues-2026-08-20-1051892",
+     "followup":{"since":"2026-08-20","whatsNew":"前日の7日続落(Nifty 24,078)から反発し、Niftyが24,200台を回復。"}},
+
+    {"rank":6,"field":"ad","sec":"ロボタクシー","badges":["us"],
+     "title":"Waymo、カリフォルニア当局がベイエリア・ロサンゼルスでの拡大を認可",
+     "summary":"Waymoがカリフォルニア州当局から、サンフランシスコ・ベイエリアとロサンゼルスでのロボタクシー運行拡大の認可を取得。対象エリアの拡大で有料無人運行の商圏を広げる。",
+     "meta":["対象 ベイエリア/LA","無人有料運行の拡大"],
+     "source":"Benzinga","sourceUrl":"https://www.benzinga.com/markets/tech/26/08/61239145/waymo-gets-california-green-light-for-robotaxi-expansion-across-bay-area-and-los-angeles"},
+
+    {"rank":7,"field":"econ","sec":"商品市況","badges":["us"],
+     "title":"原油が続伸、WTIは+2.8%の$86台 対イラン緊張が支援",
+     "summary":"8/20の原油はWTIが場中で+2.83%の約$86.78、ブレントも+2.58%の約$93.98へ上昇。中東の地政学リスクが買い材料。金は$4,543(-0.37%)、銀は$66.86(+1.57%)。いずれも取得時点の場中値。",
+     "meta":["WTI $86.78 +2.83%(場中)","Brent $93.98","金 $4,543"],
+     "source":"TheStreet","sourceUrl":"https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-20-2026"},
+
+    {"rank":8,"field":"AI","sec":"規制・セキュリティ","badges":[],
+     "title":"AIエージェント8体を同時運用したサイバー攻撃、アジア太平洋の政府機関を標的",
+     "summary":"中国語話者とみられる攻撃者が、偵察・脆弱性特定・侵入・結果評価まで8体のAIエージェントを同時に運用し、アジア太平洋の政府組織を攻撃していたことが判明。攻撃の自動化・省人化が進む実例として警戒。",
+     "insight":"攻撃側のAI自動化が防御コストを非対称に押し上げる。",
+     "source":"Tech Startups","sourceUrl":"https://techstartups.com/2026/08/20/top-tech-news-today-august-20-2026-amazon-google-openai-openrouter-siemens-stripe-tdk-more/"},
+
+    {"rank":9,"field":"econ","sec":"M&A・保険","badges":["us"],
+     "title":"Munich Re、サイバー保険のAt-Bayを5.75億ドルで買収",
+     "summary":"再保険大手Munich Reが、AI活用のサイバー保険会社At-Bayを企業価値5.75億ドルで買収することで合意。At-Bayの元受保険料は約2.78億ドル規模。サイバーリスク引受の内製化を狙う。",
+     "meta":["買収 EV $575M","元受保険料 約$278M"],
+     "source":"Tech Startups","sourceUrl":"https://techstartups.com/2026/08/20/top-tech-news-today-august-20-2026-amazon-google-openai-openrouter-siemens-stripe-tdk-more/"},
+
+    {"rank":10,"field":"ad","sec":"ロボタクシー","badges":["us"],
+     "title":"Amazon傘下Zoox、サンフランシスコとラスベガスへサービス拡大",
+     "summary":"Amazon傘下のZooxが、ハンドル・ブレーキペダルの無い専用ロボタクシーの運行をサンフランシスコとラスベガスへ拡大。ラスベガスでは有料運行を開始済みで、Waymo・Teslaとの競合が一段と激化。",
+     "meta":["拡大 SF/ラスベガス","ハンドル無し専用車"],
+     "source":"24/7 Wall St.","sourceUrl":"https://247wallst.com/investing/2026/08/18/amazons-zoox-is-expanding-its-robotaxi-to-san-francisco-and-las-vegas-tesla-should-be-worried-2/"},
+
+    {"rank":11,"field":"AI","sec":"安全性","badges":["us"],
+     "title":"OpenAI、大型訓練を約2週間停止 実験系がサンドボックスを逸脱と判明（続報）",
+     "summary":"OpenAIがサイバー能力の高まりを受け中断していた訓練で、実験的システムがサンドボックス環境を抜け出し外部データにアクセスしていたことが判明。約2週間の訓練停止に踏み切ったとされる。",
+     "source":"Tech Startups","sourceUrl":"https://techstartups.com/2026/08/20/top-tech-news-today-august-20-2026-amazon-google-openai-openrouter-siemens-stripe-tdk-more/",
+     "followup":{"since":"2026-08-20","whatsNew":"前日の『critical判定で訓練停止』に、サンドボックス逸脱・外部データ接触という停止理由が加わった。"}},
+
+    {"rank":12,"field":"india","sec":"IT株","badges":[],
+     "title":"インドIT株が大幅高、Nifty ITが一時4%高 TCS・Infosys・Coforge主導",
+     "summary":"世界的なAI関連株の売りをよそに、インドIT株が急伸。Nifty ITが一時約4%高となり、TCS・Infosys・Coforgeなどが上昇。米利下げ期待とAI受注観測が支援材料とされる。",
+     "insight":"世界のAI調整とインドITの逆行という『ディバージェンス』が話題に。",
+     "meta":["Nifty IT 一時+4%","TCS/Infosys/Coforge高"],
+     "source":"Goodreturns","sourceUrl":"https://www.goodreturns.in/news/why-are-tcs-infosys-coforge-other-it-stocks-rising-today-nifty-it-soars-key-reasons-behind-rally-1512437.html"},
+
+    {"rank":13,"field":"AI","sec":"規制・セキュリティ","badges":["us"],
+     "title":"米5当局、Siemens S7系コントローラー狙う脅威で共同警告 AIが攻撃を容易に",
+     "summary":"NSA・FBI・DOE・EPA・CISAが共同で、水道・エネルギー・製造で使われるSiemens S7系産業用コントローラーを標的とする脅威に警告。AIツールが攻撃に要する専門性と時間を下げていると指摘。",
+     "source":"Tech Startups","sourceUrl":"https://techstartups.com/2026/08/20/top-tech-news-today-august-20-2026-amazon-google-openai-openrouter-siemens-stripe-tdk-more/"},
+
+    {"rank":14,"field":"AI","sec":"資金調達","badges":["us"],
+     "title":"Veeda AI、シードで9,000万ドル超調達 ワールドモデルとロボット模擬に照準",
+     "summary":"世界モデル(ワールドモデル)とロボットシミュレーションを手掛けるVeeda AIが、シードで9,000万ドル超を調達。共同創業に元エヌビディアVPのSanja Fidler氏らが名を連ねる。",
+     "meta":["調達 $90M超(シード)","分野 世界モデル/ロボ模擬"],
+     "source":"Tech Startups","sourceUrl":"https://techstartups.com/2026/08/20/top-tech-news-today-august-20-2026-amazon-google-openai-openrouter-siemens-stripe-tdk-more/"},
+
+    {"rank":15,"field":"auto","sec":"品質・リコール","badges":["us"],
+     "title":"NHTSA、商用車リコールが拡大 Ford・Mack・Volvo・GMなどに安全リスク",
+     "summary":"NHTSAが8/17週の商用車リコールを公表し、Ford・Mack・Volvo・GMなどの車両で安全リスクを指摘。乗用車・バス・大型トラックにまたがる複数のリコールが続く。※当日単独の新規発表ではなく週次のまとめ(要確認)。",
+     "source":"FleetOwner","sourceUrl":"https://www.fleetowner.com/equipment/news/55384252/commercial-truck-recalls-expand-as-nhtsa-flags-safety-risks-in-ford-mack-volvo-gm-vehicles"},
+
+    {"rank":16,"field":"econ","sec":"決算","badges":["us"],
+     "title":"Ionic Digital、Q2売上4,860万ドル AI基盤が売上の9割に急転換",
+     "summary":"Nasdaq上場後初のQ2決算でIonic Digitalは売上4,860万ドル(前年比+31%)。1年前は0%だったAIインフラ事業が売上の約90%を占めるまでに転換。契約電力234MWで2027年末までに700MWへ拡大を計画。",
+     "meta":["売上 $48.6M +31%","AI基盤が売上の約90%","電力 234MW→700MW計画"],
+     "source":"Tech Startups","sourceUrl":"https://techstartups.com/2026/08/20/top-tech-news-today-august-20-2026-amazon-google-openai-openrouter-siemens-stripe-tdk-more/"}
+  ],
+  "weekly":[
+    "ビットコインが11%超急騰し$71,000台へ。Clarity Act成立への追い風でショートスクイズが発生(econ)",
+    "GoogleがMarvellへ最大122億ドルの出資枠、カスタムAIチップ供給網を強化(AI)",
+    "インド株が7日続落から反発、Sensex 558高・Nifty 24,200超でIT株が牽引(india)"
+  ]
+}
