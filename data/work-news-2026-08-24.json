@@ -1,0 +1,237 @@
+{
+  "date": "2026-08-24",
+  "sub": "月",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "AI",
+      "sec": "産業動向",
+      "badges": ["us"],
+      "title": "NVIDIA、AIサーバーを15%超値上げへ ハイパースケーラーに通知",
+      "summary": "NVIDIAのサーバー製造委託先が、Microsoft・Google・OracleにVera RubinおよびGrace Blackwell系システムの15%超の値上げを通知。2027年初めからの適用で、要因はDRAM価格の高騰。AIインフラの調達コスト上昇が主要クラウド各社の設備投資計画に直接跳ね返る。",
+      "insight": "メモリ主導のコスト増がAI投資回収期間を押し上げる局面に入った。",
+      "meta": ["値上げ幅 15%超", "適用 2027年初", "対象 Vera Rubin/Grace Blackwell"],
+      "source": "AI Weekly（原典: Fortune/Bloomberg）",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 2,
+      "field": "AI",
+      "sec": "企業動向",
+      "badges": [],
+      "title": "Alibaba、香港で102億ドル調達 フルスタックAIに投資",
+      "summary": "Alibabaが香港市場で過去最大規模の追加公募により102億ドルを調達すると発表。チップ・インフラ・モデルを貫く「フルスタックAI」構築に充当する。中国勢のAI投資が資本市場調達を伴う段階に移行したことを示す。",
+      "meta": ["調達額 102億ドル", "香港の追加公募として過去最大"],
+      "source": "AI Weekly（原典: Nikkei Asia）",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 3,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "米株は反発しダウ517ドル高、ただし週間では主要3指数そろって下落",
+      "summary": "8月21日の米国市場でダウは517.80ドル高（+1.0%）の53,277.01、S&P500は+0.4%の7,674.37、ナスダックは+0.4%の26,180.45で終了。ラッセル2000も+0.9%の3,017.87。週を通しては債券市場の変動が重しとなり、主要指数は週間で下落した。ベッセント財務長官は1銘柄あたり40億ドルを超える国債買い戻し拡大方針を示したが、10年・30年債利回りは低下後に元の高水準へ戻した。",
+      "meta": ["ダウ 53,277.01（+517.80）", "S&P500 7,674.37（+0.4%）", "取得時点 8/21米国市場終値"],
+      "source": "Yahoo Finance / AP",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-bitcoin-080533702.html",
+      "followup": {"since": "2026-08-21", "whatsNew": "前日の下落から反発し終値を切り上げたが、週間ベースでは下落を確定させた点が新しい。"}
+    },
+    {
+      "rank": 4,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "ビットコインが$77,273へ続伸 週間上昇率は約2年ぶりの大きさ",
+      "summary": "ビットコインは8月21日に$77,273.80まで上昇し、週間ベースでは約2年ぶりの大きな上げ幅となった。前日までのショートスクイズ主導の急騰が週末にかけて維持された形。",
+      "meta": ["BTC $77,273.80", "取得時点 8/21米国時間"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-bitcoin-080533702.html",
+      "followup": {"since": "2026-08-21", "whatsNew": "$71,000台から$77,273.80まで上値を伸ばし、週間上昇率が約2年ぶりの水準に達した。"}
+    },
+    {
+      "rank": 5,
+      "field": "ad",
+      "sec": "半導体・サプライ",
+      "badges": ["us"],
+      "title": "Waymo、自社開発5nm ASICを公開 13カメラを前処理し1,000TOPS超",
+      "summary": "Waymoが自動運転システムの中核に入る前段で13台のカメラ映像を処理する自社設計の5nm ASICを開発していたことを明らかにした。演算性能は1,000TOPS超で、NVIDIA DRIVE AGX Thorに匹敵する水準。ロボタクシー「Ojai」のコスト低減を狙う垂直統合の一環で、同車両はロサンゼルス・フェニックス・サンフランシスコで稼働中。",
+      "insight": "ロボタクシーの勝敗が車両単価、すなわち半導体の内製化に移りつつある。",
+      "meta": ["5nm ASIC", "1,000TOPS超", "カメラ13台"],
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/"
+    },
+    {
+      "rank": 6,
+      "field": "auto",
+      "sec": "品質・リコール",
+      "badges": [],
+      "title": "Tesla、中国で298万台をリコール 非常時のドア解放を改善",
+      "summary": "Teslaが中国で約298万台を対象に、緊急時のドア解放機構へのアクセス性を改善するリコールを実施。同社の中国における過去最大規模のリコールとされる。",
+      "meta": ["対象 約298万台", "中国での過去最大規模"],
+      "source": "Electrek",
+      "sourceUrl": "https://electrek.co/"
+    },
+    {
+      "rank": 7,
+      "field": "auto",
+      "sec": "品質・リコール",
+      "badges": ["us"],
+      "title": "NHTSA、GMの6.2L V8エンジン調査を99万7,743台へ拡大",
+      "summary": "NHTSAがGMのピックアップ・SUVに搭載される6.2L V8エンジンのエンジン故障懸念について調査を拡大し、対象は99万7,743台に達した。走行中の出力喪失リスクが論点で、リコールに発展すれば大規模になる。",
+      "meta": ["対象 997,743台", "エンジン 6.2L V8"],
+      "source": "GM-Trucks.com / Detroit News",
+      "sourceUrl": "https://www.gm-trucks.com/nhtsa-gm-62l-v8-engine-investigation-expands/"
+    },
+    {
+      "rank": 8,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "ネバダ州クラーク郡、ロボタクシー最大8,000台の許可 Tesla・Uber・Waymoに",
+      "summary": "Tesla・Uber・Waymoの3社が、ネバダ州クラーク郡で今後12カ月間に最大8,000台のロボタクシーを運行する許可を取得した。ただし実際に期間内に全台が展開される可能性は低いとみられる。ラスベガスが米国有数の商用自動運転市場になりつつある。",
+      "meta": ["上限 8,000台", "期間 12カ月", "地域 クラーク郡（ラスベガス）"],
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/"
+    },
+    {
+      "rank": 9,
+      "field": "econ",
+      "sec": "商品",
+      "badges": [],
+      "title": "金が2.4%高の$4,680.60 リスク回避と金利変動を背景に上昇",
+      "summary": "8月21日の金相場は109.20ドル高（+2.39%）の$4,680.60。債券利回りの乱高下と地政学リスクが買いを集めた。同日のVIXは15.13へ低下しており、株式のボラティリティ低下と金上昇が併存する構図。",
+      "meta": ["金 $4,680.60（+2.39%）", "VIX 15.13", "取得時点 8/21"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-bitcoin-080533702.html"
+    },
+    {
+      "rank": 10,
+      "field": "econ",
+      "sec": "通商・地政学",
+      "badges": ["us"],
+      "title": "原油は$87台で小動き 米政権が対イラン「経済封鎖」策を月曜に提示へ",
+      "summary": "原油（10月限）は0.23ドル高（+0.26%）の1バレル$87.06。トランプ政権はイランに対する「経済的孤立化」計画の詳細を月曜に示す方針で、供給不安が下値を支えている。",
+      "meta": ["原油 $87.06（+0.26%）", "対イラン策の発表 月曜予定", "取得時点 8/21"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-bitcoin-080533702.html",
+      "followup": {"since": "2026-08-21", "whatsNew": "上昇が一服して$87台での小動きに移り、対イラン制裁強化策の提示時期が月曜と判明した。"}
+    },
+    {
+      "rank": 11,
+      "field": "ad",
+      "sec": "センサ・安全保障",
+      "badges": ["us"],
+      "title": "米アイダホ国立研究所、中国製LiDARの安全保障リスクを評価中",
+      "summary": "アイダホ国立研究所が、米国内車両で使われる中国製LiDARセンサーの安全保障上のリスク評価を進めている。資金拠出はEV・自動運転分野の企業だが社名は非公表。Rivian・GM・Ford・Uberは同調査を把握していないとしている。",
+      "insight": "サプライチェーン規制がセンサー層まで及べば、ADAS原価構造に影響が出る。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/"
+    },
+    {
+      "rank": 12,
+      "field": "AI",
+      "sec": "業務活用",
+      "badges": ["us"],
+      "title": "経営者の約9割「AIはまだ生産性を押し上げていない」 米研究",
+      "summary": "ピッツバーグ大学とアトランタ連銀の研究で、経営者の約90%が「AIはまだ生産性向上をもたらしていない」と回答した。自動化を理由とする人員削減が相次ぐ一方、AIを理由とした削減発表に対する株価反応は平均でほぼゼロだった。",
+      "insight": "AI導入は「コスト削減の物語」としては市場に織り込まれ済み、という示唆。",
+      "meta": ["約90%が生産性向上を否定", "削減発表への株価反応 ほぼゼロ"],
+      "source": "AI Weekly（原典: Fortune）",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 13,
+      "field": "AI",
+      "sec": "産業動向",
+      "badges": [],
+      "title": "中国製モデルが西側との性能差を縮小 低コストで企業導入拡大",
+      "summary": "米中のAI能力差が縮小しているとBloombergが報じた。低コストの中国製モデルが企業導入で存在感を高めており、価格競争が西側ベンダーの収益前提に影響しうる。",
+      "source": "AI Weekly（原典: Bloomberg）",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 14,
+      "field": "auto",
+      "sec": "品質・リコール",
+      "badges": [],
+      "title": "Tesla、中国で274万台にドライバー監視の改修 車内カメラで視線追跡",
+      "summary": "Teslaが中国で約274万台を対象に、ドライバー監視機能を強化するリコール（改修）を実施。当局がハンドル保持検知だけでは不十分と判断したことを受け、車内カメラによる視線追跡を追加する。",
+      "meta": ["対象 約274万台", "追加機能 車内カメラの視線追跡"],
+      "source": "Electrek",
+      "sourceUrl": "https://electrek.co/"
+    },
+    {
+      "rank": 15,
+      "field": "india",
+      "sec": "マクロ",
+      "badges": [],
+      "title": "インド8月フラッシュ総合PMIは54.6 製造業は5年ぶりの低い伸び",
+      "summary": "HSBCのフラッシュ総合PMIが54.6へ上昇し、サービス業が全体を押し上げた。一方で製造業の伸びは5年ぶりの低水準にとどまり、内需サービス偏重の成長構図が鮮明になっている。",
+      "meta": ["総合PMI 54.6", "製造業 5年ぶりの低い伸び"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/economy"
+    },
+    {
+      "rank": 16,
+      "field": "india",
+      "sec": "通商・投資",
+      "badges": ["jp"],
+      "title": "ゴヤル商工相が訪日代表団を率いる 日本は10年で10兆円の対印投資目標",
+      "summary": "インドのゴヤル商工相が経済界の代表団を率いて訪日し、二国間貿易の拡大を協議した。日本側は10年間で10兆円規模の対インド投資目標を掲げており、製造・サプライチェーン移転の具体案が焦点になる。",
+      "meta": ["日本の投資目標 10年で10兆円"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/economy"
+    },
+    {
+      "rank": 17,
+      "field": "AI",
+      "sec": "資金調達",
+      "badges": [],
+      "title": "英Inherent、5,000万ドルのシード調達 科学再現タスクで首位主張",
+      "summary": "Google DeepMind出身者が創業したロンドンのInherentが5,000万ドルのシード資金を調達し、エージェント「Faraday」を公開した。科学研究の結果再現タスクでClaude Opus 4.8やGPT-5.5を上回ると主張している（ベンチマークは自社公表のため要確認）。",
+      "meta": ["シード 5,000万ドル", "エージェント名 Faraday"],
+      "source": "AI Weekly（原典: TechCrunch）",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 18,
+      "field": "india",
+      "sec": "労働・社会",
+      "badges": [],
+      "title": "NITI Aayog、若者8,700万人が就学・就業・訓練のいずれにも属さず",
+      "summary": "インド政府系シンクタンクNITI Aayogが、2021年の調査データに基づき8,700万人の若者が就学・就業・職業訓練のいずれにも参加していないと報告した。人口ボーナスを活かす前提となる技能形成の遅れを示す。",
+      "meta": ["対象 8,700万人", "出典データ 2021年調査"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/economy"
+    },
+    {
+      "rank": 19,
+      "field": "india",
+      "sec": "IT・AI",
+      "badges": [],
+      "title": "インド技能開発省とAmazon、クラウド・AI人材15万人の育成で提携",
+      "summary": "インドの技能開発省とAmazonが全国規模のクラウド・AI研修プログラムを開始。15万人に基礎研修を提供し、うち1万人には就業直結の集中研修を行う。IT大手の採用抑制が続くなかでの供給側テコ入れ策。",
+      "meta": ["基礎研修 15万人", "集中研修 1万人"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/economy"
+    },
+    {
+      "rank": 20,
+      "field": "auto",
+      "sec": "新車・EV",
+      "badges": [],
+      "title": "Hyundai、Ioniq Vの受注開始 価格は17,700ドル相当",
+      "summary": "HyundaiがIoniq Vの受注を開始した。価格は17,700ドル相当で、現時点では英語圏市場での販売はない。低価格帯EVの投入が新興国・アジア市場から進む流れが続く。",
+      "meta": ["価格 $17,700相当", "英語圏市場は未投入"],
+      "source": "Electrek",
+      "sourceUrl": "https://electrek.co/"
+    }
+  ],
+  "weekly": [
+    "NVIDIAがVera Rubin/Grace Blackwell系サーバーを15%超値上げ、DRAM高騰がAIインフラ原価を直撃",
+    "米株は8/21に反発もダウ週間続落、ビットコインは$77,273へ約2年ぶりの週間上昇率",
+    "Waymoが1,000TOPS超の自社5nm ASICを公開、ロボタクシーの原価競争が半導体内製へ"
+  ]
+}
