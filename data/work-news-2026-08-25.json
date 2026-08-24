@@ -1,0 +1,250 @@
+{
+  "date": "2026-08-25",
+  "sub": "火",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "通商・地政学",
+      "badges": ["us"],
+      "title": "米財務長官が対イラン「D-Day制裁」を発表 二次制裁が柱",
+      "summary": "ベッセント米財務長官が8月24日、対イラン経済圧力策を発表。柱はイランと取引する第三国・企業への二次制裁で、石油部門が主対象。既存の二次制裁は部分的な執行にとどまっており、実効性には中国・ロシア・インド・パキスタン・カタール・トルコなど主要取引国への対応が要る。イラン・リアルは同日、1ドル=200万リアルの安値を更新。",
+      "insight": "米当局者は中間選挙までは軍事でなく経済手段を主軸に置くとみており、圧力の長期化が前提。",
+      "meta": ["二次制裁=第三国も対象", "リアル 200万/ドル（8/24）"],
+      "source": "Axios",
+      "sourceUrl": "https://www.axios.com/2026/08/24/bessent-dday-iran-secondary-sanctions",
+      "followup": {
+        "since": "2026-08-24",
+        "whatsNew": "前日は「月曜に提示へ」の予告段階だったが、24日に実際に発表され、第三国への二次制裁が中核と判明。"
+      }
+    },
+    {
+      "rank": 2,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "米株はまちまち 半導体安でナスダック1%下落、ダウは小幅高",
+      "summary": "8月24日の米市場はS&P500が0.28%安の7,651.05、ダウが0.26%高の53,428.70、ナスダックは約1%安。AIインフラ関連の収益性への懐疑から半導体が総崩れとなり、Micronが5.8%安、SanDiskが6.4%安、Broadcomが2.6%安、AMDが3.5%安、Intelが3.1%安。NVIDIAは水曜の決算発表を前に2.9%下落した。決済関連は逆行高でVisaが3.1%高、Mastercardが3.3%高。",
+      "insight": "指数の下支えはディフェンシブと決済で、上昇の牽引役がAI一極から分散し始めた兆し。",
+      "meta": ["S&P500 7,651.05（-0.28%）", "NVIDIA決算は8/26", "取得時点: 8/24米市場終値"],
+      "source": "Trading Economics",
+      "sourceUrl": "https://tradingeconomics.com/united-states/stock-market"
+    },
+    {
+      "rank": 3,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": ["us"],
+      "title": "NVIDIA、Poolside AIに60億ドル規模をコミット 10億ドル出資＋人材100人超を吸収",
+      "summary": "NVIDIAがAIコーディング企業Poolside AIに総額60億ドル規模のコミットメントを行うと報じられた。内訳は10億ドルの出資と、100人超のエンジニアを自社のNemotronチームへ移すもの。GPU供給元がモデル・アプリ層まで踏み込む動きで、コード生成領域の囲い込みが一段と進む。",
+      "insight": "出資と人材移籍を組み合わせた実質的なアクハイアで、独禁上の論点になりやすい形態。",
+      "meta": ["総額 $6B", "出資 $1B", "移籍 100名超→Nemotron"],
+      "source": "Tech Startups（原典: WSJ）",
+      "sourceUrl": "https://techstartups.com/2026/08/24/top-tech-news-today-august-24-2026-alibaba-amazon-hugging-face-nvidia-xpeng-more/"
+    },
+    {
+      "rank": 4,
+      "field": "auto",
+      "sec": "通商・関税",
+      "badges": ["us"],
+      "title": "米が自動車50%関税を発動、カナダが同等報復へ 交渉決裂",
+      "summary": "米国が自動車に対する50%関税の執行に踏み切り、交渉が不調に終わったカナダが「ドル・フォー・ドル」の同等報復を表明した。北米の統合サプライチェーンを直撃する水準で、完成車・部品の相互流通コストが急上昇する。",
+      "insight": "北米域内での生産再配置と価格転嫁の両方が避けにくく、日系を含む対米輸出勢の収益前提も再計算が要る。",
+      "meta": ["関税率 50%", "カナダ: 同額報復"],
+      "source": "autoevolution",
+      "sourceUrl": "https://www.autoevolution.com/news/"
+    },
+    {
+      "rank": 5,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": ["us"],
+      "title": "NVIDIA、Perplexityへの出資を協議 評価額300億ドル超",
+      "summary": "NVIDIAがAI検索のPerplexityへの出資を協議中と報じられた。評価額は300億ドル超で、Perplexityの売上は年換算7.5億ドル規模まで拡大しているという。Poolsideへのコミットと合わせ、NVIDIAが自社GPU需要を生むアプリ層企業へ資本を配る構図が鮮明になっている。",
+      "meta": ["評価額 $30B超", "年換算収益 $750M", "協議段階（要確認）"],
+      "source": "Tech Startups（原典: The Information）",
+      "sourceUrl": "https://techstartups.com/2026/08/24/top-tech-news-today-august-24-2026-alibaba-amazon-hugging-face-nvidia-xpeng-more/"
+    },
+    {
+      "rank": 6,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "Tesla、Cybercabを9月3日オースティンで投入 招待制イベントで公開",
+      "summary": "Teslaが8月24日、9月3日にテキサス州オースティンでCybercabのローンチイベントを開くと告知した。招待は乗車回数上位のRobotaxi利用者中心で当選者発表は8月26日、RSVP締切は8月30日。Cybercabは既存のRobotaxiアプリから配車可能になり、ソフトはModel Yロボタクシーと同じFSDスタック。Teslaの無人稼働台数は全市場合計で約20〜30台にとどまる。",
+      "insight": "車両は新しいがソフトと運行規模は据え置きで、実質はハード刷新のショーケース。",
+      "meta": ["イベント 9/3・オースティン", "無人稼働 約20〜30台", "2人乗り・ステアリングなし"],
+      "source": "Electrek",
+      "sourceUrl": "https://electrek.co/2026/08/24/tesla-cybercab-exclusive-access-robotaxi-sept-3/"
+    },
+    {
+      "rank": 7,
+      "field": "auto",
+      "sec": "品質・リコール",
+      "badges": ["us"],
+      "title": "Tesla、中国でのリコールが427万台規模に ドアハンドルの電子アクチュエータが焦点",
+      "summary": "中国におけるTeslaのリコールが計427万台規模に達した。争点は電子アクチュエータ式ドアハンドルで、電源喪失時の車内からの解放性が問題視されている。前日時点で報じられていた個別案件を合算した規模となる。",
+      "meta": ["対象 427万台", "機構: 電子アクチュエータ式ドアハンドル"],
+      "source": "autoevolution",
+      "sourceUrl": "https://www.autoevolution.com/news/",
+      "followup": {
+        "since": "2026-08-24",
+        "whatsNew": "前日は298万台のドア解放改善と274万台のドライバー監視改修が別々に報じられていたが、ドアハンドル問題として計427万台規模に整理された。"
+      }
+    },
+    {
+      "rank": 8,
+      "field": "econ",
+      "sec": "市場・地政学",
+      "badges": ["us"],
+      "title": "イランがホルムズ海峡での船舶拿捕を警告 原油は高止まり",
+      "summary": "イランが米制裁発表を前に、ホルムズ海峡での船舶拿捕や通航ルール変更の可能性を警告した。供給途絶懸念からブレント原油は8月24日時点で1バレル90ドル超を維持。海運保険料と迂回コストの上昇がインフレ経路に波及しうる。",
+      "meta": ["ブレント $90超（8/24時点）", "ホルムズ通航ルール変更を警告"],
+      "source": "CNBC / Business Standard",
+      "sourceUrl": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html"
+    },
+    {
+      "rank": 9,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": ["us"],
+      "title": "Hugging Face、身売りを検討 評価額130億ドル超と報道",
+      "summary": "オープンモデルのハブを運営するHugging Faceが売却を検討していると報じられた。想定評価額は130億ドル超で、2023年の45億ドルから約3倍。モデル流通の中核インフラが特定の大手傘下に入れば、公開モデルの配布・ライセンス環境に影響が及ぶ可能性がある。",
+      "insight": "自社のAI基盤がHugging Face経由の配布に依存している場合、取得先次第で調達・再現性の前提が変わる。",
+      "meta": ["評価額 $13B超", "2023年 $4.5B", "検討段階（要確認）"],
+      "source": "Tech Startups（原典: Business Insider）",
+      "sourceUrl": "https://techstartups.com/2026/08/24/top-tech-news-today-august-24-2026-alibaba-amazon-hugging-face-nvidia-xpeng-more/"
+    },
+    {
+      "rank": 10,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": [],
+      "title": "Alibaba、動画生成モデル「Wan3.0」を公開 30秒の生成に対応",
+      "summary": "Alibabaが動画生成モデルWan3.0を発表し、30秒尺の生成に対応した。同社は並行して100億ドル規模の株式売出しでAIインフラ投資の原資を確保しており、モデルと計算基盤の両輪で攻勢を強めている。",
+      "meta": ["生成尺 30秒", "調達 $10B規模"],
+      "source": "Tech Startups（原典: TechNode）",
+      "sourceUrl": "https://techstartups.com/2026/08/24/top-tech-news-today-august-24-2026-alibaba-amazon-hugging-face-nvidia-xpeng-more/"
+    },
+    {
+      "rank": 11,
+      "field": "auto",
+      "sec": "品質・リコール",
+      "badges": ["us"],
+      "title": "GM、ブレーキ・バイ・ワイヤ「eBoost」で110万台超を調査",
+      "summary": "GMがブレーキ・バイ・ワイヤ方式のeBoostシステムについて110万台超を対象に調査を進めている。倍力（パワーアシスト）喪失の苦情が発端。前日に拡大が報じられた6.2L V8エンジンの調査とは別案件で、電動化系の基幹部品にも品質問題が及んだ形。",
+      "insight": "SDV化で安全機能がソフト・電子系に寄るほど、単一部品の不具合が広範なリコールに直結する。",
+      "meta": ["対象 110万台超", "症状: パワーアシスト喪失"],
+      "source": "autoevolution",
+      "sourceUrl": "https://www.autoevolution.com/news/"
+    },
+    {
+      "rank": 12,
+      "field": "ad",
+      "sec": "認可・実証",
+      "badges": [],
+      "title": "WayveとUber、ロンドンで自動運転配車のPHVライセンス取得 待機10万人超",
+      "summary": "WayveとUberがTransport for LondonからPHV（私的貸切車両）ライセンスを取得し、ロンドンでの自動運転ライドヘイリング試験に道を開いた。待機登録は10万人を超えている。英国での商用認可取得は、欧州の他都市展開の前例になりうる。",
+      "meta": ["認可元 Transport for London", "待機登録 10万人超"],
+      "source": "Auto Connected Car News",
+      "sourceUrl": "https://www.autoconnectedcar.com/2026/08/autonomous-self-driving-vehicle-news-weride-aurora-tier-iv-torc-wayve-uber-moove-pony-ai-tesla-waymo/"
+    },
+    {
+      "rank": 13,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "インド株は続落 センセックス171ポイント安、PSU銀行が下押し",
+      "summary": "8月24日のインド市場はセンセックスが171.72ポイント安（-0.22%）の77,369.11、ニフティ50が32.95ポイント安（-0.14%）の24,219.05で終了。ホルムズ海峡を巡る緊張と、90ドル超で高止まりする原油が重石となった。業種別ではNifty PSU Bankが最大の下げ、Nifty Metalが上昇。SBI Life、Adani Ports、Bajaj Financeが売られた。",
+      "meta": ["センセックス 77,369.11", "ニフティ 24,219.05", "取得時点: 8/24引け"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/markets/news/stock-market-live-august-24-nse-bse-sensex-today-nifty50-gift-nifty-hy-tech-engineers-ipo-gmp-today-126082400062_1.html"
+    },
+    {
+      "rank": 14,
+      "field": "india",
+      "sec": "金融政策",
+      "badges": [],
+      "title": "RBI議事要旨がタカ派、10年債6.85%へ上昇 ルピーは95.71",
+      "summary": "RBIの8月MPC議事要旨でインフレ見通しへの警戒と「リスク顕在化時の政策再調整」に言及があり、債券市場が売られた。10年国債利回りは週末時点で6.85%（前週末6.76%）へ上昇し、10月利上げ観測も浮上。ルピーは1ドル=95.71と前週の95.44から下落。RBIはFCNR(B)スワップ窓口の終了を9月30日から8月31日へ前倒しし、短期債の持ち高解消を促した。",
+      "insight": "原油高・通貨安・タカ派の三重奏で、インド資産のリスクプレミアムが再拡大しやすい局面。",
+      "meta": ["10年債 6.85%（8/21時点）", "ルピー 95.71/ドル", "FCNR(B)スワップ終了 8/31へ前倒し"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/finance/news/rupee-under-pressure-bond-yields-rise-on-crude-hawkish-mpc-signals-126082101219_1.html"
+    },
+    {
+      "rank": 15,
+      "field": "AI",
+      "sec": "半導体",
+      "badges": [],
+      "title": "Xiaomi、3nm自社チップ「Xring O3」を発表 開発に30億ドル",
+      "summary": "Xiaomiが3nmプロセスの自社設計SoC「Xring O3」を発表した。同社はチップ開発に30億ドルを投じており、端末の性能とAI処理を内製で握る狙い。中国勢による先端プロセス採用の自社チップとして規模の大きい事例となる。",
+      "meta": ["プロセス 3nm", "開発投資 $3B"],
+      "source": "Tech Startups（原典: Reuters）",
+      "sourceUrl": "https://techstartups.com/2026/08/24/top-tech-news-today-august-24-2026-alibaba-amazon-hugging-face-nvidia-xpeng-more/"
+    },
+    {
+      "rank": 16,
+      "field": "ad",
+      "sec": "海外展開",
+      "badges": [],
+      "title": "WeRide、デンマークに進出 欧州6カ国目・保有2,800台超",
+      "summary": "中国WeRideがGreenMobilityと組み、デンマークで自動運転サービスを開始する。欧州では6カ国目で、フランス・ベルギー・スロバキア・スペイン・スイスに続く。保有する自動運転車は2,800台超、展開都市は世界40都市に達した。",
+      "meta": ["欧州6カ国目", "保有 2,800台超", "40都市"],
+      "source": "Auto Connected Car News",
+      "sourceUrl": "https://www.autoconnectedcar.com/2026/08/autonomous-self-driving-vehicle-news-weride-aurora-tier-iv-torc-wayve-uber-moove-pony-ai-tesla-waymo/"
+    },
+    {
+      "rank": 17,
+      "field": "AI",
+      "sec": "規制・輸出管理",
+      "badges": ["us"],
+      "title": "台湾検察、AIサーバー130台の対中不正輸出で9人を起訴",
+      "summary": "台湾の検察当局が、Supermicro製のB300サーバー130台を中国へ違法に輸出したとして9人を起訴した。米国の対中輸出規制を迂回する経路が実際に立件された事例で、AIサーバーの流通管理が域内でも厳格化している。",
+      "insight": "第三国経由の迂回輸出が刑事事件化する流れで、調達サプライチェーンの出所確認コストが上がる。",
+      "meta": ["対象 Supermicro B300×130台", "起訴 9名"],
+      "source": "Tech Startups（原典: Reuters）",
+      "sourceUrl": "https://techstartups.com/2026/08/24/top-tech-news-today-august-24-2026-alibaba-amazon-hugging-face-nvidia-xpeng-more/"
+    },
+    {
+      "rank": 18,
+      "field": "auto",
+      "sec": "新機能・OTA",
+      "badges": ["us"],
+      "title": "Rivian、OTA「2026.31」でWaze連携 速度カメラ・通報を車載ナビに",
+      "summary": "Rivianがソフトウェア更新2026.31を配信し、R1・R2のナビゲーションにWazeのアラートを統合した。速度取締カメラや警察の通報情報が車載画面に表示される。地図・交通情報を外部コミュニティ由来のデータで補強する動き。",
+      "meta": ["バージョン 2026.31", "対象 R1・R2"],
+      "source": "autoevolution",
+      "sourceUrl": "https://www.autoevolution.com/news/"
+    },
+    {
+      "rank": 19,
+      "field": "india",
+      "sec": "対印投資・製造",
+      "badges": [],
+      "title": "Infineon、C2i Semiconductorsを買収 インドR&D拠点を拡充",
+      "summary": "独Infineonが電源管理技術を持つC2i Semiconductorsを買収した。AIデータセンター向けの電源設計を強化するとともに、インドでのR&D体制を拡大する。電力密度がAIインフラの制約になるなか、電源系の内製化を進める動き。",
+      "insight": "インドが半導体の後工程だけでなく設計R&Dの受け皿としても選ばれ始めている。",
+      "meta": ["領域: AIデータセンター向け電源管理", "インドR&D拡充"],
+      "source": "Tech Startups（原典: Infineon）",
+      "sourceUrl": "https://techstartups.com/2026/08/24/top-tech-news-today-august-24-2026-alibaba-amazon-hugging-face-nvidia-xpeng-more/"
+    },
+    {
+      "rank": 20,
+      "field": "ad",
+      "sec": "センサ・サプライ",
+      "badges": [],
+      "title": "Innoviz、世界大手自動車メーカーと高速域LiDAR知覚スタックで開発契約",
+      "summary": "イスラエルのInnoviz Technologiesが、世界上位10社に入る自動車メーカー（社名非公表）と高速道路向けLiDAR知覚スタックの開発契約を締結した。高速域の運行設計領域（ODD）を対象とし、量産前提の知覚ソフトまで含む点が特徴。",
+      "meta": ["対象ODD: 高速道路・高速域", "相手先は非公表（要確認）"],
+      "source": "Auto Connected Car News",
+      "sourceUrl": "https://www.autoconnectedcar.com/2026/08/autonomous-self-driving-vehicle-news-weride-aurora-tier-iv-torc-wayve-uber-moove-pony-ai-tesla-waymo/"
+    }
+  ],
+  "weekly": [
+    "米が対イラン「D-Day制裁」を発動。第三国への二次制裁が柱で、原油と海運コストに波及。",
+    "NVIDIAがPoolsideに60億ドル規模をコミット、Perplexity出資も協議。GPU大手のアプリ層囲い込みが加速。",
+    "米50%自動車関税が発動しカナダが同等報復。北米サプライチェーンのコスト前提が変わる。"
+  ]
+}
