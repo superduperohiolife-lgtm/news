@@ -1,0 +1,248 @@
+{
+  "date": "2026-08-26",
+  "sub": "水",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "通商・地政学",
+      "badges": ["us"],
+      "title": "米加通商戦争が深化 トランプ氏がカナダ車関税50%を明言、カーニー首相は対抗を宣言",
+      "summary": "トランプ大統領がカナダ製自動車への関税を50%に引き上げると表明し、対立が一段と激化。カーニー首相は米国との通商交渉を停止したうえで、同等の対抗措置を取ると明言した。米加双方が報復の応酬に入り、北米サプライチェーンへの影響が現実味を帯びる。",
+      "insight": "北米生産を前提にした完成車・部品の物流設計そのものが見直し対象になる。",
+      "meta": ["カナダ車関税 50%", "交渉は停止"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
+      "followup": {
+        "since": "2026-08-25",
+        "whatsNew": "発動段階から一段進み、カーニー首相が交渉停止と同等報復を公式に表明した。"
+      }
+    },
+    {
+      "rank": 2,
+      "field": "AI",
+      "sec": "半導体",
+      "badges": ["us"],
+      "title": "OpenAI、自社設計チップがテストでNvidia製を上回ると主張",
+      "summary": "OpenAIが、自社開発したAIチップが社内テストでNvidia製プロセッサを上回る性能を示したと主張していると報じられた。学習・推論基盤の内製化を進める同社が、最大の調達先であるNvidiaへの依存を相対化する動きとなる。性能比較の詳細な条件は公表されていない(要確認)。",
+      "insight": "AI基盤の内製化競争が、モデルからシリコンの層へ本格的に降りてきた。",
+      "meta": ["自社チップ", "対Nvidia性能主張"],
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-25/openai-claims-its-new-chips-can-outperform-nvidia-processors-in-tests"
+    },
+    {
+      "rank": 3,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "米株はNvidia決算とジャクソンホールを控え小幅高 S&P500が上昇",
+      "summary": "8月25日の米市場はS&P500が上昇。翌26日に予定されるNvidiaの四半期決算と、ジャクソンホール会合を控えた様子見が支配的だった。同日はPCE物価指数の発表も控え、投資家は金融政策と半導体需要の二つの材料待ちとなっている。",
+      "meta": ["Nvidia決算 8/26", "PCE・ジャクソンホール"],
+      "source": "TheStreet",
+      "sourceUrl": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-25-2026"
+    },
+    {
+      "rank": 4,
+      "field": "auto",
+      "sec": "品質・リコール",
+      "badges": ["us"],
+      "title": "NHTSA、GMのeBoostブレーキ調査を116万台規模に拡大",
+      "summary": "米NHTSAがGMのブレーキ・バイ・ワイヤ「eBoost」システムの不具合調査を約116万台へ拡大した。対象にはEVを含む複数ブランドが含まれ、調査はエンジニアリング解析(EA26006)の段階に進んでいる。当初はキャデラック1車種の申告から始まった案件だった。",
+      "insight": "電子制御ブレーキは点検ではなくソフト起因の系統的欠陥として扱われ始めている。",
+      "meta": ["対象 約116万台", "EA26006"],
+      "source": "The BRAKE Report",
+      "sourceUrl": "https://thebrakereport.com/gm-eboost-brake-investigation-nhtsa-ea26006/",
+      "followup": {
+        "since": "2026-08-25",
+        "whatsNew": "「110万台超を調査」から対象台数が約116万台に確定し、エンジニアリング解析へ格上げされた。"
+      }
+    },
+    {
+      "rank": 5,
+      "field": "auto",
+      "sec": "労使・生産",
+      "badges": [],
+      "title": "現代自動車、労組と暫定賃金合意 追加ストを回避",
+      "summary": "現代自動車が韓国の労働組合と賃金交渉で暫定合意に達した。数次のストライキを経ての妥結で、これ以上の生産停止は当面回避される見通し。合意内容は組合員投票による承認手続きが残る。",
+      "meta": ["暫定合意", "追加スト回避"],
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-25/hyundai-motor-union-reach-tentative-deal-to-end-wage-dispute"
+    },
+    {
+      "rank": 6,
+      "field": "AI",
+      "sec": "資金調達",
+      "badges": ["us"],
+      "title": "AIクラウドのLambda、IPO前に最大30億ドル調達を協議 評価額120億ドル",
+      "summary": "GPUクラウドを手がけるLambdaが、株式公開に先立ち最大30億ドルのプレIPOラウンドを協議していると報じられた。評価額は120億ドル超が視野に入り、2026年の売上高は15億ドル超が見込まれている(会社見通し・要確認)。同社は数カ月前にもチップ調達目的で9億1,700万ドルを借り入れている。",
+      "insight": "モデル企業ではなく計算基盤の事業者に資本が集中する構図が続いている。",
+      "meta": ["調達 最大$3B", "評価額 $12B超"],
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-24/ai-cloud-provider-lambda-in-talks-for-3-billion-pre-ipo-round"
+    },
+    {
+      "rank": 7,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "ネバダ州、Tesla・Uber・Waymoに商用ロボタクシー許可 クラーク郡で最大7,000台",
+      "summary": "ネバダ州の規制当局が、Tesla、Uber、Waymoの3社に有償ロボタクシー運行の商用許可を与えた。クラーク郡(ラスベガス圏)で最大7,000台の無人車両の運行が認められる枠組みで、Teslaにとってはラスベガス展開の前提が整った形。カリフォルニア以外で複数社が同時に商用枠を得た点が新しい。",
+      "insight": "州単位の許認可が「1社ずつの実証」から「複数社同時の商用枠」に移行しつつある。",
+      "meta": ["最大7,000台", "クラーク郡"],
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/"
+    },
+    {
+      "rank": 8,
+      "field": "india",
+      "sec": "IT・M&A",
+      "badges": [],
+      "title": "TCS、ポルシェのIT子会社MHPを3億7,325万ユーロで買収 欧州事業を強化",
+      "summary": "インドITのTCSが、ポルシェ傘下のITコンサルティング会社MHPを3億7,325万ユーロで買収すると発表した。報道では関連契約を含めた取引規模は約1兆4,000億ルピー規模とされる。自動車業界向けのデジタル/AI変革需要を取り込み、欧州でのプレゼンスを一気に引き上げる狙い。",
+      "insight": "インドITの成長ドライバーが人月型のオフショアから欧州製造業のAI変革に移っている。",
+      "meta": ["買収額 €373.25M", "欧州・自動車領域"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/companies/news/tcs-to-acquire-porsche-s-it-division-mhp-for-373-25-million-126082400886_1.html"
+    },
+    {
+      "rank": 9,
+      "field": "india",
+      "sec": "投資誘致",
+      "badges": ["jp"],
+      "title": "インド、日本に10年で10兆円の対印投資を要請 半導体・AI・データセンターが対象",
+      "summary": "ゴヤル商工相が日本側に対し、今後10年間で10兆円規模の対インド投資を要請した。重点分野として半導体、AI、データセンター、再生可能エネルギーを挙げている。製造業誘致策と組み合わせ、日本企業の生産・研究拠点の移転を促す狙い。",
+      "meta": ["10年 10兆円", "半導体・AI・DC・再エネ"],
+      "source": "Blitz India Media",
+      "sourceUrl": "https://blitzindiamedia.com/news/india-economy-trade-upi-agriculture-banking-policy-updates-25-august-2026/"
+    },
+    {
+      "rank": 10,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "日経平均は328円高で3日ぶり反発 売られすぎ銘柄に買い戻し",
+      "summary": "8月25日の東京市場で日経平均株価は328円高と3日ぶりに反発した。売られすぎ銘柄への買い戻しが中心で、商いは夏枯れ基調が続いた。米半導体大手の決算イベントを控えた様子見も重なり、上値追いには至らなかった。",
+      "meta": ["+328円 3日ぶり反発", "商いは低調"],
+      "source": "日本経済新聞",
+      "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL250UGTV20C26A8000000/"
+    },
+    {
+      "rank": 11,
+      "field": "econ",
+      "sec": "商品",
+      "badges": ["us"],
+      "title": "原油が3%超下落しWTI82ドル台 金は4,695ドル近辺",
+      "summary": "8月25日の米朝方の取引で、WTI原油が3.14%安の1バレル82.34ドルまで下落した。金先物は0.60%安の1オンス4,695ドル、銀は1.08%安の67.85ドル。前週まで地政学リスクで高止まりしていた原油が反落し、インフレ観測の後退材料となった。",
+      "meta": ["WTI $82.34 -3.14%", "金 $4,695 -0.60%", "取得時点: 8/25 米朝方"],
+      "source": "TheStreet",
+      "sourceUrl": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-25-2026"
+    },
+    {
+      "rank": 12,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": [],
+      "title": "オランダ当局、Uberに8億2,500万ユーロの制裁金 自動判定によるドライバー停止を問題視",
+      "summary": "オランダのデータ保護当局(AP)が、Uberに対し8億2,500万ユーロ(約9億6,600万ドル)の制裁金を科した。アルゴリズムによる自動判定でドライバーのアカウントを停止しながら、十分な人的レビューと説明を欠いていた点がGDPR違反と認定された。自動意思決定への制裁としては過去最大級。",
+      "insight": "AIの業務適用は精度ではなく「人的レビューの証跡」で法的リスクが決まる段階に入った。",
+      "meta": ["制裁金 €825M", "GDPR 自動意思決定"],
+      "source": "Autoriteit Persoonsgegevens",
+      "sourceUrl": "https://www.autoriteitpersoonsgegevens.nl/en/current/uber-fined-nearly-825-million-euros-for-automated-driver-blocking"
+    },
+    {
+      "rank": 13,
+      "field": "auto",
+      "sec": "品質・リコール",
+      "badges": ["us"],
+      "title": "NHTSA、GMの6.2L V8エンジン故障で約100万台のピックアップ・SUVを調査",
+      "summary": "米NHTSAが、GMの6.2リッター「L87」V8エンジンを搭載するピックアップとSUV約100万台を対象に調査を進めている。既存のリコール後にも故障の報告が積み上がっており、対策の有効性そのものが焦点となっている。ブレーキ系の調査とは別件。",
+      "meta": ["対象 約100万台", "L87エンジン"],
+      "source": "Claims Journal",
+      "sourceUrl": "https://www.claimsjournal.com/news/national/2026/08/24/339741.htm"
+    },
+    {
+      "rank": 14,
+      "field": "auto",
+      "sec": "品質・リコール",
+      "badges": ["jp"],
+      "title": "三菱、アウトランダーPHEV 1万3,226台をリコール ナビゲーション不具合",
+      "summary": "三菱自動車がアウトランダーPHEV 1万3,226台のリコールを国交省に届け出た。ナビゲーションシステムの不具合が対象で、表示・動作が正常に行われない恐れがある。国内の届出案件としては中規模だが、車載ソフト起因の不具合が続く流れの一例。",
+      "meta": ["1万3,226台", "ナビ不具合"],
+      "source": "レスポンス",
+      "sourceUrl": "https://response.jp/article/2026/08/25/415668.html"
+    },
+    {
+      "rank": 15,
+      "field": "india",
+      "sec": "通商・農業",
+      "badges": [],
+      "title": "インド、小麦・小麦粉の輸出を4年ぶりに自由化",
+      "summary": "インド政府が小麦および小麦粉製品を輸出禁止リストから外し、4年ぶりに輸出を自由化した。国内在庫の改善を背景とした措置で、パンジャブ州などの製粉業に追い風となる。国際穀物市況の需給観測にも影響しうる。",
+      "meta": ["4年ぶり解禁", "製粉業に追い風"],
+      "source": "Blitz India Media",
+      "sourceUrl": "https://blitzindiamedia.com/news/india-economy-trade-upi-agriculture-banking-policy-updates-25-august-2026/"
+    },
+    {
+      "rank": 16,
+      "field": "india",
+      "sec": "産業",
+      "badges": [],
+      "title": "インド粗鋼生産は4〜7月に5,620万トン、鋼材輸入が36.6%増",
+      "summary": "インドの4〜7月の粗鋼生産は5,620万トンで前年同期比2.4%増となった一方、消費は5,600万トンと生産に迫る水準。鋼材輸入は276万トンで36.6%増と急伸し、うち中国と韓国が約6割を占める。国内需要の強さと輸入依存の同時進行が鮮明になっている。",
+      "meta": ["粗鋼 5,620万トン +2.4%", "鋼材輸入 +36.6%"],
+      "source": "Blitz India Media",
+      "sourceUrl": "https://blitzindiamedia.com/news/india-economy-trade-upi-agriculture-banking-policy-updates-25-august-2026/"
+    },
+    {
+      "rank": 17,
+      "field": "ad",
+      "sec": "センサ・サプライ",
+      "badges": ["us"],
+      "title": "Hesai、米大手ロボタクシー企業と4,000万ドルのLiDAR供給契約",
+      "summary": "中国のLiDARメーカーHesaiが、米国の大手ロボタクシー企業と4,000万ドル規模の新規供給契約を締結したと発表した。相手先企業名は明らかにされていない(要確認)。米中の技術規制が強まるなかでも、無人運転向けセンサの調達では中国製の存在感が続いている。",
+      "insight": "センサ調達の実務は、規制議論よりコストと供給能力で決まっている。",
+      "meta": ["契約 $40M", "相手先は非開示"],
+      "source": "Barchart",
+      "sourceUrl": "https://www.barchart.com/story/news/34803959/hesai-signs-new-40-million-lidar-contract-with-leading-u-s-robotaxi-company"
+    },
+    {
+      "rank": 18,
+      "field": "AI",
+      "sec": "資金調達",
+      "badges": ["us"],
+      "title": "世界モデルのGeneral Intuition、評価額が8週間で3倍の60億ドルに",
+      "summary": "世界モデル(ワールドモデル)を開発するGeneral Intuitionの評価額が、23億ドルから60億ドルへと約8週間で3倍に跳ね上がったと報じられた(一次ソース未確認・要確認)。映像から物理世界の挙動を学習するアプローチに資金が集中している。ロボティクスや自動運転への波及が期待材料となっている。",
+      "meta": ["評価額 $2.3B→$6B (要確認)", "約8週間"],
+      "source": "AI Weekly",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 19,
+      "field": "ad",
+      "sec": "技術",
+      "badges": ["us"],
+      "title": "Waymoのロボタクシー拡大を支える自社設計チップに注目",
+      "summary": "TechCrunchのモビリティ特集が、Waymoのロボタクシー事業を支えるカスタム半導体を取り上げた。車載での推論性能と消費電力の両立が量産展開の制約となるなか、自社設計チップがコスト構造を左右する要素として位置づけられている。具体的な仕様・供給先は非公開(要確認)。",
+      "meta": ["自社設計チップ", "仕様は非公開"],
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/"
+    },
+    {
+      "rank": 20,
+      "field": "econ",
+      "sec": "中央銀行",
+      "badges": ["us"],
+      "title": "ジャクソンホール、ウォーシュFRB議長が就任後初の講演へ",
+      "summary": "ケビン・ウォーシュFRB議長が、ジャクソンホール会合で議長就任後初の講演に臨む。金融政策の枠組みと今後の利下げ姿勢をどう位置づけるかが最大の焦点。同週にはPCE物価指数の公表も重なり、金利・為替のボラティリティが高まりやすい局面となる。",
+      "meta": ["就任後初講演", "同週にPCE"],
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-22/kevin-warsh-to-make-first-jackson-hole-speech-as-fed-chair"
+    }
+  ],
+  "weekly": [
+    "米加通商戦争が深化。カナダ車関税50%とカーニー首相の対抗宣言で北米サプライチェーンに直撃リスク",
+    "OpenAIが自社チップでNvidia超えを主張。AI基盤の内製化競争がシリコン層へ本格移行",
+    "オランダ当局がUberに825百万ユーロのGDPR制裁金。自動意思決定に人的レビュー欠如が致命傷に"
+  ]
+}
