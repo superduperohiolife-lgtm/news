@@ -1,0 +1,334 @@
+{
+  "date": "2026-08-27",
+  "sub": "木",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "物価・金融政策",
+      "badges": [
+        "us"
+      ],
+      "title": "米7月コアPCEは前年比3.3%と市場予想を上回る 9月利下げ観測に冷や水",
+      "summary": "米商務省が8月26日に公表した7月のPCE物価指数は、変動の大きい 食品・エネルギーを除くコアが前年同月比3.3%上昇し、市場予想を0.1ポイント上回った。前月比は0.2%上昇。総合PCEは前年比3.7%上昇と高止まりが続く。個人所得は1,151億ドル(前月比0.4%)増、個人消費支出は0.2%増と予想を上回った。",
+      "insight": "FOMCは9月15〜16日に金利を決定する。インフレの粘着性が確認され、利下げ着手の判断は一段と難しくなった。",
+      "meta": [
+        "コア3.3%(前年比)",
+        "コア0.2%(前月比)",
+        "総合3.7%",
+        "FOMC 9/15-16"
+      ],
+      "source": "UPI",
+      "sourceUrl": "https://www.upi.com/Top_News/US/2026/08/26/july-2026-personal-consumption-expenditures-core-inflation-report/4341787752986/"
+    },
+    {
+      "rank": 2,
+      "field": "AI",
+      "sec": "資本市場・IPO",
+      "badges": [
+        "us"
+      ],
+      "title": "Anthropic、IPO投資家に30兆ドル超の市場機会を提示へ WSJ報道",
+      "summary": "Wall Street Journalの報道によると、AnthropicはIPOに向けた投資家向け説明で、同社が狙える潜在的な収益機会を30兆ドル超と位置づける見通し。調達額は1,000億ドル超、想定評価額は2兆ドル規模と報じられており、実現すればSpaceXを上回る史上最大級のIPOとなる。上場時期は10月との報道もある(要確認)。",
+      "insight": "AI企業の評価をTAMの大きさで正当化する構図が鮮明。市場が「取り込み率」をどう織り込むかが焦点。",
+      "meta": [
+        "TAM 30兆ドル超",
+        "調達1,000億ドル超",
+        "評価額2兆ドル規模"
+      ],
+      "source": "Reuters / Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/anthropic-expected-tell-investors-sees-165618194.html"
+    },
+    {
+      "rank": 3,
+      "field": "econ",
+      "sec": "企業財務",
+      "badges": [
+        "jp"
+      ],
+      "title": "ソフトバンクG、OpenAI出資の借り換えへ最大200億ドルの社債発行を検討",
+      "summary": "Bloombergは8月26日、ソフトバンクグループが100億〜200億ドル規模の社債発行を検討していると報じた。2027年3月に満期を迎える400億ドルのOpenAI向けブリッジローンの借り換えが目的。OpenAIへの追加払い込み100億ドルが10月1日に控える。同社のOpenAIへの総コミットメントは約650億ドル、出資比率は約13%とされる。",
+      "insight": "AI投資の資金繰りが社債市場に直接波及する局面。調達条件は日本のクレジット市場全体の指標になる。",
+      "meta": [
+        "社債100〜200億ドル",
+        "ブリッジ400億ドル(2027年3月満期)",
+        "10/1に100億ドル払込"
+      ],
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-26/softbank-mulls-up-to-20-billion-bond-sale-for-openai-financing"
+    },
+    {
+      "rank": 4,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": [],
+      "title": "中国Moonshot AI、Kimi K3を巡りMicrosoft・Amazon・Googleと収益分配交渉",
+      "summary": "Reutersが8月26日に報じたところによると、中国のMoonshot AIが自社の大規模モデル「Kimi K3」について、Microsoft、Amazon Web Services、Google Cloudと約30%の収益分配契約を協議している。交渉は初期段階。Kimi K3はパラメータ数2.8兆規模とされる。実現すれば中国発モデルが米大手クラウド経由で提供される初のケースとなる。",
+      "insight": "米クラウド3社が中国モデルを扱うかは、技術規制と商業合理性がぶつかる試金石。",
+      "meta": [
+        "収益分配 約30%",
+        "Kimi K3 2.8兆パラメータ",
+        "交渉は初期段階"
+      ],
+      "source": "Reuters",
+      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/exclusive-chinas-moonshot-talks-microsoft-075340033.html"
+    },
+    {
+      "rank": 5,
+      "field": "india",
+      "sec": "市場・IT",
+      "badges": [],
+      "title": "インド株は反落 米ビザ審査停止でIT株に売り Sensexは183ポイント安",
+      "summary": "8月26日のインド株式市場は、寄り付き後の上昇を消して反落。Sensexは183.15ポイント(0.24%)安の77,472.94、Nifty50は126.80ポイント(0.52%)安の24,207.75で引けた。米国の移民規制強化に伴うビザ面接枠の停止を受け、IT株が利益率悪化懸念で売られた。金属・銀行・製薬は上昇、ITとFMCGが下落。Bharti Airtel、Reliance、Infosys、TCSなど主力9銘柄が下げた。",
+      "insight": "対米人材派遣モデルへの規制リスクが、決算ではなく株価の側から先に織り込まれ始めた。",
+      "meta": [
+        "Sensex 77,472.94(-183.15)",
+        "Nifty 24,207.75(-126.80)",
+        "IT・FMCG安"
+      ],
+      "source": "Business Today",
+      "sourceUrl": "https://www.businesstoday.in/markets/stocks/story/why-did-sensex-nifty-erase-gains-to-settle-lower-today-551531-2026-08-26"
+    },
+    {
+      "rank": 6,
+      "field": "india",
+      "sec": "対米・人材",
+      "badges": [
+        "us"
+      ],
+      "title": "米、ビザ面接予約を世界的に停止 インドのIT技術者・留学生に影響",
+      "summary": "トランプ政権が米ビザの面接予約を世界的に停止したと8月26日に報じられた。SNS等のオンライン上の言動を審査する新方針に伴い、在インド米大使館ではH-1B・H-4の予約が多数取り消されている。インドのIT技術者と留学生は面接枠の確保が大幅に遅れる見通し。停止の解除時期は明らかにされていない(要確認)。",
+      "insight": "インドIT大手のオンサイト要員計画に直接効く。短期は出張・赴任の遅延、中期はオフショア比率の押し上げ要因。",
+      "meta": [
+        "面接予約を世界的に停止",
+        "H-1B・H-4の予約取消",
+        "解除時期は未定(要確認)"
+      ],
+      "source": "Business Today",
+      "sourceUrl": "https://www.businesstoday.in/nri/visa/story/trump-admin-pauses-us-visa-appointments-globally-indian-students-workers-to-face-delays-in-getting-interview-slots-551388-2026-08-26"
+    },
+    {
+      "rank": 7,
+      "field": "auto",
+      "sec": "通商・関税",
+      "badges": [
+        "us"
+      ],
+      "title": "カナダが200億ドル規模の対米関税を発動 完成車は除外も鋼材コストが上昇",
+      "summary": "カナダが米国製品に対し200億ドル規模の関税を発動した。完成車は直接の対象から外れたものの、鉄鋼・アルミのコストが上昇しており、米自動車メーカーとディーラーの負担増につながっている。トランプ政権によるカナダ車への50%関税表明への対抗措置の一環。",
+      "insight": "車両本体を避けて素材を狙う設計。価格転嫁は数か月遅れで新車価格に出る。",
+      "meta": [
+        "関税規模200億ドル",
+        "完成車は直接対象外",
+        "鋼材・アルミ高"
+      ],
+      "source": "CBT News",
+      "sourceUrl": "https://www.cbtnews.com/cbt-automotive-newscast-august-26-2026",
+      "followup": {
+        "since": "2026-08-26",
+        "whatsNew": "米のカナダ車50%関税表明に対し、カナダ側が200億ドル規模の報復関税を実際に発動した。"
+      }
+    },
+    {
+      "rank": 8,
+      "field": "ad",
+      "sec": "規制・認可",
+      "badges": [],
+      "title": "ロンドンのロボタクシー商用化が2026年内断念へ TfLの安全指針が未整備",
+      "summary": "Transport for London(TfL)が安全指針と許可の発行に至らず、ロンドンでのロボタクシー商用展開が2026年内から先送りとなった。UberとWayveは今夏にセーフティドライバー付きで開始する計画だったが延期。Baiduは2027年を目標にテスト中、Waymoは来年ミュンヘンでの開始を予定する。10万人超のロンドン市民が利用意向を示す一方、自動運転の正式許可を得た事業者はまだない。",
+      "insight": "英国は「技術より規制が律速」の典型例に。欧州展開の起点はロンドンからミュンヘンへ移る可能性。",
+      "meta": [
+        "商用化は2027年以降",
+        "許可取得事業者ゼロ",
+        "Baiduは2027年目標"
+      ],
+      "source": "NewsBytes",
+      "sourceUrl": "https://www.newsbytesapp.com/news/auto/transport-for-london-pauses-robotaxi-rollout-pending-safety-rules/tldr"
+    },
+    {
+      "rank": 9,
+      "field": "AI",
+      "sec": "資本市場・IPO",
+      "badges": [],
+      "title": "DeepSeek、2027年の上海STAR市場上場へプレIPO調達が最終段階",
+      "summary": "South China Morning Postは8月26日、中国DeepSeekがIPO前の資金調達を近く完了する見通しと報じた。調達額は約500億元(約70億ドル)、評価額は約5,000億元(約740億ドル)。上場先は上海のSTAR Market、時期は2027年が有力とされる。出資検討先にMonolith、Shixiang Capital、CATLの名が挙がっている。",
+      "insight": "中国AIの資金調達が国内資本市場で完結する流れ。米国上場を前提としない成長経路が固まりつつある。",
+      "meta": [
+        "調達 約500億元",
+        "評価額 約740億ドル",
+        "STAR Market・2027年"
+      ],
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/tech/big-tech/article/3365280/deepseek-nears-pre-ipo-funding-round-2027-market-debut-takes-shape-sources"
+    },
+    {
+      "rank": 10,
+      "field": "econ",
+      "sec": "市場",
+      "badges": [
+        "jp"
+      ],
+      "title": "日経平均は405円高の6万6262円で続伸 売り一巡後に買い戻し優勢",
+      "summary": "8月26日の東京株式市場で日経平均株価は前日比405.73円高の66,262.16円と続伸した。寄り付きは251円安と軟調に始まったが、売り一巡後は買い戻しが優勢となり、前引け時点で371円高まで戻していた。半導体関連の一角には売りが先行した。",
+      "insight": "Nvidia決算を控えた様子見の中でも押し目買いが入る地合い。決算後のギャップに注意。",
+      "meta": [
+        "終値66,262.16円",
+        "前日比+405.73円",
+        "続伸"
+      ],
+      "source": "財経新聞",
+      "sourceUrl": "https://www.zaikei.co.jp/article/20260826/867414.html"
+    },
+    {
+      "rank": 11,
+      "field": "auto",
+      "sec": "販売動向",
+      "badges": [
+        "us"
+      ],
+      "title": "米8月の新車販売は底堅く推移 年率換算1,640万台、ハイブリッドが牽引",
+      "summary": "Cox Automotiveによると、米国の8月の新車販売は経済的な圧力が強まるなかでも底堅さを維持し、季節調整済み年率(SAAR)は1,640万台の水準を保った。伸びを牽引しているのはハイブリッド車の需要。EV需要の鈍化と対照的な動きが続いている。",
+      "insight": "米国市場の実需はEVではなくハイブリッドに寄っている。日本勢の商品構成に追い風。",
+      "meta": [
+        "SAAR 1,640万台",
+        "ハイブリッドが牽引"
+      ],
+      "source": "CBT News / Cox Automotive",
+      "sourceUrl": "https://www.cbtnews.com/cbt-automotive-newscast-august-26-2026"
+    },
+    {
+      "rank": 12,
+      "field": "ad",
+      "sec": "製品・展開",
+      "badges": [
+        "us"
+      ],
+      "title": "Tesla、Cybercabの披露イベントを9月3日にオースティンで開催",
+      "summary": "Teslaは9月3日にテキサス州オースティンで招待制イベント「Exclusive Access: Cybercab」を開催すると告知した。ロボタクシー抽選の上位ライダーと郵送応募者に招待が送られ、当選者は8月26日に発表。参加は21歳以上、RSVP期限は8月30日で、現地に来られない層向けにライブ配信も行う。2人乗りのCybercabが既存のオースティン車両群に加わり、Model Yロボタクシーと同じアプリで配車される。",
+      "insight": "新型車の投入というより車両の入れ替え。台数と稼働率がスケールの実質的な指標になる。",
+      "meta": [
+        "9/3 オースティン",
+        "招待制＋ライブ配信",
+        "RSVP期限8/30"
+      ],
+      "source": "Electrek",
+      "sourceUrl": "https://electrek.co/2026/08/24/tesla-cybercab-exclusive-access-robotaxi-sept-3/"
+    },
+    {
+      "rank": 13,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": [
+        "us"
+      ],
+      "title": "IBM、Granite 4.2を公開 3B/8B/30Bの推論・エージェント対応モデルをApache 2.0で提供",
+      "summary": "IBMがオープンウェイトのGranite 4.2ファミリーを公開した。パラメータ規模は3B・8B・30Bの3種類で、コンテキスト長は128,000トークン。ネイティブな推論機能とエージェント動作を強化学習で組み込んでおり、ローカル配備と企業向けエージェント用途を想定する。ライセンスはApache 2.0で、Hugging Face、Ollama、GitHubから入手できる。",
+      "insight": "商用利用可のライセンスで推論特化モデルが降りてきた。オンプレ要件のある業務では現実的な選択肢。",
+      "meta": [
+        "3B/8B/30B",
+        "128Kコンテキスト",
+        "Apache 2.0"
+      ],
+      "source": "IBM Research",
+      "sourceUrl": "https://research.ibm.com/blog/introducing-granite-4-2"
+    },
+    {
+      "rank": 14,
+      "field": "auto",
+      "sec": "生産・投資",
+      "badges": [
+        "us"
+      ],
+      "title": "ホンダ、次期生産拠点として米国を検討 ハイブリッド需要の急増を受け",
+      "summary": "ホンダが次の生産工場の建設先として米国を有力候補としていると報じられた。米市場でハイブリッド車の需要が急伸していることが背景。具体的な立地・投資額・稼働時期は明らかにされていない(要確認)。",
+      "insight": "関税環境の下では現地生産が実質的な唯一の解。日本勢の北米投資の追加発表が続く可能性。",
+      "meta": [
+        "次期工場は米国が有力",
+        "立地・投資額は未公表(要確認)"
+      ],
+      "source": "CBT News",
+      "sourceUrl": "https://www.cbtnews.com/cbt-automotive-newscast-august-26-2026"
+    },
+    {
+      "rank": 15,
+      "field": "econ",
+      "sec": "商品・市場",
+      "badges": [
+        "us"
+      ],
+      "title": "原油が2.7%下落しWTI80ドル台前半 金は4,682ドル、米株は決算・指標待ちで小動き",
+      "summary": "8月26日の米市場は、PCE統計とNvidia決算を控えて寄り前から方向感を欠いた。同日の寄り前時点でWTI原油10月限は2.68%安の80.15ドル、金は0.25%安の4,682.80ドル、ビットコインは1.14%安の78,998ドル。S&P500先物は0.07%安、ダウ先物は0.10%高、ナスダック100先物は0.21%安、VIXは15.67だった。CrowdStrike、Okta、Williams-Sonomaなどが同日決算を発表した。",
+      "insight": "原油の下げは需要不安というよりリスク織り込みの巻き戻し。金の高値圏維持と併存している点に注意。",
+      "meta": [
+        "WTI 80.15ドル(-2.68%)",
+        "金 4,682.80ドル",
+        "VIX 15.67",
+        "数値は8/26寄り前時点"
+      ],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-26-dow-sp-500-nasdaq-081834782.html"
+    },
+    {
+      "rank": 16,
+      "field": "AI",
+      "sec": "労働・業界",
+      "badges": [
+        "us"
+      ],
+      "title": "Amazon、Mechanical Turkを9月30日に終了 21年の歴史に幕",
+      "summary": "Amazonがクラウドソーシング労働市場「Mechanical Turk」を2026年9月30日に閉鎖する。2005年の開始から21年で、50万人超の登録ワーカーに影響が及ぶ。新規登録は7月30日に停止済み。AIモデルの性能向上で、安価な人手によるデータ注釈への依存が薄れたことが理由とされる。",
+      "insight": "AI学習データの調達構造が「人手の市場」から「合成・自動化」へ移った象徴的な出来事。",
+      "meta": [
+        "9/30終了",
+        "新規登録は7/30停止",
+        "50万人超に影響"
+      ],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html"
+    },
+    {
+      "rank": 17,
+      "field": "auto",
+      "sec": "新車・調達",
+      "badges": [
+        "us"
+      ],
+      "title": "リンカーン、2027年モデルでCorsairを復活 中国生産のハイブリッドを投入",
+      "summary": "フォード傘下のリンカーンが2027年モデルとしてCorsairを復活させる。投入されるのは中国で生産されるハイブリッドモデルで、米ブランドの調達戦略の転換として注目される。価格・発売時期の詳細は未公表(要確認)。",
+      "insight": "関税環境下で中国生産車を米国に持ち込む判断は異例。通商政策の適用範囲を試す動きになる。",
+      "meta": [
+        "2027年モデル",
+        "中国生産ハイブリッド",
+        "価格・時期は未公表(要確認)"
+      ],
+      "source": "CBT News",
+      "sourceUrl": "https://www.cbtnews.com/cbt-automotive-newscast-august-26-2026"
+    },
+    {
+      "rank": 18,
+      "field": "india",
+      "sec": "IT・契約",
+      "badges": [],
+      "title": "インドIT業界、AIで契約構造が変化 顧客は「より少ないコストでより多く」を要求",
+      "summary": "Reutersの報道によると、インドのITサービス各社は、生成AIの導入を前提に顧客から値下げと成果拡大を同時に求められる契約が増えている。人月ベースの積み上げから成果連動型への移行が進み、既存案件の更新時に単価が切り下がる事例が出ている。TCS、Infosysなど大手の売上成長率への影響が焦点。",
+      "insight": "AIは受注機会であると同時に単価下落要因。米ビザ規制と重なり、インドITの収益モデルは二正面の圧力下にある。",
+      "meta": [
+        "成果連動型への移行",
+        "更新時の単価下落",
+        "米ビザ規制と同時進行"
+      ],
+      "source": "Reuters",
+      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/ai-reshapes-indias-services-sector-230207347.html",
+      "followup": {
+        "since": "2026-08-26",
+        "whatsNew": "米ビザ面接停止によるIT株安と重なり、単価・人員の両面で圧力がかかる構図が鮮明になった。"
+      }
+    }
+  ],
+  "weekly": [
+    "米7月コアPCEが前年比3.3%と予想上振れ。9月FOMC(15〜16日)の利下げ判断は難度が上がった。",
+    "AIの資金調達が巨大化。AnthropicはIPOで30兆ドルのTAMを提示、ソフトバンクGは最大200億ドルの社債でOpenAI出資を借り換え検討。",
+    "米ビザ面接の世界的停止でインドIT株が下落。人材移動の制約が業績前提を揺らし始めた。"
+  ]
+}
