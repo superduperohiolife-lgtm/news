@@ -1,0 +1,175 @@
+{
+  "date": "2026-08-28",
+  "sub": "金",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "決算",
+      "badges": ["us"],
+      "title": "NVIDIA第2四半期は売上962億ドル、前年比106%増 データセンターは89.0億ドル規模で117%増",
+      "summary": "NVIDIAが8月26日に2027年度第2四半期決算を発表。売上高は962億ドルで前年同期比106%増、データセンター部門は890億ドルで同117%増。GAAPベースの希薄化後EPSは2.46ドル。第3四半期は1,080億ドル（±2%）を見込む。",
+      "insight": "ガイダンスが1,000億ドル超に乗り、AI投資サイクルの減速懸念は当面後退。",
+      "meta": ["売上962億ドル", "DC 890億ドル", "3Q見通し1,080億ドル"],
+      "source": "NVIDIA（GlobeNewswire）",
+      "sourceUrl": "https://www.globenewswire.com/news-release/2026/08/26/3351702/0/en/nvidia-announces-financial-results-for-second-quarter-fiscal-2027.html"
+    },
+    {
+      "rank": 2,
+      "field": "AI",
+      "sec": "M&A",
+      "badges": ["us"],
+      "title": "NVIDIA、Hugging Faceを129億ドルで買収合意との報道",
+      "summary": "NVIDIAがオープンソースAIプラットフォームのHugging Faceを129億ドルで買収することで合意したと8月27日に報じられた。The Informationの報道をCNBCなどが伝えたもので、両社からの正式発表は確認できていない（要確認）。オープンモデル戦略の強化で、クローズド陣営との競合に備える狙いとされる。",
+      "insight": "モデル配布基盤を押さえる動きで、開発者の入口をハード側が握る構図に。",
+      "meta": ["129億ドル", "報道ベース（正式発表は要確認）"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html"
+    },
+    {
+      "rank": 3,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "米株は8月27日に上昇 ナスダック1.32%高、NVIDIA決算受け買い優勢",
+      "summary": "8月27日の米国株はS&P500が7,723.43（+47.73、+0.62%）、ダウが53,618.56（+154.68、+0.29%）、ナスダックが26,474.45（+344.25、+1.32%）で終了。NVIDIAが約8.3%高となったほか、決算を発表したSalesforceが21.7%高、CrowdStrikeが18.0%高と大きく買われた。",
+      "meta": ["S&P500 +0.62%", "NVDA +8.3%", "CRM +21.7%"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-27-144318504.html"
+    },
+    {
+      "rank": 4,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "テスラ、中国で約298万台のリコールを開始 格納式ドアハンドルの安全性が問題に",
+      "summary": "テスラが中国で約298万台を対象とするリコールを開始した。隠し（格納式）ドアハンドルが事故時に開けられなくなる懸念が指摘されたもので、同社の中国事業として過去最大規模。中国当局はテスラ以外の現地EVメーカーにも同種の設計是正を求めている。",
+      "insight": "ドアハンドル設計は中国発の規制論点として各社に波及する可能性。",
+      "meta": ["約298万台", "格納式ドアハンドル", "中国当局主導"],
+      "source": "The National",
+      "sourceUrl": "https://www.thenationalnews.com/future/technology/2026/08/24/tesla-begins-record-vehicle-recall-in-china-over-hidden-door-handles/"
+    },
+    {
+      "rank": 5,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "インド株は2日続落 Sensexは539ポイント安の76,933、Nifty50は24,091",
+      "summary": "8月27日のインド株はSensexが76,933.59（-539.35、-0.70%）、Nifty50が24,090.85（-116.90、-0.48%）と2営業日続落。金属・PSU銀行・セメント株が下押し、Nifty Cement指数は1%超下落した。値下がり上位はHindalco、HDFC Bank、Mahindra & Mahindra。",
+      "meta": ["Sensex -539.35", "Nifty 24,090.85", "2日続落"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/markets/news/stock-market-live-august-27-nse-bse-sensex-today-nifty50-gift-nifty-share-market-today-126082700092_1.html"
+    },
+    {
+      "rank": 6,
+      "field": "india",
+      "sec": "IT・M&A",
+      "badges": [],
+      "title": "TCS、ポルシェのIT子会社MHPを3億7,325万ドルで買収 5年で12.5億ユーロの契約も獲得",
+      "summary": "インドIT最大手のTCSがポルシェのITコンサル子会社MHPを3億7,325万ドル（約3億2,000万ユーロ）で買収すると発表した。あわせてポルシェ側からAI・IT領域で5年・総額12.5億ユーロ規模の業務契約を得る。TCSの欧州・自動車領域での事業拡大が狙い。",
+      "insight": "インドITの成長軸が人月型から欧州製造業の内製部門買収へシフト。",
+      "meta": ["買収額3億7,325万ドル", "5年12.5億ユーロ契約", "欧州・自動車領域"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/companies/news/tcs-to-acquire-porsche-s-it-division-mhp-for-373-25-million-126082400886_1.html"
+    },
+    {
+      "rank": 7,
+      "field": "ad",
+      "sec": "自動運転",
+      "badges": ["us"],
+      "title": "Waymo、「L2の延長でL4には届かない」と主張 AI開発の10の教訓を公開",
+      "summary": "Waymoは8月27日、完全自動運転で2億マイル超を走行した経験から得た「AIの10の教訓」を公開した。AI基盤責任者のSrikanth Thirumalai氏は、運転支援（L2）の改良を積み上げて完全自動運転に至るのは「偽りの山頂」であり、L4は専用設計のシステムでしか安全に到達できないと指摘。カメラのみの構成やエンドツーエンドのブラックボックス化にも懸念を示した。テスラ名指しはない。",
+      "insight": "センサー構成と説明可能性の2点で、WaymoとTeslaの路線対立が明確化。",
+      "meta": ["自動走行2億マイル超", "有料無人乗車 週50万回超", "社名の名指しなし"],
+      "source": "Electrek",
+      "sourceUrl": "https://electrek.co/2026/08/27/waymo-tesla-self-driving-false-summit/"
+    },
+    {
+      "rank": 8,
+      "field": "AI",
+      "sec": "規制・安全",
+      "badges": ["us"],
+      "title": "OpenAIとAnthropic、AIを悪用したサイバー攻撃への防御強化を提言",
+      "summary": "OpenAIとAnthropicが、モデルの能力向上に伴いAIを用いたサイバー攻撃のリスクが高まっているとして、防御側の対策強化を求めたとBloombergが8月27日に報じた。提言の具体的な内容・宛先は報道時点で詳細が確認できていない（要確認）。",
+      "meta": ["8月27日報道", "詳細は要確認"],
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-27/openai-anthropic-urge-cyber-defense-action-as-ai-models-improve"
+    },
+    {
+      "rank": 9,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "日経平均は8月27日に小幅続落 130円安の66,131円",
+      "summary": "8月27日の東京市場で日経平均株価は前日比130.18円安の66,131.98円で取引を終えた。前日発表のNVIDIA決算を受けた「エヌビディア祭り」は不発で、AI投資の鈍化懸念が上値を抑える展開となった。",
+      "meta": ["終値66,131.98円", "前日比-130.18円"],
+      "source": "財経新聞",
+      "sourceUrl": "https://www.zaikei.co.jp/article/20260827/867596.html"
+    },
+    {
+      "rank": 10,
+      "field": "auto",
+      "sec": "当局調査",
+      "badges": ["us"],
+      "title": "2021年式日産ローグのステアリング不具合調査、リコールなしで終結 対象は約25万台",
+      "summary": "米当局による2021年式日産ローグのステアリング関連調査が、リコールを伴わずに終結した。対象となっていたSUVは約25万台。日産にとっては追加のリコール費用を回避した形。",
+      "meta": ["対象約25万台", "リコールなしで終結"],
+      "source": "Autoblog（Daily Kanban経由）",
+      "sourceUrl": "https://dailykanban.com/2026/08/27/thursday-morning-auto-news-aug-27-2026-no-tesla-recall-in-eu-at-present-judge-dismisses-musks-hate-speech-suit-hyundai-prepares-new-model-onslaught-more/"
+    },
+    {
+      "rank": 11,
+      "field": "AI",
+      "sec": "セキュリティ",
+      "badges": ["us"],
+      "title": "OpenAI・Anthropic・GoogleのAPIに不具合 弱いモデルが強いモデルの推論内容を読み取れる状態に",
+      "summary": "OpenAI・Anthropic・GoogleのAPIに、性能の低いモデル側から高性能モデルの推論過程を復元できてしまう不具合が指摘された。The Hacker Newsが8月に報じたもので、発見者・影響範囲・各社の対応状況は報道時点で確認できていない（要確認）。",
+      "meta": ["主要3社のAPIが対象", "影響範囲・対応は要確認"],
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html"
+    },
+    {
+      "rank": 12,
+      "field": "auto",
+      "sec": "生産・通商",
+      "badges": ["us"],
+      "title": "ホンダ、USMCAが不透明なら北米次期工場の判断を見直す可能性",
+      "summary": "ホンダが、USMCA（米・メキシコ・カナダ協定）の先行きが定まらない場合、北米での次期生産拠点の計画を再検討する可能性が報じられた。前日には米国を次期拠点の候補として検討中と伝えられており、通商枠組みが立地判断の変数になっている。",
+      "followup": {
+        "since": "2026-08-27",
+        "whatsNew": "米国候補の検討報道に続き、USMCA次第で計画自体を見直す可能性が示された。"
+      },
+      "meta": ["USMCAが判断材料", "北米次期拠点"],
+      "source": "Autoblog（Daily Kanban経由）",
+      "sourceUrl": "https://dailykanban.com/2026/08/27/thursday-morning-auto-news-aug-27-2026-no-tesla-recall-in-eu-at-present-judge-dismisses-musks-hate-speech-suit-hyundai-prepares-new-model-onslaught-more/"
+    },
+    {
+      "rank": 13,
+      "field": "auto",
+      "sec": "新車",
+      "badges": [],
+      "title": "ヒョンデ、高性能ブランド「N」で7車種を投入へ ホットハッチとSUVを拡充",
+      "summary": "ヒョンデが高性能ブランド「N」で新たに7車種を投入する準備を進めていると報じられた。ホットハッチと高性能SUVが中心で、EVシフト下でも走行性能を訴求するブランド戦略を継続する。各車の投入時期は明らかになっていない（要確認）。",
+      "meta": ["7車種", "投入時期は要確認"],
+      "source": "Autoblog（Daily Kanban経由）",
+      "sourceUrl": "https://dailykanban.com/2026/08/27/thursday-morning-auto-news-aug-27-2026-no-tesla-recall-in-eu-at-present-judge-dismisses-musks-hate-speech-suit-hyundai-prepares-new-model-onslaught-more/"
+    },
+    {
+      "rank": 14,
+      "field": "auto",
+      "sec": "規制",
+      "badges": [],
+      "title": "欧州ではテスラのリコールは現時点で未発動 オランダ当局が確認",
+      "summary": "テスラの型式認証を所管するオランダの規制当局が、欧州では現時点でテスラのリコールは発動されていないと確認した。中国で約298万台規模のドアハンドル関連リコールが始まったこととは対照的な対応となる。",
+      "meta": ["欧州はリコールなし", "オランダ当局が確認"],
+      "source": "Automotive News（Daily Kanban経由）",
+      "sourceUrl": "https://dailykanban.com/2026/08/27/thursday-morning-auto-news-aug-27-2026-no-tesla-recall-in-eu-at-present-judge-dismisses-musks-hate-speech-suit-hyundai-prepares-new-model-onslaught-more/"
+    }
+  ],
+  "weekly": [
+    "NVIDIAが売上962億ドル・前年比106%増の決算とともに次期1,080億ドルのガイダンスを提示、米株はナスダック1.32%高で反応",
+    "NVIDIAがHugging Faceを129億ドルで買収合意と報道、オープンモデル基盤の囲い込みが焦点に",
+    "テスラが中国で約298万台のドアハンドル関連リコールを開始、欧州は現時点で未発動と当局が確認"
+  ]
+}
