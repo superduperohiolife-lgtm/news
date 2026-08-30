@@ -1,0 +1,189 @@
+{
+  "date": "2026-08-31",
+  "sub": "月",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "マクロ・中央銀行",
+      "badges": ["us"],
+      "title": "ウォーシュFRB議長、ジャクソンホールで利上げ再開を示唆 インフレ粘着を警戒",
+      "summary": "8月28日のジャクソンホール経済政策シンポジウム講演で、ウォーシュFRB議長が高止まりするインフレの抑制には利上げが必要になり得ると発言。短期的な景気の痛みを許容してでも物価安定を優先する姿勢を鮮明にした。市場は年内利上げ再開の可能性を一気に織り込みに動いた。",
+      "insight": "利下げ局面の終了ではなく「逆回転」の可能性が論点に移った。",
+      "meta": ["2026年ジャクソンホール", "8/28 講演"],
+      "source": "PBS News",
+      "sourceUrl": "https://www.pbs.org/newshour/economy/watch-live-fed-chair-warsh-speaks-at-jackson-hole-economic-policy-symposium"
+    },
+    {
+      "rank": 2,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "米株は8月28日に反落 S&P500は7,711.76、ラッセル2000が1.4%安と下げ主導",
+      "summary": "利上げ観測の高まりを受け、8月28日の米主要指数は揃って下落。S&P500は19.23ポイント安の7,711.76（0.2%安）、ナスダック総合は138.93ポイント安の26,402.42（0.5%安）、ダウ工業株30種は9.45ポイント安の53,559.99でほぼ横ばい。金利上昇に弱い小型株が売られ、ラッセル2000は41.97ポイント安の2,972.37（1.4%安）と最も大きく下げた。",
+      "meta": ["S&P500 7,711.76", "ラッセル2000 -1.4%"],
+      "source": "Barchart",
+      "sourceUrl": "https://www.barchart.com/story/news/4327477/how-major-us-stock-indexes-fared-friday-8-28-2026"
+    },
+    {
+      "rank": 3,
+      "field": "econ",
+      "sec": "金利・商品",
+      "badges": ["us"],
+      "title": "9月利上げ織り込みが57%に上昇 2年債利回りは12bp急騰、金は2.9%安",
+      "summary": "ウォーシュ議長発言後、米2年債利回りは12bp上昇の4.35%、10年債は5.6bp上昇の4.728%。9月中旬FOMCでの利上げ確率は57%まで織り込まれた（8月28日時点）。ドル指数は0.5%高の99.65。金利上昇で貴金属は急落し、12月限金は134.10ドル安の1オンス4,529.90ドル（2.88%安）、12月限銀は3.49%安の67.79ドル。原油はWTIが83.40ドル、ブレントが89.31ドルと小幅安。",
+      "insight": "金利上昇→ドル高→貴金属売りという教科書的な連鎖が一日で起きた。",
+      "meta": ["2年債 4.35%", "利上げ確率 57%", "金 $4,529.90"],
+      "source": "Investrade",
+      "sourceUrl": "https://investrade.com/market-review-august-28-2026/"
+    },
+    {
+      "rank": 4,
+      "field": "econ",
+      "sec": "決算・M&A",
+      "badges": ["us"],
+      "title": "AdventとStripeの連合、約500億ドル規模のPayPal買収を断念",
+      "summary": "8月28日、投資会社AdventとStripeによる連合がPayPalの買収提案を取り下げたと報じられた。買収規模は約500億ドル（一部報道では530億ドル）とされていた。報道を受けPayPal株は12〜13%急落。フィンテック大型再編の観測がいったん後退した。",
+      "meta": ["約$50B規模", "PYPL -12〜13%"],
+      "source": "PYMNTS",
+      "sourceUrl": "https://www.pymnts.com/news/acquiring/2026/advent-stripe-abandon-50-billion-pursuit-of-paypal"
+    },
+    {
+      "rank": 5,
+      "field": "econ",
+      "sec": "マクロ・中央銀行",
+      "badges": ["jp"],
+      "title": "東京都区部8月CPIコアは1.8% 日銀9月利上げ観測を後押し",
+      "summary": "8月28日発表の東京都区部消費者物価指数は、生鮮食品を除くコアが前年同月比1.8%上昇と市場予想通りで、7月の1.7%からほぼ横ばい。総合は1.8%から1.9%へ加速した一方、日銀が重視する食料・エネルギー除くコアコアは2.0%から1.9%へ小幅低下。円高進行で輸入コストは和らいだが、食料と生活費の上昇は続いており、市場は早ければ9月の利上げを見込む。",
+      "meta": ["コア 1.8%", "コアコア 1.9%"],
+      "source": "Investing.com",
+      "sourceUrl": "https://in.investing.com/news/economic-indicators/tokyo-cpi-steady-in-august-core-inflation-remains-close-to-boj-target-5575053"
+    },
+    {
+      "rank": 6,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": ["us"],
+      "title": "Anthropic、科学研究向け「Claude Science」を公開 ロボットや実験装置との接続を検証",
+      "summary": "Anthropicが科学者向けワークベンチ「Claude Science」を発表し、Claudeをロボットや実験室機器に接続して実験を実行させる新方式のテストを進めていることが8月27〜28日に報じられた。ライフサイエンスR&Dの工程にAIエージェントを組み込む狙い。汎用チャットから「実世界の装置を動かすエージェント」への拡張を象徴する動き。",
+      "insight": "AIの評価軸が「回答の質」から「実験・作業の再現性」に移る前触れ。",
+      "source": "The Japan Times",
+      "sourceUrl": "https://www.japantimes.co.jp/business/2026/08/28/tech/anthropic-claude-ai-robots/"
+    },
+    {
+      "rank": 7,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": [],
+      "title": "EU AI Actがいよいよ実運用フェーズへ 企業の対応が現実の課題に",
+      "summary": "8月28日付の報道は、EU AI Actが理論上の規制から実際の執行段階に入りつつあると指摘。適用開始のタイミングに合わせ、対象企業は文書化・リスク分類・透明性義務への具体的対応を迫られる。米国では州法と大統領令が並走しており、多国籍でのコンプライアンス設計が実務論点になっている。",
+      "insight": "「どのモデルを使うか」より「どの管轄で何を記録するか」が経営課題になる。",
+      "source": "Axios",
+      "sourceUrl": "https://www.axios.com/2026/08/28/eu-ai-act-gets-real"
+    },
+    {
+      "rank": 8,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": ["us"],
+      "title": "OpenAI、サイバー能力が臨界に近づく時代のモデル開発ペースについて方針を公表",
+      "summary": "OpenAIが「Pacing model development in an era of cyber-critical capabilities」と題する文書を公開し、サイバー攻撃に転用され得る能力が閾値に近づく局面でのモデル公開ペースと安全対策の考え方を示した。前週にOpenAIとAnthropicが共同で示したAI悪用対策の提言に続く動き。",
+      "meta": ["公開文書", "サイバー能力の閾値管理"],
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/pacing-model-development-cyber-capabilities/"
+    },
+    {
+      "rank": 9,
+      "field": "ad",
+      "sec": "ADAS・OTA",
+      "badges": ["us"],
+      "title": "テスラ、FSD v14.3.8をサマーアップデート（2026.26.6.5）に統合 Grok音声操作を拡張",
+      "summary": "8月28日、テスラがFSD v14.3.8を夏のソフトウェア更新2026.26.6.5に統合して配信を開始。車載AIアシスタントGrokの音声コマンドで操作できる車両機能の範囲が広がった。運転支援の更新と車内UXの更新を一本化する形。",
+      "meta": ["FSD v14.3.8", "2026.26.6.5"],
+      "source": "Tesla Oracle",
+      "sourceUrl": "https://www.teslaoracle.com/2026/08/28/tesla-merges-fsd-v14-3-8-and-the-summer-update-2026-26-6-5-grok-voice-commands-gain-more-control/"
+    },
+    {
+      "rank": 10,
+      "field": "ad",
+      "sec": "当局調査",
+      "badges": ["us"],
+      "title": "米NHTSA、停車中のスクールバスを追い越すWaymo車両の調査を拡大",
+      "summary": "米運輸省道路交通安全局（NHTSA）が、停車中のスクールバス脇を通過するWaymoのロボタクシー挙動をめぐる調査の対象を拡大した。テキサス州オースティンでの事例が発端で、別途NTSBも調査に入っている。Waymoは既にスクールバス関連の挙動でソフトウェアのリコール（無線更新）を実施している。",
+      "insight": "ロボタクシー規制の焦点が「事故」から「交通法規の順守」に移っている。",
+      "source": "CBS News",
+      "sourceUrl": "https://www.cbsnews.com/news/waymo-investigation-nhtsa-robotaxis-passing-school-bus/"
+    },
+    {
+      "rank": 11,
+      "field": "auto",
+      "sec": "通商・関税",
+      "badges": ["us"],
+      "title": "カナダ向け関税が想定に反して倍増 自動車各社の北米生産計画に打撃",
+      "summary": "貿易合意が成立する見込みだったカナダに対し、米国の関税が引き上げられ、税率が倍になったと8月26日に報じられた。カナダに組立・部品拠点を持つ自動車メーカーは、コスト前提と生産配置の見直しを迫られる。USMCAの先行き不透明感を理由に北米投資判断を留保する動きと重なる。",
+      "source": "BNN Bloomberg",
+      "sourceUrl": "https://www.bnnbloomberg.ca/business/company-news/2026/08/26/automakers-thought-canada-was-getting-a-trade-deal-then-tariffs-doubled/"
+    },
+    {
+      "rank": 12,
+      "field": "auto",
+      "sec": "品質・リコール",
+      "badges": ["us"],
+      "title": "NHTSA、GMの6.2L V8エンジン調査を約99.8万台に拡大 リコール後の故障報告受け",
+      "summary": "NHTSAはGMのL87型6.2リッターV8を搭載するピックアップ／SUVのエンジン故障調査を格上げし、対象を997,743台に拡大した。既存リコール実施後にもエンジン不具合の報告が寄せられたことが理由。是正措置の有効性そのものが問われる展開になっている。",
+      "meta": ["対象 997,743台", "L87 6.2L V8"],
+      "source": "GM-Trucks.com",
+      "sourceUrl": "https://www.gm-trucks.com/nhtsa-gm-62l-v8-engine-investigation-expands/"
+    },
+    {
+      "rank": 13,
+      "field": "auto",
+      "sec": "産業動向",
+      "badges": ["us", "jp"],
+      "title": "関税が自動車各社を板挟みに 値上げ回避と収益確保の両立が困難に",
+      "summary": "8月27日の報道は、関税コストを価格転嫁すれば販売が落ち、吸収すれば利益が削られるという自動車メーカーの板挟み状況を伝えた。トヨタ・ホンダ・日産は関税を理由とする値上げを否定する一方、日本勢全体では巨額の関税負担が見込まれており、生産地の再配置と価格戦略の再検討が続いている。",
+      "source": "NWA Democrat-Gazette",
+      "sourceUrl": "https://www.nwaonline.com/news/2026/aug/27/tariffs-put-automakers-in-tough-spot/"
+    },
+    {
+      "rank": 14,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "インド株、8月28日はIT株が主導 TCSとテックマヒンドラが4%高",
+      "summary": "8月28日のインド市場では、TCSとTech Mahindraがともに約4%上昇し値上がり率上位を占めた。一方、ICICI銀行とShriram Financeは1%超下落。前日まで2日続落していた指数はIT株の反発に支えられた。週明け8月31日の取引ではNifty50が24,200近辺を軸に、24,380が上値の鍵と見られている。",
+      "meta": ["TCS +4%", "Nifty 24,200近辺"],
+      "source": "Upstox",
+      "sourceUrl": "https://upstox.com/news/market-news/stocks/top-gainers-and-losers-aug-28-tcs-tech-m-gain-4-icici-bank-shriram-finance-fall-over-1-check-list/article-199440/"
+    },
+    {
+      "rank": 15,
+      "field": "india",
+      "sec": "マクロ",
+      "badges": [],
+      "title": "インドQ1（4〜6月期）GDPは予想が6.4〜8%に分散 弱い降雨とサービス減速が論点",
+      "summary": "FY27第1四半期（2026年4〜6月）のインドGDP成長率をめぐり、機関予想が大きく割れている。Icraは6.4〜6.6%（推定）、SBI Researchは約8%（推定）、Business Todayの集計は7%前後（推定）。降雨不順とサービス業の減速で4四半期ぶりの低水準になるとの見方もある。実績値は要確認。",
+      "meta": ["Icra 6.4〜6.6%（推定）", "SBI 約8%（推定）", "実績は要確認"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/economy/news/weak-rains-services-likely-eased-q1-fy27-growth-to-4-quarter-low-126082401125_1.html"
+    },
+    {
+      "rank": 16,
+      "field": "econ",
+      "sec": "マクロ",
+      "badges": ["us"],
+      "title": "シカゴPMIが47.1と大幅な予想割れ ミシガン大消費者信頼感は51.7",
+      "summary": "8月28日発表の8月シカゴPMIは47.1と、市場予想の57.9を大きく下回り景況の節目50を割り込んだ。同日のミシガン大消費者信頼感指数（確報）は51.7と予想51.0をわずかに上回った。インフレ警戒で利上げ観測が強まる一方、実体経済側には弱さが同居する構図。",
+      "insight": "「インフレ粘着＋景況悪化」の組み合わせはFRBにとって最も難しい配置。",
+      "meta": ["シカゴPMI 47.1（予想57.9）", "UMich 51.7"],
+      "source": "Investrade",
+      "sourceUrl": "https://investrade.com/market-review-august-28-2026/"
+    }
+  ],
+  "weekly": [
+    "ウォーシュFRB議長が利上げ再開を示唆し、9月FOMCの利上げ確率が57%まで上昇",
+    "Anthropicが科学研究ワークベンチ「Claude Science」を公開、実験装置との接続テストへ",
+    "AdventとStripe連合が約500億ドル規模のPayPal買収を断念、株価は12〜13%急落"
+  ]
+}
