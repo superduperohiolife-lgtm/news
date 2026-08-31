@@ -1,0 +1,256 @@
+{
+  "date": "2026-09-01",
+  "sub": "火",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "地政学・市場",
+      "badges": ["us"],
+      "title": "米軍がイラン・ラーラク島のロケット発射施設を空爆 約1カ月ぶりの直接交戦で市場はリスクオフ",
+      "summary": "米軍が週末、ホルムズ海峡への機雷敷設準備を理由にイラン・ラーラク島のロケット発射施設2カ所を攻撃。イランはヨルダンの米軍基地へミサイルで報復し迎撃された。約1カ月ぶりの直接軍事衝突となり、8月31日の米株先物はS&P500が0.24%安、VIXは15.28（+5.89%）に上昇。",
+      "insight": "原油高がインフレ再燃観測を通じてFRBのタカ派化に直結する構図。",
+      "meta": ["S&P500先物 -0.24%", "VIX 15.28 (+5.89%)", "8/31 米東部時間 寄り前"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-31-dow-sp-500-nasdaq-113851714.html"
+    },
+    {
+      "rank": 2,
+      "field": "econ",
+      "sec": "金融政策",
+      "badges": ["us"],
+      "title": "9月FOMCの0.25%利上げ織り込みが62%へ上昇 1週間前の約40%から急伸",
+      "summary": "8月31日時点で市場が織り込む9月0.25%利上げ確率は62%。1週間前の約40%から上昇し、前営業日時点の57%からもさらに切り上がった。ジャクソンホールでのウォーシュFRB議長の「インフレは高すぎる」発言と原油急騰が背景。",
+      "meta": ["利上げ確率 62%", "1週間前 約40%", "8/31時点"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-31-dow-sp-500-nasdaq-113851714.html",
+      "followup": {
+        "since": "2026-08-31",
+        "whatsNew": "前回掲載の57%からさらに上昇し62%に。原油高が上乗せ要因として加わった。"
+      }
+    },
+    {
+      "rank": 3,
+      "field": "econ",
+      "sec": "商品・市場",
+      "badges": ["us"],
+      "title": "原油が急伸しWTI86.63ドル（+3.87%） 金は4,504.60ドルに下落",
+      "summary": "8月31日の米時間外でWTI（10月限）は86.63ドル・前日比3.87%高、ブレントは88ドル台へ上昇。一方、金は4,504.60ドルと0.56%安で、タカ派観測による実質金利上昇が重し。前週末には米2年債利回りが約4.35%まで上昇していた。",
+      "meta": ["WTI $86.63 (+3.87%)", "金 $4,504.60 (-0.56%)", "取得時点: 8/31 米東部時間 寄り前"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-31-dow-sp-500-nasdaq-113851714.html"
+    },
+    {
+      "rank": 4,
+      "field": "india",
+      "sec": "マクロ",
+      "badges": [],
+      "title": "インド4〜6月期GDPは7.8%増 RBI見通し7%を上回り市場予想も上振れ",
+      "summary": "統計局が8月31日に公表した2026年度第1四半期（4〜6月）の実質GDP成長率は前年同期比7.8%増。RBIの7%見通しを上回り、製造業とサービス業、2桁の設備投資が牽引した。前回紙面時点では6.4〜8%と予想が割れていた。",
+      "insight": "高成長の確認でRBIの追加緩和期待は後退しやすい。",
+      "meta": ["Q1 FY27 GDP +7.8%", "RBI見通し 7%", "8/31発表"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/08/31/india-economy-gdp-energy-el-nino.html",
+      "followup": {
+        "since": "2026-08-31",
+        "whatsNew": "前回は6.4〜8%と予想が分散していた段階。実績値7.8%が確定し、RBI推計を上回った。"
+      }
+    },
+    {
+      "rank": 5,
+      "field": "auto",
+      "sec": "生産・労使",
+      "badges": ["us"],
+      "title": "GMカナダ、Unifor組合員が新協約を批准 11億カナダドル投資とオシャワでのシエラHD生産追加",
+      "summary": "カナダの自動車労組Uniforの組合員がGMとの新労働協約を批准。オンタリオ州オシャワ工場に次世代GMCシエラHDの組み立てを追加し、カナダの自動車事業へ約11億カナダドルを投じる内容。米国の対カナダ関税圧力が強まるなかでの北米生産配置の判断となる。",
+      "insight": "関税リスクを抱えつつもカナダ拠点を維持する選択で、前日報じられた関税倍増の影響を一部相殺。",
+      "meta": ["投資額 C$1.1B", "オシャワ工場にシエラHD", "8/29〜30に批准"],
+      "source": "The Detroit News",
+      "sourceUrl": "https://www.detroitnews.com/story/business/autos/general-motors/2026/08/30/unifor-deal-with-gm-canada-adds-truck-to-ontario-plant-amid-us-trade-war/91541750007/",
+      "followup": {
+        "since": "2026-08-31",
+        "whatsNew": "前回の「カナダ向け関税倍増で北米生産計画に打撃」に対し、GMは逆にカナダ投資と車種追加を確定させた。"
+      }
+    },
+    {
+      "rank": 6,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": [],
+      "title": "EU AI Office、汎用AI提供者へ初の情報提供要請（RFI）を発出（要確認）",
+      "summary": "EUのAI OfficeがフロンティアモデルのGPAI提供者に対し、初の情報提供要請を出したと報じられた。対象は(1)セキュリティ・評価・監視体制、(2)学習データ概要の公表義務の遵守、の2系統。GPAI向け執行は2026年8月2日に発効済みで、実際の照会段階に入った形（一次公表の確認は要フォロー）。",
+      "meta": ["GPAI執行 2026/8/2発効", "RFIは2系統", "(要確認) 一次情報未確認"],
+      "source": "TokenSteadAI",
+      "sourceUrl": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
+      "followup": {
+        "since": "2026-08-31",
+        "whatsNew": "前回の「実運用フェーズ入り」から一歩進み、当局が個社への具体的な照会を開始した段階に移行。"
+      }
+    },
+    {
+      "rank": 7,
+      "field": "AI",
+      "sec": "半導体サプライチェーン",
+      "badges": [],
+      "title": "台湾検察、NVIDIA・Intel向けPCB大手Unimicronを家宅捜索 中国製品の原産地偽装疑い",
+      "summary": "台湾検察当局が基板大手Unimicron（欣興電子）を捜索。中国製PCBを台湾製と偽って出荷した疑いで、原産地ロンダリングの容疑。米国の対中関税（最大40%）回避に絡む問題として、AIサーバー向け基板の調達リスクが意識されている。",
+      "insight": "AIサーバーのサプライチェーンで原産地要件が新たなボトルネックになり得る。",
+      "meta": ["対象: PCB原産地偽装", "米関税ペナルティ40%の可能性", "報道 8/29〜30"],
+      "source": "Nikkei Asia",
+      "sourceUrl": "https://asia.nikkei.com/spotlight/supply-chain/nvidia-supplier-unimicron-probed-over-allegedly-relabeling-china-made-parts"
+    },
+    {
+      "rank": 8,
+      "field": "AI",
+      "sec": "インフラ・資本",
+      "badges": ["us", "jp"],
+      "title": "ソフトバンク傘下SB Energy、OpenAI誘致で55億ドル相当のワラントを付与",
+      "summary": "WSJ報道によると、ソフトバンクのデータセンター事業SB EnergyがOpenAIをテナントとして確保するため、同社評価額55億ドル相当の新株予約権（ワラント）をOpenAIに付与。オハイオ州シンシナティ拠点の立地確定を狙ったインセンティブとされる。",
+      "insight": "電力・用地の確保競争で、AI事業者側が資本条件を引き出す力関係が鮮明。",
+      "meta": ["ワラント $5.5B相当", "対象拠点: シンシナティ", "WSJ報道"],
+      "source": "Yahoo Finance / WSJ",
+      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/softbank-sb-energy-gave-openai-115437263.html"
+    },
+    {
+      "rank": 9,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "テスラ、ハンドルなしCybercabを9月3日にオースティンで投入へ",
+      "summary": "テスラはステアリングを持たない専用車Cybercabのローンチイベントを9月3日にテキサス州オースティンで開催予定。既存のRobotaxiアプリ利用者へ先行アクセスを案内している。量産専用車での商用投入は、既存Model Y改造機からの転換点になる。",
+      "meta": ["投入日 9/3（予定）", "拠点: オースティン", "専用設計・ハンドルなし"],
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/805874/tesla-cybercab-robotaxi-launch-austin/"
+    },
+    {
+      "rank": 10,
+      "field": "ad",
+      "sec": "認可・規制",
+      "badges": ["us"],
+      "title": "ネバダ州、ラスベガス圏で最大8,000台の有料ロボタクシーを認可 テスラ・Waymo・Uberが対象",
+      "summary": "ネバダ州当局が8月28日、ラスベガス圏での有料ロボタクシー運行を認可。上限は合計約8,000台で、テスラ・Waymo・Uberが対象。テスラは同州で最大5,000台の枠を得たと報じられている。",
+      "insight": "カリフォルニア・テキサスに続く第三の大規模商用市場が立ち上がる。",
+      "meta": ["上限 約8,000台", "認可 8/28", "テスラ枠 最大5,000台（報道）"],
+      "source": "Engadget",
+      "sourceUrl": "https://www.engadget.com/2241379/nevada-allows-uber-tesla-waymo-paid-robotaxis/"
+    },
+    {
+      "rank": 11,
+      "field": "auto",
+      "sec": "決算",
+      "badges": [],
+      "title": "BYD、四半期純利益が約30%増の12億ドル 5四半期ぶりの増益",
+      "summary": "BYDの2026年4〜6月期純利益は約12億ドルで前年同期比約30%増。5四半期ぶりの増益で、記録的な輸出が中国国内販売の弱さを相殺した。海外EV販売の伸びが利益率を押し上げている。",
+      "meta": ["純利益 約$1.2B", "前年比 +約30%", "5四半期ぶり増益"],
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/business/china-evs/article/3365652/byd-posts-us12-billion-profit-second-quarter-surging-global-demand"
+    },
+    {
+      "rank": 12,
+      "field": "econ",
+      "sec": "先行き",
+      "badges": ["us"],
+      "title": "今週は9月4日の8月米雇用統計が最大の焦点 ブロードコム・デル決算も",
+      "summary": "9月FOMCを前に、9月4日発表の8月米雇用統計が金利観測の最大の分岐点。今週はブロードコム、デル、パロアルトネットワークスの決算も予定され、AI関連需要の実勢が試される。",
+      "meta": ["8月雇用統計 9/4", "決算: Broadcom / Dell / Palo Alto"],
+      "source": "TradingKey",
+      "sourceUrl": "https://www.tradingkey.com/analysis/stocks/us-stocks/262140230-nonfarm-payrolls-broadcom-dell-palo-alto-networks-earnings-august-tradingkey"
+    },
+    {
+      "rank": 13,
+      "field": "econ",
+      "sec": "日本市場",
+      "badges": ["jp"],
+      "title": "日経平均は8月31日に66,311.93円で終了（93.63円安） ドル円は159円95銭まで下落",
+      "summary": "8月31日の東京市場で日経平均株価は前週末比93.63円安の66,311.93円。長期金利の上昇を嫌気して売り優勢で始まったものの、押し目買いで下げ渋った。為替はドル売りが続き、ドル円は一時159円95銭まで下落。",
+      "meta": ["日経平均 66,311.93円 (-93.63)", "ドル円 159.95円（8/31 東京時間）"],
+      "source": "財経新聞",
+      "sourceUrl": "https://www.zaikei.co.jp/article/20260831/868019.html"
+    },
+    {
+      "rank": 14,
+      "field": "auto",
+      "sec": "EV戦略",
+      "badges": ["jp"],
+      "title": "トヨタ、次世代BEVを中国で先行生産へ レクサスブランドで2027年後半に月1,000台規模",
+      "summary": "トヨタが次世代バッテリーEVを日本に先行して中国で生産する見通しと報じられた。レクサスブランドの電動SUVを2027年後半に上海拠点で立ち上げ、当初は月産1,000台規模を想定。中国市場での価格・開発スピード競争への対応が狙い。",
+      "meta": ["生産開始 2027年後半", "月産 約1,000台（報道）", "ブランド: レクサス"],
+      "source": "CnEVPost",
+      "sourceUrl": "https://cnevpost.com/2026/08/28/toyota-to-begin-china-production-lexus-electric-suv-h2-2027/"
+    },
+    {
+      "rank": 15,
+      "field": "AI",
+      "sec": "セキュリティ",
+      "badges": [],
+      "title": "インフォスティーラー型マルウェアがClaudeのセッションを乗っ取り 利用枠を無断消費",
+      "summary": "Vidar、LummaC2、StealC、RedLine、Acreedなどの情報窃取型マルウェアが、認証情報やセッションを盗んでAIチャットの利用枠を無断で消費する挙動が報告された。企業のAI利用でトークン課金の異常消費が侵害の兆候になり得る。",
+      "insight": "AI利用ログの異常検知を、セキュリティ監視項目に組み込む必要。",
+      "meta": ["確認された系統: Vidar / LummaC2 / StealC / RedLine / Acreed"],
+      "source": "BleepingComputer（AI Weekly経由）",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 16,
+      "field": "AI",
+      "sec": "規制・自治体",
+      "badges": ["us"],
+      "title": "テキサス州知事、Flockの AI 監視カメラ向け州予算を停止",
+      "summary": "テキサス州知事が、Flock Safetyのナンバープレート自動読み取りカメラ導入に対する州資金の拠出を一時停止。プライバシー侵害の懸念を理由としており、自治体向けAI監視インフラの調達に逆風となる。",
+      "meta": ["対象: 自動ナンバー読取（ALPR）", "理由: プライバシー懸念"],
+      "source": "Fox News（AI Weekly経由）",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 17,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "インド株は8月31日反落 SENSEXは307.24ポイント安の76,957.27",
+      "summary": "米イラン情勢の緊迫と原油高を受け、8月31日のインド株は下落。SENSEXは307.24ポイント安の76,957.27で終了し、NIFTY50も95.25ポイント下落した。原油輸入依存の高いインドにとって、90ドル近辺の原油はマクロ面の逆風となる。",
+      "meta": ["SENSEX 76,957.27 (-307.24)", "NIFTY -95.25", "8/31終値"],
+      "source": "India TV News",
+      "sourceUrl": "https://www.indiatvnews.com/business/markets/sensex-drops-307-24-points-to-settle-at-76-957-27-nifty-falls-95-25-points-as-us-iran-tensions-escalate-2026-08-31-1052868"
+    },
+    {
+      "rank": 18,
+      "field": "india",
+      "sec": "財政",
+      "badges": [],
+      "title": "インドの4〜7月財政赤字は年間目標の26.8% 7月に赤字幅が拡大",
+      "summary": "政府統計によると、2026年度の4〜7月累計の財政赤字は通年目標の26.8%に達した。7月単月で赤字が大きく膨らんだ形。高成長下でも歳出前倒しが続く構図で、下期の財政運営余地が論点になる。",
+      "meta": ["4〜7月累計 目標比 26.8%", "8/31公表"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/economy/news/india-s-april-july-fiscal-deficit-at-26-8-of-2026-27-target-govt-data-126083100773_1.html"
+    },
+    {
+      "rank": 19,
+      "field": "india",
+      "sec": "IT・AI",
+      "badges": [],
+      "title": "AIがインドIT大手の契約構造を再編 顧客は「より少ない対価でより多く」を要求",
+      "summary": "TCS・Infosys・Wiproなどインド大手IT各社で、AI活用を前提に顧客が単価引き下げと成果拡大を同時に求める契約が広がっているとの報道。人月ベースの積み上げ型から成果連動型への移行圧力が強まっている。",
+      "insight": "オフショア開発の調達側にも、AI前提での単価見直し交渉の余地。",
+      "meta": ["対象: TCS / Infosys / Wipro 等", "契約形態の成果連動化"],
+      "source": "Reuters（Yahoo Finance経由）",
+      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/ai-reshapes-indias-services-sector-230207347.html"
+    },
+    {
+      "rank": 20,
+      "field": "auto",
+      "sec": "米国需要",
+      "badges": ["us"],
+      "title": "米新車ファイナンスに占めるハイブリッドが16.8%へ上昇 前年同期の12.99%から拡大",
+      "summary": "Experianのデータでは、2026年4〜6月期の米新車ファイナンスに占めるハイブリッド車の比率は16.8%で、前年同期の12.99%から上昇。EV一辺倒からハイブリッド重視へという各社の商品戦略の転換と整合する。",
+      "meta": ["Q2 2026 16.8%", "前年同期 12.99%", "出所: Experian"],
+      "source": "CBT News（MCG Executive Briefing経由）",
+      "sourceUrl": "https://macsmotorcitygarage.com/mcg-executive-briefing-for-august-31-2026-2/"
+    }
+  ],
+  "weekly": [
+    "米イラン軍事衝突の再燃で原油が90ドル圏へ。インフレ再燃観測から9月利上げ織り込みが62%に急伸",
+    "インド4〜6月期GDPは7.8%増でRBI見通しを上回り、主要国で突出した成長を維持",
+    "テスラが9月3日にハンドルなしCybercabをオースティンで投入。ネバダ州も最大8,000台のロボタクシーを認可"
+  ]
+}
