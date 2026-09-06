@@ -1,0 +1,255 @@
+{
+  "date": "2026-09-07",
+  "sub": "月",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "マクロ・中央銀行",
+      "badges": ["us"],
+      "title": "米8月雇用者数は16.2万人増と予想を大幅超過、失業率4.1%でFed利上げ観測が急浮上",
+      "summary": "米労働省が9月4日に発表した8月の非農業部門雇用者数は前月比16.2万人増となり、事前予想の5.3万人程度を大幅に上回った。失業率は4.1%。3月以来の大きな伸びで、市場は9月FOMCでの利上げ確率を引き上げた。",
+      "insight": "利下げ局面の終了ではなく「利上げ再開」が織り込まれ始めた点が、これまでの相場前提を反転させる。",
+      "meta": ["雇用者数 +16.2万人", "予想 +5.3万人", "失業率 4.1%"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html"
+    },
+    {
+      "rank": 2,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": ["us"],
+      "title": "OpenAIが新フラッグシップ「GPT-6 Astra」を公開、同時に安全性への監視も強まる",
+      "summary": "OpenAIは9月4日、次世代フラッグシップモデル「GPT-6 Astra」を発表した。長文脈処理と推論性能を前面に押し出す一方、報道は規制当局や研究者からの安全性・透明性への懸念が同時に高まっていると伝えている。API・開発者向けドキュメントも同日公開された。",
+      "insight": "モデル世代交代そのものより、リリース速度に規制・検証が追いつかない構図が論点になりつつある。",
+      "meta": ["発表 2026-09-04", "API提供開始"],
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/economy/2026/9/4/openai-unveils-gpt-6-astra-amid-rising-scrutiny-and-safety"
+    },
+    {
+      "rank": 3,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "NHTSAがテスラ「Cybercab」の展開を巡り調査を開始、株価は6%安",
+      "summary": "米NHTSAは9月4日、オースティンで運行を始めたテスラのCybercabについて調査を開始した。焦点は連邦自動車安全基準(FMVSS)への適合性。投入イベントで量産・展開の具体像が示されなかったことも嫌気され、テスラ株は6%下落した。",
+      "insight": "ハンドル・ペダルの無い車両を公道に出す際の認証経路が、業界全体の実装スピードを左右する。",
+      "meta": ["論点 FMVSS適合性", "テスラ株 -6%"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/09/04/teslas-stock-drops-as-cybercab-update-underwhelms-nhtsa-probe.html",
+      "followup": {
+        "since": "2026-09-04",
+        "whatsNew": "投入開始の報から一転、連邦当局がFMVSS適合性を巡る調査に着手し、株価が6%下落した。"
+      }
+    },
+    {
+      "rank": 4,
+      "field": "econ",
+      "sec": "商品・地政学",
+      "badges": ["us"],
+      "title": "原油はブレントが97ドルに接近、週間上昇率は7月以来最大 米ディーゼルは最高値",
+      "summary": "イランがクウェートの基地を攻撃し米・イランの戦闘が再燃したことで、9月4日までの週の原油は7月以来最大の上げ幅となった。ブレントは一時97ドル台、WTIは92ドル前後。米国のディーゼル価格は過去最高を更新した。",
+      "insight": "原油そのものより、留出油(ディーゼル)逼迫が物流コスト経由でインフレに波及する経路に注意。",
+      "meta": ["ブレント 一時$97台", "WTI $92前後", "週間上昇率 7月以来最大"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/09/04/oil-set-for-steepest-weekly-gain-over-renewed-us-iran-tensions.html",
+      "followup": {
+        "since": "2026-09-04",
+        "whatsNew": "WTI93ドル近辺から一段高となり、ブレントが97ドルに接近、米ディーゼルが最高値を更新した。"
+      }
+    },
+    {
+      "rank": 5,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "米2年債利回りが2025年1月以来の高水準、株式3指数は雇用統計後に反落",
+      "summary": "強い雇用統計を受けて9月4日の米債券市場では利回りが急上昇し、2年債利回りは2025年1月以来の高水準を付けた。ダウ・S&P500・ナスダックの主要3指数はいずれも小幅安で引け、金利上昇が株式のバリュエーションを圧迫する構図に戻った。",
+      "meta": ["2年債利回り 2025年1月以来高水準", "米3指数 小幅安"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/09/04/treasurys-bonds-nonfarm-payrolls-unemployment-data.html"
+    },
+    {
+      "rank": 6,
+      "field": "AI",
+      "sec": "業務活用",
+      "badges": ["us"],
+      "title": "GPT-6 Astraは文脈105万トークン、27.2万トークン超で課金が2倍になる料金設計",
+      "summary": "GPT-6 Astraの公表仕様では文脈長が約105万トークンに拡張された一方、27.2万トークンを超える入力からは単価が2倍になる段階課金が導入された。長文脈を「使えるが安くはない」設計とし、コンテキストを詰め込む運用にコスト面のブレーキをかけている。",
+      "insight": "RAGや要約前処理でコンテキストを絞る設計の価値が上がる。長文一括投入は単価2倍ゾーンに入りやすい。",
+      "meta": ["文脈 約105万トークン", "27.2万トークン超で単価2倍"],
+      "source": "CodeToDeploy (Medium)",
+      "sourceUrl": "https://medium.com/codetodeploy/gpt-6-astra-has-a-1-05-million-token-context-window-past-272-000-tokens-it-bills-you-double-e46fb60d2ec1"
+    },
+    {
+      "rank": 7,
+      "field": "AI",
+      "sec": "産業動向",
+      "badges": ["us"],
+      "title": "「モデル疲れ」が広がる、主要AI研究所の高頻度リリースに顧客が追随できず",
+      "summary": "CNBCは9月6日、Meta・Google・OpenAI・Anthropicが新モデルを矢継ぎ早に投入する中で、利用企業側に「モデル疲れ(model fatigue)」が生じていると報じた。評価・移行・再検証のコストがリリース間隔に追いつかず、最新版への乗り換えが進みにくくなっている。",
+      "insight": "モデル選定を都度やり直さず、評価基盤とプロンプト資産を差し替え可能な形にしておく設計が実務的な防御策。",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html"
+    },
+    {
+      "rank": 8,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "Waymoがデンバー・サンディエゴ・タンパで一般公開、有料運行は14都市に",
+      "summary": "Waymoは9月1日、デンバー、サンディエゴ、タンパの3都市でロボタクシーの一般向け提供を開始した。これにより有料運行都市は計14となる。テスラのCybercab投入直前のタイミングで、稼働都市数という実績面での差を広げる動きとなった。",
+      "meta": ["有料運行 14都市", "追加 デンバー/サンディエゴ/タンパ"],
+      "source": "Electrek",
+      "sourceUrl": "https://electrek.co/2026/09/01/waymo-public-robotaxi-denver-san-diego-tampa/"
+    },
+    {
+      "rank": 9,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "日経平均は5日ぶり大幅反発、806円高で6万5000円台を回復 ソフトバンクGが11%高",
+      "summary": "9月4日の東京株式市場で日経平均株価は806円高と5日ぶりに大幅反発し、6万5000円台を回復した。AI・半導体関連が主導し、ソフトバンクグループは11%高。ただし上げ幅の大半を少数銘柄が占め、値上がり銘柄数は半数程度にとどまった。",
+      "insight": "指数の戻りに比べて物色の裾野が狭い。指数連動の判断は個別の広がりを確認してから。",
+      "meta": ["日経平均 +806円", "6万5000円台回復", "ソフトバンクG +11%"],
+      "source": "みんかぶ先物",
+      "sourceUrl": "https://fu.minkabu.jp/news/711017"
+    },
+    {
+      "rank": 10,
+      "field": "econ",
+      "sec": "為替",
+      "badges": ["jp", "us"],
+      "title": "円は米雇用統計後に上げを削るも週間では約1カ月ぶりの強さ、日銀利上げ観測が下支え",
+      "summary": "9月4日の外為市場では、強い米雇用統計を受けてドルが買い戻され円は上げを削った。それでも日銀の利上げ観測と介入警戒から、円は週間ベースで約1カ月ぶりの強さを維持した。市場の関心は次の米CPIに移っている。",
+      "meta": ["円 週間で約1カ月ぶり高", "次の焦点 米CPI"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/09/04/yen-headed-for-strongest-week-in-a-month-dollar-flat-ahead-of-payroll-data.html",
+      "followup": {
+        "since": "2026-09-04",
+        "whatsNew": "156円台への急落後、米雇用統計を受けてドルが買い戻され円は上げを削ったが、週間では強さを維持した。"
+      }
+    },
+    {
+      "rank": 11,
+      "field": "auto",
+      "sec": "品質・リコール",
+      "badges": ["us"],
+      "title": "フォードが米国で約14.9万台をリコール、マスタングで走行中の動力喪失リスク",
+      "summary": "フォードはNHTSAへの届け出で、走行中に駆動力を失う恐れがあるとして米国で約14.9万台をリコールすると発表した。対象はマスタングが中心。同社は別途、Bronco SportとMaverickの一部に「運転しないで」勧告も出しており、品質関連の届け出が続いている。",
+      "meta": ["対象 約14.9万台", "不具合 走行中の動力喪失"],
+      "source": "Reuters (TradingView)",
+      "sourceUrl": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N44T0FE:0-ford-to-recall-about-149-000-vehicles-in-us-over-power-loss-nhtsa-says/"
+    },
+    {
+      "rank": 12,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "センセックスが4日続落から反発、363ポイント高 ニフティは23,898で引け",
+      "summary": "9月4日のインド株式市場でセンセックスは363ポイント高と4日続いた下落を止め、ニフティは23,898で引けた。米株高とアジア市場の反発が支えとなり、金融株が上昇を主導。小型株指数は高値を付けた一方、外国人投資家の売りは続いた。",
+      "meta": ["センセックス +363pt", "ニフティ 23,898"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/markets/news/stock-market-live-updates-sept-4-nse-bse-sensex-today-nifty-gift-us-iran-tension-tata-chemicals-bank-psu-it-index-126090400079_1.html"
+    },
+    {
+      "rank": 13,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "Waymoの2026年の成功指標は「週100万回」、乗車回数は1年弱で倍増",
+      "summary": "Waymoは2026年の到達目標として週間乗車回数100万回を掲げている。直近の集計では週間乗車回数が1年弱で倍増しており、都市追加と車両増強を同時に進めることで達成を狙う。台数ではなく稼働頻度を指標に置く点が特徴。",
+      "insight": "ロボタクシーの競争軸が「走れるか」から「単位車両あたり何回稼げるか」に移っている。",
+      "meta": ["目標 週100万回", "乗車回数 1年弱で倍増"],
+      "source": "Automotive World",
+      "sourceUrl": "https://www.automotiveworld.com/news/waymos-metric-for-2026-success-one-million-weekly-rides/"
+    },
+    {
+      "rank": 14,
+      "field": "AI",
+      "sec": "企業・産業",
+      "badges": ["us"],
+      "title": "エヌビディアの決算見通しがAMD・インテルへの警告に、AI半導体シェア争いは一段と非対称に",
+      "summary": "エヌビディアが8月末の決算で示した強気の需要見通しは、AI半導体市場の伸びの大半を同社が取り込む前提に立つ。競合のAMD・インテルにとっては、市場拡大の恩恵が均等には配分されないという警告になっているとの分析が出ている。",
+      "meta": ["論点 AI半導体シェアの非対称化"],
+      "source": "The Motley Fool",
+      "sourceUrl": "https://www.fool.com/investing/2026/09/03/nvidia-just-delivered-a-massive-warning-to-amd-and-intel-stock-investors/"
+    },
+    {
+      "rank": 15,
+      "field": "auto",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "米8月の新車販売、季節調整済み年率は1,680万台に上昇",
+      "summary": "NADAのMarket Beatによると、米国の8月の新車(軽車両)販売は季節調整済み年率(SAAR)で1,680万台となり、7月の1,630万台から上昇した。ハイブリッド需要が全体を押し上げる構図が続いている。",
+      "meta": ["8月SAAR 1,680万台", "7月SAAR 1,630万台"],
+      "source": "NADA",
+      "sourceUrl": "https://www.nada.org/nada/nada-headlines/nada-market-beat-new-light-vehicle-sales-saar-hits-168-million-units-august"
+    },
+    {
+      "rank": 16,
+      "field": "india",
+      "sec": "自動車",
+      "badges": [],
+      "title": "タタ・モーターズの8月乗用車販売が前年比56%増の67,753台、マヒンドラとの差を拡大",
+      "summary": "タタ・モーターズの2026年8月の乗用車販売は前年同月比56%増の67,753台となり、EVはほぼ倍増した。マヒンドラとの月間販売差をさらに広げ、マルチ・スズキ、ヒュンダイを含む主要各社も前年比プラスとなった。",
+      "meta": ["タタPV +56% / 67,753台", "EVはほぼ倍増"],
+      "source": "Autocar Professional",
+      "sourceUrl": "https://www.autocarpro.in/news/tata-motors-passenger-vehicle-sales-rise-56-percent-year-on-year-in-august-2026-134396",
+      "followup": {
+        "since": "2026-09-04",
+        "whatsNew": "登録ベースのEV53%増に続き、メーカー出荷ベースの8月販売台数が判明。タタは全体で56%増、マヒンドラとの差を拡大した。"
+      }
+    },
+    {
+      "rank": 17,
+      "field": "auto",
+      "sec": "新車・EV",
+      "badges": [],
+      "title": "中国の8月EV販売、BYDが43.3万台で首位 輸出で奇瑞に肉薄",
+      "summary": "中国メーカーの2026年8月のEV販売は、BYDが433,384台、吉利が175,877台、Leapmotorが103,129台、Xpengが39,107台となった。BYDは国内販売が伸び悩む一方で輸出を伸ばし、輸出台数で奇瑞(Chery)に迫っている。",
+      "meta": ["BYD 433,384台", "吉利 175,877台", "Leapmotor 103,129台"],
+      "source": "CarNewsChina",
+      "sourceUrl": "https://carnewschina.com/2026/09/02/china-ev-global-sales-in-august-2026-byds-export-volumes-catching-up-with-cherys/"
+    },
+    {
+      "rank": 18,
+      "field": "ad",
+      "sec": "事故・当局調査",
+      "badges": ["us"],
+      "title": "Cybercabは公道デビュー直後につまずき、展開規模と時期は依然として不透明",
+      "summary": "TechCrunchは9月6日、Cybercabが公道走行を開始した直後に連邦調査という「つまずき」に直面したと整理した。投入イベントが招待制だったこともあり、車両台数・対象エリア・一般利用の開始時期といった実装の詳細は公表されていない。",
+      "meta": ["公表されず 台数・エリア・一般開放時期"],
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/"
+    },
+    {
+      "rank": 19,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": ["us"],
+      "title": "AI規制は2026年後半に世界的な分断が進行、EU・米州法・各国法の要件差が拡大",
+      "summary": "EUのAI法が2025年8月から透明性要件の執行段階に入る一方、米国は連邦の統一法がなく州法が個別に施行され、各国も独自路線を取る。2026年後半にかけて、同一のAI製品でも地域ごとに異なる適合義務を負う分断状態が強まっているとの整理が相次いでいる。",
+      "insight": "海外提供を伴うAI機能は、モデル選定より先に「どの地域の要件に合わせるか」を決めないと手戻りが出る。",
+      "source": "Questa AI",
+      "sourceUrl": "https://www.questa-ai.com/privacy-cafe/ai-regulation-in-2026-is-breaking-apart-globally"
+    },
+    {
+      "rank": 20,
+      "field": "india",
+      "sec": "IT・AI",
+      "badges": [],
+      "title": "インドIT大手でAIが「ベンチ要員」を圧縮、TCS・WiproはAI人材の給与を引き上げ",
+      "summary": "TCS、インフォシス、ウィプロで、AI導入により待機要員(ベンチ)の規模が縮小しているとの報道が出ている。一方でTCSとウィプロはAI人材に絞った給与引き上げを実施し、インフォシスは全体の昇給を遅らせている。人員構成の再配分が進んでいる。",
+      "insight": "人月モデルの前提が崩れ、単価の高いAI人材と縮小する汎用要員の二極化が進む。",
+      "source": "NewsBytes",
+      "sourceUrl": "https://www.newsbytesapp.com/news/business/ai-cuts-bench-strength-at-tcs-infosys-and-wipro/tldr"
+    }
+  ],
+  "weekly": [
+    "米8月雇用統計が16.2万人増と予想を大幅超過、9月FOMCの利上げ観測が台頭し2年債利回りは2025年1月以来の高水準",
+    "OpenAIが「GPT-6 Astra」を公開、文脈105万トークンと段階課金を導入する一方で安全性への監視も強まる",
+    "テスラCybercabが公道走行を開始した直後にNHTSAがFMVSS適合性の調査に着手、株価は6%安"
+  ]
+}
