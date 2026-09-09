@@ -1,0 +1,244 @@
+{
+  "date": "2026-09-10",
+  "sub": "木",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "AI",
+      "sec": "モデル・研究",
+      "badges": ["us"],
+      "title": "OpenAI、未公開モデルの約1万エージェントでナビエ・ストークス問題を88時間で解決",
+      "summary": "OpenAIが未公開モデルを用い、約1万のエージェントを並列稼働させてミレニアム懸賞問題のナビエ・ストークス方程式を88時間で解いたと報じられた。エージェント間の交信は約270万メッセージ、消費は約1300億トークンで、その後GPT-6 Astraが17時間かけて形式化した。NYUの数学者らが先行を主張しており、功績の帰属を巡る議論も起きている。",
+      "insight": "大規模エージェント群による探索が、研究開発の「人手×時間」制約を崩し始めた事例。",
+      "meta": ["エージェント 約1万", "所要 88時間", "約1300億トークン"],
+      "source": "The Neuron",
+      "sourceUrl": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-september-8-2026/"
+    },
+    {
+      "rank": 2,
+      "field": "auto",
+      "sec": "品質不正",
+      "badges": ["jp"],
+      "title": "ニデック、品質不適切行為844件を認定 うち法令違反・リコールの可能性ある重大事案60件",
+      "summary": "ニデックの調査委員会は2026年9月4日に調査報告書を公表し、グループでの品質不適切行為844件を認定した。うち法令違反やリコールにつながり得る重大事案は60件で、報道によれば不正はグループ会社3社に集中。原因として収益・コスト削減のプレッシャーと「不健全な状態の定着」が指摘され、岸田光哉社長が陳謝した。2025年10月の東証「特別注意銘柄」指定下にあり、上場維持審査への影響が焦点となる。",
+      "insight": "顧客OEM側は該当部品の特定と再検証、供給継続可否の判断が当面の実務課題になる。",
+      "meta": ["認定 844件", "重大事案 60件", "報告書公表 2026-09-04", "東証 特別注意銘柄"],
+      "source": "EE Times Japan",
+      "sourceUrl": "https://eetimes.itmedia.co.jp/ee/articles/2609/04/news094.html"
+    },
+    {
+      "rank": 3,
+      "field": "AI",
+      "sec": "インフラ・投資",
+      "badges": ["us"],
+      "title": "Anthropic、5年で約800億ドルの計算資源を確保 Nscale・Lambdaと大型契約",
+      "summary": "Anthropicが今後5年で約800億ドル規模の計算資源をコミットしたと報じられた。内訳はNscaleとの6年契約が約450億ドル、Lambdaとが約350億ドル。加えてxAI/SpaceXのColossus 1クラスタ（NVIDIA GPU約22万基）へのアクセスも含まれるとされる。",
+      "insight": "推論需要の伸びを見越した前倒し調達で、GPU確保競争は事実上の長期リース契約競争に移行。",
+      "meta": ["総額 約800億ドル/5年", "Nscale 約450億ドル", "Lambda 約350億ドル"],
+      "source": "The Neuron",
+      "sourceUrl": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-september-8-2026/"
+    },
+    {
+      "rank": 4,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "米株は続落、ダウ約628ドル安 原油100ドル試しと長期金利上昇が重し",
+      "summary": "9月8日の米国市場はダウ工業株30種平均が約628ドル安、S&P500は0.6%安と2営業日続落した。原油が1バレル100ドルを試す水準まで上昇し、中東情勢の緊迫がインフレ再燃観測を強めたことが背景。長期金利の高止まりも株式の重荷となり、金は下落した（いずれも9月8日終値時点）。",
+      "meta": ["ダウ 約-628ドル", "S&P500 -0.6%", "原油 100ドル接近", "9/8終値時点"],
+      "source": "TheStreet",
+      "sourceUrl": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-08-2026"
+    },
+    {
+      "rank": 5,
+      "field": "AI",
+      "sec": "規制・セキュリティ",
+      "badges": ["us"],
+      "title": "米NSA・CISA・FBI、中国系AI企業による大規模「蒸留」キャンペーンを警告",
+      "summary": "米NSA、CISA、FBIが共同報告で、DeepSeek、Moonshot、Alibaba、MiniMax、StepFun、Z.AIが2024年後半以降、米フロンティアモデルに対して産業規模の蒸留（distillation）を継続していると指摘した。Claude、GPT、Gemini、Grokの各系統から思考過程（chain-of-thought）や学習トレースを収集していたとされる。",
+      "insight": "モデル出力そのものが知財流出経路と位置づけられ、API利用規約や出力ログ管理の厳格化圧力が高まる。",
+      "meta": ["対象6社", "2024年後半以降", "NSA/CISA/FBI 共同"],
+      "source": "The Neuron",
+      "sourceUrl": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-september-8-2026/"
+    },
+    {
+      "rank": 6,
+      "field": "econ",
+      "sec": "金利・マクロ",
+      "badges": ["us"],
+      "title": "米長期金利、4.8%が試金石 財政リスクの他資産への波及に警戒",
+      "summary": "米10年債利回りの上昇が続き、市場では4.8%が次の節目として意識されている。財政赤字と国債増発への懸念が金利に上乗せされ、株式やクレジットなど他資産へ波及するリスクが指摘される。9月2日には2023年11月以来の高水準を付けていた。",
+      "meta": ["10年債 節目4.8%", "9/2に2023年11月以来の高水準"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/09/07/us-treasury-yields-markets-scott-bessent.html"
+    },
+    {
+      "rank": 7,
+      "field": "AI",
+      "sec": "製品",
+      "badges": ["us"],
+      "title": "Meta、個人向けエージェント「Muse」を米国で提供開始 上位版は月100ドル",
+      "summary": "Metaが買い物・予約・整理・家計・健康などを代行する個人エージェント「Muse」を米国限定で公開した。隔離されたLinuxクラウドVM上で動作し、実行前に承認を挟む「Sentinel」機構を備える。料金は無料枠のほか、Powerが月20ドル、Maximumが月100ドル。",
+      "meta": ["米国限定", "Power 月$20 / Maximum 月$100", "承認機構 Sentinel"],
+      "source": "The Neuron",
+      "sourceUrl": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-september-8-2026/"
+    },
+    {
+      "rank": 8,
+      "field": "ad",
+      "sec": "資金調達",
+      "badges": ["us"],
+      "title": "Waymo、初のデット調達で30億ドル Pimco・Blackstone・Sixth Streetが参加",
+      "summary": "Waymoが初となる社債・ローンによる資金調達で30億ドルを確保した。引受にはPimco、Blackstone、Sixth Streetら大手クレジット勢が参加。デンバー、サンディエゴ、タンパなど新規都市への同時展開と車両増強の資金に充てるとみられる。",
+      "insight": "エクイティ依存から負債活用へ移行し、ロボタクシーの資本集約フェーズが本格化。",
+      "meta": ["調達 30億ドル", "初のデット調達", "Pimco/Blackstone/Sixth Street"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/waymo-raises-3-billion-first-133700942.html"
+    },
+    {
+      "rank": 9,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "日経平均は126円安の6万5142円 原油高を警戒、電線株買いが下支え",
+      "summary": "9月9日の東京株式市場で日経平均株価は前日比126.55円安の6万5142.78円で引けた。原油高によるインフレ再燃と企業コスト増への警戒が売りを誘った一方、米半導体株高と円高一服、電力インフラ需要を背景とした電線株への買いが下値を支えた。",
+      "meta": ["終値 65,142.78円", "前日比 -126.55円", "9/9終値"],
+      "source": "日本経済新聞",
+      "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB090HBTZ00C26A9000000/"
+    },
+    {
+      "rank": 10,
+      "field": "ad",
+      "sec": "認可・展開",
+      "badges": ["us"],
+      "title": "Waymo、バークレーでの営業許可を取得 東ベイ展開でCybercabに対抗",
+      "summary": "Waymoが9月8日、カリフォルニア州バークレーでの運行許可を得たと報じられた。隣接するオークランドへの展開も間近とされ、サンフランシスコ湾岸東側でのサービス網を広げる。TeslaがCybercabの商用展開を進めるなか、地域単位での認可積み上げ競争が鮮明になっている。",
+      "meta": ["バークレー 許可取得", "オークランド展開間近", "9/8報道"],
+      "source": "Berkeleyside",
+      "sourceUrl": "https://www.berkeleyside.org/2026/09/08/waymo-tesla-cybercab-berkeley-east-bay"
+    },
+    {
+      "rank": 11,
+      "field": "AI",
+      "sec": "資金調達",
+      "badges": ["us"],
+      "title": "Cognition、20億ドル超を調達し評価額480億ドル 年換算売上は約9億ドルに",
+      "summary": "自律型ソフトウェアエンジニアリングエージェント「Devin」を手掛けるCognitionが、Andreessen HorowitzとAccel主導で20億ドル超を調達し、評価額は480億ドルとなった。年換算売上（run-rate）は5月の4.92億ドルから約9億ドルへ拡大したとされる。",
+      "insight": "コーディングエージェントは実売上を伴う数少ないAI応用領域として資本を集めている。",
+      "meta": ["調達 20億ドル超", "評価額 480億ドル", "ARR 約9億ドル"],
+      "source": "TechStartups",
+      "sourceUrl": "https://techstartups.com/2026/09/09/startup-funding-news-today-september-9-2026-cognition-ai-algomatic-dynamics-qnu-labs-more/"
+    },
+    {
+      "rank": 12,
+      "field": "india",
+      "sec": "IT・株式",
+      "badges": [],
+      "title": "インドIT株が続落、4つの逆風でセンチメント悪化 Nifty ITは2026年の最弱セクター",
+      "summary": "9月9日のインド市場でInfosys、TCS、HCLTech、Coforge、Tech Mahindra、Wiproなど主要IT株が軟調に推移した。米企業のIT支出抑制観測を含む4つの要因が投資家心理を圧迫していると指摘され、Nifty ITは2026年に入って最も成績の悪いセクターとなっている。",
+      "meta": ["Nifty IT 2026年最弱セクター", "9/9時点"],
+      "source": "Business Today",
+      "sourceUrl": "https://www.businesstoday.in/markets/stocks/story/infosys-tcs-hcl-tech-coforge-tech-mahindra-wipro-four-factors-denting-sentiment-in-it-stocks-554229-2026-09-09"
+    },
+    {
+      "rank": 13,
+      "field": "auto",
+      "sec": "政策・規制",
+      "badges": [],
+      "title": "中国、車載リチウムイオン電池への消費税を再導入 9月から段階的に引き上げ",
+      "summary": "中国政府が車載用リチウムイオン電池に対する消費税を再導入し、9月から税率を段階的に引き上げる方針を示した。EV・PHVに対する優遇策の縮小が進む流れの一環で、電池コストを通じて中国EVの価格競争力に影響する可能性がある。具体的な税率と適用スケジュールは出典での確認が必要（要確認）。",
+      "insight": "中国の新エネ車支援は「保護」から「淘汰」局面へ。部材価格の前提見直しが必要になる。",
+      "meta": ["9月から段階的引き上げ", "NEV優遇の縮小", "税率は要確認"],
+      "source": "東洋経済オンライン",
+      "sourceUrl": "https://toyokeizai.net/articles/-/952708"
+    },
+    {
+      "rank": 14,
+      "field": "india",
+      "sec": "マクロ",
+      "badges": [],
+      "title": "インドの物価再加熱、小売インフレは5%接近の見通し",
+      "summary": "インドの小売インフレ率が再び上昇し、5%近辺に迫るとの見方が強まっている。食品・エネルギー価格の上昇が主因とされ、原油高の継続はさらなる押し上げ要因となる。RBIの利下げ余地を狭める材料で、金融政策の据え置き観測につながりやすい。",
+      "meta": ["小売インフレ 5%接近の見通し", "9/9報道"],
+      "source": "Business Today",
+      "sourceUrl": "https://www.businesstoday.in/latest/economy/story/indias-price-rise-heat-is-back-retail-inflation-seen-nearing-5-554389-2026-09-09"
+    },
+    {
+      "rank": 15,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": [],
+      "title": "Pony.ai、2026年に20都市超で3,000台のロボタクシー展開を目標",
+      "summary": "Pony.aiが2026年中に20都市以上で3,000台規模のロボタクシー運用を目指す計画を示した。乗車サービスと技術ライセンスの「双発エンジン」で本格成長段階に入るとしている。前日に伝わった同社CEOの「5年でロボタクシーは一般化する」との発言に、具体的な台数・都市数の目標が加わった形。",
+      "meta": ["3,000台", "20都市超", "2026年内目標"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/sectors/technology/articles/pony-ai-targets-3-000-090000244.html",
+      "followup": {
+        "since": "2026-09-09",
+        "whatsNew": "CEOの見通し発言にとどまっていた前回から、2026年内に20都市超・3,000台という具体的な数値目標が明示された。"
+      }
+    },
+    {
+      "rank": 16,
+      "field": "auto",
+      "sec": "新車",
+      "badges": [],
+      "title": "理想汽車、フラッグシップ電動SUV「i9」を9月16日に発表へ",
+      "summary": "中国の理想汽車（Li Auto）が、フラッグシップの電動SUV「i9」を9月16日に発表すると明らかにした。ファミリー層向けの快適性を訴求点に据える。同社は電動SUV「i」シリーズの拡充で、レンジエクステンダー中心の製品構成からBEVへの比重移行を進めている。",
+      "meta": ["発表 9月16日", "フラッグシップBEV SUV"],
+      "source": "CnEVPost",
+      "sourceUrl": "https://cnevpost.com/2026/09/09/li-auto-to-launch-i9-sept-16-2026/"
+    },
+    {
+      "rank": 17,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": ["us"],
+      "title": "GPT-6 Astra、有料Codex／ChatGPT Workユーザーへ全面展開",
+      "summary": "OpenAIのGPT-6 Astraが、有料のCodexおよびChatGPT Workの利用者向けに全面展開された。コンピュータ操作、コーディング、サイバーセキュリティ、科学分野での利用が想定される。同社は展開に先立ち、高度なサイバー能力に関する注意喚起を行っていた。",
+      "meta": ["対象 有料Codex/ChatGPT Work", "用途 PC操作・コーディング・科学"],
+      "source": "The Neuron",
+      "sourceUrl": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-september-8-2026/"
+    },
+    {
+      "rank": 18,
+      "field": "india",
+      "sec": "ディープテック",
+      "badges": [],
+      "title": "印QNu Labs、20億ルピーを調達 量子安全な暗号鍵配送を強化",
+      "summary": "インドの量子セキュリティ企業QNu Labsが20億ルピー（200 crore）を調達した。政府のNational Quantum MissionとSpeciale Investが主導。量子コンピュータ時代を見据えた耐量子暗号と量子鍵配送（QKD）システムの事業化を進める。",
+      "meta": ["調達 20億ルピー", "主導 National Quantum Mission / Speciale Invest"],
+      "source": "TechStartups",
+      "sourceUrl": "https://techstartups.com/2026/09/09/startup-funding-news-today-september-9-2026-cognition-ai-algomatic-dynamics-qnu-labs-more/"
+    },
+    {
+      "rank": 19,
+      "field": "auto",
+      "sec": "サプライチェーン",
+      "badges": [],
+      "title": "理想汽車、全ラインアップで電池の内製化へ 刷新版「i6」は第4四半期投入",
+      "summary": "理想汽車が製品ライン全体で電池の内製化へ移行する計画を示した。刷新版「i6」を第4四半期に投入する予定。中国大手EVメーカーによる電池内製化の動きは、CATLなど外部電池メーカーへの発注構成に中期的な影響を与える可能性がある。",
+      "insight": "完成車の電池内製化が進めば、Tier1電池各社は供給先ポートフォリオの再構築を迫られる。",
+      "meta": ["電池内製化", "刷新版i6 Q4投入"],
+      "source": "CnEVPost",
+      "sourceUrl": "https://cnevpost.com/2026/09/07/li-auto-plans-shift-in-house-batteries-refreshed-i6-q4/"
+    },
+    {
+      "rank": 20,
+      "field": "india",
+      "sec": "モビリティ",
+      "badges": [],
+      "title": "印Carrum Mobility、Uberから1,000万ドルを調達 ポストマネー1,600億ルピー",
+      "summary": "インドのフリート管理・車両サービス企業Carrum MobilityがUberから1,000万ドルを調達した。ポストマネー評価額は1,600 crore ルピー。ライドヘイリング大手が車両供給・整備側のインフラに直接出資する動きで、インドのフリート電動化とも連動する。",
+      "meta": ["調達 1,000万ドル", "出資元 Uber", "評価額 1,600 crore ルピー"],
+      "source": "TechStartups",
+      "sourceUrl": "https://techstartups.com/2026/09/09/startup-funding-news-today-september-9-2026-cognition-ai-algomatic-dynamics-qnu-labs-more/"
+    }
+  ],
+  "weekly": [
+    "ニデックが品質不適切行為844件を認定、うち法令違反・リコールの可能性がある重大事案は60件。東証の上場維持審査が次の焦点",
+    "OpenAIが約1万エージェントの並列稼働でナビエ・ストークス問題を88時間で解決、研究開発の時間制約を崩す事例に",
+    "米株は原油100ドル接近と長期金利上昇でダウ約628ドル安、10年債は節目4.8%が意識される"
+  ]
+}
