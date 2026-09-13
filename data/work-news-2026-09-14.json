@@ -1,0 +1,219 @@
+{
+  "date": "2026-09-14",
+  "sub": "月",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "マクロ・中央銀行",
+      "badges": ["us"],
+      "title": "米8月CPIはコアが上振れ、FOMC利上げ織り込みが約9割に",
+      "summary": "9月11日発表の米8月CPIは、ヘッドラインが市場予想並みだった一方、コアが前月比+0.3%と予想を上回った。消費者センチメントの弱さと合わせ市場は判断に迷ったが、来週のFOMCでの利上げ織り込みは約90%まで上昇した。発表直後にドル円は154円台半ばまで上昇した後、NY時間には反落している。",
+      "insight": "インフレの粘着性が確認され、9月FOMCは「利上げありき」で臨む会合に変質した。",
+      "meta": ["コアCPI 前月比+0.3%(予想上振れ)", "利上げ確率 約90%", "ドル円 154円台半ば(11日発表直後)"],
+      "source": "Investrade / OANDA Lab",
+      "sourceUrl": "https://investrade.com/market-review-september-11-2026/"
+    },
+    {
+      "rank": 2,
+      "field": "auto",
+      "sec": "品質不正",
+      "badges": ["jp"],
+      "title": "ニデックの品質不正、800件超の不適切行為の約9割が3事業部門に集中",
+      "summary": "9月4日公表の調査委員会報告書の分析が進み、認定された800件超の不適切行為のうち約9割が3つの事業部門(BU)に偏って発生していたことが明らかになった。全社一律の風土問題ではなく、特定BUの収益・コスト削減圧力が集中的に不正を生んだ構図が浮かぶ。認定件数は報道により844件・850件と幅があり、内訳は出典で要確認。",
+      "insight": "不正の温床が特定BUに局在するなら、是正はガバナンス一般論ではなく当該BUの工程・検査体制の再構築が主戦場になる。",
+      "meta": ["不適切行為 800件超(844/850件と報道に幅)", "約9割が3BUに集中", "重大事案 約60件(法令違反・リコールの可能性)"],
+      "source": "MONOist",
+      "sourceUrl": "https://monoist.itmedia.co.jp/mn/articles/2609/11/news046.html",
+      "followup": {
+        "since": "2026-09-11",
+        "whatsNew": "株主代表訴訟の報道に続き、今回は不正の発生源が3事業部門に約9割集中していたという内訳が新たに判明。"
+      }
+    },
+    {
+      "rank": 3,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": ["us"],
+      "title": "Nvidia、AnthropicのIPOに最大100億ドル出資を検討と報道",
+      "summary": "ロイターが9月12日に、NvidiaがAnthropicの新規株式公開に最大100億ドルを投じる方向で協議中と報じた。評価額は約2兆ドル規模、調達額は1000億ドル近くに達する可能性があるとされる。実現すれば過去最大級のIPOとなるが、いずれも協議段階の報道であり条件は確定していない(要確認)。",
+      "insight": "チップ供給者が主要顧客の資本側に回る構図がさらに強まり、AI投資の循環取引的な性格への監視が一段と厳しくなる。",
+      "meta": ["出資額 最大100億ドル(報道)", "評価額 約2兆ドル(要確認)", "調達規模 最大1000億ドル近く(要確認)"],
+      "source": "24/7 Wall St.",
+      "sourceUrl": "https://247wallst.com/investing/2026/09/12/nvidia-may-invest-up-to-10-billion-in-anthropics-2-3-trillion-ipo/"
+    },
+    {
+      "rank": 4,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "米株は4日続落から反発、原油急落が追い風　S&P500は0.86%高",
+      "summary": "9月11日の米国市場はS&P500が7,656(+0.86%)、ダウが52,657(+0.98%)、ナスダックが26,333(+0.96%)で引け、4日続落を止めた。WTI原油が100.05ドル(-2.37%)へ急落したことがインフレ懸念を和らげた。ただし週間ベースでは下落し、来週のFOMCを前に上値は重い。",
+      "meta": ["S&P500 7,656 (+0.86%)", "ダウ 52,657 (+0.98%)", "米10年債 4.974% (+0.029pt)"],
+      "source": "Investrade",
+      "sourceUrl": "https://investrade.com/market-review-september-11-2026/"
+    },
+    {
+      "rank": 5,
+      "field": "auto",
+      "sec": "品質不正",
+      "badges": ["jp"],
+      "title": "ニデック、岸田社長への責任追及が本格化　後任は社内から選出かと報道",
+      "summary": "品質不正844件を認定した調査報告書を受け、岸田光哉社長が過度な業績プレッシャーに加担した可能性を問う責任追及が始まったと文春オンラインが報じた。9月12日には社内から後任社長を選出する案が報じられている。10月末には東証への内部管理体制確認書の提出期限が迫り、特別注意銘柄の指定解除と上場維持が正念場を迎える。いずれも報道ベースで、会社の正式発表ではない(要確認)。",
+      "insight": "経営責任の決着と東証審査は同じ10月をにらんでおり、供給を受けるOEM側は代替調達の可否を早めに固めておく局面。",
+      "meta": ["内部管理体制確認書 提出期限 10月末", "特別注意銘柄(2025年10月指定)", "後任社長は社内選出案(報道・要確認)"],
+      "source": "文春オンライン",
+      "sourceUrl": "https://bunshun.jp/articles/-/91871",
+      "followup": {
+        "since": "2026-09-11",
+        "whatsNew": "株主代表訴訟に続き、現経営陣の責任追及と後任社長人事という経営体制そのものへの波及が新たに報じられた。"
+      }
+    },
+    {
+      "rank": 6,
+      "field": "auto",
+      "sec": "生産・戦略",
+      "badges": ["jp"],
+      "title": "日産、国内生産能力100万台を維持　ミニバンを九州から栃木に移管",
+      "summary": "日産自動車が日本事業の再編方針を発表し、国内の年間生産能力100万台を維持する方向を打ち出した。エルグランド・セレナなどのミニバン生産を九州から栃木工場に移管し、工場別の役割と車種配置を組み替える。国内生産へのシフトと輸出拡大を組み合わせる戦略で、スカイラインの投入も示された。",
+      "insight": "為替と関税環境を踏まえ、国内を「輸出拠点」として再定義する動き。サプライヤーの拠点配置にも中期で影響が及ぶ。",
+      "meta": ["国内生産能力 年100万台を維持", "ミニバン生産 九州→栃木へ移管"],
+      "source": "日本経済新聞",
+      "sourceUrl": "https://www.nikkei.com/article/DGXZQOUC087CZ0Y6A900C2000000/"
+    },
+    {
+      "rank": 7,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "日経平均は1,259円安の6万4,011円　9月11日大引け",
+      "summary": "9月11日の東京株式市場で日経平均株価は前日比1,259.61円安の64,011.34円で引けた。前日の65,270円台から大幅に水準を切り下げ、原油高と金利上昇、日米の金融政策イベントを控えた警戒感が重しとなった。",
+      "meta": ["日経平均 64,011.34円 (-1,259.61円)", "取得時点 2026年9月11日大引け"],
+      "source": "Fisco / Investing.com",
+      "sourceUrl": "https://jp.investing.com/news/forex-news/article-1677295"
+    },
+    {
+      "rank": 8,
+      "field": "india",
+      "sec": "通商・政策",
+      "badges": [],
+      "title": "インド・EU FTAで乗用車関税を引き下げ　Maruti・Tata・M&MにEU輸出枠",
+      "summary": "インドとEUの自由貿易協定に基づく自動車分野の詳細が明らかになり、インドは乗用車の輸入関税を段階的に引き下げる一方、Maruti Suzuki・Tata Motors・Mahindra & MahindraにEU向けの輸出枠が設定される。メルセデス・ベンツやBMWは関税低下後もインド国内生産の計画を維持する方針。",
+      "insight": "インドが「守る市場」から「輸出拠点」へ移る転換点。日系にとってはインド生産のEU向け活用という新たな選択肢が開く。",
+      "meta": ["インド側 乗用車関税を段階的に引き下げ", "EU輸出枠 Maruti/Tata/M&Mに配分", "Merc・BMWは現地生産計画を維持"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/auto/industry-auto-maruti-tata-mm-gain-eu-export-window-mercedes-bmw-localisation-126091300193_1.html"
+    },
+    {
+      "rank": 9,
+      "field": "ad",
+      "sec": "事故・当局調査",
+      "badges": ["us"],
+      "title": "Tesla、9月にオースティンでロボタクシー4件の衝突を報告　監視員撤去を準備",
+      "summary": "NHTSAへの提出データに基づく報道によると、Teslaは9月に入りテキサス州オースティンのロボタクシー運行で4件の衝突を報告した。同社は車内セーフティモニターの撤去に向けた準備を進めている段階で、事故報告の積み上がりと無人化のタイミングが正面からぶつかる形になっている。",
+      "insight": "監視員撤去はコスト構造を一変させる分岐点。事故率がこの水準のままだと当局の介入で計画が後ろ倒しになるリスクが高い。",
+      "meta": ["9月の報告件数 4件", "セーフティモニター撤去を準備中"],
+      "source": "Austin American-Statesman",
+      "sourceUrl": "https://www.statesman.com/business/technology/article/tesla-robotaxi-crashes-austin-waymo-nhtsa-report-21195132.php"
+    },
+    {
+      "rank": 10,
+      "field": "AI",
+      "sec": "製品",
+      "badges": ["us"],
+      "title": "Google、Geminiデスクトップアプリを Windows 10/11 向けに提供開始",
+      "summary": "GoogleがGeminiのデスクトップアプリをWindows 10および11向けに公開した。Alt+Spaceのショートカットで画面上のどこからでも呼び出せ、AIエージェント機能を含む。OSレベルでのAIアシスタント常駐という点で、Microsoft Copilotと正面から競合する配置になる。",
+      "meta": ["対応OS Windows 10/11", "起動 Alt + Space"],
+      "source": "tech-ish",
+      "sourceUrl": "https://tech-ish.com/2026/09/12/gemini-desktop-app-arrives-on-windows-10-and-11/"
+    },
+    {
+      "rank": 11,
+      "field": "econ",
+      "sec": "マクロ・中央銀行",
+      "badges": ["jp"],
+      "title": "日銀、9月会合(17〜18日)での追加利上げ観測が強まる",
+      "summary": "日本経済新聞は、日銀が9月17〜18日の金融政策決定会合で政策金利を1.25%に引き上げる方向と報じた。原油高に起因する物価の上振れリスクを回避する狙いとされる。決定事項ではなく観測報道であり、利上げ幅・タイミングは会合結果で要確認。",
+      "meta": ["会合 9月17〜18日", "政策金利 1.25%へ(観測報道・要確認)"],
+      "source": "日本経済新聞",
+      "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB10B710Q6A910C2000000/"
+    },
+    {
+      "rank": 12,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "Teslaロボタクシー、FSD V15導入と24時間運行へ　来月めどと表明",
+      "summary": "TeslaのAI責任者が、ロボタクシー車両へのFSD V15適用と、来月をめどとした24時間体制の運行開始に言及した。夜間を含む連続運行は稼働率と収益性を大きく左右する一方、低照度環境での安全性検証が新たな論点になる。時期は会社側の見通しであり確定ではない(要確認)。",
+      "meta": ["FSD V15をロボタクシーに適用", "24時間運行 来月めど(要確認)"],
+      "source": "Not a Tesla App",
+      "sourceUrl": "https://www.notateslaapp.com/news/4682/tesla-robotaxis-to-get-fsd-v15-start-running-247-next-month"
+    },
+    {
+      "rank": 13,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": ["us"],
+      "title": "Nvidiaの対中チップ輸出「抜け穴」が米中AIサミット協議に影",
+      "summary": "米国の輸出規制下でもNvidia製AIチップが第三国経由で中国企業に渡る経路が残っているとの指摘が強まり、米中のAI関連協議の障害になっていると報じられた。米国は中国企業の国外拠点にも規制を適用する方針を示してきたが、実効性の確保が課題として残る。",
+      "meta": ["論点 第三国経由の迂回調達", "米は中国企業の国外拠点も規制対象と表明済み"],
+      "source": "Asia Times",
+      "sourceUrl": "https://asiatimes.com/2026/09/nvidia-chip-export-loophole-clouds-us-china-ai-summit-talks/"
+    },
+    {
+      "rank": 14,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "インド株は小幅続落　Sensexは121ポイント安、Niftyは23,400割れ",
+      "summary": "9月11日のインド市場でSensexは前日比121ポイント安で引け、Niftyは23,400をわずかに割り込んだ。原油高と地政学リスクが重しとなる一方、銀行株は堅調で下値は限定的だった。",
+      "meta": ["Sensex -121pt", "Nifty 23,400をわずかに下回る", "取得時点 2026年9月11日終値"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/markets/capital-market-news/sensex-settles-121-pts-lower-nifty-ends-tad-below-23-400-level-126091100824_1.html"
+    },
+    {
+      "rank": 15,
+      "field": "auto",
+      "sec": "新車・EV",
+      "badges": [],
+      "title": "メルセデス・ベンツ、新型「EクラスEV」を公開　EQEから正統派セダンに回帰",
+      "summary": "メルセデス・ベンツが電動のEクラスを公開した。独自の丸みを帯びたEQEのデザインから離れ、内燃機関モデルと共通する正統派セダンの造形に戻した点が特徴。EV専用デザインを一度引いて既存ブランド資産に回帰する、欧州勢の路線修正を象徴する動きとなる。",
+      "meta": ["EQEの後継に相当", "デザインは正統派セダンへ回帰"],
+      "source": "レスポンス",
+      "sourceUrl": "https://response.jp/article/2026/09/12/416487.html"
+    },
+    {
+      "rank": 16,
+      "field": "india",
+      "sec": "自動車市場",
+      "badges": [],
+      "title": "インド8月の乗用車販売、Marutiが首位　TataがMahindraとの差を拡大",
+      "summary": "インドの8月乗用車販売はMaruti Suzukiが首位を維持し、Tata MotorsがMahindra & Mahindraとの月間販売差をさらに広げた。EVではTataとMahindraが伸びを牽引しており、内燃機関と電動の双方で上位勢の順位が動きつつある。各社の具体的な台数は出典で要確認。",
+      "meta": ["首位 Maruti Suzuki", "Tataが2位でMahindraとの差を拡大", "台数は要確認"],
+      "source": "Autocar India",
+      "sourceUrl": "https://www.autocarindia.com/industry/august-2026-car-sales-tata-widens-monthly-lead-over-mahindra-440627"
+    },
+    {
+      "rank": 17,
+      "field": "econ",
+      "sec": "商品",
+      "badges": ["us"],
+      "title": "WTI原油が100ドル近辺に急落　ホルムズ協議進展と米掘削増が重し",
+      "summary": "9月11日のWTI原油は100.05ドル(-2.43ドル、-2.37%)まで下落した。ホルムズ海峡を巡る協議の進展でリスクプレミアムが縮小し、米国の掘削活動増加も供給不安を和らげた。前週に105ドル台まで急騰した局面からの反落で、インフレ見通しの前提が再び動いている。",
+      "insight": "原油が落ち着けば利上げ観測は後退しうるが、今回はコアCPIの上振れが効いており、原油安が株高に直結しても金利低下には直結していない。",
+      "meta": ["WTI 100.05ドル (-2.37%)", "取得時点 2026年9月11日"],
+      "source": "Investrade",
+      "sourceUrl": "https://investrade.com/market-review-september-11-2026/",
+      "followup": {
+        "since": "2026-09-11",
+        "whatsNew": "前回の「105ドルへ急騰」から一転、ホルムズ協議の進展を受けて100ドル近辺まで反落した。"
+      }
+    }
+  ],
+  "weekly": [
+    "ニデックの品質不正、800件超の不適切行為の約9割が3事業部門に集中。経営責任追及と10月末の東証審査が重なる",
+    "米8月CPIのコアが上振れ、来週FOMCの利上げ織り込みが約9割に。原油急落で米株は4日ぶり反発",
+    "Nvidia、AnthropicのIPOに最大100億ドル出資を検討と報道。評価額は約2兆ドル規模"
+  ]
+}
