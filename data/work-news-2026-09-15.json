@@ -1,0 +1,194 @@
+{
+  "date": "2026-09-15",
+  "sub": "火",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": ["jp", "us"],
+      "title": "ソフトバンクG株が一時12.5%安　OpenAIの年内上場見送り報道で",
+      "summary": "9月14日の東京市場でソフトバンクグループ株が一時12.5%安と急落した。OpenAIが2026年内の新規株式公開を見送るとの報道が引き金で、AI開発の減速懸念と重なり先週の上昇分をほぼ帳消しにした。Bloombergは同社株の下げがAI関連株全体の売りを主導したと伝えている。",
+      "insight": "OpenAIのIPO時期がソフトバンクGの株価そのものを動かす構図が鮮明になった。",
+      "meta": ["一時12.5%安（日経）", "OpenAI 2026年内IPO見送り報道"],
+      "source": "日本経済新聞",
+      "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL140MB0U6A910C2000000/"
+    },
+    {
+      "rank": 2,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "日経平均は518円安の6万3,492円　AI・半導体売りで続落",
+      "summary": "9月14日の日経平均株価は前週末比518円35銭安の6万3,492円99銭で引け、続落した。AI開発減速観測、OpenAIの上場見送り報道、日銀の追加利上げ観測という「三重苦」でAI・半導体関連の一角が売られた。一時は6万3,000円を割り込む場面もあった。",
+      "meta": ["終値 63,492.99円", "前週末比 -518.35円"],
+      "source": "日本経済新聞",
+      "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL140KPTU6A910C2000000/"
+    },
+    {
+      "rank": 3,
+      "field": "econ",
+      "sec": "マクロ・中央銀行",
+      "badges": ["jp"],
+      "title": "日銀、9月17〜18日会合で政策金利1.25%程度へ追加利上げの見通しと報道",
+      "summary": "日銀が9月17〜18日の金融政策決定会合で政策金利を現行の1.00%程度から1.25%程度へ引き上げる方向と報じられた。市場の織り込みは前週末時点で約8割とされ、同週はFOMCも控えるため「日米同時利上げ」が最大の焦点となる。",
+      "meta": ["政策金利 1.00%→1.25%程度（報道）", "会合 9/17〜18"],
+      "source": "毎日新聞",
+      "sourceUrl": "https://news.yahoo.co.jp/articles/192ea14e21239dc29d6cd678a487bf4e35b5205c",
+      "followup": {
+        "since": "2026-09-14",
+        "whatsNew": "「観測が強まる」段階から、利上げ幅を1.25%程度と具体的に示す報道に進んだ。"
+      }
+    },
+    {
+      "rank": 4,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "Waymo、ラスベガスで有料ロボタクシーを開始　15都市目",
+      "summary": "Waymoは9月14日、ラスベガスで一般向けの有料ロボタクシーサービスを開始した。Bloombergによれば同社にとって15都市目の有料展開となる。9月1日にはデンバー・サンディエゴ・タンパでも展開を始めており、都市追加のペースが加速している。",
+      "insight": "都市数の積み上げでTeslaとの先行差をさらに広げる展開。",
+      "meta": ["15都市目（Bloomberg）", "9/1にデンバー等3都市で開始済み"],
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/"
+    },
+    {
+      "rank": 5,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": ["us"],
+      "title": "AI大手が新たなAI安全機関の設立を協議　トランプ政権は減速に反対",
+      "summary": "Washington Postは9月14日、Anthropic・OpenAI・Googleなど主要AI企業が新たな安全性評価組織の設立を協議していると報じた。一方でトランプ政権は開発ペースを落とすことに反対の立場で、業界の自主規制と政権の加速方針が正面から食い違っている。",
+      "insight": "業界主導のガバナンスが政権の産業政策と衝突する局面に入った。",
+      "source": "The Washington Post",
+      "sourceUrl": "https://www.washingtonpost.com/technology/2026/09/14/anthropic-openai-google-discussed-creating-new-ai-safety-body/"
+    },
+    {
+      "rank": 6,
+      "field": "india",
+      "sec": "マクロ・RBI",
+      "badges": [],
+      "title": "インド8月CPIは4.82%に加速　食品インフレが押し上げ",
+      "summary": "インドの8月消費者物価指数は前年同月比4.82%上昇し、前月から加速した。食品インフレが5.95%と全体を押し上げている。Bloombergは、この加速によりRBIが据え置きを続けられる余地が狭まったと指摘している。",
+      "meta": ["CPI 4.82%（前年同月比）", "食品 5.95%"],
+      "source": "ANI News",
+      "sourceUrl": "https://aninews.in/news/business/cpi-inflation-in-august-at-482-yoy-led-by-food-inflation20260914164039/"
+    },
+    {
+      "rank": 7,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": ["jp", "us"],
+      "title": "ソフトバンクG、118.7億ドルを確保しOpenAI出資を継続と報道",
+      "summary": "株価が13%急落する一方で、ソフトバンクグループはOpenAIへの出資を続けるため118.7億ドル規模の資金を確保したと報じられた。IPO時期の後退にもかかわらず出資姿勢は崩していない形で、資金調達と株価下落が同時進行している。",
+      "meta": ["調達規模 118.7億ドル（報道）", "OpenAI出資は継続方針"],
+      "source": "Tech Startups",
+      "sourceUrl": "https://techstartups.com/2026/09/14/softbank-secures-11-87-billion-to-keep-funding-openai-even-as-its-stock-plunges-13/"
+    },
+    {
+      "rank": 8,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["jp"],
+      "title": "新明和工業、ダンプトラックをリコール　制動力低下のおそれ",
+      "summary": "新明和工業は、スライドボデー付きダンプトラックについて制動力が低下するおそれがあるとして国土交通省にリコールを届け出た。架装メーカー側の不具合に起因するもので、対象台数・不具合部位の詳細は届出内容の確認が必要（要確認）。",
+      "meta": ["国交省へ届出", "対象台数は要確認"],
+      "source": "レスポンス",
+      "sourceUrl": "https://response.jp/article/2026/09/14/416529.html"
+    },
+    {
+      "rank": 9,
+      "field": "ad",
+      "sec": "規制・当局",
+      "badges": ["us"],
+      "title": "TeslaのFSD「居眠り運転」動画で規制圧力　議員が運輸省に対応要求",
+      "summary": "FSD作動中に運転者が居眠りする動画が多数拡散したことを受け、米下院議員が運輸省に対応を求めた。Electrekによれば確認された動画は43件に上る。NHTSAは既にFSDの挙動を巡る複数の調査を抱えており、監視義務の実効性が争点となっている。",
+      "meta": ["居眠り動画 43件（Electrek）", "運輸省・NHTSAの対応が焦点"],
+      "source": "Electrek",
+      "sourceUrl": "https://electrek.co/2026/09/10/congressman-dot-tesla-fsd-sleeping-drivers/"
+    },
+    {
+      "rank": 10,
+      "field": "india",
+      "sec": "マクロ・RBI",
+      "badges": [],
+      "title": "インド8月WPIは9.92%に上昇　燃料高で予想を上回る",
+      "summary": "インドの8月卸売物価指数は前年同月比9.92%上昇し、市場予想の9.89%を上回った。燃料価格の高止まりが主因。同日発表のCPI加速と合わせ、RBIの金融政策運営の自由度は一段と狭まっている。",
+      "meta": ["WPI 9.92%", "市場予想 9.89%"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/economy/news/august-wpi-inflation-edges-up-to-9-92-as-fuel-prices-stay-elevated-126091400244_1.html"
+    },
+    {
+      "rank": 11,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": ["us"],
+      "title": "AnthropicのCEOがAI開発の減速を提言　アルトマン氏・マスク氏も同調",
+      "summary": "AnthropicのCEOが、AIが1年以内に「インターネット全体を乗っ取る能力」を持ちうるとして最先端AI開発の減速を提言し、OpenAIのアルトマン氏やマスク氏も同調したと報じられた。この発言を起点にAI開発減速観測が広がり、週明けのAI関連株の世界同時安につながった。",
+      "insight": "安全性の議論が、初めて明確に株価材料として機能した局面。",
+      "source": "Impress Watch",
+      "sourceUrl": "https://www.watch.impress.co.jp/docs/news/2140440.html"
+    },
+    {
+      "rank": 12,
+      "field": "econ",
+      "sec": "市場・為替",
+      "badges": ["us", "jp"],
+      "title": "ドル円は153円台半ば　中銀ウイーク前で様子見",
+      "summary": "ドル円は前週末時点で153円台半ばと円高方向で推移した（9月11日終値時点）。米8月CPIはヘッドラインが市場予想どおりでインフレ加速は確認されず、FOMCを前に方向感を欠いた。今週は日銀・FRBがともに利上げに動くかが焦点となる。",
+      "meta": ["ドル円 153円台半ば（9/11終値時点）", "今週はFOMC・日銀会合"],
+      "source": "OANDA証券",
+      "sourceUrl": "https://www.oanda.jp/lab-education/market_news/2026_09_14_usdjpy/"
+    },
+    {
+      "rank": 13,
+      "field": "auto",
+      "sec": "新車・EV",
+      "badges": [],
+      "title": "ルノー、新型商用EV「トラフィック E-Techエレクトリック」を発表へ",
+      "summary": "ルノーは9月14日、IAAトランスポーテーション2026で新世代商用EV「トラフィック E-Techエレクトリック」を発表すると明らかにした。最大航続は約450km、20分で15%から80%まで充電できるとされる。小型ハッチバック並みの最小回転半径を訴求点に据える。",
+      "meta": ["航続 約450km（メーカー公表）", "15→80%充電 約20分"],
+      "source": "レスポンス",
+      "sourceUrl": "https://response.jp/article/2026/09/14/416527.html"
+    },
+    {
+      "rank": 14,
+      "field": "india",
+      "sec": "政策・投資誘致",
+      "badges": [],
+      "title": "モディ首相、9月17日にSEMICON India 2026を開会へ",
+      "summary": "SEMIによると、モディ首相が9月17日にSEMICON India 2026を開会する。半導体製造の国産化とAIデータセンター誘致を軸に、対印投資の呼び込みが議題の中心となる見通し。開催内容・参加企業の詳細は開幕後の確認が必要（要確認）。",
+      "meta": ["開会 9月17日", "詳細は要確認"],
+      "source": "SEMI",
+      "sourceUrl": "https://www.semi.org/en/semi-press-release/honble-pm-shri-narendra-modi-to-inaugurate-semicon-india-2026-on-17th-september"
+    },
+    {
+      "rank": 15,
+      "field": "auto",
+      "sec": "製品戦略",
+      "badges": ["jp"],
+      "title": "マツダ、CX-30の「XD」を廃止　1.8L級小排気量ディーゼルが消滅",
+      "summary": "マツダがCX-30の小排気量クリーンディーゼル「XD」を廃止し、パワートレーンを2.5Lガソリンへ統合する。MAZDA3を含むグレード整理の一環で、同社が長年掲げてきた小排気量ディーゼル戦略の縮小が一段と進む形となる。",
+      "meta": ["XDグレード廃止", "2.5Lへ統合"],
+      "source": "ベストカーWeb",
+      "sourceUrl": "https://bestcarweb.jp/feature/column/1601608"
+    },
+    {
+      "rank": 16,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "インド株式市場は9月14日休場　ガネーシュ・チャトゥルティで",
+      "summary": "BSE・NSEはガネーシュ・チャトゥルティのため9月14日を休場とした。CPI・WPIの発表と重なったため、インフレ指標への市場の反応は15日以降に持ち越された。今週は米FOMCも控え、値動きが集中しやすい。",
+      "meta": ["9/14 BSE・NSE休場", "指標反応は15日以降"],
+      "source": "Goodreturns",
+      "sourceUrl": "https://www.goodreturns.in/news/stock-market-holiday-on-september-14-2026-is-trading-closed-bse-nse-ganesh-chaturthi-sensex-nifty-1534491.html"
+    }
+  ],
+  "weekly": [
+    "OpenAIの年内IPO見送り報道でソフトバンクGが一時12.5%安、AI関連株が世界同時安",
+    "Waymoがラスベガスで有料ロボタクシーを開始し15都市目、展開ペースが加速",
+    "日銀は17〜18日会合で1.25%程度への追加利上げの見通しと報道、日米同時利上げが焦点"
+  ]
+}
