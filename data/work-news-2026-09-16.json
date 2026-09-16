@@ -1,196 +1,290 @@
 {
-  "date": "2026-09-16",
-  "sub": "水",
-  "cat": "work",
-  "articles": [
-    {
-      "rank": 1,
-      "field": "AI",
-      "sec": "産業動向",
-      "badges": ["us"],
-      "title": "AI大手が「開発減速」を相次ぎ支持　半導体・AI株に売り",
-      "summary": "MicrosoftのMustafa Suleyman氏が「開発は続けるが、もう少し慎重さと配慮をもって進めるべきだ」と述べるなど、OpenAI・Anthropic・xAI・Microsoftのトップが揃ってフロンティアモデル開発のペースを緩める方向を支持。投資家は計算資源投資の減速を警戒し、9月14日の米市場でAI・半導体関連株が売られた。Deutsche Bankのアナリストは「競争圧力の下で各社が自発的に開発を止めるとは考えにくい」と懐疑的な見方を示す。",
-      "insight": "「安全」を巡る発言が、そのままデータセンター・半導体の需要見通しに直結する局面に入った。",
-      "meta": ["発言 M.スレイマン(MS)", "同調 OpenAI/Anthropic/xAI", "影響 AI・半導体株安"],
-      "source": "Semafor",
-      "sourceUrl": "https://www.semafor.com/article/09/14/2026/ai-slowdown-calls-prompt-chip-selloff",
-      "followup": {
-        "since": "2026-09-15",
-        "whatsNew": "前回の「AI安全機関の設立協議」「Anthropic CEOの減速提言」が、Microsoftを含む主要各社の同調と株式市場の実損という形で波及した。"
-      }
-    },
-    {
-      "rank": 2,
-      "field": "ad",
-      "sec": "ロボタクシー",
-      "badges": ["jp", "us"],
-      "title": "Waymo、東京でロボタクシーを来年開始へ　アジア展開の第一歩",
-      "summary": "Alphabet傘下のWaymoが、東京で来年からロボタクシーサービスを開始する方針を明らかにした。同社にとってアジア初の商用展開となる。9月14日には米ラスベガスで15都市目となる有料サービスを開始したばかりで、国内外で展開ペースを上げている。国内の許認可・運行体制の詳細は現時点で未確認。",
-      "insight": "国内OEMにとって、ロボタクシー競争が「海の向こうの話」でなくなる。",
-      "meta": ["開始 2027年予定", "アジア初", "直近 ラスベガスで15都市目(9/14)"],
-      "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-15/waymo-to-start-tokyo-robotaxi-service-next-year-in-asia-push"
-    },
-    {
-      "rank": 3,
-      "field": "AI",
-      "sec": "製品",
-      "badges": ["us"],
-      "title": "Apple、iOS 27を公開　刷新版「Siri AI」を一般提供",
-      "summary": "Appleが9月14日にiOS 27の一般提供を開始し、6月のWWDCで発表した刷新版アシスタント「Siri AI」を含むApple Intelligenceの新機能を投入した。2026年2月に一度延期が報じられた大型刷新が、ようやく一般ユーザーの手元に届いた形。",
-      "insight": "端末側AIの実運用が始まり、業務端末でのAI利用ポリシー見直しが現実的な検討事項になる。",
-      "meta": ["提供開始 2026-09-14", "対象 iOS 27", "経緯 2月に延期報道"],
-      "source": "Engadget",
-      "sourceUrl": "https://www.engadget.com/2254005/ios-27-with-siri-ai-will-be-available-on-september-14/"
-    },
-    {
-      "rank": 4,
-      "field": "econ",
-      "sec": "市場",
-      "badges": ["jp"],
-      "title": "日経平均は3日続落、終値6万3,484円　金利上昇が重荷",
-      "summary": "9月15日の東京市場で日経平均株価は前日比8.89円安の6万3,484円10銭と3日続落。一時6万4,000円台を回復する場面もあったが、国内外の金利上昇を嫌気して上げ幅を消した。ソフトバンクグループの反発が指数を下支えし、前日まで続いた「過度なAI減速論」による下げには一服感が出た。",
-      "meta": ["終値 63,484.10円", "前日比 -8.89円", "3日続落"],
-      "source": "日本経済新聞",
-      "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL152RM0V10C26A9000000/"
-    },
-    {
-      "rank": 5,
-      "field": "india",
-      "sec": "市場",
-      "badges": [],
-      "title": "インド株が急落、Sensexは777ポイント安の74,003　原油高が重し",
-      "summary": "9月15日のインド市場でSensexは前日比777.94ポイント(-1.04%)安の74,003.82、Nifty 50は279.50ポイント(-1.19%)安の23,118.60で引けた。原油高がインフレと成長見通しへの懸念を強め、Nifty Realtyが4.00%安と最も下落。中小型株も軟調で、Nifty MidCapは2.12%安、SmallCapは2.43%安となった。",
-      "meta": ["Sensex 74,003.82 (-1.04%)", "Nifty 23,118.60 (-1.19%)", "最大下落 不動産 -4.00%"],
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/markets/news/stock-market-live-september-15-nse-bse-sensex-today-nifty-gift-nifty-crude-oil-price-today-pranav-construction-ipo-listing-126091500075_1.html"
-    },
-    {
-      "rank": 6,
-      "field": "india",
-      "sec": "製造誘致",
-      "badges": [],
-      "title": "インド、半導体12案件を承認　投資コミットは1.64兆ルピー超",
-      "summary": "インド政府が半導体関連の12案件を承認し、投資コミットメント総額は1兆6,400億ルピー(1.64 lakh crore)を超えた。9月17日にモディ首相が開会するSEMICON India 2026を前に、半導体・電子機器の国内製造強化を一段と押し出した形。大規模電子機器のPLI(生産連動型優遇策)は、携帯端末製造で約9,600億ルピーの投資を呼び込んだと政府は説明している。",
-      "insight": "車載半導体の調達先分散を検討する上で、インドの立ち上がり時期を押さえておく価値が増している。",
-      "meta": ["承認 12案件", "投資コミット 1.64兆ルピー超", "SEMICON India 9/17開会"],
-      "source": "IANS",
-      "sourceUrl": "https://ianslive.in/india-approves-12-chip-projects-with-investment-commitments-over-rs-164-lakh-crore--20260915121556"
-    },
-    {
-      "rank": 7,
-      "field": "econ",
-      "sec": "市場",
-      "badges": ["us"],
-      "title": "NYダウは152ドル安　原油高とAI減速警戒で3指数そろって下落",
-      "summary": "9月14日の米国市場でダウ工業株30種平均は前日比152.09ドル安で引けた。AI大手による開発減速の呼びかけを受けた半導体株売りに加え、原油高がインフレ再燃への警戒を誘い、寄り付きから軟調に推移した。ハイテク比率の高いナスダック総合もマイナス圏で終えた。(値は9月14日の米国終値)",
-      "meta": ["ダウ -152.09ドル", "取得時点 9/14 米国終値", "要因 AI減速警戒・原油高"],
-      "source": "財経新聞",
-      "sourceUrl": "https://www.zaikei.co.jp/article/20260915/869998.html"
-    },
-    {
-      "rank": 8,
-      "field": "econ",
-      "sec": "中央銀行",
-      "badges": ["jp"],
-      "title": "日銀、17〜18日会合へ　1.25%への追加利上げ観測が支配的",
-      "summary": "日銀の金融政策決定会合を9月17〜18日に控え、市場では政策金利を1.25%程度へ引き上げるとの見方が支配的。物価上振れリスクの回避に加え、原油高と円安が利上げ判断を後押しする構図となっている。会合結果は本紙配信後に判明する。",
-      "meta": ["会合 9/17〜18", "予想 政策金利1.25%程度", "背景 物価上振れ・円安"],
-      "source": "日本経済新聞",
-      "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB10B710Q6A910C2000000/",
-      "followup": {
-        "since": "2026-09-15",
-        "whatsNew": "前回の「追加利上げの見通しと報道」から会合直前に入り、市場の織り込みが進んだ段階。"
-      }
-    },
-    {
-      "rank": 9,
-      "field": "econ",
-      "sec": "為替・商品",
-      "badges": ["jp", "us"],
-      "title": "ドル円は154円台前半　原油高と米長期金利上昇が円安を後押し",
-      "summary": "9月15日の外国為替市場でドル円は154円台前半で推移。原油価格の上昇と米10年債利回りの上昇が円売り・ドル買いを誘った。市場はFOMCの判断に確信を持てず、神経質な値動きが続いている。ブレント原油は1バレル107ドル近辺とされるが、水準は要確認。(為替は9月15日時点)",
-      "meta": ["ドル円 154円台前半", "取得時点 9/15", "ブレント 107ドル近辺(要確認)"],
-      "source": "OANDA証券",
-      "sourceUrl": "https://www.oanda.jp/lab-education/market_news/2026_09_15_usdjpy/"
-    },
-    {
-      "rank": 10,
-      "field": "ad",
-      "sec": "商用車",
-      "badges": [],
-      "title": "中国・小馬智行、レベル4の自動運転トラックを発表",
-      "summary": "中国の自動運転企業、小馬智行(Pony.ai)がレベル4の自動運転トラックを発表した。ロボタクシーで先行してきた同社が商用車領域へ本格的に軸足を広げる動きで、幹線物流での無人化競争が一段と激しくなる。",
-      "insight": "ロボタクシーより先に、収益性の見えやすい幹線輸送でL4が実装される可能性。",
-      "meta": ["企業 小馬智行(Pony.ai)", "対象 レベル4トラック", "発表 9/15報道"],
-      "source": "DG Lab Haus（Reuters）",
-      "sourceUrl": "https://media.dglab.com/2026/09/15-reuters-03/"
-    },
-    {
-      "rank": 11,
-      "field": "auto",
-      "sec": "新車・パワートレイン",
-      "badges": ["jp"],
-      "title": "トヨタ、欧州で水素トラック「ハイラックス」を投入へ",
-      "summary": "トヨタ自動車が欧州市場に水素を燃料とするトラック版「ハイラックス」を投入する方針を明らかにした。BEV一辺倒になりがちな商用領域で、燃料電池という選択肢を欧州で実地展開する。同日の株価は市場全体の悪地合いに押されて続落した。",
-      "insight": "商用車のマルチパスウェイ戦略を、規制の厳しい欧州で検証しにいく構図。",
-      "meta": ["市場 欧州", "車種 ハイラックス(水素)", "発表 2026-09-15"],
-      "source": "レスポンス",
-      "sourceUrl": "https://response.jp/article/2026/09/15/416623.html"
-    },
-    {
-      "rank": 12,
-      "field": "india",
-      "sec": "IT・AI",
-      "badges": [],
-      "title": "インドIT株が逆行高　「AI減速」観測が受託開発に追い風",
-      "summary": "9月15日のインド市場で、TCS・Infosys・HCLTech・Tech Mahindra・Wiproなどが揃って上昇し、Nifty ITは寄り付き直後に5%高となった。全面安の中でNifty ITは終値でも2.00%高と唯一のプラス。AI開発の減速観測が、AIによる代替懸念で売られてきたIT受託サービスの見直し買いを呼んだ形。",
-      "insight": "「AI減速」は一様な悪材料ではなく、セクターによって符号が逆転する。",
-      "meta": ["Nifty IT 寄付き +5%", "終値 +2.00%", "唯一の上昇セクター"],
-      "source": "Business Today",
-      "sourceUrl": "https://www.businesstoday.in/markets/stocks/story/tcs-infosys-hcltech-tech-mahindra-wipro-shares-jump-nifty-it-rises-5-in-early-trade-heres-why-555507-2026-09-15"
-    },
-    {
-      "rank": 13,
-      "field": "AI",
-      "sec": "企業動向",
-      "badges": ["jp"],
-      "title": "ソフトバンクG株が反発　OpenAI上場見送りの急落から下げ渋り",
-      "summary": "9月14日にOpenAIのアルトマンCEOが年内上場を否定したとの報道で一時12.5%安と急落したソフトバンクグループ株が、9月15日は反発し日経平均を下支えした。同社はOpenAIへの巨額出資を抱えており、上場時期の後ずれはエグジット見通しの遅延を意味する。",
-      "meta": ["前日 一時12.5%安", "9/15 反発し指数を下支え", "論点 OpenAI出資のエグジット時期"],
-      "source": "日本経済新聞",
-      "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL152RM0V10C26A9000000/",
-      "followup": {
-        "since": "2026-09-15",
-        "whatsNew": "前回報じた急落から一日で反発に転じ、下値の堅さが確認された。"
-      }
-    },
-    {
-      "rank": 14,
-      "field": "auto",
-      "sec": "リコール",
-      "badges": ["jp"],
-      "title": "花見台自動車、トラック110台をリコール　タイヤバーストのおそれ",
-      "summary": "特装車メーカーの花見台自動車が、トラック110台についてリコールを届け出た。走行中にタイヤがバーストするおそれがあるとしている。",
-      "meta": ["対象 110台", "不具合 タイヤバーストのおそれ", "届出 2026-09-15報道"],
-      "source": "レスポンス",
-      "sourceUrl": "https://response.jp/article/2026/09/15/416587.html"
-    },
-    {
-      "rank": 15,
-      "field": "auto",
-      "sec": "リコール",
-      "badges": ["us"],
-      "title": "ジープ・フィアット・アルファロメオの3車種3,989台にリコール　火災のおそれ",
-      "summary": "ステランティス傘下のジープ、フィアット、アルファロメオの3車種、計3,989台についてリコールが届け出られた。火災に至るおそれがあるとしている。",
-      "meta": ["対象 3車種 3,989台", "不具合 火災のおそれ", "届出 2026-09-13報道"],
-      "source": "CAR CARE PLUS",
-      "sourceUrl": "https://carcareplus.jp/article/2026/09/13/15649.html"
-    }
-  ],
-  "weekly": [
-    "AI大手が揃って「開発減速」を支持し、日米で半導体・AI関連株が売られた",
-    "Waymoが東京ロボタクシーを来年開始と表明、アジア初の商用展開へ",
-    "インドが半導体12案件を承認、投資コミットは1.64兆ルピー超に"
-  ]
+ "date": "2026-09-16",
+ "sub": "水",
+ "cat": "work",
+ "articles": [
+  {
+   "rank": 1,
+   "field": "AI",
+   "sec": "産業動向",
+   "badges": [
+    "us"
+   ],
+   "title": "AI大手が「開発減速」を相次ぎ支持　半導体・AI株に売り",
+   "summary": "MicrosoftのMustafa Suleyman氏が「開発は続けるが、もう少し慎重さと配慮をもって進めるべきだ」と述べるなど、OpenAI・Anthropic・xAI・Microsoftのトップが揃ってフロンティアモデル開発のペースを緩める方向を支持。投資家は計算資源投資の減速を警戒し、9月14日の米市場でAI・半導体関連株が売られた。Deutsche Bankのアナリストは「競争圧力の下で各社が自発的に開発を止めるとは考えにくい」と懐疑的な見方を示す。",
+   "insight": "「安全」を巡る発言が、そのままデータセンター・半導体の需要見通しに直結する局面に入った。",
+   "meta": [
+    "発言 M.スレイマン(MS)",
+    "同調 OpenAI/Anthropic/xAI",
+    "影響 AI・半導体株安"
+   ],
+   "source": "Semafor",
+   "sourceUrl": "https://www.semafor.com/article/09/14/2026/ai-slowdown-calls-prompt-chip-selloff",
+   "followup": {
+    "since": "2026-09-15",
+    "whatsNew": "前回の「AI安全機関の設立協議」「Anthropic CEOの減速提言」が、Microsoftを含む主要各社の同調と株式市場の実損という形で波及した。"
+   },
+   "publishedAt": "2026-09-14"
+  },
+  {
+   "rank": 2,
+   "field": "ad",
+   "sec": "ロボタクシー",
+   "badges": [
+    "jp",
+    "us"
+   ],
+   "title": "Waymo、東京でロボタクシーを来年開始へ　アジア展開の第一歩",
+   "summary": "Alphabet傘下のWaymoが、東京で来年からロボタクシーサービスを開始する方針を明らかにした。同社にとってアジア初の商用展開となる。9月14日には米ラスベガスで15都市目となる有料サービスを開始したばかりで、国内外で展開ペースを上げている。国内の許認可・運行体制の詳細は現時点で未確認。",
+   "insight": "国内OEMにとって、ロボタクシー競争が「海の向こうの話」でなくなる。",
+   "meta": [
+    "開始 2027年予定",
+    "アジア初",
+    "直近 ラスベガスで15都市目(9/14)"
+   ],
+   "source": "Bloomberg",
+   "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-15/waymo-to-start-tokyo-robotaxi-service-next-year-in-asia-push",
+   "publishedAt": "2026-09-15"
+  },
+  {
+   "rank": 3,
+   "field": "AI",
+   "sec": "製品",
+   "badges": [
+    "us"
+   ],
+   "title": "Apple、iOS 27を公開　刷新版「Siri AI」を一般提供",
+   "summary": "Appleが9月14日にiOS 27の一般提供を開始し、6月のWWDCで発表した刷新版アシスタント「Siri AI」を含むApple Intelligenceの新機能を投入した。2026年2月に一度延期が報じられた大型刷新が、ようやく一般ユーザーの手元に届いた形。",
+   "insight": "端末側AIの実運用が始まり、業務端末でのAI利用ポリシー見直しが現実的な検討事項になる。",
+   "meta": [
+    "提供開始 2026-09-14",
+    "対象 iOS 27",
+    "経緯 2月に延期報道"
+   ],
+   "source": "Engadget",
+   "sourceUrl": "https://www.engadget.com/2254005/ios-27-with-siri-ai-will-be-available-on-september-14/"
+  },
+  {
+   "rank": 4,
+   "field": "econ",
+   "sec": "市場",
+   "badges": [
+    "jp"
+   ],
+   "title": "日経平均は3日続落、終値6万3,484円　金利上昇が重荷",
+   "summary": "9月15日の東京市場で日経平均株価は前日比8.89円安の6万3,484円10銭と3日続落。一時6万4,000円台を回復する場面もあったが、国内外の金利上昇を嫌気して上げ幅を消した。ソフトバンクグループの反発が指数を下支えし、前日まで続いた「過度なAI減速論」による下げには一服感が出た。",
+   "meta": [
+    "終値 63,484.10円",
+    "前日比 -8.89円",
+    "3日続落"
+   ],
+   "source": "日本経済新聞",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL152RM0V10C26A9000000/"
+  },
+  {
+   "rank": 5,
+   "field": "india",
+   "sec": "市場",
+   "badges": [],
+   "title": "インド株が急落、Sensexは777ポイント安の74,003　原油高が重し",
+   "summary": "9月15日のインド市場でSensexは前日比777.94ポイント(-1.04%)安の74,003.82、Nifty 50は279.50ポイント(-1.19%)安の23,118.60で引けた。原油高がインフレと成長見通しへの懸念を強め、Nifty Realtyが4.00%安と最も下落。中小型株も軟調で、Nifty MidCapは2.12%安、SmallCapは2.43%安となった。",
+   "meta": [
+    "Sensex 74,003.82 (-1.04%)",
+    "Nifty 23,118.60 (-1.19%)",
+    "最大下落 不動産 -4.00%"
+   ],
+   "source": "Business Standard",
+   "sourceUrl": "https://www.business-standard.com/markets/news/stock-market-live-september-15-nse-bse-sensex-today-nifty-gift-nifty-crude-oil-price-today-pranav-construction-ipo-listing-126091500075_1.html"
+  },
+  {
+   "rank": 6,
+   "field": "india",
+   "sec": "製造誘致",
+   "badges": [],
+   "title": "インド、半導体12案件を承認　投資コミットは1.64兆ルピー超",
+   "summary": "インド政府が半導体関連の12案件を承認し、投資コミットメント総額は1兆6,400億ルピー(1.64 lakh crore)を超えた。9月17日にモディ首相が開会するSEMICON India 2026を前に、半導体・電子機器の国内製造強化を一段と押し出した形。大規模電子機器のPLI(生産連動型優遇策)は、携帯端末製造で約9,600億ルピーの投資を呼び込んだと政府は説明している。",
+   "insight": "車載半導体の調達先分散を検討する上で、インドの立ち上がり時期を押さえておく価値が増している。",
+   "meta": [
+    "承認 12案件",
+    "投資コミット 1.64兆ルピー超",
+    "SEMICON India 9/17開会"
+   ],
+   "source": "IANS",
+   "sourceUrl": "https://ianslive.in/india-approves-12-chip-projects-with-investment-commitments-over-rs-164-lakh-crore--20260915121556",
+   "publishedAt": "2026-09-15"
+  },
+  {
+   "rank": 7,
+   "field": "econ",
+   "sec": "市場",
+   "badges": [
+    "us"
+   ],
+   "title": "NYダウは152ドル安　原油高とAI減速警戒で3指数そろって下落",
+   "summary": "9月14日の米国市場でダウ工業株30種平均は前日比152.09ドル安で引けた。AI大手による開発減速の呼びかけを受けた半導体株売りに加え、原油高がインフレ再燃への警戒を誘い、寄り付きから軟調に推移した。ハイテク比率の高いナスダック総合もマイナス圏で終えた。(値は9月14日の米国終値)",
+   "meta": [
+    "ダウ -152.09ドル",
+    "取得時点 9/14 米国終値",
+    "要因 AI減速警戒・原油高"
+   ],
+   "source": "財経新聞",
+   "sourceUrl": "https://www.zaikei.co.jp/article/20260915/869998.html",
+   "publishedAt": "2026-09-15"
+  },
+  {
+   "rank": 8,
+   "field": "econ",
+   "sec": "中央銀行",
+   "badges": [
+    "jp"
+   ],
+   "title": "日銀、17〜18日会合へ　1.25%への追加利上げ観測が支配的",
+   "summary": "日銀の金融政策決定会合を9月17〜18日に控え、市場では政策金利を1.25%程度へ引き上げるとの見方が支配的。物価上振れリスクの回避に加え、原油高と円安が利上げ判断を後押しする構図となっている。会合結果は本紙配信後に判明する。",
+   "meta": [
+    "会合 9/17〜18",
+    "予想 政策金利1.25%程度",
+    "背景 物価上振れ・円安"
+   ],
+   "source": "日本経済新聞",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB10B710Q6A910C2000000/",
+   "followup": {
+    "since": "2026-09-15",
+    "whatsNew": "前回の「追加利上げの見通しと報道」から会合直前に入り、市場の織り込みが進んだ段階。"
+   }
+  },
+  {
+   "rank": 9,
+   "field": "econ",
+   "sec": "為替・商品",
+   "badges": [
+    "jp",
+    "us"
+   ],
+   "title": "ドル円は154円台前半　原油高と米長期金利上昇が円安を後押し",
+   "summary": "9月15日の外国為替市場でドル円は154円台前半で推移。原油価格の上昇と米10年債利回りの上昇が円売り・ドル買いを誘った。市場はFOMCの判断に確信を持てず、神経質な値動きが続いている。ブレント原油は1バレル107ドル近辺とされるが、水準は要確認。(為替は9月15日時点)",
+   "meta": [
+    "ドル円 154円台前半",
+    "取得時点 9/15",
+    "ブレント 107ドル近辺(要確認)"
+   ],
+   "source": "OANDA証券",
+   "sourceUrl": "https://www.oanda.jp/lab-education/market_news/2026_09_15_usdjpy/",
+   "publishedAt": "2026-09-15"
+  },
+  {
+   "rank": 10,
+   "field": "ad",
+   "sec": "商用車",
+   "badges": [],
+   "title": "中国・小馬智行、レベル4の自動運転トラックを発表",
+   "summary": "中国の自動運転企業、小馬智行(Pony.ai)がレベル4の自動運転トラックを発表した。ロボタクシーで先行してきた同社が商用車領域へ本格的に軸足を広げる動きで、幹線物流での無人化競争が一段と激しくなる。",
+   "insight": "ロボタクシーより先に、収益性の見えやすい幹線輸送でL4が実装される可能性。",
+   "meta": [
+    "企業 小馬智行(Pony.ai)",
+    "対象 レベル4トラック",
+    "発表 9/15報道"
+   ],
+   "source": "DG Lab Haus（Reuters）",
+   "sourceUrl": "https://media.dglab.com/2026/09/15-reuters-03/",
+   "publishedAt": "2026-09-15"
+  },
+  {
+   "rank": 11,
+   "field": "auto",
+   "sec": "新車・パワートレイン",
+   "badges": [
+    "jp"
+   ],
+   "title": "トヨタ、欧州で水素トラック「ハイラックス」を投入へ",
+   "summary": "トヨタ自動車が欧州市場に水素を燃料とするトラック版「ハイラックス」を投入する方針を明らかにした。BEV一辺倒になりがちな商用領域で、燃料電池という選択肢を欧州で実地展開する。同日の株価は市場全体の悪地合いに押されて続落した。",
+   "insight": "商用車のマルチパスウェイ戦略を、規制の厳しい欧州で検証しにいく構図。",
+   "meta": [
+    "市場 欧州",
+    "車種 ハイラックス(水素)",
+    "発表 2026-09-15"
+   ],
+   "source": "レスポンス",
+   "sourceUrl": "https://response.jp/article/2026/09/15/416623.html",
+   "publishedAt": "2026-09-15"
+  },
+  {
+   "rank": 12,
+   "field": "india",
+   "sec": "IT・AI",
+   "badges": [],
+   "title": "インドIT株が逆行高　「AI減速」観測が受託開発に追い風",
+   "summary": "9月15日のインド市場で、TCS・Infosys・HCLTech・Tech Mahindra・Wiproなどが揃って上昇し、Nifty ITは寄り付き直後に5%高となった。全面安の中でNifty ITは終値でも2.00%高と唯一のプラス。AI開発の減速観測が、AIによる代替懸念で売られてきたIT受託サービスの見直し買いを呼んだ形。",
+   "insight": "「AI減速」は一様な悪材料ではなく、セクターによって符号が逆転する。",
+   "meta": [
+    "Nifty IT 寄付き +5%",
+    "終値 +2.00%",
+    "唯一の上昇セクター"
+   ],
+   "source": "Business Today",
+   "sourceUrl": "https://www.businesstoday.in/markets/stocks/story/tcs-infosys-hcltech-tech-mahindra-wipro-shares-jump-nifty-it-rises-5-in-early-trade-heres-why-555507-2026-09-15",
+   "publishedAt": "2026-09-15"
+  },
+  {
+   "rank": 13,
+   "field": "AI",
+   "sec": "企業動向",
+   "badges": [
+    "jp"
+   ],
+   "title": "ソフトバンクG株が反発　OpenAI上場見送りの急落から下げ渋り",
+   "summary": "9月14日にOpenAIのアルトマンCEOが年内上場を否定したとの報道で一時12.5%安と急落したソフトバンクグループ株が、9月15日は反発し日経平均を下支えした。同社はOpenAIへの巨額出資を抱えており、上場時期の後ずれはエグジット見通しの遅延を意味する。",
+   "meta": [
+    "前日 一時12.5%安",
+    "9/15 反発し指数を下支え",
+    "論点 OpenAI出資のエグジット時期"
+   ],
+   "source": "日本経済新聞",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL152RM0V10C26A9000000/",
+   "followup": {
+    "since": "2026-09-15",
+    "whatsNew": "前回報じた急落から一日で反発に転じ、下値の堅さが確認された。"
+   }
+  },
+  {
+   "rank": 14,
+   "field": "auto",
+   "sec": "リコール",
+   "badges": [
+    "jp"
+   ],
+   "title": "花見台自動車、トラック110台をリコール　タイヤバーストのおそれ",
+   "summary": "特装車メーカーの花見台自動車が、トラック110台についてリコールを届け出た。走行中にタイヤがバーストするおそれがあるとしている。",
+   "meta": [
+    "対象 110台",
+    "不具合 タイヤバーストのおそれ",
+    "届出 2026-09-15報道"
+   ],
+   "source": "レスポンス",
+   "sourceUrl": "https://response.jp/article/2026/09/15/416587.html",
+   "publishedAt": "2026-09-15"
+  },
+  {
+   "rank": 15,
+   "field": "auto",
+   "sec": "リコール",
+   "badges": [
+    "us"
+   ],
+   "title": "ジープ・フィアット・アルファロメオの3車種3,989台にリコール　火災のおそれ",
+   "summary": "ステランティス傘下のジープ、フィアット、アルファロメオの3車種、計3,989台についてリコールが届け出られた。火災に至るおそれがあるとしている。",
+   "meta": [
+    "対象 3車種 3,989台",
+    "不具合 火災のおそれ",
+    "届出 2026-09-13報道"
+   ],
+   "source": "CAR CARE PLUS",
+   "sourceUrl": "https://carcareplus.jp/article/2026/09/13/15649.html",
+   "publishedAt": "2026-09-13"
+  }
+ ],
+ "weekly": [
+  "AI大手が揃って「開発減速」を支持し、日米で半導体・AI関連株が売られた",
+  "Waymoが東京ロボタクシーを来年開始と表明、アジア初の商用展開へ",
+  "インドが半導体12案件を承認、投資コミットは1.64兆ルピー超に"
+ ]
 }

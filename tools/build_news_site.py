@@ -28,6 +28,28 @@ from collections import defaultdict
 BASE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(BASE, "news.html")
 
+# ---- 鮮度ルール（2026-09-16 インシデント対応で追加）----------------------
+# 記事の publishedAt（出典の発行日 YYYY-MM-DD）が掲載日から下記日数より古い場合、
+# ビルド時に除外する。publishedAt が無い記事は除外しないが「発行日不明」を表示する。
+MAXAGE_DAYS = 7            # 既定（一般・生活A/C・仕事）
+MAXAGE_DAYS_EXAM = 30      # 生活の「受験・進学」区分のみ（日程・制度は毎日更新されないため）
+
+
+def _pubdate(a):
+    v = (a.get("publishedAt") or "").strip()
+    if not re.match(r"^\d{4}-\d{2}-\d{2}$", v):
+        return None
+    try:
+        return datetime.date(*map(int, v.split("-")))
+    except ValueError:
+        return None
+
+
+def _maxage(ck, a):
+    if ck == "life" and (a.get("sec") or "") in ("受験・進学", "受験", "進学"):
+        return MAXAGE_DAYS_EXAM
+    return MAXAGE_DAYS
+
 # ---- カテゴリ定義 --------------------------------------------------------
 # (ファイル接頭辞, 内部キー, 表示名, 掲載上限)
 CATS = [("general-news", "general", "一般", 10),
@@ -106,6 +128,15 @@ def card_html(a, ck):
             esc(a["sourceUrl"]), esc(a["source"]))
     elif a.get("source"):
         src = '<div class="src"><span class="srcx">出典: %s</span></div>' % esc(a["source"])
+    d = _pubdate(a)
+    if d is not None:
+        pd = '<span class="pdate">発行 %d/%d</span>' % (d.month, d.day)
+    else:
+        pd = '<span class="pdate nod">発行日不明</span>'
+    if src:
+        src = src[:-len("</div>")] + pd + "</div>"
+    else:
+        src = '<div class="src">%s</div>' % pd
 
     fattr = ' data-field="%s"' % esc(a.get("field", "")) if ck == "work" else ""
     rank = '<span class="rank">%d</span>' % a["_rank"]
@@ -224,11 +255,28 @@ def collect():
     return data
 
 
-def prepare(day):
-    """順位ソート・上限カット・new/fuバッジ付与。"""
+def prepare(day, date=None):
+    """鮮度フィルタ・順位ソート・上限カット・new/fuバッジ付与。"""
+    basedate = None
+    if date:
+        try:
+            basedate = datetime.date(*map(int, date.split("-")))
+        except ValueError:
+            basedate = None
+    dropped = []
     for ck in list(day.keys()):
         j = day[ck]
         arts = [a for a in j.get("articles", []) if a.get("title")]
+        if basedate:
+            kept = []
+            for a in arts:
+                d = _pubdate(a)
+                if d is not None and (basedate - d).days > _maxage(ck, a):
+                    dropped.append((ck, a.get("title", ""), a.get("publishedAt"),
+                                    (basedate - d).days))
+                    continue
+                kept.append(a)
+            arts = kept
         arts.sort(key=lambda a: a.get("rank", 10 ** 6))
         arts = arts[:CAP.get(ck, 20)]
         for i, a in enumerate(arts, 1):
@@ -237,6 +285,10 @@ def prepare(day):
             head = ["fu"] if a.get("followup") else ["new"]
             a["badges"] = head + base
         j["articles"] = arts
+    for ck, t, pd, age in dropped:
+        print("[鮮度NG除外] %s / %s (発行 %s・%d日前)" % (ck, t, pd, age))
+    if dropped:
+        print("[鮮度NG除外] 合計 %d件" % len(dropped))
 
 
 def build():
@@ -258,7 +310,7 @@ def build():
     prev_date = dates[1] if len(dates) > 1 else None
     day = data[date]
     mark_followups(day, data.get(prev_date) if prev_date else None, prev_date)
-    prepare(day)
+    prepare(day, date)
 
     y, mo, da = map(int, date.split("-"))
     dlabel = "%d/%d" % (mo, da)
@@ -380,7 +432,7 @@ nav.tabs{position:sticky;top:0;z-index:10;background:rgba(246,245,241,.94);
 .chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px;}
 .mchip{font-size:11px;color:var(--body);background:#f4f2ec;border:1px solid var(--line);border-radius:6px;padding:2px 8px;}
 .insight{margin-top:10px;font-size:12.5px;line-height:1.65;color:#2f3e7a;background:#eef1fb;border-radius:8px;padding:8px 11px;}
-.src{margin-top:12px;}.src a{font-size:12px;white-space:nowrap;}.srcx{font-size:12px;color:var(--muted2);}
+.src{margin-top:12px;display:flex;align-items:center;gap:8px;flex-wrap:wrap;}.pdate{font-size:12px;color:var(--muted2);white-space:nowrap;}.pdate.nod{color:#b3261e;font-weight:700;}.src a{font-size:12px;white-space:nowrap;}.srcx{font-size:12px;color:var(--muted2);}
 .empty{text-align:center;color:var(--muted);font-size:13.5px;padding:64px 0;}
 footer{margin-top:40px;font-size:11.5px;color:var(--muted2);line-height:1.7;}
 #toTop{position:fixed;right:16px;bottom:18px;z-index:30;width:42px;height:42px;border:1px solid var(--line);
