@@ -1,0 +1,374 @@
+{
+ "date": "2026-09-17",
+ "sub": "木",
+ "cat": "work",
+ "articles": [
+  {
+   "rank": 1,
+   "field": "econ",
+   "sec": "金利・中央銀行",
+   "badges": [
+    "us"
+   ],
+   "title": "米10年債利回りが2007年以来の高水準　FRB「利上げ」観測が台頭",
+   "summary": "9月15日の米債券市場で10年国債利回りが2007年以来の高水準に上昇し、5%台に乗せた。市場はFRBの利上げを織り込む動きを強めており、9月16日のFOMC結果発表（日本時間17日未明）が最大の焦点。株式は金利上昇を嫌気して軟調に推移した。",
+   "insight": "利下げ局面の終わりどころか「再利上げ」が議論の中心に移りつつある点が、為替・調達コストの前提を変える。",
+   "meta": [
+    "10年債利回り 5%超（9/15時点）",
+    "2007年以来の高水準",
+    "FOMC結果は日本時間17日未明"
+   ],
+   "source": "CNBC",
+   "sourceUrl": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html"
+  },
+  {
+   "rank": 2,
+   "field": "econ",
+   "sec": "商品・地政学",
+   "badges": [
+    "us"
+   ],
+   "title": "原油が急騰、ブレント107ドル台　ディーゼルは過去最高値",
+   "summary": "9月15日のブレント原油は107ドル台で引け、一時108ドルと5月以来の高値を付けた。サウジアラビアのパイプライン停止とホルムズ海峡を巡る協議の延期が供給不安を煽り、米国のディーゼル価格は過去最高値を更新。エネルギーコスト上昇が金利上昇と重なり、リスク資産の重荷になっている。",
+   "insight": "物流・生産コストの前提が上振れする局面。国内では円安と重なり輸入コストへの波及が早い。",
+   "meta": [
+    "ブレント $107.46（9/15）",
+    "一時 $108＝5月以来の高値",
+    "ディーゼルは過去最高値"
+   ],
+   "source": "NBC News",
+   "sourceUrl": "https://www.nbcnews.com/business/business-news/diesel-oil-prices-jump-saudi-pipeline-shut-hormuz-talks-postponed-iran-rcna597579"
+  },
+  {
+   "rank": 3,
+   "field": "AI",
+   "sec": "規制・ガバナンス",
+   "badges": [
+    "us"
+   ],
+   "title": "OpenAI・グーグル・アンソロピック、AI安全性で協業協議　数週間前から",
+   "summary": "OpenAI、Google DeepMind、Anthropicの3社が、フロンティアモデル開発の安全性を巡る協調について数週間にわたり協議していると報じられた。開発ペースの減速を求める外部圧力が強まるなか、業界横断の枠組みづくりが現実味を帯びる。具体的な合意内容や時期は公表されていない（要確認）。",
+   "insight": "自主規制が先行すれば、各国規制の設計もこの枠組みを参照する可能性が高い。",
+   "meta": [
+    "3社が数週間協議",
+    "合意内容・時期は未公表（要確認）"
+   ],
+   "source": "CNBC",
+   "sourceUrl": "https://www.cnbc.com/2026/09/15/open-ai-google-anthropic-safety.html",
+   "followup": {
+    "since": "2026-09-16",
+    "whatsNew": "前回は経営者個人の「開発減速」発言の紹介だったが、今回は3社が実際に安全性の協業を協議していたことが判明した。"
+   }
+  },
+  {
+   "rank": 4,
+   "field": "econ",
+   "sec": "市場",
+   "badges": [
+    "us"
+   ],
+   "title": "米主要3指数、7営業日で6度目の下落　FOMC結果待ちで様子見",
+   "summary": "9月15日の米株式市場は主要指数がそろって下落し、直近7営業日で6度目の下げとなった。10年債利回りの2007年以来の高水準と原油急騰が重荷。翌16日はFOMCの結果発表を控えて神経質な展開となった。",
+   "meta": [
+    "7営業日で6度目の下落（9/15）",
+    "AI関連と債券動向が主因"
+   ],
+   "source": "Investopedia（Yahoo Finance配信）",
+   "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-futures-fall-105406838.html",
+   "followup": {
+    "since": "2026-09-16",
+    "whatsNew": "前回の「NYダウ152ドル安」から下落が連続局面に入り、10年債利回りが2007年以来の高水準に達した点が新しい。"
+   }
+  },
+  {
+   "rank": 5,
+   "field": "econ",
+   "sec": "マクロ・中央銀行",
+   "badges": [
+    "jp"
+   ],
+   "title": "日銀、17〜18日に金融政策決定会合　1.25%への利上げ観測が優勢",
+   "summary": "日銀は9月17〜18日に金融政策決定会合を開く。市場では政策金利を1.25%へ引き上げるとの見方が優勢で、物価上振れリスクの回避と「外圧」が背景と指摘されている。米FOMCの結果を受けた為替・金利の動きが判断に影響する可能性がある（観測・要確認）。",
+   "insight": "米が利上げ観測、日銀も利上げ観測という珍しい同時進行。円安圧力の方向感が読みにくい。",
+   "meta": [
+    "会合 9/17〜18",
+    "1.25%への利上げ観測（市場観測・要確認）"
+   ],
+   "source": "日本経済新聞",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL0716UTX00C26A9000000/",
+   "followup": {
+    "since": "2026-09-16",
+    "whatsNew": "会合が翌日に迫り、同じタイミングで米FOMCの利上げ観測が強まったことで、日米同時の金利判断という構図が鮮明になった。"
+   }
+  },
+  {
+   "rank": 6,
+   "field": "econ",
+   "sec": "市場",
+   "badges": [
+    "jp"
+   ],
+   "title": "日経平均は4日ぶり反発、終値6万3,923円　中間配当取りが支え",
+   "summary": "9月16日の日経平均株価は前日比438円90銭高の6万3,923円00銭と4営業日ぶりに反発した。中間配当の権利取りが佳境を迎え、海運や通信など高配当セクターに買いが入った。日銀会合とFOMCを控えた持ち高調整も交錯した。",
+   "meta": [
+    "終値 63,923.00円（9/16）",
+    "前日比 +438.90円",
+    "海運・通信に買い"
+   ],
+   "source": "日本経済新聞",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL161GITW6A910C2000000/",
+   "followup": {
+    "since": "2026-09-16",
+    "whatsNew": "前回の「3日続落・終値6万3,484円」から4営業日ぶりの反発に転じ、配当取り需要が下支えとなった。"
+   }
+  },
+  {
+   "rank": 7,
+   "field": "econ",
+   "sec": "為替",
+   "badges": [
+    "jp",
+    "us"
+   ],
+   "title": "ドル円は155円台で推移　FOMC結果発表前に方向感乏しく",
+   "summary": "9月16日の東京市場でドル円は155円台を中心に推移した。米長期金利の上昇を支えにドルは底堅かった一方、FOMCの結果発表を前に上値追いは限定的で、一時155円を割り込む場面もあった。日銀会合の結果次第では振れ幅が拡大しうる。",
+   "meta": [
+    "155円台（9/16 東京時間）",
+    "FOMC・日銀会合を控え方向感乏しい"
+   ],
+   "source": "みんかぶ（為替ニュース）",
+   "sourceUrl": "https://fx.minkabu.jp/news/379157",
+   "followup": {
+    "since": "2026-09-16",
+    "whatsNew": "前回の「154円台前半」から155円台へ円安が進み、FOMC待ちでのもみ合いに移行した。"
+   }
+  },
+  {
+   "rank": 8,
+   "field": "auto",
+   "sec": "商用車・展示会",
+   "badges": [],
+   "title": "IAAトランスポーテーション2026がハノーバーで開幕　電動商用車が主役",
+   "summary": "商用車の国際見本市「IAA TRANSPORTATION 2026」が9月15日、ドイツ・ハノーバーで開幕した（会期20日まで）。電動トラック・バンが展示の中心で、電動化のペースがさらに加速している。ヴァレオやFORVIA HELLAなどサプライヤーはSDV・自動運転・エネルギーマネジメント技術を訴求する。",
+   "insight": "乗用車に比べ遅れていた商用車の電動化・SDV化が一気に前倒しされる兆し。部品調達要件の変化に直結する。",
+   "meta": [
+    "会期 9/15〜20",
+    "会場 ハノーバー",
+    "電動トラック・バンが中心"
+   ],
+   "source": "CleanTechnica",
+   "sourceUrl": "https://cleantechnica.com/2026/09/15/electrification-of-commercial-vehicles-continues-at-faster-pace-at-iaa-transportation-2026/"
+  },
+  {
+   "rank": 9,
+   "field": "ad",
+   "sec": "ロボタクシー",
+   "badges": [
+    "jp",
+    "us"
+   ],
+   "title": "Waymo、東京で2027年にロボタクシー　GO・日本交通と100台規模",
+   "summary": "Waymoが2027年に東京でロボタクシーサービスを開始する計画の詳細が明らかになった。GOおよび日本交通と組み、東京で約100台規模の運行を想定する。同社は米国でもラスベガス市場への参入を打ち出しており、アジアと国内の同時拡大を進める。",
+   "insight": "日本での商用展開はタクシー事業者との協業前提。国内OEMにとっては車両供給と保守の新たな需要になりうる。",
+   "meta": [
+    "東京 2027年開始予定",
+    "約100台規模（要確認）",
+    "GO・日本交通と協業"
+   ],
+   "source": "The Japan Times",
+   "sourceUrl": "https://www.japantimes.co.jp/business/2026/09/15/companies/waymo-tokyo-robotaxi-launch/",
+   "followup": {
+    "since": "2026-09-16",
+    "whatsNew": "前回の「東京で来年開始」報道から、提携先（GO・日本交通）と約100台という運行規模、ラスベガス参入が具体化した。"
+   }
+  },
+  {
+   "rank": 10,
+   "field": "AI",
+   "sec": "規制・地政学",
+   "badges": [
+    "us"
+   ],
+   "title": "中国外務省、アンソロピックCEOの対中チップ規制論に反論",
+   "summary": "中国外務省が、Anthropicのダリオ・アモデイCEOが公表した政策論考に反論した。同CEOは米国による対中AI半導体の輸出規制を継続すべきだと主張していたが、中国側はこれを「恐怖を煽るもの」と位置づけた。AI半導体の輸出管理が、企業トップの発言レベルで外交問題化している。",
+   "meta": [
+    "中国外務省が公式に反論",
+    "対中AI半導体の輸出規制が争点"
+   ],
+   "source": "NPR（AI Weekly経由）",
+   "sourceUrl": "https://aiweekly.co/ai-news-today/edition/2026-09-15"
+  },
+  {
+   "rank": 11,
+   "field": "auto",
+   "sec": "商用車",
+   "badges": [],
+   "title": "ダイムラー・トラック、IAAで次世代車両を公開　ディーゼルと電動を併存",
+   "summary": "ダイムラー・トラックはIAAトランスポーテーション2026で次世代の輸送ソリューションを公開した。ディーゼルと電動の両パワートレインを並行して展開する方針を示し、地域や用途に応じた使い分けを前提とする。全面電動化への一足飛びではなく、移行期を長く見積もる戦略が鮮明になった。",
+   "insight": "「電動一本化」を前提にした部品・生産計画は見直しが要る。内燃機関系の需要は想定より長く残る可能性。",
+   "meta": [
+    "ディーゼル＋電動の併存戦略",
+    "IAA 2026で公開"
+   ],
+   "source": "STARNEWS",
+   "sourceUrl": "https://www.starnewskorea.com/en/business-life/2026/09/15/2026091510563573476"
+  },
+  {
+   "rank": 12,
+   "field": "auto",
+   "sec": "中国勢・欧州市場",
+   "badges": [],
+   "title": "中国商用車勢がIAAで攻勢　GAC・FOTON・FAWが欧州展開を本格化",
+   "summary": "IAAトランスポーテーション2026では中国メーカーの存在感が高まった。GACは電動バンとトラックを展示、FOTONは全製品ラインナップをハノーバーで披露し、FAW TRUCKSも出展。中国の商用車バリューチェーンごと欧州へ展開する動きが加速している。",
+   "insight": "乗用EVで起きた欧州市場の構図が商用車にも波及。価格と納期の基準が塗り替わる恐れ。",
+   "meta": [
+    "GAC＝電動バン・トラック",
+    "FOTON＝全ラインナップ披露",
+    "FAW TRUCKSも出展"
+   ],
+   "source": "electrive",
+   "sourceUrl": "https://www.electrive.com/2026/09/15/gac-showcases-electric-vans-and-trucks-at-iaa/"
+  },
+  {
+   "rank": 13,
+   "field": "auto",
+   "sec": "水素・企業動向",
+   "badges": [
+    "jp"
+   ],
+   "title": "トヨタ株が3日続落　欧州の水素トラック普及で7社と連携も上値重く",
+   "summary": "9月16日のトヨタ自動車株は3日続落した。欧州で水素トラックの普及に向けて7社と連携する取り組みを打ち出したものの、金利上昇と全体相場の地合いに押され株価の反応は限定的だった。水素は商用車を軸に実装が進む一方、収益貢献の時期は見えにくい。",
+   "meta": [
+    "株価3日続落（9/16）",
+    "欧州で7社と連携"
+   ],
+   "source": "レスポンス（Response.jp）",
+   "sourceUrl": "https://response.jp/article/2026/09/16/416675.html",
+   "followup": {
+    "since": "2026-09-16",
+    "whatsNew": "前回報じた欧州向け水素トラック投入について、7社連携という体制面の具体像と、株価が反応しなかった点が新しい。"
+   }
+  },
+  {
+   "rank": 14,
+   "field": "auto",
+   "sec": "水素インフラ",
+   "badges": [],
+   "title": "ダイムラー・トラックとボルボ、水素充填エコシステムの構築を訴求",
+   "summary": "ダイムラー・トラックとボルボがIAAで、水素燃料の充填インフラ整備を業界横断で進める必要性を訴えた。車両単体ではなく供給網ごと立ち上げなければ普及しないとの認識が、欧州の大手トラックメーカー間で共有されつつある。具体的な投資額や整備計画は要確認。",
+   "meta": [
+    "充填インフラの共同構築を提唱",
+    "投資規模・時期は要確認"
+   ],
+   "source": "Transport Topics",
+   "sourceUrl": "https://www.ttnews.com/articles/daimler-volvo-hydrogen"
+  },
+  {
+   "rank": 15,
+   "field": "ad",
+   "sec": "L4・商用車",
+   "badges": [],
+   "title": "中国スカイワース・オート、L4自動運転「Z9」含む5モデルでIAA初出展",
+   "summary": "中国のスカイワース・オート（創維汽車）がIAAトランスポーテーション2026に初出展し、電動・インテリジェント商用車5モデルを公開した。目玉はレベル4自動運転に対応するという「Z9」。中国勢が電動化だけでなく自動運転レイヤーでも欧州市場に売り込みをかける構図が明確になった。",
+   "meta": [
+    "5モデルを出展",
+    "L4対応「Z9」が中核（メーカー主張・要確認）"
+   ],
+   "source": "Automotive World",
+   "sourceUrl": "https://www.automotiveworld.com/topics/commercial-vehicle/skyworth-auto-showcases-five-electric-and-intelligent-commercial-vehicles-at-iaa-led-by-l4-autonomous-z9/"
+  },
+  {
+   "rank": 16,
+   "field": "ad",
+   "sec": "ロボタクシー",
+   "badges": [
+    "us"
+   ],
+   "title": "テスラ「サイバーキャブ」に厳しい論調　9月ローンチ後の評価に逆風",
+   "summary": "9月3日に投入されたテスラのロボタクシー「サイバーキャブ」に対し、9月16日付の市場系メディアが苦戦を指摘する論評を掲載した。非公開形式のローンチイベントへの失望や、Waymoの先行拡大との比較が背景にある。テスラ側の公式な販売・稼働データは示されておらず、評価は流動的（要確認）。",
+   "meta": [
+    "論評記事（数値の公式開示なし・要確認）",
+    "9/3ローンチ",
+    "Waymoの先行拡大が比較対象"
+   ],
+   "source": "24/7 Wall St.",
+   "sourceUrl": "https://247wallst.com/investing/2026/09/16/teslas-cybercab-is-in-trouble/"
+  },
+  {
+   "rank": 17,
+   "field": "AI",
+   "sec": "セキュリティ",
+   "badges": [],
+   "title": "AIエージェントを悪用した攻撃、48時間で48カ国395組織を侵害",
+   "summary": "攻撃者がAIエージェントを使ってPaperCutの脆弱性2件を悪用し、48時間以内に48カ国の395組織・440超のインスタンスを侵害したと報告された。26秒間に11件の侵害が発生した局面もあったという。攻撃の自動化により、パッチ適用の猶予が実質的に消滅しつつある。",
+   "insight": "「脆弱性公開から悪用まで」の時間軸が桁違いに短縮。社内システムの適用サイクル設計の前提が変わる。",
+   "meta": [
+    "395組織・440超インスタンス",
+    "48カ国／48時間以内",
+    "PaperCutの脆弱性2件を悪用"
+   ],
+   "source": "Help Net Security（AI Weekly経由）",
+   "sourceUrl": "https://aiweekly.co/ai-news-today/edition/2026-09-15"
+  },
+  {
+   "rank": 18,
+   "field": "AI",
+   "sec": "プライバシー",
+   "badges": [
+    "us"
+   ],
+   "title": "OpenAIの「Project Lily」、数百人の業務委託者がChatGPT会話を評価",
+   "summary": "OpenAIの社内プロジェクト「Project Lily」で、数百人の業務委託者が実際のChatGPTの会話を読み、応答を採点していると報じられた。OpenAIはユーザー名や個人識別情報は除去していると説明する一方、会話の文脈自体は残るため、機微な内容に接する可能性が指摘されている。",
+   "insight": "業務でのAI利用ポリシーを作る側にとって、「入力内容が人間にレビューされうる」前提の周知は必須。",
+   "meta": [
+    "数百人の業務委託者が関与",
+    "OpenAIはPII除去を説明"
+   ],
+   "source": "404 Media（AI Weekly経由）",
+   "sourceUrl": "https://aiweekly.co/ai-news-today/edition/2026-09-15"
+  },
+  {
+   "rank": 19,
+   "field": "india",
+   "sec": "市場",
+   "badges": [],
+   "title": "インド株が反発、Sensexは333ポイント高　銀行・FMCGが主導",
+   "summary": "9月16日のインド株式市場は2日続落から反発し、Sensexは333ポイント高、Niftyは23,218で引けた。銀行株とFMCG（日用消費財）株が上昇を牽引し、Nifty FMCG指数は約2%高。米FOMCの結果待ちで上値は限定的だった。",
+   "meta": [
+    "Sensex +333pt（9/16）",
+    "Nifty 23,218",
+    "Nifty FMCG 約+2%"
+   ],
+   "source": "Business Standard",
+   "sourceUrl": "https://www.business-standard.com/markets/news/stock-market-live-september-16-nse-bse-sensex-today-nifty-gift-nifty-crude-oil-price-today-kanohar-electricals-ipo-listing-126091600091_1.html",
+   "followup": {
+    "since": "2026-09-16",
+    "whatsNew": "前回の「Sensex 777ポイント安」から反発に転じ、原油高の逆風下でも銀行・FMCGが買われた点が新しい。"
+   }
+  },
+  {
+   "rank": 20,
+   "field": "india",
+   "sec": "IT・AI",
+   "badges": [],
+   "title": "インドIT株が急伸、Nifty ITは5%高　「AI開発減速」論が追い風",
+   "summary": "9月15日のインド市場でIT関連株が急伸し、Nifty IT指数は取引序盤に5%上昇した。海外のAI大手トップが相次いで開発ペースの減速に言及したことで、AIによる受託開発の代替リスクが後退したとの見方が広がった。TCS、Infosys、HCLTech、Tech Mahindra、Wiproがそろって上昇した。",
+   "insight": "「AIがITサービスを食う」という前提が揺らぐと、オフショア開発の単価前提も動く。",
+   "meta": [
+    "Nifty IT 約+5%（9/15 序盤）",
+    "TCS・Infosys・HCL・Wipro等が上昇"
+   ],
+   "source": "Business Standard",
+   "sourceUrl": "https://www.business-standard.com/markets/news/infosys-tcs-to-hcl-tech-ai-slowdown-calls-send-nifty-it-pack-5-higher-126091500156_1.html",
+   "followup": {
+    "since": "2026-09-16",
+    "whatsNew": "前回の「逆行高」から、上昇率が指数ベースで約5%に達し、主要IT5社がそろって買われたことが数値で確認された。"
+   }
+  }
+ ],
+ "weekly": [
+  "米10年債利回りが2007年以来の高水準、原油高と重なりFOMCは利上げ観測。日銀も17〜18日に会合",
+  "OpenAI・グーグル・アンソロピックがフロンティア開発の安全性で協業協議入り",
+  "IAAトランスポーテーション2026が開幕、電動商用車と中国勢の欧州攻勢が焦点"
+ ]
+}
