@@ -1,0 +1,302 @@
+{
+ "date": "2026-09-18",
+ "sub": "金",
+ "cat": "work",
+ "articles": [
+  {
+   "rank": 1,
+   "field": "econ",
+   "sec": "マクロ・中央銀行",
+   "badges": [
+    "us"
+   ],
+   "title": "米FOMC、約3年ぶりの0.25%利上げを全会一致で決定",
+   "summary": "FRBは9月FOMCで政策金利の0.25%引き上げを全会一致で決定。約3年ぶりの利上げ再開で、市場では「タカ派的」との受け止めが広がった。発表直後にドル円は一時154円台へ下落した後、155.30円へ急反発した。",
+   "insight": "利上げ局面入りなら、円安・資材高とセットで調達コストと為替前提の見直しが必要になる。",
+   "meta": [
+    "利上げ幅 0.25%",
+    "全会一致",
+    "発表 9/17 3:00 JST"
+   ],
+   "source": "OANDA証券",
+   "sourceUrl": "https://www.oanda.jp/lab-education/market_news/fomc-sep-2026-review/"
+  },
+  {
+   "rank": 2,
+   "field": "econ",
+   "sec": "市場",
+   "badges": [
+    "us"
+   ],
+   "title": "NYダウは631.21ドル安　利上げを嫌気し大幅安",
+   "summary": "FOMCの利上げ決定を受け、前営業日の米株式市場でダウ工業株30種平均は631.21ドル安と大幅下落。金利上昇観測からドルは全面高となり、ハイバリュエーション銘柄への売りが目立った。",
+   "meta": [
+    "ダウ -631.21ドル",
+    "前営業日終値ベース"
+   ],
+   "source": "財経新聞",
+   "sourceUrl": "https://www.zaikei.co.jp/article/20260917/870420.html"
+  },
+  {
+   "rank": 3,
+   "field": "econ",
+   "sec": "政治・政策",
+   "badges": [
+    "jp"
+   ],
+   "title": "第2次高市改造内閣が発足　初入閣7人、経産相は赤澤氏が留任",
+   "summary": "高市首相が内閣改造を実施し、第2次高市改造内閣が発足。初入閣は7人で、経済産業相には赤澤亮正氏が留任した。首相は「強い経済へ実行力重視で人選した」と説明し、経済政策の継続性を前面に出した。",
+   "insight": "経産相留任で、EV・電池・半導体の補助スキームは当面の路線変更が小さいとみられる。",
+   "meta": [
+    "初入閣 7人",
+    "経産相 赤澤亮正氏留任"
+   ],
+   "source": "日本経済新聞",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOUA152770V10C26A9000000/"
+  },
+  {
+   "rank": 4,
+   "field": "AI",
+   "sec": "企業・産業動向",
+   "badges": [
+    "us"
+   ],
+   "title": "Anthropic、「Claude Docs」を投入　オフィス領域でMicrosoftと正面衝突",
+   "summary": "Anthropicが文書作成機能「Claude Docs」を発表し、スライド機能とあわせて単一インターフェースに統合した。生成AIの利用を「チャット」から「成果物づくり」へ移す動きで、Microsoft 365やGoogle Workspaceの牙城に踏み込む形となる。",
+   "insight": "社内のAI活用が資料作成そのものに移れば、情報システム部門の標準ツール選定が次の論点になる。",
+   "meta": [
+    "Docs／Slidesを統合",
+    "対抗 Microsoft 365・Google Workspace"
+   ],
+   "source": "Axios",
+   "sourceUrl": "https://www.axios.com/2026/09/16/anthropic-claude-docs-microsoft"
+  },
+  {
+   "rank": 5,
+   "field": "econ",
+   "sec": "市場",
+   "badges": [
+    "jp",
+    "us"
+   ],
+   "title": "円相場は6日続落、155円台後半　米追加利上げ観測で",
+   "summary": "17日17時時点の東京外国為替市場で円相場は6営業日続落し、1ドル＝155円台後半で推移。FOMCの利上げ決定と追加利上げ観測がドル買いを誘った。市場の関心は18日の日銀決定会合に移っている。",
+   "meta": [
+    "155円台後半",
+    "17日17時時点",
+    "6日続落"
+   ],
+   "source": "日本経済新聞",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL172J70X10C26A9000000/"
+  },
+  {
+   "rank": 6,
+   "field": "india",
+   "sec": "企業・資本市場",
+   "badges": [],
+   "title": "タタ・サンズ、取締役会が株式上場を承認　会長は5年再任と報道",
+   "summary": "タタ・グループ持ち株会社タタ・サンズの取締役会が株式市場への上場を承認したと報じられた。あわせてN・チャンドラセカラン氏の会長5年再任も決議。一方でノエル・タタ氏はRBIの書簡に上場の記載はないとして、経緯の説明を求めているとされる（報道ベース・要確認）。",
+   "insight": "実現すればインド資本市場で最大級の案件。タタ系自動車・IT各社の資本政策にも波及しうる。",
+   "meta": [
+    "上場を取締役会承認（報道）",
+    "会長5年再任",
+    "RBIとの経緯は要確認"
+   ],
+   "source": "Business Today",
+   "sourceUrl": "https://www.businesstoday.in/markets/stocks/story/tata-sons-ipo-board-approves-listing-on-stock-exchanges-says-report-556186-2026-09-17"
+  },
+  {
+   "rank": 7,
+   "field": "econ",
+   "sec": "マクロ・中央銀行",
+   "badges": [
+    "jp"
+   ],
+   "title": "日銀、18日昼に決定会合の結果発表　1.25%への利上げ観測が大勢",
+   "summary": "日銀の金融政策決定会合は18日昼に結果を発表する。市場では政策金利を1.25%へ引き上げるとの見方が大勢で、焦点は「次の一手」のペースと総裁会見の示唆に移っている。米利上げ後で円安圧力が強く、判断の重みが増した。",
+   "meta": [
+    "結果発表 18日昼",
+    "1.25%への利上げ観測"
+   ],
+   "source": "OANDA証券",
+   "sourceUrl": "https://www.oanda.jp/lab-education/market_news/boj-2026-sep-preview/",
+   "followup": {
+    "since": "2026-09-17",
+    "whatsNew": "米FOMCの利上げ決定を受け、円安進行下での判断という条件が加わった。"
+   }
+  },
+  {
+   "rank": 8,
+   "field": "ad",
+   "sec": "ロボタクシー",
+   "badges": [
+    "jp",
+    "us"
+   ],
+   "title": "東京の「完全無人タクシー」、2027年商用化へ　実証から商用への転換点",
+   "summary": "Waymoが日本交通・GOと組み、2027年に東京で完全無人のロボタクシー商用サービスを始める計画の詳細が伝えられた。車両は最大100台規模を想定し、日本の自動運転が「実証」から「商用」へ移る節目となる。",
+   "insight": "商用化前提の走行データ蓄積が始まれば、国内サプライヤーの車載センサ・冗長設計の要求水準も上がる。",
+   "meta": [
+    "2027年商用化",
+    "最大100台規模",
+    "日本交通・GOと連携"
+   ],
+   "source": "レスポンス",
+   "sourceUrl": "https://response.jp/article/2026/09/17/416728.html",
+   "followup": {
+    "since": "2026-09-17",
+    "whatsNew": "発表段階の報道から、商用化に至る事業スキームと展開規模の詳細が明らかになった。"
+   }
+  },
+  {
+   "rank": 9,
+   "field": "auto",
+   "sec": "電動化・部品",
+   "badges": [],
+   "title": "CATL、IAAで商用車向け「TECTRANS II」を発表　電動化を加速",
+   "summary": "中国CATLがIAAトランスポーテーション2026で商用車向けバッテリープラットフォーム「TECTRANS II」を発表した。トラック・バスの世界的な電動化を狙い、欧州市場での採用拡大を前面に打ち出している。",
+   "insight": "商用車電池でも中国勢の標準化提案が先行すると、国内サプライヤーは仕様追随側に回りやすい。",
+   "meta": [
+    "商用車向け電池プラットフォーム",
+    "IAA 2026（ハノーバー）"
+   ],
+   "source": "新潟日報（共同通信PRワイヤー）",
+   "sourceUrl": "https://www.niigata-nippo.co.jp/articles/-/907155"
+  },
+  {
+   "rank": 10,
+   "field": "AI",
+   "sec": "企業・産業動向",
+   "badges": [
+    "us"
+   ],
+   "title": "OpenAI、追加調達を検討　評価額1.2兆ドル、安全対策でIPOは延期と報道",
+   "summary": "OpenAIが企業価値1.2兆ドル規模での追加資金調達を検討していると報じられた。安全対策への対応を理由にIPOは先送りする方向とされる。AIインフラ投資の負担が重く、調達と収益化のバランスが問われている（報道ベース・要確認）。",
+   "meta": [
+    "評価額 1.2兆ドル（報道）",
+    "IPOは延期の方向"
+   ],
+   "source": "日本経済新聞",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN160DF0W6A910C2000000/"
+  },
+  {
+   "rank": 11,
+   "field": "econ",
+   "sec": "市場",
+   "badges": [
+    "jp"
+   ],
+   "title": "日経平均は213円高で続伸　FOMC「波乱なし」に安堵",
+   "summary": "17日の東京株式市場で日経平均株価は前日比213円高と続伸した。FOMCが波乱なく通過したとの安心感が支え。半導体関連は失速し、バリュー株や出遅れ銘柄が相場を押し上げた。AI規制を巡る議論は重荷となった。",
+   "meta": [
+    "前日比 +213円",
+    "9/17終値",
+    "バリュー株主導"
+   ],
+   "source": "日本経済新聞",
+   "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB170FATX10C26A9000000/"
+  },
+  {
+   "rank": 12,
+   "field": "india",
+   "sec": "IT・AI",
+   "badges": [],
+   "title": "インドIT株が下落率上位　相場上昇のなかで独り負け",
+   "summary": "17日のインド市場で、TCS・インフォシス・テックマヒンドラ・HCLテクノロジーズなどIT大手が値下がり率上位に並んだ。相場全体が上昇するなかでのIT売りで、米金利上昇と受注環境への警戒が背景とされる。",
+   "meta": [
+    "TCS・Infosys・Tech M・HCL",
+    "9/17"
+   ],
+   "source": "Business Today",
+   "sourceUrl": "https://www.businesstoday.in/markets/stocks/story/tcs-infosys-tech-mahindra-hcl-tech-it-shares-top-losers-amid-market-rally-today-heres-why-556034-2026-09-17"
+  },
+  {
+   "rank": 13,
+   "field": "auto",
+   "sec": "リコール",
+   "badges": [
+    "us"
+   ],
+   "title": "NHTSA、商用トラックとピックアップで大型リコールを発出",
+   "summary": "米NHTSAが商用トラックおよびピックアップを対象とする大規模なリコールを公表した。フリート運用事業者への影響が大きく、対象は複数メーカーの車両に及ぶ。詳細な対象台数は公表資料での確認が必要（要確認）。",
+   "meta": [
+    "対象 商用トラック・ピックアップ",
+    "台数は要確認"
+   ],
+   "source": "Autosphere",
+   "sourceUrl": "https://autosphere.ca/dealerships/2026/09/17/nhtsa-issues-major-recalls-covering-commercial-trucks-and-pickups/"
+  },
+  {
+   "rank": 14,
+   "field": "ad",
+   "sec": "提携・事業",
+   "badges": [
+    "us"
+   ],
+   "title": "ルーシッド、欧州ロボタクシー展開でパートナー候補が浮上",
+   "summary": "米ルーシッド・モーターズが欧州でのロボタクシー事業に向けた提携先候補を得たと報じられた。車両供給側からロボタクシー市場に食い込む動きで、欧州での運行事業者との組み合わせが焦点になる。",
+   "meta": [
+    "欧州展開",
+    "車両供給側からの参入"
+   ],
+   "source": "TechCrunch",
+   "sourceUrl": "https://techcrunch.com/2026/09/17/lucid-motors-has-a-potential-robotaxi-partner-for-europe/"
+  },
+  {
+   "rank": 15,
+   "field": "auto",
+   "sec": "新車・改良",
+   "badges": [
+    "jp"
+   ],
+   "title": "三菱『ミニキャブEV』を一部改良　コネクティッドと予防安全を強化、254万1000円から",
+   "summary": "三菱自動車が軽商用BEV「ミニキャブEV」を一部改良した。車両運行サポートサービスの追加と三菱e-Assistの強化が柱で、価格は254万1000円から。ラストワンマイル配送向けの運用管理機能を押し出した。",
+   "meta": [
+    "価格 254万1000円〜",
+    "コネクティッド機能追加",
+    "e-Assist強化"
+   ],
+   "source": "レスポンス",
+   "sourceUrl": "https://response.jp/article/2026/09/17/416741.html"
+  },
+  {
+   "rank": 16,
+   "field": "india",
+   "sec": "市場",
+   "badges": [],
+   "title": "インド株、FRB利上げを受け安く寄り付き",
+   "summary": "17日のインド株式市場はFRBの利上げ決定を受けてセンセックス・ニフティともに下落して始まった。ドル高・米金利上昇が新興国資金フローへの警戒につながった。",
+   "meta": [
+    "9/17 寄り付き",
+    "Sensex・Nifty安"
+   ],
+   "source": "India TV News",
+   "sourceUrl": "https://www.indiatvnews.com/business/markets/17-september-2026-stock-market-updates-sensex-nifty-open-in-red-after-federal-reserves-rate-hike-2026-09-17-1054471"
+  },
+  {
+   "rank": 17,
+   "field": "AI",
+   "sec": "規制・ガバナンス",
+   "badges": [
+    "us"
+   ],
+   "title": "OpenAI・Anthropic・Google、AI標準化団体の設立を協議",
+   "summary": "主要AI企業が業界自らの標準化団体を設立する構想を協議していると報じられた。政府規制の強まりを見据え、安全性評価の共通基準づくりを先手で進める狙い。参加範囲や拘束力は未確定（要確認）。",
+   "meta": [
+    "業界主導の標準化団体",
+    "拘束力は要確認"
+   ],
+   "source": "CNN Business",
+   "sourceUrl": "https://www.cnn.com/2026/09/14/tech/ai-standards-body",
+   "followup": {
+    "since": "2026-09-17",
+    "whatsNew": "「安全性で協業協議」の段階から、標準化団体の設立という具体像として報道が広がった。"
+   }
+  }
+ ],
+ "weekly": [
+  "FRBが約3年ぶりに0.25%利上げ、全会一致。焦点は18日昼の日銀決定会合へ",
+  "AnthropicがClaude Docsを投入、生成AIの主戦場がオフィス文書作成へ移る",
+  "Waymo・日本交通・GOの東京ロボタクシー、2027年に最大100台で商用化へ"
+ ]
+}
