@@ -1,0 +1,254 @@
+{
+ "date": "2026-09-22",
+ "sub": "火",
+ "cat": "work",
+ "articles": [
+  {
+   "field": "econ",
+   "sec": "市場",
+   "badges": [
+    "us"
+   ],
+   "title": "米国株、半導体とビットコイン主導で上昇　原油は続落",
+   "summary": "21日の米国市場はナスダック主導でダウ・S&P500もそろって上昇。半導体株とビットコインが買われ、米イラン協議再開への期待で原油は続落した。終値の指数水準は本紙締切時点で未確認。",
+   "insight": "原油安と米中協議の進展期待がリスク選好を後押し。週後半の米中首脳会談が次の焦点",
+   "meta": [
+    "SanDisk 約+11%・Micron 約+4%（TradingKey）",
+    "BTC 8万ドル台回復",
+    "指数終値は要確認"
+   ],
+   "source": "Yahoo Finance",
+   "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
+   "rank": 1
+  },
+  {
+   "field": "econ",
+   "sec": "通商・地政学",
+   "badges": [
+    "us"
+   ],
+   "title": "ベッセント財務長官、中国にAI安全事案の相互通報を提案",
+   "summary": "ベッセント米財務長官は何立峰副首相との協議で、AIの安全上の事案を相互に通報する仕組みを提案したと表明。AI対話の枠組み設置も協議し、協議を「非常に成功」と評価した。トランプ・習両氏の首脳会談は今週木曜にワシントンで予定。",
+   "insight": "通商交渉にAIガバナンスが正式議題として組み込まれた点が新しい",
+   "meta": [
+    "首脳会談 9/24(木)予定",
+    "議題: 関税・台湾・AI・レアアース"
+   ],
+   "source": "Forbes",
+   "sourceUrl": "https://www.forbes.com/sites/siladityaray/2026/09/21/bessent-touts-ai-dialogue-with-china-and-notification-mechanism-for-incidents/",
+   "followup": {
+    "since": "2026-09-21",
+    "whatsNew": "副首相訪米中の協議で、米側がAI安全事案の相互通報メカニズムを提案したことが判明"
+   },
+   "rank": 2
+  },
+  {
+   "field": "AI",
+   "sec": "企業動向",
+   "badges": [
+    "us"
+   ],
+   "title": "Anthropic、年換算売上1000億ドル規模へ　11月IPOを視野と報道",
+   "summary": "米NYTの報道によると、Anthropicの年換算売上高は2026年中に1000億ドルを超える見通しで、11月の新規株式公開（IPO）を目指している。評価額は最大2兆ドル規模との報道もある(要確認)。",
+   "insight": "AI企業の上場が実現すれば過去最大級のIPOとなり、AI投資マネーの流れを左右",
+   "meta": [
+    "年換算売上 1000億ドル超見通し（NYT報道）",
+    "IPO 11月目標（報道）"
+   ],
+   "source": "Bloomberg",
+   "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-18/anthropic-s-annualized-revenue-to-top-100-billion-in-2026-nyt",
+   "rank": 3
+  },
+  {
+   "field": "econ",
+   "sec": "IPO",
+   "badges": [
+    "us"
+   ],
+   "title": "スマートリング大手Oura、最大22億ドルのIPO条件を設定",
+   "summary": "フィンランドのスマートリング大手Ouraが米ナスダック上場に向け、1株40〜44ドルで最大約22億ドルを調達するIPO条件を設定。想定評価額は約156億ドル。調達額の大半は既存株主の売り出し分とされる。",
+   "meta": [
+    "仮条件 $40〜44",
+    "評価額 約156.2億ドル（Reuters）",
+    "売り出し比率 約73%（TNW）"
+   ],
+   "source": "KELO / Reuters",
+   "sourceUrl": "https://kelo.com/2026/09/21/smart-ring-maker-oura-shareholders-look-to-raise-up-to-2-2-billion-in-us-ipo/",
+   "rank": 4
+  },
+  {
+   "field": "AI",
+   "sec": "半導体・中国",
+   "badges": [],
+   "title": "DeepSeek、学習用チップをファーウェイに依存へ　第4四半期にも納入",
+   "summary": "米The Informationによると、中国DeepSeekはファーウェイ製のAI学習用チップを最大級の賭けと位置付け、早ければ2026年第4四半期に納入を受ける見通し。米国の輸出規制でNVIDIA製品の調達が難しいなか、中国勢の国産シフトが学習用途にも広がる。",
+   "insight": "推論だけでなく学習でも国産チップ移行が進めば、米輸出規制の実効性に影響",
+   "meta": [
+    "納入 早ければ2026年Q4",
+    "推論用は16万個超の発注報道（要確認）"
+   ],
+   "source": "The Information",
+   "sourceUrl": "https://www.theinformation.com/articles/deepseek-bets-big-huawei-chips-bypass-u-s-export-controls",
+   "rank": 5
+  },
+  {
+   "field": "AI",
+   "sec": "インフラ",
+   "badges": [
+    "us"
+   ],
+   "title": "米AIデータセンター、第2四半期に45件・680億ドル分が阻止・遅延",
+   "summary": "Bloombergによると、米国では2026年第2四半期に地域の反対などで45件、総額680億ドル規模のAIデータセンター計画が阻止または延期された。反対団体は843に上る。電力・用地を巡る地域摩擦がAI投資の制約要因になりつつある。",
+   "meta": [
+    "45件・680億ドル（Q2）",
+    "反対団体 843"
+   ],
+   "source": "Bloomberg（AI Weekly経由）",
+   "sourceUrl": "https://aiweekly.co/ai-news-today",
+   "rank": 6
+  },
+  {
+   "field": "AI",
+   "sec": "規制・ガバナンス",
+   "badges": [],
+   "title": "国連AI科学パネル、AIエージェントの安全策を求める初の提言",
+   "summary": "国連の独立国際AI科学パネル（専門家40人）が21日、初のテーマ別ブリーフを公表し、自律的に動くAIエージェントへの安全策を各国に求めた。",
+   "meta": [
+    "専門家 40人",
+    "初のテーマ別ブリーフ"
+   ],
+   "source": "UN News（AI Weekly経由）",
+   "sourceUrl": "https://aiweekly.co/ai-news-today",
+   "rank": 7
+  },
+  {
+   "field": "AI",
+   "sec": "ロボット",
+   "badges": [],
+   "title": "人型ロボットの世界販売、2025年は約7000台どまり",
+   "summary": "ロイターによると、2025年の人型ロボットの世界販売は約7000台で、産業用ロボット約54万2000台と比べ桁違いに小さい。BofAは2026年に9万台へ拡大すると予測している(予測値)。",
+   "insight": "期待先行の市場。量産立ち上げ時期が部品・アクチュエータ需要の見極めポイント",
+   "meta": [
+    "2025年 約7000台",
+    "産業用 約54.2万台",
+    "BofA予測 2026年9万台"
+   ],
+   "source": "Reuters（AI Weekly経由）",
+   "sourceUrl": "https://aiweekly.co/ai-news-today",
+   "rank": 8
+  },
+  {
+   "field": "auto",
+   "sec": "新車・EV",
+   "badges": [],
+   "title": "VW、小型電動SUV「ID. Cross」を投入　手頃なEVの品揃え拡充",
+   "summary": "フォルクスワーゲンは小型電動SUV「ID. Cross」をラインアップに追加し、手頃な価格帯のEVを拡充する。中国勢の低価格EVに対抗する欧州での巻き返し策の一環。価格は欧州で2万7990ユーロからとの報道がある(要確認)。",
+   "meta": [
+    "航続 約265マイル（既報）",
+    "価格は要確認"
+   ],
+   "source": "Electrek",
+   "sourceUrl": "https://electrek.co/2026/09/21/volkswagen-adds-more-affordable-id-cross-electric-suv/",
+   "rank": 9
+  },
+  {
+   "field": "auto",
+   "sec": "法規",
+   "badges": [
+    "us"
+   ],
+   "title": "米下院、全車へのAMラジオ搭載義務化法案を可決",
+   "summary": "米下院は「AM Radio for Every Vehicle Act」を可決。成立すれば自動車メーカーは約1年以内にAM受信機の搭載を求められる可能性がある。EVではモーター由来の電磁ノイズでAM受信が難しく、設計対応が課題となる。可決日は要確認。",
+   "insight": "EVのEMC対策・部品追加コストに直結。上院の審議動向を注視",
+   "meta": [
+    "対応期限 約1年（成立時）",
+    "論点 EVの電磁干渉"
+   ],
+   "source": "TechCrunch Mobility",
+   "sourceUrl": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
+   "rank": 10
+  },
+  {
+   "field": "ad",
+   "sec": "規制",
+   "badges": [
+    "us"
+   ],
+   "title": "NHTSA、SAEと連携し初の連邦ロボタクシー性能基準づくりへ",
+   "summary": "米NHTSAはSAEと官民コンソーシアム「ASCEND」を立ち上げ、データに基づく自動運転車の性能基準を策定する。モリソン長官は場当たり的な規制を避け、安全を優先した連邦枠組みを目指すと説明した。",
+   "insight": "州ごとのばらつきが大きい米AV規制が、連邦基準へ収れんする起点になり得る",
+   "meta": [
+    "枠組み名 ASCEND",
+    "主体 NHTSA×SAE"
+   ],
+   "source": "TechCrunch",
+   "sourceUrl": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
+   "rank": 11
+  },
+  {
+   "field": "ad",
+   "sec": "ロボタクシー",
+   "badges": [
+    "us"
+   ],
+   "title": "Zoox、ネバダ州の100台上限が25日に失効　車両拡大へ",
+   "summary": "アマゾン傘下Zooxのネバダ州における100台の運行上限が9月25日に失効し、ラスベガスでの商用車両拡大に道が開ける。20日には同社車両がラスベガスで追突される事故も報じられていた。",
+   "meta": [
+    "上限失効 9/25",
+    "対象 ラスベガス"
+   ],
+   "source": "TechCrunch",
+   "sourceUrl": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
+   "rank": 12
+  },
+  {
+   "field": "ad",
+   "sec": "ロボタクシー",
+   "badges": [
+    "us"
+   ],
+   "title": "テスラCybercab、ヒューストンで多数目撃　サービス開始間近か",
+   "summary": "テスラのロボタクシー専用車Cybercabがヒューストンで多数目撃され、同市でのサービス開始が近いとの見方が出ている。テスラからの正式発表は確認できておらず、開始時期は要確認。",
+   "meta": [
+    "情報源 目撃報道（要確認）"
+   ],
+   "source": "Tesla Oracle",
+   "sourceUrl": "https://www.teslaoracle.com/2026/09/20/large-number-of-tesla-cybercab-robotaxis-spotted-in-houston-hinting-at-a-close-launch/",
+   "rank": 13
+  },
+  {
+   "field": "india",
+   "sec": "市場",
+   "badges": [],
+   "title": "インド株反発、Sensexは564高　原油安で6週続落から持ち直し",
+   "summary": "21日のインド株式市場はSensexが564.03ポイント高の74,894.86、Nifty50が67.90ポイント高の23,414.30で引けた。ブレント原油が1バレル約101.69ドルまで4営業日続落し、輸入コスト・インフレ懸念が和らいだ。ルピーも序盤に1ドル＝95.72まで上昇した。",
+   "meta": [
+    "Sensex 74,894.86（+0.76%）",
+    "Nifty 23,414.30（+0.29%）",
+    "ルピー 95.72（9/21序盤）"
+   ],
+   "source": "APAC News Network",
+   "sourceUrl": "https://apacnewsnetwork.com/2026/09/stock-market-today-sensex-nifty-oil-prices/",
+   "rank": 14
+  },
+  {
+   "field": "india",
+   "sec": "IT",
+   "badges": [],
+   "title": "インドIT株が逆行安　インフォシス・TCS・テックマヒンドラ",
+   "summary": "21日のインド市場は全体が上昇するなか、インフォシス、テックマヒンドラ、TCS、ウィプロなどIT大手が下落した。下落要因の詳細は要確認。",
+   "meta": [
+    "全体相場と逆行",
+    "要因は要確認"
+   ],
+   "source": "Business Today",
+   "sourceUrl": "https://www.businesstoday.in/markets/stocks/story/infosys-tech-mahindra-tcs-wipro-why-it-shares-are-down-in-a-rising-market-today-556742-2026-09-21",
+   "rank": 15
+  }
+ ],
+ "weekly": [
+  "米中がAI安全事案の相互通報を協議、24日に首脳会談",
+  "Anthropic年換算売上1000億ドル規模・11月IPO報道",
+  "インド株が原油安で反発、IT株は逆行安"
+ ]
+}
