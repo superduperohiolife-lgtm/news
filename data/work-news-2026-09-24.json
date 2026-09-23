@@ -1,0 +1,246 @@
+{
+  "date": "2026-09-24",
+  "sub": "木",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "米10年債利回りが5%台へ再上昇　株式3指数そろって下落",
+      "summary": "23日の米市場は長期金利の上昇が重荷となり、S&P500が0.59%安、ダウが0.30%安、ナスダックが0.15%安で推移（東部時間11時42分時点）。10年債利回りは再び5%を超え、インフレと借入コストへの警戒が株式を圧迫した。ラッセル2000は0.51%高と内需小型株は底堅い。",
+      "insight": "金利5%台の定着は、設備投資・自動車ローンなど実需の資金コストに直結する局面。",
+      "meta": ["10年債 5%超", "S&P500 -0.59%", "時点 9/23 11:42 ET"],
+      "source": "TheStreet",
+      "sourceUrl": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-23-2026"
+    },
+    {
+      "rank": 2,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": ["us"],
+      "title": "OpenAI、GPT-6系「Sol」「Luna」を投入　トークン単価を半額に",
+      "summary": "OpenAIが新モデル2種を公開。価格は100万トークンあたり入力$2／出力$10で、GPT-5.6の$4／$20から半減した。Solは複雑なコーディング、Lunaは大量処理の定型業務向けと位置づけ、いずれも旗艦のAstraと同系統とされる。",
+      "insight": "推論コストの下落で、社内文書処理など「量で効く」業務適用の損益分岐が動く。",
+      "meta": ["価格 $2/$10", "旧 $4/$20", "用途 Sol=開発／Luna=定型"],
+      "source": "AI Weekly",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 3,
+      "field": "econ",
+      "sec": "通商・地政学",
+      "badges": ["us"],
+      "title": "習近平氏が訪米、23〜25日の日程　AI・関税・レアアースが焦点",
+      "summary": "中国の習近平国家主席が9月23〜25日の日程で訪米し、初日はジョイントベース・アンドリュースでの出迎えから始まった。中国側は「約3年ぶり」の訪米と確認しており、AI規制、関税、レアアース供給が協議の焦点とされる。市場はトランプ・習会談の結果を見極める姿勢。",
+      "insight": "レアアース・車載半導体の供給条件は、サプライチェーン計画の前提を左右する。",
+      "meta": ["日程 9/23-25", "論点 AI・関税・レアアース"],
+      "source": "U.S. News",
+      "sourceUrl": "https://www.usnews.com/news/world/articles/2026-09-21/chinas-xi-to-visit-the-us-from-september-23-25"
+    },
+    {
+      "rank": 4,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": ["us"],
+      "title": "Anthropic、Claude Opus 5.5を公開　典型負荷で約4割安",
+      "summary": "AnthropicがClaude Opus 5.5を発表。典型的なワークロードでOpus 5比おおよそ40%安価とされ、Terminal-Bench 4.0で66.4%を記録した。出力速度は前世代比30%向上し、多くのベンチマークでClaude Fable 5.1と同等の性能を維持するという。",
+      "meta": ["価格 約40%減", "Terminal-Bench 4.0 66.4%", "出力速度 +30%"],
+      "source": "AI Weekly",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 5,
+      "field": "auto",
+      "sec": "認証不正",
+      "badges": ["us"],
+      "title": "NHTSA、テスラCybercabの型式適合を照会　ハンドル・ペダルなし車両の認証手続きが対象",
+      "summary": "米NHTSAが、ハンドル・ペダル・ミラーを持たないテスラCybercabについて、適正に認証（自己認証）されたのかを問う監査照会AQ26002を開始した。対象は約1,000台。現時点でリコールではなく、不正が認定された事実もない（要確認）。手動操作系を持たない車両を既存のFMVSS体系でどう扱うかが論点。",
+      "insight": "手動操作系のない車両の型式・認証の扱いは、日本の型式指定実務にも跳ね返る論点。",
+      "meta": ["照会番号 AQ26002", "対象 約1,000台", "区分 監査照会（リコールではない）"],
+      "source": "The Autowire",
+      "sourceUrl": "https://theautowire.com/2026/09/22/recall-roundup-september-17-2026/"
+    },
+    {
+      "rank": 6,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "フォード、F-150を22万3500台リコール　燃料タンク固定・足回り締結・後車軸ベアリングの3件",
+      "summary": "フォードがF-150について、燃料タンクの固定不良、サスペンション締結部の緩み、後車軸ベアリングの製造不良という無関係な3件でリコールを届け出た。対象は計223,500台、キャンペーン番号は26V576〜26V578。いずれも無償点検・修理で対応する。",
+      "meta": ["対象 223,500台", "件数 3件", "番号 26V576-578"],
+      "source": "The Autowire",
+      "sourceUrl": "https://theautowire.com/2026/09/22/recall-roundup-september-17-2026/"
+    },
+    {
+      "rank": 7,
+      "field": "econ",
+      "sec": "地政学・商品",
+      "badges": ["us"],
+      "title": "米イラン、国連で3時間協議　原油は乱高下しWTI89ドル台",
+      "summary": "トランプ大統領は国連で米イラン当局者が3時間の「極めて生産的」な協議を行ったと述べた。一方イラン外務省は交渉姿勢の変更を否定し、議題は敵対行為の終結と制裁解除だと主張。WTIは0.97%安の89.64ドル、ブレントは0.24%安の99.01ドル。リビアのエル・シャララ油田の封鎖が供給の下支え要因となっている。",
+      "meta": ["WTI $89.64", "ブレント $99.01", "協議 3時間"],
+      "source": "TheStreet",
+      "sourceUrl": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-23-2026",
+      "followup": {
+        "since": "2026-09-23",
+        "whatsNew": "国連演説での言及にとどまっていた米イラン接触が、3時間の直接協議として実施され、イラン側は立場変更を否定した。"
+      }
+    },
+    {
+      "rank": 8,
+      "field": "ad",
+      "sec": "実証・国内",
+      "badges": ["jp"],
+      "title": "トヨタ、次世代e-Paletteが公道デビュー　NTT・May Mobility Japanと「日本初」に挑む",
+      "summary": "トヨタが次世代e-PaletteをNTTおよびMay Mobility Japanと組んで公道に投入した。国内で前例のない自動運転シャトル運行を目指す取り組みで、車両・通信・運行の各社が役割を分担する構成。",
+      "insight": "国内の自動運転は車両単体でなく通信・運行事業者を含む座組みで動く局面に入った。",
+      "meta": ["座組み トヨタ×NTT×May Mobility Japan", "形態 公道シャトル"],
+      "source": "自動運転ラボ",
+      "sourceUrl": "https://jidounten-lab.com/category/news"
+    },
+    {
+      "rank": 9,
+      "field": "india",
+      "sec": "自動車市場",
+      "badges": [],
+      "title": "インド、GST 2.0減税で乗用車販売が過去最高ペース　エントリー層が牽引",
+      "summary": "GST 2.0による税率引き下げ後、マルチ・スズキ、タタ、マヒンドラの各社がFY26に過去最高水準の販売を記録したと報じられた。エントリークラスの需要回復が全体を押し上げている一方、先行きの伸びは鈍化するとの見方も出ている。",
+      "meta": ["対象 FY26", "牽引 エントリー車", "政策 GST 2.0"],
+      "source": "Forbes India / Business Today",
+      "sourceUrl": "https://www.businesstoday.in/auto/story/how-gst-2-0-sparks-indias-biggest-car-buying-boom-in-years-557314-2026-09-23",
+      "followup": {
+        "since": "2026-09-23",
+        "whatsNew": "マルチの設備投資前倒しに続き、主要3社そろってFY26販売が過去最高水準に達したとの集計が出た。"
+      }
+    },
+    {
+      "rank": 10,
+      "field": "AI",
+      "sec": "セキュリティ",
+      "badges": ["us"],
+      "title": "シスコ、「完全自律型AIマルウェア」を初確認　検知ツールCAIRNを公開",
+      "summary": "シスコのTalosが、人間のオペレーターなしで動作する多モデル構成のAI型C2インプラント「CLOSEDQUORUM」を、完全自律型AIマルウェアの初の報告例として公表した。あわせてAI組込み型マルウェアを検知するツールキット「CAIRN」をリリースした。",
+      "insight": "生成AIの悪用が「支援ツール」から「無人で動く攻撃主体」に移行した最初の実例。",
+      "meta": ["検体 CLOSEDQUORUM", "検知ツール CAIRN", "特徴 オペレーター不在"],
+      "source": "AI Weekly",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 11,
+      "field": "ad",
+      "sec": "資本・上場",
+      "badges": ["us"],
+      "title": "トヨタ出資のMay Mobility、SPAC合併でナスダック上場　評価額約14億ドル",
+      "summary": "トヨタが出資する自動運転企業May MobilityがSPAC合併によりナスダック上場を果たした。評価額は約14億ドル（およそ2000億円）と報じられている。自動運転シャトル・小規模運行の事業者として資金調達手段を確保した形。",
+      "meta": ["評価額 約$1.4B", "手法 SPAC合併", "出資元 トヨタ"],
+      "source": "自動運転ラボ",
+      "sourceUrl": "https://jidounten-lab.com/category/news"
+    },
+    {
+      "rank": 12,
+      "field": "india",
+      "sec": "マクロ",
+      "badges": [],
+      "title": "ADB、インドのFY27成長率見通しを7%へ上方修正",
+      "summary": "アジア開発銀行がインドのFY27実質GDP成長率見通しを従来の6.6%から7.0%へ引き上げた。第1四半期の強い実績を理由としている。9月のフラッシュPMIも市場予想を上回り、内需の底堅さが確認された。",
+      "meta": ["FY27見通し 7.0%", "従来 6.6%", "根拠 Q1実績"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/amp/markets/news/stock-market-live-nse-bse-sensex-today-nifty-gift-nifty-brent-crude-oil-price-russia-war-jindal-supreme-share-price-september-23-126092300112_1.html"
+    },
+    {
+      "rank": 13,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "ステランティス、ワゴニア／チェロキー20万2000台をリコール　TPMS警告が出ない不具合",
+      "summary": "ジープ系のワゴニアおよびチェロキー計約202,000台で、ソフトウェア不良によりタイヤ空気圧監視システムの警告が表示されなくなる不具合が判明した。キャンペーン番号は26V559で、無線周波数ハブの再プログラムにより無償で対応する。",
+      "meta": ["対象 約202,000台", "番号 26V559", "対応 RFハブ再プログラム"],
+      "source": "The Autowire",
+      "sourceUrl": "https://theautowire.com/2026/09/22/recall-roundup-september-17-2026/"
+    },
+    {
+      "rank": 14,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": [],
+      "title": "国連安保理がAI安全保障会合　仏主催でOpenAI・Anthropic・DeepSeek・Moonshotが出席",
+      "summary": "フランスの主催により、国連安全保障理事会の15カ国がAIと国際安全保障をテーマとする会合を開いた。OpenAI、Anthropic、DeepSeek、Moonshotの各社代表が出席し、地政学的文脈でのAIリスクを議論した。米中双方の主要ラボが同席した点が特徴。",
+      "meta": ["主催 フランス", "参加 15理事国", "企業 米中4社"],
+      "source": "AI Weekly",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 15,
+      "field": "ad",
+      "sec": "事業戦略",
+      "badges": ["jp"],
+      "title": "Waymo、2027年の日本参入を視野　コスト構造に市場の懸念",
+      "summary": "Waymoの日本市場参入を2027年とする見方が出る一方、アナリストからは同社のコスト構造に対する懸念が指摘されている。センサー搭載量の多い車両構成と運行コストが、収益化の時期を左右するとの見立て。",
+      "meta": ["参入時期 2027年（見込み）", "論点 車両・運行コスト"],
+      "source": "自動運転ラボ",
+      "sourceUrl": "https://jidounten-lab.com/category/news"
+    },
+    {
+      "rank": 16,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "インド株が反発、Sensex299高の74,828　金属が2%高でITは軟調",
+      "summary": "23日のインド市場はSensexが299.17ポイント高の74,828.25、Nifty 50が117.80ポイント高の23,446.80で終了し、前日の下落から反発した。金属が約2%上昇し銀行・日用品が続く一方、IT株は1%安と重荷。ミッドキャップ・スモールキャップも上昇した。",
+      "meta": ["Sensex 74,828.25 (+0.40%)", "Nifty 23,446.80 (+0.50%)", "時点 9/23終値"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/amp/markets/news/stock-market-live-nse-bse-sensex-today-nifty-gift-nifty-brent-crude-oil-price-russia-war-jindal-supreme-share-price-september-23-126092300112_1.html"
+    },
+    {
+      "rank": 17,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us", "jp"],
+      "title": "トヨタ、C-HR EV 8,521台をリコール　過充電で駆動系が全停止する恐れ",
+      "summary": "トヨタは米国でC-HR EV 8,521台のリコールを届け出た。バッテリー過充電に関するソフトウェア不具合により、駆動システムが完全に停止する恐れがある。キャンペーン番号は26V570で、バッテリー制御ユニットのソフトウェア更新で無償対応する。",
+      "meta": ["対象 8,521台", "番号 26V570", "対応 BMSソフト更新"],
+      "source": "The Autowire",
+      "sourceUrl": "https://theautowire.com/2026/09/22/recall-roundup-september-17-2026/"
+    },
+    {
+      "rank": 18,
+      "field": "ad",
+      "sec": "政策",
+      "badges": ["jp"],
+      "title": "高市内閣、「自動運転担当大臣」の設置を見送り",
+      "summary": "新内閣の組閣で、自動運転を専管する大臣ポストの設置は見送られた。推進体制を新設せず既存省庁の所管で進める形となり、国内の制度整備のスピードに影響するとの見方がある。",
+      "meta": ["扱い 専任ポスト見送り", "体制 既存省庁所管"],
+      "source": "自動運転ラボ",
+      "sourceUrl": "https://jidounten-lab.com/category/news"
+    },
+    {
+      "rank": 19,
+      "field": "AI",
+      "sec": "資金調達",
+      "badges": ["us"],
+      "title": "Snorkel AI、3.5億ドルのシリーズC　評価額35億ドルに",
+      "summary": "データラベリング基盤のSnorkel AIが3億5000万ドルのシリーズCを調達し、評価額は35億ドルとなった。2025年5月時点の13億ドルからおよそ2.7倍に拡大した計算になる。学習データ整備領域への資金流入が続いている。",
+      "meta": ["調達 $350M", "評価額 $3.5B", "前回 $1.3B(2025/5)"],
+      "source": "AI Weekly",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 20,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "フォード、マッハEとブロンコでも不具合　電池モジュール発熱とエアバッグ破損の恐れ",
+      "summary": "フォードはマスタング・マッハEの交換用バッテリー制御モジュール86台分で初期化不良による熱暴走・火災の恐れがあるとしてソフト更新を実施。ブロンコ2,711台では右側カーテンエアバッグのブラケットに生じた金属バリが展開時にエアバッグを裂く恐れがあるとして無償対応する。",
+      "meta": ["Mach-E 86台 (26V582)", "Bronco 2,711台 (26V580)", "リスク 発熱・エアバッグ破損"],
+      "source": "The Autowire",
+      "sourceUrl": "https://theautowire.com/2026/09/22/recall-roundup-september-17-2026/"
+    }
+  ],
+  "weekly": [
+    "OpenAIがGPT-6系Sol/Lunaを投入しトークン単価を半減、AnthropicもOpus 5.5で約4割安。推論コスト低下が業務適用の前提を変える",
+    "米10年債利回りが5%台に再上昇し株式3指数が下落。習近平氏の訪米（9/23-25）を控え、AI・関税・レアアースが焦点",
+    "NHTSAがテスラCybercabの認証手続きを照会（AQ26002、約1,000台）。ハンドル・ペダルなし車両の型式適合が論点に"
+  ]
+}
