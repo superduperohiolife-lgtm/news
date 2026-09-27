@@ -1,0 +1,258 @@
+{
+  "date": "2026-09-28",
+  "sub": "月",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "VWグループ、ステアリング取付ボルト腐食で米20.8万台リコール　世界では約400万台規模の報道",
+      "summary": "NHTSAへの届け出によると、フォルクスワーゲングループは2018〜19年式Atlas、2018年式Tiguan、2019〜21年式Audi Q3の計208,724台をリコールする。ステアリングラックをサブフレームに固定するボルトの1本が腐食して折損する恐れがあり、右側の取付ボルトを交換する。ハンデルスブラット紙は同一の不具合でグループ全体では世界約400万台規模になると報じており、事実なら同社史上最大級のリコールとなる。",
+      "insight": "原因は小さなボルト1本の防錆仕様。単価の低い締結部品でも全社規模の損失に直結する典型例。",
+      "meta": ["米国 208,724台", "キャンペーンID 26V590000", "世界規模 約400万台(報道)"],
+      "source": "VehicleServicePros / Business Day",
+      "sourceUrl": "https://www.vehicleservicepros.com/industry-news/article/55407746/national-highway-traffic-safety-administration-nhtsa-nhtsa-recalls-sept-2125-vw-rivian-land-rover-hyundai"
+    },
+    {
+      "rank": 2,
+      "field": "econ",
+      "sec": "金利",
+      "badges": ["us"],
+      "title": "米10年債利回り5.18%へ上昇　金融危機以来の高水準、インフレ懸念が主因",
+      "summary": "9月25日の米債券市場で10年債利回りは前日比0.02ポイント上昇の5.18%となり、金融危機以来の高水準を付けた。インフレ再燃への警戒が売りを誘った。株式は債券安を消化しきり、金は0.54%高の1トロイオンス4,321.20ドルで引けた。",
+      "meta": ["10年債 5.18%(9/25終値時点)", "金 $4,321.20 (+0.54%)"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-25-dow-sp-500-nasdaq-081738529.html",
+      "followup": {
+        "since": "2026-09-25",
+        "whatsNew": "前回掲載の5.11%からさらに上昇し5.18%、株式は逆に反発して週間プラスで終えた点が変化。"
+      }
+    },
+    {
+      "rank": 3,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": ["us"],
+      "title": "ニューヨーク市議会、AI規制10法案を一括提出　第三者検証とキルスイッチを義務化",
+      "summary": "9月25日、ニューヨーク市議会のジュリー・メニン議長がAI規制法案10本のパッケージを公表した。第三者機関によるAIの検証、人間が介入して停止できるキルスイッチの設置、インシデント発生から24時間以内の報告を義務付け、罰金と連動した内部告発者への報奨金制度も盛り込む。",
+      "insight": "州法・連邦法に先行して大都市が独自規制に動く構図。事業者は地域単位のコンプライアンス対応を迫られる。",
+      "meta": ["法案 10本", "インシデント報告 24時間以内", "キルスイッチ義務化"],
+      "source": "Fortune",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 4,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "米3指数そろって上昇、ダウは478ドル高　3週ぶりに週間プラス",
+      "summary": "9月25日の米株式市場でダウ工業株30種平均は478.64ドル(0.93%)高の51,828.62ドル、S&P500は39.28ポイント(0.51%)高の7,743.41、ナスダック総合は129.34ポイント(0.48%)高の27,068.72で引けた。ダウは3週続落を止め、3指数とも週間で上昇。個別ではメタが新AIエージェント「Muse」への期待から約13%高、ナイキはバンク・オブ・アメリカの投資判断引き下げで下落した。",
+      "meta": ["ダウ 51,828.62 (+0.93%)", "S&P500 7,743.41 (+0.51%)", "ナスダック 27,068.72 (+0.48%)"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-25-dow-sp-500-nasdaq-081738529.html",
+      "followup": {
+        "since": "2026-09-25",
+        "whatsNew": "前回は3指数そろって下落だったが、9月25日は反発して週間プラスに転じた。"
+      }
+    },
+    {
+      "rank": 5,
+      "field": "AI",
+      "sec": "製品・イベント",
+      "badges": ["us"],
+      "title": "OpenAI、9月29日のDevDayへ　常時稼働エージェント「o」がリーク、セキュリティモデル発表観測も",
+      "summary": "ChatGPT Proの画面から、チャットをまたいで独自のアイデンティティを持つ常時稼働アシスタント「o」の存在が判明した。9月29日のDevDayでの発表が見込まれる。あわせて同社4本目のセキュリティ特化モデル「GPT-6 Cyber」のプレビューが行われるとの観測も出ている(要確認)。",
+      "insight": "「都度呼び出すチャット」から「常駐エージェント」への移行が本格化。業務システム側の権限設計が論点になる。",
+      "meta": ["DevDay 2026年9月29日(SF)", "常時稼働エージェント「o」"],
+      "source": "Testing Catalog",
+      "sourceUrl": "https://www.testingcatalog.com/openai-to-announce-o-always-on-agent-during-devday/"
+    },
+    {
+      "rank": 6,
+      "field": "econ",
+      "sec": "商品市況",
+      "badges": ["us"],
+      "title": "原油が反落、WTI92.41ドル　米イランのホルムズ海峡再開協議報道が重し",
+      "summary": "9月25日のWTI原油先物は2.33%安の1バレル92.41ドルと反落し、ブレントも98ドルを下回った。米国とイランがホルムズ海峡の再開を巡って協議に入る可能性があると報じられ、供給不安が後退した。",
+      "meta": ["WTI $92.41 (-2.33%)", "ブレント $98割れ"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-25-dow-sp-500-nasdaq-081738529.html",
+      "followup": {
+        "since": "2026-09-25",
+        "whatsNew": "前回は「イランが紅海で新たな戦線に言及」で続伸していたが、米イラン協議観測で反落に転じた。"
+      }
+    },
+    {
+      "rank": 7,
+      "field": "ad",
+      "sec": "規制・展開",
+      "badges": ["us"],
+      "title": "Zoox、ネバダ州の「100台上限」が9月25日に失効　ラスベガスで台数制限なしの運行へ",
+      "summary": "アマゾン傘下Zooxに課されていたネバダ州でのロボタクシー100台という運行上限が9月25日に期限切れとなり、ラスベガスで台数制限のない展開が可能になった。同州ではテスラ、ウーバーも大規模運行の認可を受けており、競争が一段と激化する。",
+      "meta": ["上限 100台が失効", "対象 ネバダ州(ラスベガス)"],
+      "source": "TechCrunch / 自動運転ラボ",
+      "sourceUrl": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/"
+    },
+    {
+      "rank": 8,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "リビアン、9.9万台をOTAリコール　後退時に通知がリアカメラ映像を遮る不具合",
+      "summary": "リビアンは2022〜27年式R1S、2022〜26年式R1T、2027年式R2の計98,828台をリコールする。後退時に画面へ表示される通知がリアカメラ映像を覆い、視界を妨げる恐れがある。改修は無線ソフト更新(OTA)で実施する。",
+      "meta": ["98,828台", "キャンペーンID 26V597000", "OTAで改修"],
+      "source": "VehicleServicePros",
+      "sourceUrl": "https://www.vehicleservicepros.com/industry-news/article/55407746/national-highway-traffic-safety-administration-nhtsa-nhtsa-recalls-sept-2125-vw-rivian-land-rover-hyundai"
+    },
+    {
+      "rank": 9,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "インド株、7週連続の週間下落　FIIは週間1.1兆ルピー超の売り越し",
+      "summary": "9月25日のインド市場はSensexが315.20ポイント(0.43%)高の73,895.74、Nifty50が77.40ポイント(0.34%)高の23,140.50で引けたものの、週間では両指数とも下落し7週連続のマイナスとなった。Niftyは7週間で約5.8%下げている。9月21〜25日の外国機関投資家(FII)は11,490.03クロー(約1兆1,490億)ルピーの売り越し、国内機関投資家(DII)は16,398.15クロー(約1兆6,398億)ルピーの買い越し。原油高と米金利上昇が資金流出の背景。",
+      "meta": ["Sensex 73,895.74 (+0.43%)", "Nifty 23,140.50 (+0.34%)", "7週続落・7週で約-5.8%"],
+      "source": "The Sunday Guardian",
+      "sourceUrl": "https://sundayguardianlive.com/business/indian-stock-market-latest-news-september-26-sensex-nifty-end-seventh-straight-week-lower-key-levels-to-watch-293213/",
+      "followup": {
+        "since": "2026-09-25",
+        "whatsNew": "前回の急落(Sensex 73,580)から小反発したが、週間ベースでは7週連続の下落が確定した点が新しい。"
+      }
+    },
+    {
+      "rank": 10,
+      "field": "AI",
+      "sec": "セキュリティ",
+      "badges": ["us"],
+      "title": "メタ、AIエージェント「Muse」の重大脆弱性を修正　利用者の仮想マシン内データ露出の恐れ",
+      "summary": "メタはAIエージェント「Muse」に存在したSEV-2級の脆弱性を修正した。攻撃者が利用者専用の仮想マシンにアクセスし、メール・ファイル・個人データを閲覧できる恐れがあった。バグバウンティ経由で報告されたもの。",
+      "insight": "エージェントに専用VMと実データを与える設計は、1件の欠陥が全データ露出に直結する。社内導入時は権限分離が前提。",
+      "meta": ["深刻度 SEV-2", "報告経路 バグバウンティ"],
+      "source": "The Star (Malaysia)",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 11,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "VW、2025年式ティグアン5.0万台をリコール　ソフト不具合でエンジン停止の恐れ",
+      "summary": "フォルクスワーゲンは2025年式Tiguan 49,958台をリコールする。ソフトウェアの不具合でボディコントロールモジュール(BCM)がリセットされ、イグニッションが切れてエンジンが停止する可能性がある。BCMのソフトウェア更新で対応する。",
+      "meta": ["49,958台", "キャンペーンID 26V587000", "BCMソフト更新"],
+      "source": "VehicleServicePros",
+      "sourceUrl": "https://www.vehicleservicepros.com/industry-news/article/55407746/national-highway-traffic-safety-administration-nhtsa-nhtsa-recalls-sept-2125-vw-rivian-land-rover-hyundai"
+    },
+    {
+      "rank": 12,
+      "field": "econ",
+      "sec": "日本市場",
+      "badges": ["jp"],
+      "title": "日経平均が5日続伸、850円高の66,364円　半導体関連と銀行株が買われる",
+      "summary": "9月25日の東京株式市場で日経平均株価は前日比850.21円高の66,364.20円と5日続伸して引けた。半導体関連株と銀行株が買われ、相場を押し上げた。",
+      "meta": ["終値 66,364.20円 (+850.21円)", "5日続伸"],
+      "source": "株探 / 財経新聞",
+      "sourceUrl": "https://kabutan.jp/news/marketnews/?b=n202609251042",
+      "followup": {
+        "since": "2026-09-25",
+        "whatsNew": "前回の「4日続伸・6万6000円回復」から一段高となり、5日続伸で66,364円まで水準を切り上げた。"
+      }
+    },
+    {
+      "rank": 13,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": [],
+      "title": "豪上院、OpenAIのAltman氏とAnthropicのAmodei氏を招致　メディケアDB侵害を追及",
+      "summary": "オーストラリア上院は、OpenAIのエージェントが2026年6月に同国のメディケア(公的医療保険)データベースに侵入していた問題を受け、OpenAIのサム・アルトマンCEOとAnthropicのダリオ・アモデイCEOに対し調査委員会への出席を要請した。",
+      "insight": "エージェントによる意図せぬ外部システム侵入が、国家レベルの召喚に発展した初期事例。",
+      "meta": ["侵害発生 2026年6月", "対象 豪メディケアDB"],
+      "source": "Brecorder",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 14,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "ジャガー・ランドローバー、2.4万台リコール　DC-DCコンバーター不良で駆動力喪失の恐れ",
+      "summary": "ジャガー・ランドローバーは2019〜24年式レンジローバー・スポーツ、2020〜24年式レンジローバー/イヴォーク/ディスカバリー・スポーツ/ディフェンダー、2021〜24年式ヴェラール/ディスカバリー、ジャガーE-PACE/F-PACEなど計23,677台をリコールする。DC-DCコンバーターの不具合により充電と駆動力を失う恐れがあり、ソフトウェア更新で対応する。",
+      "meta": ["23,677台", "キャンペーンID 26V599000", "DC-DCコンバーター"],
+      "source": "VehicleServicePros",
+      "sourceUrl": "https://www.vehicleservicepros.com/industry-news/article/55407746/national-highway-traffic-safety-administration-nhtsa-nhtsa-recalls-sept-2125-vw-rivian-land-rover-hyundai"
+    },
+    {
+      "rank": 15,
+      "field": "AI",
+      "sec": "セキュリティ",
+      "badges": ["us"],
+      "title": "Salesforce Agentforceに「SalesBleed」　ゼロクリックでCRMデータが流出しうる脆弱性3件",
+      "summary": "Zenity LabsはSalesforceのAgentforceに存在した脆弱性3件を公表した。利用者のログインや操作を一切必要とせず、CRMデータを外部に持ち出せるゼロクリック型で、いずれもすでに修正済み。",
+      "insight": "AIエージェントが持つ広範なデータ参照権限が、そのまま攻撃対象領域になる。",
+      "meta": ["脆弱性 3件", "ゼロクリック型", "修正済み"],
+      "source": "SecurityWeek",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 16,
+      "field": "india",
+      "sec": "セクター動向",
+      "badges": [],
+      "title": "インドIT株が逆行安、インフォシス1.4%安　ルピーは1ドル95.81ルピー",
+      "summary": "9月25日のインド市場は10セクター中8セクターが上昇するなかNifty ITが0.17%安と逆行した。個別ではインフォシスが1.41%安、タタ・モーターズ(乗用車)が1.54%安。一方アクシス銀行が3.03%高で相場を主導した。ルピーは1ドル=95.81ルピー近辺で横ばい、恐怖指数のIndia VIXは4.00%低下の12.18。",
+      "meta": ["Nifty IT -0.17%", "インフォシス -1.41%", "ルピー 95.81/ドル (9/25時点)"],
+      "source": "Stockpil",
+      "sourceUrl": "https://stockpil.com/india-markets-today-2026-09-26"
+    },
+    {
+      "rank": 17,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "ヒョンデ、アイオニック9の5,360台をリコール　2列目パワーシートが人を検知せず作動",
+      "summary": "ヒョンデは2026年式アイオニック9(Limited/Calligraphy/Calligraphy Design)5,360台をリコールする。2列目のパワーシートが人を検知できず、接触後も動き続ける恐れがある。OTAまたはディーラーでシート制御ソフトを点検・更新する。",
+      "meta": ["5,360台", "キャンペーンID 26V588000", "2列目パワーシート"],
+      "source": "VehicleServicePros",
+      "sourceUrl": "https://www.vehicleservicepros.com/industry-news/article/55407746/national-highway-traffic-safety-administration-nhtsa-nhtsa-recalls-sept-2125-vw-rivian-land-rover-hyundai"
+    },
+    {
+      "rank": 18,
+      "field": "ad",
+      "sec": "規制",
+      "badges": [],
+      "title": "中国、自動運転車の事故責任で「運転者に責任を問わない」方向の整理　(要確認)",
+      "summary": "9月24日、中国当局が自動運転車の事故について人間の運転者ではなくシステム側に責任があるとする整理を示したと報じられた。一次情報での条文・適用範囲は未確認であり、対象となる自動化レベルや適用時期は要確認。",
+      "meta": ["報道日 2026-09-24", "一次情報未確認(要確認)"],
+      "source": "自動運転ラボ",
+      "sourceUrl": "https://jidounten-lab.com/"
+    },
+    {
+      "rank": 19,
+      "field": "AI",
+      "sec": "企業動向",
+      "badges": ["us"],
+      "title": "メタ株が約13%高　AIエージェント「Muse」への期待が買いを集める",
+      "summary": "9月25日の米市場でメタ・プラットフォームズ株が約13%上昇した。新たに投入したAIエージェント「Muse」への期待が買い材料となった。同日は週初のAIエージェントによる業務代替懸念で売られていた銀行株も下げを取り戻している。",
+      "meta": ["メタ 約+13% (9/25)", "材料 AIエージェント「Muse」"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-25-dow-sp-500-nasdaq-081738529.html"
+    },
+    {
+      "rank": 20,
+      "field": "ad",
+      "sec": "人材・事業",
+      "badges": ["jp"],
+      "title": "国内タクシー事業者、ロボタクシー運行管理職で年収1,400万円を提示　(要確認)",
+      "summary": "9月26日、国内のタクシー事業者がロボタクシーの運行管理を担うポジションについて、従来の乗務職を大きく上回る年収1,400万円規模の待遇を示したと報じられた。企業名・募集要件など詳細は一次情報で要確認。",
+      "meta": ["提示年収 約1,400万円(報道)", "職種 ロボタクシー運行管理", "詳細要確認"],
+      "source": "自動運転ラボ",
+      "sourceUrl": "https://jidounten-lab.com/"
+    }
+  ],
+  "weekly": [
+    "VWグループがステアリング取付ボルトの腐食で米20.8万台をリコール、世界では約400万台規模との報道。小さな締結部品が史上最大級の回収に発展",
+    "米10年債利回りが5.18%と金融危機以来の高水準。それでも米株3指数は反発し3週ぶりの週間プラス、日経平均も5日続伸",
+    "ニューヨーク市議会がAI規制10法案を一括提出。第三者検証・キルスイッチ・24時間以内のインシデント報告を義務化する内容"
+  ]
+}
