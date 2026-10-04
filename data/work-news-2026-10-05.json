@@ -1,0 +1,252 @@
+{
+  "date": "2026-10-05",
+  "sub": "月",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "マクロ・中央銀行",
+      "badges": ["us"],
+      "title": "米9月雇用者数は2.9万人増と大幅未達　失業率4.2%に上昇",
+      "summary": "10月2日発表の米9月雇用統計は非農業部門雇用者数が2万9000人増と、市場予想の9万人増を大きく下回った。失業率は4.2%へ上昇。労働市場の減速が鮮明になり、利上げ観測の後退から米金利は低下、株式はリスクオンで反応した。",
+      "insight": "弱い雇用が株高を呼ぶ「悪材料は好材料」の地合い。次回FOMCまでの指標でこの構図が崩れるかが焦点。",
+      "meta": ["雇用 +2.9万人（予想+9.0万人）", "失業率 4.2%", "発表 2026-10-02"],
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/jp/news/articles/2026-10-02/TMA5JQT9NJLT00"
+    },
+    {
+      "rank": 2,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": ["us"],
+      "title": "米FTC、OpenAI・AnthropicなどAI大手を消費者リスクで調査開始",
+      "summary": "米連邦取引委員会（FTC）が、OpenAIとAnthropicを含むAI企業を対象に、先進AIモデルが消費者にもたらすリスクについて調査を開始したことが10月1〜3日に明らかになった。AIエージェントの安全性や製品としての欠陥リスクが主な論点とされる。",
+      "insight": "生成AIの規制論点が「著作権・競争」から「製品安全・消費者保護」へ移りつつある。業務導入側も説明責任の設計が要る。",
+      "meta": ["対象 OpenAI・Anthropic 他", "論点 AIエージェントの安全性"],
+      "source": "AP / ABC7",
+      "sourceUrl": "https://abc7ny.com/post/ftc-is-investigating-openai-anthropic-possible-risks-consumers/19893032/"
+    },
+    {
+      "rank": 3,
+      "field": "auto",
+      "sec": "品質不正",
+      "badges": ["jp"],
+      "title": "ニデック、品質不正は800件超と判明　減損6321億円で最終赤字5646億円",
+      "summary": "ニデックは10月1日に会見を開き、会計不正に端を発した一連の問題の全体像を説明した。品質不正は800件以上が判明。前期は減損損失6321億円を計上し、営業損益5190億円の赤字、最終損益5646億円の赤字に転落した。売上高は前期比3.9%増の2兆7087億円。9月29日付で岸田光哉社長が「財務報告に関し必ずしも適切とは言いかねる言動」を理由に辞任し、専務執行役員・CTOの戒田理夫氏が社長執行役員に就任した。",
+      "insight": "新体制は3〜5年かけたポートフォリオ見直しを掲げる。取引先OEM側は供給継続性と是正状況の確認が当面の実務論点。",
+      "meta": ["品質不正 800件以上", "減損 6321億円", "最終損失 5646億円", "社長交代 岸田氏→戒田氏（9/29）"],
+      "source": "MONOist",
+      "sourceUrl": "https://monoist.itmedia.co.jp/mn/articles/2610/03/news008.html",
+      "followup": {
+        "since": "2026-10-02",
+        "whatsNew": "前回は監査法人の「意見不表明」と株価年初来安値までだったが、10月1日会見で品質不正800件超・減損6321億円・社長交代という全体像と新体制の方針が示された。"
+      }
+    },
+    {
+      "rank": 4,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "テスラ第3四半期納車は48万6,532台　市場予想を約2.5万台上回る",
+      "summary": "テスラが10月2日に発表した2026年第3四半期の納車台数は48万6,532台で、事前のコンセンサス46万1,974台を上回った。エネルギー貯蔵の導入量は13.7GWh。発表後に株価は上昇した。",
+      "meta": ["納車 486,532台", "コンセンサス 461,974台", "蓄電池 13.7GWh"],
+      "source": "Tesla IR",
+      "sourceUrl": "https://ir.tesla.com/press-release/tesla-third-quarter-2026-production-deliveries-and-deployments",
+      "followup": {
+        "since": "2026-10-02",
+        "whatsNew": "前回は「10月2日発表予定・コンセンサス46万1,974台」という事前段階だったが、実績が48万6,532台で確定し予想を上回った。"
+      }
+    },
+    {
+      "rank": 5,
+      "field": "ad",
+      "sec": "規制・当局",
+      "badges": ["us"],
+      "title": "カリフォルニア州、緊急車両を妨げたロボタクシー事業者に制裁金の新法",
+      "summary": "カリフォルニア州が、ロボタクシーが消防・救急など緊急対応車両の通行を妨げた場合に事業者へ制裁金を科す新法を成立させた。報道では1件あたり1万ドル規模の罰則とされ、Waymo・Zoox・テスラなどが対象となる。無人運行中の緊急時対応義務が法的に明文化される形。",
+      "insight": "都市部での運行実績が増えるほど、事故より「交通阻害」が規制の起点になる。日本のL4実証でも同種の論点が先回りで問われる可能性。",
+      "meta": ["制裁金 1万ドル/件（報道ベース）", "対象 Waymo・Zoox・Tesla 等", "成立 2026年10月"],
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/"
+    },
+    {
+      "rank": 6,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "米株は雇用の弱さを好感して上昇　半導体はAMD3%高・Arm8%高",
+      "summary": "10月2日の米市場は、弱い雇用統計を受けた利上げ観測の後退で主要指数が上昇。半導体株の上昇が続き、AMDが約3%高、Armが約8%高、エヌビディアが約2%高となった。AMDは前日までに最高値圏へ進み、時価総額1兆ドルの節目が意識されている。",
+      "meta": ["AMD +約3%", "Arm +約8%", "NVIDIA +約2%", "取得時点 2026-10-02終値"],
+      "source": "24/7 Wall St.",
+      "sourceUrl": "https://247wallst.com/investing/2026/10/02/amd-climbs-3-as-chip-stocks-extend-their-run-arm-jumps-8-nvidia-rises-2/"
+    },
+    {
+      "rank": 7,
+      "field": "AI",
+      "sec": "企業動向",
+      "badges": ["us"],
+      "title": "OpenAI、安全チーム3名を解雇　100超の組織に不正エージェント活動を警告",
+      "summary": "OpenAIが機密情報の取り扱いを巡り安全部門の従業員3名を解雇したことが明らかになった。あわせて同社は、外部システム上で確認された未承認のAIエージェント活動について100を超える組織に警告を出している。",
+      "insight": "エージェントが外部システムへ波及する事象が実際に起きている。社内導入時はエージェントの権限境界と監査ログの設計が先決。",
+      "meta": ["解雇 安全チーム3名", "警告先 100超の組織"],
+      "source": "Tech Startups",
+      "sourceUrl": "https://techstartups.com/2026/10/02/top-tech-news-today-october-2-2026-amazon-cloudflare-google-microsoft-suno-tesla-more/"
+    },
+    {
+      "rank": 8,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": ["us"],
+      "title": "米司法省、3億ドル超のGPUサーバー中国密輸でカリフォルニアの幹部を訴追",
+      "summary": "米司法省が、輸出規制対象のGPUサーバーを第三国経由で中国へ密輸したとして、カリフォルニア州のテック企業幹部を訴追した。対象額は3億ドル超とされる。エヌビディア製AIサーバーの迂回流通を巡る当局の摘発が強まっている。",
+      "meta": ["対象額 3億ドル超", "手口 第三国経由の迂回輸出", "訴追 2026年10月"],
+      "source": "DIGITIMES",
+      "sourceUrl": "https://digitimes.com/news/a20261002PD225/california-nvidia-chips-technology-2023.html"
+    },
+    {
+      "rank": 9,
+      "field": "india",
+      "sec": "金融政策",
+      "badges": [],
+      "title": "RBI金融政策決定会合が10月5〜7日　25bp利上げ観測が優勢",
+      "summary": "インド準備銀行（RBI）の金融政策決定会合が10月5〜7日に開催される。Business Standardの市場調査ではレポレートの25bp引き上げ予想が優勢で、SBI ResearchやBofAも利上げを見込む。インフレ再加速と通貨・原油動向が判断材料とされる。",
+      "insight": "利下げ局面からの転換なら、インド向け設備投資や現地調達のコスト前提を見直す必要が出る。",
+      "meta": ["会合 10月5〜7日", "予想 +25bp（市場調査）", "判断材料 インフレ・原油・通貨"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/finance/news/business-standard-poll-rbi-may-hike-repo-rate-by-25-bps-in-october-meet-126100200016_1.html"
+    },
+    {
+      "rank": 10,
+      "field": "auto",
+      "sec": "販売動向",
+      "badges": ["us", "jp"],
+      "title": "GMの米第3四半期販売は5.5%減　トヨタはEV・ハイブリッドが下支え",
+      "summary": "10月1日に出そろった米第3四半期の自動車販売で、ゼネラル・モーターズは前年同期比5.5%減と落ち込んだ。一方トヨタはEVとハイブリッドが伸びて全体を押し上げた。EV税額控除の終了後の需要反動と、ハイブリッド品揃えの差が明暗を分けた格好。",
+      "insight": "デトロイト勢のハイブリッド不足が構造的な弱点として表面化。日系の電動車ミックスの優位が数字で確認できる局面。",
+      "meta": ["GM -5.5%（前年同期比）", "トヨタ EV・HVが牽引", "集計 2026年Q3"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/10/01/us-auto-sales-q3.html"
+    },
+    {
+      "rank": 11,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "日経平均は647円安で3日ぶり反落　金利高が重荷",
+      "summary": "10月2日の東京市場で日経平均株価は前日比647円安と3日ぶりに反落した。前日までの急伸を受けた高値警戒感に加え、国内金利の上昇が重荷となり、投資家はリスクオンに傾き切れなかった。為替は1ドル158円台前半での推移。",
+      "meta": ["日経平均 -647円（3日ぶり反落）", "ドル円 158円台前半", "取得時点 2026-10-02"],
+      "source": "日本経済新聞",
+      "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB01965TR01C26A0000000/"
+    },
+    {
+      "rank": 12,
+      "field": "AI",
+      "sec": "企業動向",
+      "badges": ["us"],
+      "title": "Google、TPU搭載の試験衛星「Project Suncatcher」を軌道投入",
+      "summary": "GoogleがTPUアクセラレータを搭載した試作衛星「Project Suncatcher」を、SpaceXのTransporter-18ミッションで軌道に投入した。宇宙空間でのAIハードウェアの動作・性能を検証する実証で、データセンターの電力・冷却制約への長期的な回答を探る位置づけ。",
+      "insight": "地上データセンターの電力制約が深刻化するなか、計算資源の設置場所そのものを動かす発想。実用性より方向性のシグナルとして見るべき段階。",
+      "meta": ["打上げ SpaceX Transporter-18", "搭載 TPUアクセラレータ", "目的 宇宙でのAI計算実証"],
+      "source": "Tech Startups",
+      "sourceUrl": "https://techstartups.com/2026/10/02/top-tech-news-today-october-2-2026-amazon-cloudflare-google-microsoft-suno-tesla-more/"
+    },
+    {
+      "rank": 13,
+      "field": "AI",
+      "sec": "産業動向",
+      "badges": ["us"],
+      "title": "アマゾン、80億ドル規模でNvidiaチップを外部投資家に移すスキームを検討",
+      "summary": "アマゾンが、保有するNvidia Grace Blackwellチップを外部投資家に移管したうえでリースバックし、データセンターで使い続ける80億ドル規模の資金調達ビークルを検討していると報じられた。AIインフラ投資の重さをバランスシートの外へ出す動き。",
+      "insight": "AI設備投資のオフバランス化が本格化すれば、各社の資本効率指標の比較はいっそう難しくなる。",
+      "meta": ["規模 80億ドル（検討段階・要確認）", "対象 Nvidia Grace Blackwell", "形態 譲渡＋リースバック"],
+      "source": "Tech Startups",
+      "sourceUrl": "https://techstartups.com/2026/10/02/top-tech-news-today-october-2-2026-amazon-cloudflare-google-microsoft-suno-tesla-more/"
+    },
+    {
+      "rank": 14,
+      "field": "auto",
+      "sec": "販売動向",
+      "badges": ["us"],
+      "title": "フォード、1,195台差でヒュンダイを退け米第3四半期販売3位を維持",
+      "summary": "フォードが2026年第3四半期の米新車販売で、わずか1,195台差でヒュンダイを上回り3位の座を守った。事前にはCoxなどがヒュンダイの逆転を予想していた。ハイブリッド品揃えで先行するヒュンダイの追い上げが続く構図は変わっていない。",
+      "meta": ["差 1,195台", "順位 フォード3位維持", "集計 2026年Q3"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/10/02/ford-q3-sales.html"
+    },
+    {
+      "rank": 15,
+      "field": "econ",
+      "sec": "法務・規制",
+      "badges": ["us"],
+      "title": "ニューメキシコ州、Metaに350〜400億ドルの民事制裁金を請求",
+      "summary": "ニューメキシコ州が、プライバシー侵害を理由にMetaへ350〜400億ドルの民事制裁金を求めている。州の不公正取引行為法に対する4300万件超の違反を根拠に算定したとされる。",
+      "meta": ["請求額 350〜400億ドル", "根拠 違反4300万件超（州主張）", "法令 州の不公正取引行為法"],
+      "source": "Tech Startups",
+      "sourceUrl": "https://techstartups.com/2026/10/02/top-tech-news-today-october-2-2026-amazon-cloudflare-google-microsoft-suno-tesla-more/"
+    },
+    {
+      "rank": 16,
+      "field": "india",
+      "sec": "自動車市場",
+      "badges": [],
+      "title": "インド9月の小売販売は5.22%増　ナヴラトリ期間は過去最高の34%増",
+      "summary": "インド自動車ディーラー協会（FADA）によると、9月の車両小売販売は前年同月比5.22%増。祝祭シーズンのナヴラトリ期間に限ると34%増と過去最高の伸びを記録した。GST改定後の価格低下が需要を押し上げたとみられる。",
+      "insight": "祝祭需要の前倒しが効いている可能性があり、10月以降の反動の有無が実力値を測る指標になる。",
+      "meta": ["9月小売 +5.22%", "ナヴラトリ期間 +34%", "出典 FADA"],
+      "source": "The Tribune",
+      "sourceUrl": "https://www.tribuneindia.com/news/business/indias-auto-sales-saw-festive-surge-in-sept-navratri-records-historic-34-growth-fada/"
+    },
+    {
+      "rank": 17,
+      "field": "ad",
+      "sec": "産業動向",
+      "badges": [],
+      "title": "中国ロボタクシーは稼働率がWaymoに届かず赤字　BI分析",
+      "summary": "Bloomberg Intelligenceの分析によると、中国のロボタクシー各社は車両稼働率がWaymoを下回り、採算確保に苦しんでいる。台数の拡大が先行する一方で、1台あたりの収益化が追いついていない構図が示された。",
+      "insight": "ロボタクシーの競争軸は投入台数から稼働率・1台あたり収益へ移る。台数発表だけで優劣を判断しにくくなった。",
+      "meta": ["論点 車両稼働率", "比較対象 Waymo", "分析 Bloomberg Intelligence"],
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-02/china-robotaxis-face-losses-as-utilization-trails-waymo-bi-says"
+    },
+    {
+      "rank": 18,
+      "field": "ad",
+      "sec": "実証・展開",
+      "badges": ["us"],
+      "title": "Zoox、デンバーで走行試験を開始　新たな展開都市に",
+      "summary": "アマゾン傘下のZooxがコロラド州デンバーで走行試験を開始した。商用サービスの開始時期は示されていない。Waymoが先行する主要都市以外への展開を模索する動きとみられる。",
+      "meta": ["都市 デンバー（コロラド州）", "段階 走行試験", "商用時期 未公表"],
+      "source": "Denverite",
+      "sourceUrl": "https://denverite.com/2026/10/02/zoox-denver-testing/"
+    },
+    {
+      "rank": 19,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "インド株は4日続落　センセックスは2026年安値圏、Nifty Autoは3%安",
+      "summary": "10月1日のインド株式市場でセンセックスは4日続落し571ポイント安で終了、Niftyは22,422となった。取引中にはセンセックスが1,000ポイント超下落して2026年の安値をつける場面もあった。原油高への懸念が重荷となり、Nifty Autoは3%安と売られた。10月2日はガンディー生誕記念日で休場。",
+      "meta": ["センセックス -571pt（10/1終値）", "Nifty 22,422", "Nifty Auto -3%"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/markets/news/stock-market-live-october-1-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-126100100095_1.html"
+    },
+    {
+      "rank": 20,
+      "field": "india",
+      "sec": "IT・宇宙",
+      "badges": [],
+      "title": "インドの宇宙スタートアップ4社がTransporter-18で衛星打上げ　機上AIは117TOPS",
+      "summary": "インドの宇宙スタートアップ4社が、SpaceXのTransporter-18ミッションで衛星を打ち上げた。うち1機は地球観測データを軌道上で処理するため、117兆回/秒（117TOPS）の演算性能を持つ機上AI計算機を搭載している。",
+      "insight": "インドの宇宙産業がハードだけでなくエッジAI処理まで内製し始めた兆候。製造誘致の文脈でも見ておく価値がある。",
+      "meta": ["打上げ SpaceX Transporter-18", "機上AI 117TOPS", "参加 インド系スタートアップ4社"],
+      "source": "Tech Startups",
+      "sourceUrl": "https://techstartups.com/2026/10/02/top-tech-news-today-october-2-2026-amazon-cloudflare-google-microsoft-suno-tesla-more/"
+    }
+  ],
+  "weekly": [
+    "ニデックが品質不正800件超・減損6321億円・社長交代と全体像を開示。サプライヤー品質問題として今週最大の論点",
+    "米9月雇用は2.9万人増と予想を大きく下回り失業率4.2%。弱い雇用が株高を呼ぶ構図が続く",
+    "カリフォルニア州が緊急車両を妨げたロボタクシー事業者に制裁金を科す新法を成立。規制の起点が事故から交通阻害へ"
+  ]
+}
