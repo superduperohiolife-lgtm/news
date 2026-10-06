@@ -1,0 +1,243 @@
+{
+  "date": "2026-10-07",
+  "sub": "水",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "金利・債券",
+      "badges": ["us"],
+      "title": "米10年債利回りが5.3%超え　2002年以来の高水準に",
+      "summary": "6日の米債券市場で10年債利回りが5.3%を上回り、2002年以来の水準に到達。30年債も5.7%を突破し24年ぶりの高さとなった。インフレ再燃と財政要因を背景にした長期ゾーンの売りが続いており、株高と金利高が併存する異例の地合いが強まっている。",
+      "insight": "長期金利の水準訂正は設備投資・自動車ローンの前提を変える。為替・調達コスト前提の置き直しが必要。",
+      "meta": ["10年債 5.3%超(10/6)", "30年債 5.7%超＝24年ぶり"],
+      "source": "TheStreet",
+      "sourceUrl": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-06-2026"
+    },
+    {
+      "rank": 2,
+      "field": "AI",
+      "sec": "企業・産業",
+      "badges": ["us"],
+      "title": "Google、Constellation Energyと3.6GWの電力契約　新規原子力890MWをPJMへ",
+      "summary": "GoogleはConstellation Energyと総容量3.6GWに及ぶ長期電力契約を締結。うち890MWは新規の原子力容量としてPJM系統に供給される。AIデータセンターの電力需要急増を受けた大型案件で、契約規模は約10億ドル規模と報じられている。Constellation株は6日に12.3%上昇した。",
+      "insight": "ハイパースケーラーの電源囲い込みが本格化。電力調達が計算資源の実質的な制約条件になりつつある。",
+      "meta": ["総容量 3.6GW", "新規原子力 890MW", "CEG株 +12.3%(10/6)"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/amp/2026/10/06/google-enters-massive-3point6-gw-power-deal-with-constellation-energy-.html"
+    },
+    {
+      "rank": 3,
+      "field": "auto",
+      "sec": "品質不正",
+      "badges": ["jp"],
+      "title": "ニデック、岸田社長が9月末に辞任　上場廃止リスクが新たな焦点に",
+      "summary": "品質不正と会計不正が重なるニデックで、岸田光哉社長が巨額損失公表前日の9月29日に辞任していたことが判明。減損6321億円・最終赤字5646億円に加え、特設注意市場銘柄への指定と監査意見の2期連続不表明により上場廃止リスクが現実味を帯びる。品質面では顧客無断の材料・工程変更や試験データの改ざん・ねつ造が認定されている。",
+      "insight": "供給先OEMにとっては調達継続可否と代替手当ての判断局面。認定内容は材料・工程の無断変更まで及ぶ点に注意。",
+      "meta": ["減損 6321億円", "最終赤字 5646億円", "社長辞任 9/29", "上場廃止リスク(特設注意市場銘柄)"],
+      "source": "J-CASTニュース",
+      "sourceUrl": "https://www.j-cast.com/2026/10/05518269.html?p=all",
+      "followup": {
+        "since": "2026-10-05",
+        "whatsNew": "前回は不正件数と損失額が主眼だったが、今回は岸田社長の9/29辞任と、監査意見不表明に伴う上場廃止リスクという経営・ガバナンス面の帰結が明らかになった。"
+      }
+    },
+    {
+      "rank": 4,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "米株はナスダックが最高値　原油安と決算期待が支え",
+      "summary": "6日の米株式市場はハイテク主導で上昇し、ナスダック総合が最高値を更新。同日取引中時点でS&P500が0.87%高、ナスダックが0.79%高、ダウが0.45%高。原油安が追い風となり、WTIは1.86%安の87.77ドル、ブレントは1.64%安の98.67ドルで推移した。FactSetは次の決算シーズンで30%の増益を見込む。",
+      "meta": ["S&P500 +0.87%(10/6取引中)", "WTI $87.77 -1.86%", "ブレント $98.67 -1.64%"],
+      "source": "TheStreet",
+      "sourceUrl": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-06-2026"
+    },
+    {
+      "rank": 5,
+      "field": "econ",
+      "sec": "通商・政策",
+      "badges": ["us"],
+      "title": "トランプ政権、染色軽油の公道使用を容認　燃料高騰への緊急対応",
+      "summary": "米政権は、通常は課税対象外で公道走行に使えない染色軽油（dyed diesel）の公道使用を認める措置を打ち出した。中間選挙を前に歴史的な燃料コスト上昇を抑える狙い。米ディーゼル価格はガロン6ドル台に乗せ、物流コスト経由で幅広い業種に波及している。",
+      "insight": "燃料高は輸送費を通じて部品調達コストに直撃する。北米向け物流費の前提見直しが必要。",
+      "meta": ["米ディーゼル $6/ガロン超", "G7は10/2に1億バレル放出で合意"],
+      "source": "CNBC",
+      "sourceUrl": "https://cnbc.com/2026/10/06/us-diesel-fuel-prices-iran-ukraine-energy-crisis-.html"
+    },
+    {
+      "rank": 6,
+      "field": "AI",
+      "sec": "半導体",
+      "badges": ["us"],
+      "title": "Marvell、投資家デーでFY2031に最大900億ドルの売上目標　株価7%高",
+      "summary": "Marvell Technologyは6日の投資家デーで長期目標を更新し、2031会計年度に年間最大900億ドルの売上を目指す道筋を提示した。ハイパースケーラー向けカスタムAIシリコンの拡大が前提。発表を受けて株価は7.1%上昇した。",
+      "meta": ["目標 最大$90B / FY2031", "MRVL株 +7.1%(10/6)"],
+      "source": "Stocktwits",
+      "sourceUrl": "https://stocktwits.com/news-articles/markets/equity/marvell-investor-day-mrvl-stock-rockets-as-firm-lays-out-path-to-up-to-90-b-in-annual-revenue-by-fiscal-2031/cZDtJMyRBlE"
+    },
+    {
+      "rank": 7,
+      "field": "auto",
+      "sec": "電動化",
+      "badges": ["us"],
+      "title": "GM、ハイブリッド投入を明言　PHEVはEV走行70マイル級を想定",
+      "summary": "GMは米国ラインアップへのハイブリッド車投入を改めて明言し、2027年までの再導入を目指す。EV需要の鈍化とガソリン・軽油価格の高騰を受けた軌道修正で、プラグインハイブリッドはEV走行70マイル級を想定すると報じられている。経営陣は「顧客の声に鈍感ではない」と述べた。",
+      "insight": "北米は再びHEV/PHEV重視へ。パワートレイン構成の前提が動くと部品構成・設備計画にも波及する。",
+      "meta": ["再導入目標 2027年まで", "PHEV EV走行 約70マイル(報道ベース)"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/10/05/gm-hybrid-vehicles.html"
+    },
+    {
+      "rank": 8,
+      "field": "econ",
+      "sec": "日本市場",
+      "badges": ["jp"],
+      "title": "日経平均は737円高で7万円回復　半導体株が牽引、円は157円台後半",
+      "summary": "6日の東京株式市場で日経平均株価は737円高と続伸し、終値で7万円台を回復した。米半導体株高を受けて国内半導体関連に買いが集まった。外国為替市場では円安が進み、ドル円は157円台後半で推移。金融株は軟調だった。",
+      "meta": ["日経平均 +737円 / 7万円回復(10/6終値)", "ドル円 157円台後半(10/6)"],
+      "source": "みんかぶ",
+      "sourceUrl": "https://s.minkabu.jp/news/4630524"
+    },
+    {
+      "rank": 9,
+      "field": "india",
+      "sec": "金融政策",
+      "badges": [],
+      "title": "RBIが7日に政策決定　エコノミストの約6割が25bp利上げを予想",
+      "summary": "インド準備銀行（RBI）の金融政策委員会は10月7日に政策金利を決定する。インフレの裾野拡大を背景に、エコノミストの約60%が25bpの利上げを見込む。ルピー防衛よりインフレ対応を主軸とする姿勢が関係筋から伝えられており、据え置き観測も残る。",
+      "meta": ["決定 10/7", "25bp利上げ予想 約60%(エコノミスト調査)"],
+      "source": "IndexBox",
+      "sourceUrl": "https://www.indexbox.io/blog/rbi-rate-hike-expected-this-week-as-inflation-broadens"
+    },
+    {
+      "rank": 10,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "センセックスは685ポイント高　RBI決定を前に原油安で反発",
+      "summary": "6日のインド株式市場は反発し、センセックスが685.34ポイント高、ニフティは22,776.10で引けた。原油安がインフレ懸念を和らげ、RBIの政策決定を前に買いが優勢となった。小売大手Trentが10%高となるなど個別物色も活発だった。",
+      "meta": ["センセックス +685.34pt(10/6)", "ニフティ 22,776.10(10/6終値)"],
+      "source": "HDFC Sky",
+      "sourceUrl": "https://hdfcsky.com/news/market-close-report-today-october-6-2026-nifty-sensex-roar-ahead-of-rbi"
+    },
+    {
+      "rank": 11,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": ["us"],
+      "title": "AI大手4社がニューヨーク市議会で宣誓証言　破滅的リスクを追及",
+      "summary": "Anthropic、OpenAI、Google、Metaの幹部が5日、ニューヨーク市議会の公聴会で宣誓のうえ証言した。市議会が公表した一連のインシデント報告を受けた初の公開証言で、AIの存立に関わるリスクと安全対策の実効性が問われた。州・市レベルでの規制圧力が一段と高まっている。",
+      "meta": ["4社が宣誓証言(10/5)", "市議会のインシデント報告が契機"],
+      "source": "Quartz",
+      "sourceUrl": "https://qz.com/anthropic-openai-google-meta-nyc-council-ai-hearing-100526"
+    },
+    {
+      "rank": 12,
+      "field": "AI",
+      "sec": "製品・事業",
+      "badges": ["us"],
+      "title": "OpenAI、ChatGPTの画像生成結果にビジュアル広告を導入",
+      "summary": "OpenAIは5日、ChatGPTの画像生成結果の横に表示するビジュアル広告フォーマットと計測手段を発表した。まず米国でのテストから始める。対話型AIの収益源を広告に広げる動きで、生成結果と広告の距離感をどう設計するかが論点となる。",
+      "insight": "業務でChatGPTを使う場合、出力面に広告が混じる前提での利用ルール整備が要る。",
+      "meta": ["画像生成結果に併置", "米国でテスト開始"],
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/"
+    },
+    {
+      "rank": 13,
+      "field": "AI",
+      "sec": "サプライ",
+      "badges": ["jp", "us"],
+      "title": "東芝のHDD増産観測でSeagateが8%安、ウエスタンデジタルは6%安",
+      "summary": "東芝がAI向けストレージ需要を狙いハードディスク生産能力を大幅に引き上げる計画が報じられ、6日の米市場でSeagateが約8%安、ウエスタンデジタルが約6%安となった。投資額は3.8億ドル規模と伝えられる（要確認）。AI投資の恩恵が供給増で希薄化するとの見方が広がった。",
+      "meta": ["STX -8% / WDC -6%(10/6)", "東芝投資額 $380M(報道ベース・要確認)"],
+      "source": "24/7 Wall St.",
+      "sourceUrl": "https://247wallst.com/investing/2026/10/06/western-digital-sinks-6-as-toshibas-drive-expansion-hits-the-group-seagate-drops-8-micron-holds-flat/"
+    },
+    {
+      "rank": 14,
+      "field": "auto",
+      "sec": "品質",
+      "badges": ["us"],
+      "title": "ステランティス、品質改善へ50の「ウォールーム」設置　保証引当は41億ユーロ",
+      "summary": "ステランティスがリコール多発を回避するため、50の品質「ウォールーム」を設置して改善に着手したと報じられた。経営陣は品質問題の是正が急速に進んでいると主張するが、評価指標は生産3カ月時点の不具合率で、41億ユーロ規模の保証引当は過去の車両に起因する分だとの指摘もある。",
+      "insight": "不正ではないが、品質KPIの取り方で改善の見え方が変わる好例。社内の指標設計を点検する材料になる。",
+      "meta": ["ウォールーム 50拠点", "保証引当 41億ユーロ(報道ベース)", "評価は生産3カ月時点の指標"],
+      "source": "The Autowire",
+      "sourceUrl": "https://theautowire.com/2026/10/05/stellantis-quality-war-rooms-warranty-reserve-3mis/"
+    },
+    {
+      "rank": 15,
+      "field": "ad",
+      "sec": "規制・運行",
+      "badges": ["us"],
+      "title": "サンフランシスコ市、フリートウィーク期間中のロボタクシー走行区域を制限",
+      "summary": "サンフランシスコ市は5日、フリートウィーク開催に合わせてロボタクシーの走行可能区域を制限する措置を取った。大規模イベント時の群衆・緊急車両との干渉を避ける狙い。カリフォルニア州では緊急車両の妨害に制裁金を科す新法も成立しており、運行制約の枠組みが積み上がっている。",
+      "meta": ["対象 フリートウィーク期間", "州法では緊急車両妨害に制裁金"],
+      "source": "KION Central Coast",
+      "sourceUrl": "https://kioncentralcoast.com/news/top-stories/2026/10/05/san-francisco-cracks-down-on-where-robotaxis-can-go-during-fleet-week"
+    },
+    {
+      "rank": 16,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "テスラ、オースティンのロボタクシー営業を23時まで延長　夜間の小動物検知が課題",
+      "summary": "テスラはオースティンでのロボタクシー営業時間を1時間延ばし、23時までとした。イーロン・マスク氏は夜間の全面展開が進まない理由として、暗い路面上の小動物の検知の難しさを挙げている。カメラのみの構成でライダーを使わない設計が、夜間性能の論点として改めて浮上した。",
+      "meta": ["営業時間 23時まで(＋1時間)", "課題 夜間の小動物検知"],
+      "source": "Electrek",
+      "sourceUrl": "https://electrek.co/2026/10/03/tesla-robotaxi-pets-night-musk-lidar/"
+    },
+    {
+      "rank": 17,
+      "field": "econ",
+      "sec": "商品",
+      "badges": ["us"],
+      "title": "ゴールドマン、ディーゼル高は2027年まで継続と予測　製油所能力が隘路",
+      "summary": "ゴールドマン・サックスは6日、製油所の処理能力が需要に追いつかず、ディーゼル価格の高止まりが2027年まで続くとの見方を示した。原油価格が下落局面でも精製マージンの逼迫が残るため、輸送コストの高止まりが続くと分析している。",
+      "meta": ["高値継続見通し 2027年まで", "要因 製油所能力の不足"],
+      "source": "CNBC",
+      "sourceUrl": "https://cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html"
+    },
+    {
+      "rank": 18,
+      "field": "ad",
+      "sec": "市場予測",
+      "badges": [],
+      "title": "ロボタクシー、2036年に世界150万台規模との予測",
+      "summary": "6日公表の市場予測で、ロボタクシーの世界稼働台数が2036年までに150万台規模へ拡大しうるとの見通しが示された。中国勢の商用展開が先行し、米国はWaymoを軸に都市を広げる構図。稼働率と1台あたり採算が普及速度を左右するとされる。",
+      "meta": ["2036年 150万台(予測)", "予測値のため確定ではない"],
+      "source": "IoT Business News",
+      "sourceUrl": "https://iotbusinessnews.com/2026/10/06/robotaxi-fleets-could-scale-to-1-5-million-vehicles-worldwide-by-2036/"
+    },
+    {
+      "rank": 19,
+      "field": "india",
+      "sec": "自動車市場",
+      "badges": [],
+      "title": "インド9月のEV販売はほぼ倍増　起亜がマルチ・スズキを抜き5位に",
+      "summary": "インドの9月の乗用EV販売は前年比でほぼ倍増し、タタ・モーターズが首位、マヒンドラが肉薄する展開となった。ブランド別では起亜がマルチ・スズキを抜いて5位に浮上。ナヴラトリ商戦の需要が押し上げ要因となった。",
+      "meta": ["9月EV販売 ほぼ倍増(前年比)", "首位 タタ / 5位 起亜"],
+      "source": "Autocar India",
+      "sourceUrl": "https://www.autocarindia.com/industry-amp/september-2026-ev-sales-kia-overtakes-maruti-suzuki-for-fifth-spot-440909"
+    },
+    {
+      "rank": 20,
+      "field": "econ",
+      "sec": "M&A",
+      "badges": ["us"],
+      "title": "Option Care Healthが33%急騰　50億ドル超の買収観測",
+      "summary": "在宅輸液サービスのOption Care Healthが6日に32.9%高と急騰した。50億ドルを超える規模の買収観測が背景。金利高にもかかわらずヘルスケア領域のM&A観測が相場を押し上げる構図が続いている。",
+      "meta": ["OPCH +32.9%(10/6)", "買収観測 50億ドル超(未確定)"],
+      "source": "TheStreet",
+      "sourceUrl": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-06-2026"
+    }
+  ],
+  "weekly": [
+    "米10年債利回りが5.3%を超え2002年以来の高水準。株高と金利高が併存する異例の地合い",
+    "GoogleがConstellation Energyと3.6GWの電力契約。AIデータセンターの電力確保が競争軸に",
+    "ニデックは岸田社長が9/29辞任。品質・会計の二重不正に上場廃止リスクが加わる"
+  ]
+}
