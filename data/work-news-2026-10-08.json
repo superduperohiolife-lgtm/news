@@ -1,0 +1,306 @@
+{
+  "date": "2026-10-08",
+  "sub": "木",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "india",
+      "sec": "金融政策",
+      "badges": [],
+      "title": "RBIが25bp利上げ、レポ金利5.5%へ　約4年ぶりの引き上げ",
+      "summary": "インド準備銀行(RBI)は10月7日の金融政策決定会合でレポ金利を25bp引き上げ5.5%とした。約4年ぶりの利上げで、マルホトラ総裁は当面の利下げは「選択肢から外れた」と述べ、FY27のインフレ見通しを5.0%から5.2%へ上方修正。FY27の実質GDP見通しは7.1%とした。",
+      "insight": "原油高と通貨安によるインフレ圧力を優先する「カリブレーテッド・タイトニング」への転換で、インド株・金利市場の前提が入れ替わる。",
+      "meta": [
+        "レポ金利 5.5%（+25bp）",
+        "FY27 インフレ見通し 5.2%（前回5.0%）",
+        "FY27 GDP見通し 7.1%"
+      ],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/finance/news/rbi-mpc-october-2026-repo-rate-hike-inflation-growth-gdp-sanjay-malhotra-126100700222_1.html",
+      "followup": {
+        "since": "2026-10-07",
+        "whatsNew": "前回は「25bp利上げ観測が優勢」の事前予想段階だったが、今回は実際に25bp利上げが決定し、インフレ・GDP見通しの改定値まで確定した。"
+      }
+    },
+    {
+      "rank": 2,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "米10年債利回りが24年ぶり高水準　ダウは500ドル安で最高値から反落",
+      "summary": "7日の米市場では長期金利の上昇が続き、10年債利回りが24年ぶりの高水準をつけた。ダウ平均は500ドル程度下落し、S&P500とナスダックは前日までの最高値圏から反落。金利上昇がバリュエーションの重荷となる構図が鮮明になっている。(値は日本時間8日未明の取得時点)",
+      "insight": "金利主導の調整局面入り。株高の前提だった「低位安定した長期金利」が崩れつつある。",
+      "meta": [
+        "米10年債利回り 24年ぶり高水準",
+        "ダウ 約500ドル安（取得時点）"
+      ],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-7-dow-sp-500-nasdaq-080241833.html",
+      "followup": {
+        "since": "2026-10-07",
+        "whatsNew": "前回は10年債利回りの5.3%超えを「2002年以来の高水準」として伝えたが、その後さらに上昇し株式市場が最高値から反落に転じた。"
+      }
+    },
+    {
+      "rank": 3,
+      "field": "econ",
+      "sec": "M&A",
+      "badges": ["us"],
+      "title": "パラマウントとワーナー・ブラザース・ディスカバリーの合併が完了　1,100億ドル規模",
+      "summary": "パラマウント(スカイダンス)によるワーナー・ブラザース・ディスカバリーの買収が10月6日に完了した。報道ベースの取引規模は約1,100億ドルで、米メディア業界で近年最大級の再編となる。合併後はレイオフと年間の劇場公開本数の方針が焦点となっている。",
+      "meta": [
+        "取引規模 約1,100億ドル",
+        "完了 2026年10月6日"
+      ],
+      "source": "CNBC",
+      "sourceUrl": "https://cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html"
+    },
+    {
+      "rank": 4,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": ["us"],
+      "title": "Anthropic、サイバー検証プログラムを3段階に拡張　防御側には制限を緩和",
+      "summary": "Anthropicは10月7日、検証済みのセキュリティ企業やレッドチームに対し、Claudeの高度なサイバー能力への利用制限を緩めるプログラムを3つのアクセス階層に拡張したと発表。攻撃者優位を是正し防御側の能力を引き上げる狙いで、審査を通した組織に限定して提供する。",
+      "insight": "汎用モデルの「攻撃用途の封じ込め」から「検証済み防御者への解放」へ、運用ポリシーの設計思想が一段進んだ。",
+      "meta": [
+        "アクセス階層 3段階",
+        "対象 検証済みレッドチーム・セキュリティ企業"
+      ],
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/10/07/anthropic-expands-cyber-verification-program/"
+    },
+    {
+      "rank": 5,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": [],
+      "title": "Mistral、「Large 4」を公開　ソブリンAI路線で中国系オープンウェイトに対抗",
+      "summary": "仏Mistral AIが最新モデル「Mistral Large 4」を公開した。1兆パラメータ級のMoE構成とされ、まずは監視付きAPIでの段階提供、オープンウェイトの公開は10月下旬が予定されている。欧州の「ソブリンAI」路線の中核モデルという位置づけ。",
+      "meta": [
+        "構成 1兆パラメータ級MoE（詳細は要確認）",
+        "オープンウェイト公開 10月下旬予定"
+      ],
+      "source": "TechXplore",
+      "sourceUrl": "https://techxplore.com/news/2026-10-france-mistral-unveils-latest-sovereign.html"
+    },
+    {
+      "rank": 6,
+      "field": "auto",
+      "sec": "新車・EV",
+      "badges": [],
+      "title": "ジャガー、新型EV「Type 01」を発表　物議を呼んだリブランドから2年",
+      "summary": "JLRは10月7日、ジャガーの新型電気自動車「Type 01」を公開した。英国で設計・開発・生産を行う高級EVで、CNBCは価格を約13万ドルと報道（一部報道では17.2万ドル＝仕様差の可能性あり、要確認）。2024年の物議を呼んだブランド刷新から約2年を経た実車投入となる。",
+      "insight": "ブランド再構築の成否が初めて実売価格で問われる。高級EV市場の需要減速局面での投入はリスクも大きい。",
+      "meta": [
+        "価格 約13万ドル（CNBC報道）",
+        "生産 英国"
+      ],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/amp/2026/10/07/jaguar-electric-vehicle-autos-type-01.html"
+    },
+    {
+      "rank": 7,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "Waymo、デトロイトで完全自動運転走行を開始",
+      "summary": "Waymoは10月6日、デトロイトでドライバーレスの完全自動運転走行を開始した。北米自動車産業の本拠地での展開で、冬季の降雪環境を含む運用実績の蓄積が焦点となる。",
+      "meta": [
+        "開始 2026年10月6日",
+        "都市 デトロイト"
+      ],
+      "source": "ClickOnDetroit",
+      "sourceUrl": "https://clickondetroit.com/news/local/2026/10/06/waymo-begins-full-autonomous-driving-in-detroit-what-to-know"
+    },
+    {
+      "rank": 8,
+      "field": "ad",
+      "sec": "資金調達",
+      "badges": ["us"],
+      "title": "Waymo、PIMCO・ブラックストーンから50億ドルのプライベート債務を調達",
+      "summary": "Waymoが成長加速に向け、PIMCOやブラックストーンを中心とするプライベートクレジットから50億ドル規模のローンを確保したとブルームバーグが報じた。当初計画から積み増した形で、車両と拠点の拡張原資に充てられる見込み。",
+      "meta": [
+        "調達額 50億ドル",
+        "貸し手 PIMCO・ブラックストーンほか"
+      ],
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-06/waymo-boosts-private-debt-deal-to-5-billion-in-push-for-growth"
+    },
+    {
+      "rank": 9,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "RBIのタカ派転換で自動車・不動産・金属株が下落",
+      "summary": "7日のインド市場では、RBIの利上げと「当面の利下げなし」姿勢を受け、金利敏感セクターが売られた。自動車、不動産、金属、FMCGが軟調で、IT大手や一部銀行株には資金が向かう選別色の強い展開となった。",
+      "meta": [
+        "下落 自動車・不動産・金属・FMCG",
+        "日付 2026年10月7日"
+      ],
+      "source": "HDFC Sky",
+      "sourceUrl": "https://hdfcsky.com/news/sectoral-snapshot-today-october-7-2026-auto-realty-fmcg-metal-stocks-fall-as-rbi-turns-hawkish"
+    },
+    {
+      "rank": 10,
+      "field": "econ",
+      "sec": "M&A",
+      "badges": [],
+      "title": "カナダEmera、Canadian Utilitiesを143億ドルで買収　電力需要増に備え",
+      "summary": "カナダの電力会社Emeraが、Canadian Utilitiesを全株式交換方式で買収すると10月6日に発表した。報道ベースの取引規模は143億ドル、統合後の企業価値は約720億ドル（通貨単位はカナダドルの可能性、要確認）。データセンター需要などによる電力需要増を見据えた規模拡大。",
+      "meta": [
+        "取引規模 143億ドル（通貨単位は要確認）",
+        "統合後規模 約720億ドル"
+      ],
+      "source": "BNN Bloomberg",
+      "sourceUrl": "https://bnnbloomberg.ca/business/company-news/2026/10/06/emera-and-canadian-utilities-to-merge-creating-72b-company"
+    },
+    {
+      "rank": 11,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "日経平均は3日ぶり反落　半導体関連中心に利益確定売り",
+      "summary": "7日の東京市場で日経平均株価は3日ぶりに反落した。前日までの急伸を受けた短期的な過熱感から、半導体関連を中心に利益確定売りが優勢。TOPIXは取引時間中に最高値をつけたものの上げを維持できなかった。",
+      "meta": [
+        "日経平均 3日ぶり反落",
+        "TOPIX 一時最高値"
+      ],
+      "source": "日本経済新聞",
+      "sourceUrl": "https://nikkei.com/article/DGXZQOFL075100X01C26A0000000"
+    },
+    {
+      "rank": 12,
+      "field": "auto",
+      "sec": "生産動向",
+      "badges": [],
+      "title": "ステランティス、労組がイタリア生産見通しを45万台に下方修正",
+      "summary": "ステランティスのイタリア工場について、労働組合が2026年の生産見通しを45万台へ引き下げたとブルームバーグが報じた。欧州の需要減速とEV移行の足踏みを背景に、同国の生産能力の過剰感が改めて意識されている。",
+      "meta": [
+        "2026年イタリア生産見通し 45万台",
+        "出所 労組集計"
+      ],
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-06/stellantis-union-lowers-forecast-for-2026-italy-vehicle-output"
+    },
+    {
+      "rank": 13,
+      "field": "ad",
+      "sec": "海外展開",
+      "badges": [],
+      "title": "Waymo、2028年にシンガポールで事業開始へ",
+      "summary": "Waymoが2028年にシンガポールでの運行を開始する方針を示した。米国外では初期段階の展開で、右ハンドル・高密度都市・強い規制環境という条件下での検証が課題となる。",
+      "meta": [
+        "開始時期 2028年",
+        "地域 シンガポール"
+      ],
+      "source": "electrive",
+      "sourceUrl": "https://electrive.com/2026/10/06/waymo-to-launch-operations-in-singapore-in-2028"
+    },
+    {
+      "rank": 14,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": [],
+      "title": "OpenAI、EUでChatGPTの生成テキストに電子透かしを導入へ",
+      "summary": "OpenAIがEU域内でChatGPTの出力テキストに電子透かしを付与する方針を明らかにした。EUのAI規制で求められる生成物の識別可能性への対応で、テキストへの透かしは画像・音声に比べ技術的難度が高いとされる領域。",
+      "meta": [
+        "対象 EU域内のChatGPTテキスト出力",
+        "背景 EU AI規制の表示義務"
+      ],
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu"
+    },
+    {
+      "rank": 15,
+      "field": "ad",
+      "sec": "センサ・サプライ",
+      "badges": ["us"],
+      "title": "Rivian、R2のLiDAR搭載自動運転機能の顧客提供を2027年に後ろ倒し",
+      "summary": "RivianはR2に搭載するLiDAR活用の自動運転機能について、顧客への提供開始を2027年に延期した。ハードウェアは搭載しつつ機能解放を遅らせる形で、ソフトウェア成熟度がボトルネックになっている構図。",
+      "meta": [
+        "対象 Rivian R2",
+        "顧客提供 2027年へ延期"
+      ],
+      "source": "InsideEVs",
+      "sourceUrl": "https://insideevs.com/news/810319/rivian-r2-lidar-rap1-2027"
+    },
+    {
+      "rank": 16,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": [],
+      "title": "レンジローバー・スポーツ、リアサブフレームの亀裂でリコール",
+      "summary": "レンジローバー・スポーツが、リアサブフレームに亀裂が生じる恐れがあるとしてリコール対象となった。車体骨格部位の不具合で、走行安定性に影響する可能性がある。対象台数などの詳細は要確認。",
+      "meta": [
+        "不具合 リアサブフレームの亀裂",
+        "対象台数 要確認"
+      ],
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/810591/range-rover-sport-recall-subframe-cracks/"
+    },
+    {
+      "rank": 17,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": ["us"],
+      "title": "Reflection、オープンウェイトモデル「Beam」を公開　低計算コストで中国勢に対抗",
+      "summary": "AIスタートアップのReflectionがオープンウェイトモデル「Beam」を公開した。中国系のオープンウェイトモデルに対し、より低い計算コストで対抗することを狙う。米国発のオープンウェイト供給側が厚みを増す動き。",
+      "meta": [
+        "形態 オープンウェイト",
+        "訴求点 低計算コスト"
+      ],
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/"
+    },
+    {
+      "rank": 18,
+      "field": "auto",
+      "sec": "サプライチェーン",
+      "badges": ["us"],
+      "title": "フォード、F-150のサプライヤー起因の供給障害は解消　第3四半期販売には影響",
+      "summary": "フォードのファーリーCEOは、F-150の生産を止めていたサプライヤー起因の問題が解消したと述べた。ただし出荷停止期間の影響は第3四半期の米国販売に残るとしている。あわせて技能職の人材育成不足にも警鐘を鳴らした。",
+      "insight": "単一サプライヤー起因で主力車種のラインが止まる脆弱性は、Tier1依存度の高い構成に共通する論点。",
+      "meta": [
+        "対象 F-150",
+        "影響 第3四半期の米国販売"
+      ],
+      "source": "CBT News",
+      "sourceUrl": "https://www.cbtnews.com/ford-says-f-150-supplier-issues-are-fixed"
+    },
+    {
+      "rank": 19,
+      "field": "econ",
+      "sec": "商品",
+      "badges": [],
+      "title": "金が上昇、原油の下落でインフレ懸念が一部和らぐ",
+      "summary": "7日の商品市場では原油が下落し、インフレ懸念の一部緩和を受けて金が上昇した。前週までの原油高がインフレ見通しを押し上げていた流れが一服した形。(価格は取得時点)",
+      "meta": [
+        "金 上昇",
+        "原油 下落"
+      ],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/commodities/articles/gold-prices-rise-oil-decline-093919246.html"
+    },
+    {
+      "rank": 20,
+      "field": "india",
+      "sec": "IT",
+      "badges": [],
+      "title": "TCS・インフォシスの決算が2026年需要の試金石　市場予想は上向き",
+      "summary": "インドIT大手TCSとインフォシスの四半期決算が、2026年のIT需要の方向性を示す手掛かりとして注目されている。市場予想は前回より上向きだが、AI案件が従来型の人員ベース売上を置き換える構図が続くかが焦点。",
+      "meta": [
+        "注目 TCS・インフォシス四半期決算",
+        "論点 AI案件と人員ベース売上の置換"
+      ],
+      "source": "ThePrint",
+      "sourceUrl": "https://theprint.in/india/tcs-infosys-to-offer-clues-on-2026-demand-as-street-estimates-look-up/2823033/"
+    }
+  ],
+  "weekly": [
+    "RBIが約4年ぶりの25bp利上げでレポ金利5.5%へ　当面の利下げは「選択肢外」",
+    "米10年債利回りが24年ぶり高水準　ダウ500ドル安で株式は最高値から反落",
+    "Waymoがデトロイトで完全自動運転を開始し、50億ドルの資金調達も確保"
+  ]
+}
