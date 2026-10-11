@@ -1,0 +1,251 @@
+{
+  "date": "2026-10-12",
+  "sub": "月",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "M&A・通信",
+      "badges": ["us"],
+      "title": "SpaceX、全米800MHz帯を約80億ドルで取得　通信大手3社株が急落",
+      "summary": "SpaceXが投資会社Grain Managementから全米カバーの低帯域800MHz周波数を約80億ドルで取得することで合意。Starlinkの直接スマホ接続を単独キャリア化する布石とみられ、T-Mobile・Verizon・AT&Tの株価が揃って下落した。同帯域はもともとT-Mobileが約29億ドルでGrainに売却したもの。",
+      "insight": "衛星直接接続が「補完」から「代替」へ動く可能性。車載通信の調達戦略にも中期的な影響。",
+      "meta": ["取得額 約80億ドル", "帯域 800MHz（低帯域・全米）", "売主 Grain Management"],
+      "source": "Axios",
+      "sourceUrl": "https://www.axios.com/2026/10/09/spacex-8-billion-spectrum"
+    },
+    {
+      "rank": 2,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "米主要3指数が前週末高で終了　ダウ51,655で週間+1.15%",
+      "summary": "10月9日の米株はダウが423.37ドル高の51,655.01（+0.83%）、S&P500が7,811.51（+0.59%）、ナスダックが27,366.17（+0.64%）で終了。週間ではダウ+1.15%、S&P500+0.95%、ナスダック+0.19%と上昇し、ラッセル2000のみ-0.91%と下落した。トランプ大統領が中間選挙前のイラン攻撃を否定したことが原油を落ち着かせ、前日のハイテク売りからの反発を支えた。",
+      "meta": ["ダウ 51,655.01（10/9終値）", "週間 ダウ+1.15%／ラッセル2000 -0.91%", "米10年債 5.248%（10/9 13:35 ET時点）"],
+      "source": "TheStreet",
+      "sourceUrl": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-09-2026"
+    },
+    {
+      "rank": 3,
+      "field": "econ",
+      "sec": "商品・地政学",
+      "badges": ["us"],
+      "title": "原油が週間上昇　ハリケーンでメキシコ湾産油の6割超が停止",
+      "summary": "ハリケーン「Isaias」の接近で米メキシコ湾の原油生産の6割超が停止し、中東情勢への警戒と重なって原油は週間で上昇。ブレント原油は10月8日に約4%高で引けた。週末にかけてはトランプ大統領のイラン発言で上げ幅を削った。",
+      "insight": "燃料コスト上昇は物流費と部品輸送費に波及。輸送用樹脂・塗料原料の価格交渉にも影響し得る。",
+      "meta": ["湾岸産油の停止 6割超（報道値に63〜70%超の幅あり・10/9時点）", "ブレント 10/8に約4%高"],
+      "source": "The National",
+      "sourceUrl": "https://www.thenationalnews.com/business/energy/2026/10/09/oil-headed-for-weekly-gain-on-impact-of-middle-east-tension-and-hurricane-isaias/"
+    },
+    {
+      "rank": 4,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": ["us"],
+      "title": "Anthropic、SpaceXへのコンピュート契約が最大845億ドルに拡大",
+      "summary": "Anthropicの提出書類で、SpaceXからのNVIDIAベース計算資源の調達が2029年までに最大845億ドルに達し得ることが開示された。従来SpaceX側が示していた約450億ドル規模のほぼ倍。5月公表の当初契約は月約12.5億ドルの支払い規模だったと報じられている。",
+      "insight": "計算資源の長期コミットがAI企業の損益分岐を左右する局面。GPU調達は実質的な「設備投資」として読む必要。",
+      "meta": ["上限 最大845億ドル（〜2029年）", "月額 約12.5億ドル（当初契約）", "従来開示 約450億ドル"],
+      "source": "TheStreet",
+      "sourceUrl": "https://www.thestreet.com/crypto/markets/anthropic-filing-discloses-up-to-84-5b-spacex-commitment"
+    },
+    {
+      "rank": 5,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": ["us"],
+      "title": "NVIDIA、Reflection AIの買収か追加出資を協議（FT報道）",
+      "summary": "NVIDIAが米オープンウェイト系AIスタートアップReflection AIの買収、または追加出資に向け協議しているとFinancial Timesが報じた。反トラスト審査を避けるため人材獲得型（アクハイヤー）の形を取る可能性も指摘されている。協議は初期段階で、成立は未確定（要確認）。",
+      "meta": ["報道元 Financial Times", "形態 買収または追加出資（初期段階）"],
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/company-news/nvidia-in-talks-to-acquire-reflection-ai-or-increase-investment-ft-reports-4942324"
+    },
+    {
+      "rank": 6,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": ["us"],
+      "title": "Microsoft ナデラCEO、AIに「人間が握る非常ブレーキ」が必要と発言",
+      "summary": "Microsoftのサティヤ・ナデラCEOが、高度化するAIモデルには人間側が制御する「非常ブレーキ（emergency brake）」と透明性が必要だと述べた。モデル自身ではなく人間が停止権を持つべきという立場で、業界の自主ガバナンス議論に影響する見通し。",
+      "insight": "車載AI・ADASの機能安全で求められる「人間による介入可能性」と同じ論点。社内のAI活用ルール整備の参照材料になる。",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html"
+    },
+    {
+      "rank": 7,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "Stellantis、ProMaster 26.5万台をリコール　電動パワステ喪失のおそれ",
+      "summary": "Stellantis傘下FCA USが2022〜2026年型ProMaster 1500/2500/3500および2024〜2026年型ProMaster 3500 EV、計265,512台をNHTSAに届け出た。電動パワステのワイヤーハーネスに水が浸入し、パワーアシストが失われるおそれがある。販売店が点検のうえハーネスと電動パワステギアを無償交換するが、最終対策はまだ用意されていない。",
+      "insight": "EVを含む商用バンでの電動系ハーネス防水は、ワイヤーハーネス設計・防水シール仕様の共通課題。",
+      "meta": ["対象 265,512台", "不具合 EPSハーネスへの水侵入", "最終対策 未確定"],
+      "source": "VehicleServicePros",
+      "sourceUrl": "https://www.vehicleservicepros.com/industry-news/service-repair/article/55410760/national-highway-traffic-safety-administration-nhtsa-nhtsa-recalls-oct-59-ram-ford-volkswagen-id4"
+    },
+    {
+      "rank": 8,
+      "field": "india",
+      "sec": "金融政策",
+      "badges": [],
+      "title": "RBI、国営石油会社向け特別ドル窓口を10月12日開設　デリバティブ規制も強化",
+      "summary": "インド準備銀行（RBI）が、ルピー安に対応して国営石油会社向けの特別なドル供給窓口を10月12日から開設すると発表。あわせて為替デリバティブ取引の規制を厳格化する措置も示した。10月の政策金利引き上げ後もルピーの変動圧力が続いたことへの追加対応。",
+      "insight": "ルピー安は対インド部品調達のコストと現地法人の為替損益に直結。インド拠点を持つサプライヤーの見通しに影響。",
+      "meta": ["開設 2026年10月12日", "対象 国営石油会社", "併行措置 為替デリバティブ規制の厳格化"],
+      "source": "Business Today",
+      "sourceUrl": "https://www.businesstoday.in/latest/economy/story/rbis-rupee-defence-special-dollar-window-for-oil-firms-tighter-forex-derivative-rules-560793-2026-10-10",
+      "followup": {
+        "since": "2026-10-09",
+        "whatsNew": "利上げ後も続くルピー安に対し、RBIが金利以外の直接的な需給対策（ドル供給窓口・デリバティブ規制）へ踏み込んだ。"
+      }
+    },
+    {
+      "rank": 9,
+      "field": "econ",
+      "sec": "テック決算",
+      "badges": ["us"],
+      "title": "OpenAIの年換算売上、従来報道の700億ドルを約200億ドル下回ると報道",
+      "summary": "OpenAIの年換算売上（ランレート）が、投資家向けに伝えられていた約700億ドルの水準より約200億ドル低いとFinancial Timesが報じた。報道を受けてAI関連株が売られ、Oracleなどが下落。AIインフラ投資の回収見通しに対する懐疑が市場に広がった。",
+      "meta": ["下振れ 約200億ドル", "従来の報道値 約700億ドル", "報道元 Financial Times"],
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/"
+    },
+    {
+      "rank": 10,
+      "field": "auto",
+      "sec": "通商",
+      "badges": [],
+      "title": "中国とEU、ハイブリッド車の対EU輸出で歩み寄り　追加関税を回避の見通し",
+      "summary": "中国とEUがハイブリッド車の対EU輸出をめぐり理解に到達したと報じられた。EU側は中国からのハイブリッド輸出が半減する見込みとしており、検討されていたセーフガード関税の発動は回避される方向。協議の最終合意文書は未公表（要確認）。",
+      "insight": "EVに続きHEVでも数量調整が通商カードに。欧州向けHEV戦略を持つ日系OEMの競争環境が変わる。",
+      "meta": ["EU側見込み 中国からのHEV輸出が半減", "措置 セーフガード関税の発動回避方向", "最終合意文書 未公表（要確認）"],
+      "source": "CnEVPost",
+      "sourceUrl": "https://cnevpost.com/2026/10/09/china-eu-make-progress-hybrid-trade"
+    },
+    {
+      "rank": 11,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "Waymo、初のタームローン50億ドルを組成　ロボタクシー拡大の原資に",
+      "summary": "Waymoが Blackstone と PIMCO が主導する50億ドルのタームローンを確定させた。同社として初のタームローンで、ロボタクシー事業の都市拡大と車両調達に充てる。エクイティ中心だった資金調達をデットに広げ、資本集約型の拡大局面に入ったことを示す。",
+      "insight": "AV事業が「研究開発」から「資産ファイナンス」のフェーズへ。車両・保守の規模が収益性の鍵になる。",
+      "meta": ["調達額 50億ドル", "主導 Blackstone・PIMCO", "形態 同社初のタームローン"],
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotaxi-expansion/"
+    },
+    {
+      "rank": 12,
+      "field": "india",
+      "sec": "IT決算",
+      "badges": [],
+      "title": "TCS第2四半期、純利益15%増　AI関連売上が31億ドルで全体の10%超",
+      "summary": "インドIT最大手TCSのFY27第2四半期決算で、純利益が前年同期比15%増。AI関連売上は31億ドルに達し、全社売上の10%超を初めて超えた。1株12ルピーの配当も決議。事前に「大手は低調」と見られていた中で、AI案件が成長の牽引役として確認された。",
+      "meta": ["純利益 前年同期比+15%", "AI関連売上 31億ドル（全体の10%超）", "配当 1株12ルピー"],
+      "source": "Upstox",
+      "sourceUrl": "https://upstox.com/news/market-news/earnings/tcs-q2-fy-27-ai-revenue-hits-3-1-billion-crosses-10-of-total-revenue-check-two-key-deals/article-201538/",
+      "followup": {
+        "since": "2026-10-09",
+        "whatsNew": "「大手は低調」とされた決算プレビューに対し、TCSは純利益15%増とAI売上31億ドルで着地し、AI案件が成長を支える構図が数字で確認された。"
+      }
+    },
+    {
+      "rank": 13,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "VW ID.4 約2.25万台をリコール　高電圧バッテリーの火災リスク",
+      "summary": "Volkswagen Group of Americaが2023〜2026年型ID.4の22,524台をリコール届け出。高電圧バッテリーが故障して火災に至るおそれがあるとしている。対策方法は開発中で、修理までは充電上限を80%に抑えるよう所有者に求めている。",
+      "insight": "「対策未定＋充電制限」という暫定運用は、バッテリー不具合時の顧客対応モデルとして参照価値がある。",
+      "meta": ["対象 22,524台", "不具合 高電圧バッテリー故障による火災のおそれ", "暫定対応 充電は80%まで"],
+      "source": "VehicleServicePros",
+      "sourceUrl": "https://www.vehicleservicepros.com/industry-news/service-repair/article/55410760/national-highway-traffic-safety-administration-nhtsa-nhtsa-recalls-oct-59-ram-ford-volkswagen-id4"
+    },
+    {
+      "rank": 14,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": ["us"],
+      "title": "Microsoft、意思決定特化モデル「Microsoft-Decision-1」を公開",
+      "summary": "Microsoftがルーティング・分類・検証・エージェント制御に特化した小型モデル Microsoft-Decision-1 を公開。選択肢ごとに校正済みの確率を返す設計で、Alibabaの Qwen3.5-9B をベースにポストトレーニングしている。Microsoft Foundry と OpenRouter で提供。",
+      "insight": "巨大モデルに全判断を委ねず、安価な判定モデルで分岐させる構成が実用解に。社内AI化の設計指針として使える。",
+      "meta": ["規模 9Bクラス（Qwen3.5-9Bベース）", "用途 ルーティング・分類・検証", "提供 Microsoft Foundry／OpenRouter"],
+      "source": "TestingCatalog",
+      "sourceUrl": "https://www.testingcatalog.com/microsoft-launches-decision-1-model-in-foundry/"
+    },
+    {
+      "rank": 15,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": [],
+      "title": "Uberと中国Pony.ai、ロンドンでロボタクシー展開を計画",
+      "summary": "Uberと中国の自動運転企業Pony.aiが、ロンドンでのロボタクシー投入を計画していると発表した。Pony.aiにとって欧州主要都市への本格進出となり、中国勢の海外展開が英国市場にも及ぶ。開始時期と規模の詳細は未公表（要確認）。",
+      "meta": ["都市 ロンドン", "提携 Uber × Pony.ai", "開始時期・台数 未公表（要確認）"],
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/"
+    },
+    {
+      "rank": 16,
+      "field": "econ",
+      "sec": "決算",
+      "badges": ["us"],
+      "title": "デルタ航空、燃料高で通期利益見通しを下方修正",
+      "summary": "デルタ航空の第3四半期決算は市場予想を下回り、燃料コストが前年同期比で大幅に上昇したことを理由に2026年通期の利益見通しを引き下げた。原油高がコスト構造を直撃する企業の具体例となり、決算シーズン入口のセンチメントを冷やした。",
+      "meta": ["結果 予想未達", "要因 燃料コスト上昇", "対応 2026年通期の利益見通しを下方修正"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html"
+    },
+    {
+      "rank": 17,
+      "field": "AI",
+      "sec": "業務活用",
+      "badges": ["jp"],
+      "title": "Sakana AI、3エージェント査読システムが中核主張の誤り73%を検出",
+      "summary": "Sakana AIがTMLR論文で発表した「Multi-Layered Review」は、Claudeベースの3エージェント構成で論文の査読を行う仕組み。1,164件の誤りを仕込んだContradiction Benchmarkで中核主張の誤りを73.43%検出し、既存最良手法の14.81%を大きく上回った。",
+      "insight": "単一モデルのレビューより多層チェックが効く、という結果。設計審査・技術文書レビューの自動化設計に転用しやすい。",
+      "meta": ["検出率 73.43%（既存最良 14.81%）", "ベンチマーク 1,164件の誤りを仕込んだContradiction Benchmark", "構成 3エージェント（Claudeベース）"],
+      "source": "MarkTechPost",
+      "sourceUrl": "https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/"
+    },
+    {
+      "rank": 18,
+      "field": "ad",
+      "sec": "物流・実証",
+      "badges": ["jp"],
+      "title": "日通・JR貨物・T2、自動運転トラック×貨物鉄道で青森りんごを輸送",
+      "summary": "日本通運、JR貨物、自動運転トラックのT2、JAつがる弘前が、青森県産りんごを自動運転トラックと貨物鉄道を組み合わせた「モーダルコンビネーション」で輸送する実証を開始。青果物では国内初で、輸送距離は約1,200km。",
+      "insight": "幹線は鉄道、端末は自動運転トラックという役割分担。2024年問題後の長距離輸送モデルとして実装段階に入った。",
+      "meta": ["輸送距離 約1,200km", "参加 日本通運・JR貨物・T2・JAつがる弘前", "位置づけ 青果物では国内初"],
+      "source": "LNEWS",
+      "sourceUrl": "https://www.lnews.jp/2026/10/s1007503.html"
+    },
+    {
+      "rank": 19,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "インド市場、RBI利上げショックとルピー防衛の綱引き",
+      "summary": "インド株は10月初旬の利上げで急落した後に反発し、物価上振れへの警戒とルピー防衛策が綱引きする展開となっている。RBIが金利に加えて為替の直接的な需給対策を打ち出したことで、当面は通貨の安定が株式・債券の方向を決める構図。個別水準は取得時点の確認が必要（要確認）。",
+      "meta": ["論点 インフレ上振れ×ルピー安", "政策 利上げ＋為替需給対策の併用"],
+      "source": "The Week",
+      "sourceUrl": "https://www.theweek.in/news/biz-tech/2026/10/10/rbi-rate-hike-market-volatility-analysis.amp.html"
+    },
+    {
+      "rank": 20,
+      "field": "ad",
+      "sec": "実証・認可",
+      "badges": ["jp"],
+      "title": "損保ジャパン・兼松・韓国A2Z、城崎温泉で自動運転バス実証へ協業",
+      "summary": "兼松が兵庫県豊岡市の自動運転バス実証運行事業の受託事業者に選定され、損害保険ジャパンと韓国A2Zとの協業体制で城崎温泉街での実証を進める。当初はオペレーター乗車のレベル2で運行し、将来のレベル4実装を目標に韓国企業の車両を採用する。",
+      "meta": ["場所 兵庫県豊岡市・城崎温泉", "当初運行 レベル2（オペレーター乗車）", "車両 韓国A2Z製"],
+      "source": "LIGARE",
+      "sourceUrl": "https://ligare.news/story/20261008_kanematsu_toyooka_autobus/"
+    }
+  ],
+  "weekly": [
+    "SpaceXが全米800MHz帯を約80億ドルで取得。衛星直接接続が既存キャリアの前提を崩し始めた",
+    "AnthropicのSpaceXコンピュート契約が最大845億ドルに拡大。AIの計算資源調達が実質的な巨額設備投資の様相",
+    "StellantisがProMaster 26.5万台をリコール。EV含む商用バンの電動パワステ系への水侵入で最終対策は未定"
+  ]
+}
