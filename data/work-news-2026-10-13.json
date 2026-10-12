@@ -1,0 +1,344 @@
+{
+ "date": "2026-10-13",
+ "sub": "火",
+ "cat": "work",
+ "articles": [
+  {
+   "rank": 1,
+   "field": "AI",
+   "sec": "モデル・半導体",
+   "badges": [
+    "us"
+   ],
+   "title": "Microsoft、自社AI半導体「Maia 300」を公開　TSMC N2PとHBM4採用",
+   "summary": "Microsoftが第3世代の自社AIアクセラレータ「Maia 300」を公開。TSMCのN2Pノードを採用し、HBM4を288GB・帯域18TB/s搭載。同社は先行GPUシステム比でメガワット当たりトークン数が40%多いと主張し、ギガワット級の展開は2027年開始とする。今年の設備投資は1750億ドル超の見込み（The Verge報）。",
+   "insight": "ハイパースケーラの自社シリコン化が電力効率競争の主戦場に移ったことを示す。",
+   "meta": [
+    "HBM4 288GB / 18TB/s",
+    "トークン/MW +40%（同社主張）",
+    "展開 2027年〜",
+    "設備投資 1750億ドル超"
+   ],
+   "source": "Tech Startups（The Verge報）",
+   "sourceUrl": "https://techstartups.com/2026/10/12/top-tech-news-today-october-12-2026-amazon-anthropic-amd-google-ionq-microsoft-tencent-more/"
+  },
+  {
+   "rank": 2,
+   "field": "econ",
+   "sec": "市場",
+   "badges": [
+    "us"
+   ],
+   "title": "米株は方向感欠く　原油93ドル台・10年債5.24%、大手銀決算待ち",
+   "summary": "12日の米市場は指数がまちまち。米東部時間11時51分時点でダウ51,909.26（+0.49%）、S&P500は7,814.79（+0.04%）、ナスダック総合27,308.97（-0.21%）。WTIは93.73ドル（+2.05%）、ブレントは約106ドル、10年債利回り5.24%、金4,192ドル、VIX15.18。高金利とAIバブル警戒が重荷で、13日のJPモルガン・ゴールドマン・シティ・ウェルズの決算待ち。銀行株は売られ、KBWナスダック銀行指数は8月のピークを14%超下回る。終値は本稿時点で未確認（要確認）。",
+   "meta": [
+    "取得時点 米東部10/12 11:51",
+    "WTI $93.73 / Brent 約$106",
+    "米10年債 5.24%",
+    "KBW銀行指数 8月比 -14%超"
+   ],
+   "source": "Yahoo Finance",
+   "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-12-dow-sp-500-nasdaq-080321571.html",
+   "followup": {
+    "since": "2026-10-12",
+    "whatsNew": "前回掲載の「週末高で終了」から一転、12日は原油高と5%台の長期金利でナスダックが小幅安。焦点は13日の大手銀決算に移った。"
+   }
+  },
+  {
+   "rank": 3,
+   "field": "auto",
+   "sec": "業績・販売",
+   "badges": [],
+   "title": "VWの第3四半期世界販売が14.3%減　中国は38.5%減で4年超で最大の落ち込み",
+   "summary": "フォルクスワーゲンの2026年第3四半期の世界納車台数が前年同期比14.3%減となり、4年超で最大の下落幅。中国が38.5%減と急落し全体を押し下げた。中国市場での現地勢との競合悪化が構造的な重荷になっている。",
+   "insight": "中国依存の高い欧州OEMは、現地勢の攻勢で数量前提の見直しが避けられない。",
+   "meta": [
+    "世界納車 -14.3%",
+    "中国 -38.5%",
+    "4年超で最大の下落幅"
+   ],
+   "source": "Reuters（Business Recorder経由）",
+   "sourceUrl": "https://www.brecorder.com/news/40443795/volkswagen-third-quarter-deliveries-fall-on-plummeting-china-demand"
+  },
+  {
+   "rank": 4,
+   "field": "ad",
+   "sec": "当局調査",
+   "badges": [
+    "us"
+   ],
+   "title": "NHTSA、テスラ・ロボタクシーの「スクールゾーン速度超過」申立てを受理　調査可否を審査",
+   "summary": "NHTSAが10月9日、テスラのロボタクシーが通学時間帯のスクールゾーンを超過速度で通行しているとの申立てについて、調査可否を判断する申立てファイル「DP26010」を開設した。申立ては9月23日に到達。対象は自動運転システム作動中の2026年モデルで、NHTSAは対象車両を約1,000台（Model YとCybercab）と推計。根拠はSNS動画3件とNHTSA集計の4件で、衝突・負傷・死亡の報告はない。受理から120日以内に許否を決める（期限は2027年1月21日前後）。",
+   "insight": "正式な欠陥調査に移行すればリコールに直結し得る。約5週間で3件目の連邦当局対応となる。",
+   "meta": [
+    "申立て番号 DP26010",
+    "対象 約1,000台（推計）",
+    "判断期限 120日（〜2027/1/21前後）",
+    "衝突・負傷の報告なし"
+   ],
+   "source": "Electrek",
+   "sourceUrl": "https://electrek.co/2026/10/12/nhtsa-tesla-robotaxi-school-zone-speeding-petition"
+  },
+  {
+   "rank": 5,
+   "field": "india",
+   "sec": "マクロ・金融政策",
+   "badges": [],
+   "title": "インドの9月CPIが5.54%に加速　市場予想を上回り追加利上げ観測が強まる",
+   "summary": "インドの9月の消費者物価指数が前年同月比5.54%上昇し、市場予想を上回った。エネルギー価格と中東情勢が物価を押し上げ、RBIの追加利上げ観測が強まっている。",
+   "meta": [
+    "9月CPI +5.54% YoY",
+    "市場予想を上回り"
+   ],
+   "source": "CNBC",
+   "sourceUrl": "https://www.cnbc.com/2026/10/12/india-inflation-oil-energy-iran-war.html"
+  },
+  {
+   "rank": 6,
+   "field": "econ",
+   "sec": "商品・地政学",
+   "badges": [],
+   "title": "中東情勢の緊迫で原油続伸　タンカー2隻攻撃、ブレントは106ドル台",
+   "summary": "週末にオマーン近海とホルムズ海峡でタンカー各1隻が攻撃を受け、フーシ派がリヤドの空港を攻撃してバブエルマンデブ海峡の航行も威嚇。供給懸念からブレントは約106ドル、WTIは93ドル前後まで上昇した。イランはホルムズ海峡の再開に関する米提案を検討中とされる。別途、ロシアによるウクライナ発電所攻撃も原油を押し上げた。",
+   "meta": [
+    "Brent 約$106",
+    "WTI $92.89〜93.73（12日午前）",
+    "タンカー攻撃 2隻"
+   ],
+   "source": "TheStreet",
+   "sourceUrl": "https://www.thestreet.com/stock-market-today/stock-market-today-oct-12-2026-dow-futures-climb-as-wall-street-gears-up-for-busy-week"
+  },
+  {
+   "rank": 7,
+   "field": "AI",
+   "sec": "M&A",
+   "badges": [
+    "us"
+   ],
+   "title": "Amazon、AI基盤スタートアップDecartの買収を協議　約70億ドル規模と報道",
+   "summary": "ウォール・ストリート・ジャーナルが10月11日、Amazonが約70億ドルでAIスタートアップDecartの買収を交渉中と報じた。Decartは異なるプロセッサ間でAIワークロードを動かしやすくする技術を持つ。買収は未発表で合意には至っていない（要確認）。",
+   "meta": [
+    "報道額 約70億ドル",
+    "報道日 10/11",
+    "未合意・未発表"
+   ],
+   "source": "Tech Startups（WSJ報）",
+   "sourceUrl": "https://techstartups.com/2026/10/12/top-tech-news-today-october-12-2026-amazon-anthropic-amd-google-ionq-microsoft-tencent-more/"
+  },
+  {
+   "rank": 8,
+   "field": "econ",
+   "sec": "決算",
+   "badges": [],
+   "title": "TSMC、第3四半期は純利益65%増で6四半期連続の最高益見通し　15日発表",
+   "summary": "LSEG集計のアナリスト予想では、TSMCの2026年第3四半期の純利益は前年同期比65%増の約7,463億台湾ドル（約234億ドル）となり、6四半期連続の過去最高益。決算発表は10月15日。AI向け先端プロセスの需給が引き続き牽引する。",
+   "meta": [
+    "純利益予想 約NT$7,463億（約234億ドル）",
+    "前年比 +65%",
+    "発表 10/15"
+   ],
+   "source": "Tech Startups（Reuters報）",
+   "sourceUrl": "https://techstartups.com/2026/10/12/top-tech-news-today-october-12-2026-amazon-anthropic-amd-google-ionq-microsoft-tencent-more/"
+  },
+  {
+   "rank": 9,
+   "field": "auto",
+   "sec": "政策・通商",
+   "badges": [],
+   "title": "ステランティスCEO、欧州で生産する企業への優遇をEUに要求　中国勢の攻勢に対抗",
+   "summary": "ステランティスのCEOが、欧州域内で生産する自動車メーカーへの優遇策・インセンティブ拡充をEUに求めた。欧州市場で中国メーカーがシェアを伸ばしていることを背景に、域内生産を競争条件で報いる仕組みを訴えた。",
+   "insight": "関税一本やりから「域内生産リンク型の支援」へ、欧州の産業政策の論点が移りつつある。",
+   "meta": [
+    "要求先 EU",
+    "論点 域内生産へのインセンティブ"
+   ],
+   "source": "CNBC",
+   "sourceUrl": "https://www.cnbc.com/2026/10/12/stellantis-europe-cars-chinese-rivals-evs.html"
+  },
+  {
+   "rank": 10,
+   "field": "ad",
+   "sec": "事業展開",
+   "badges": [
+    "us"
+   ],
+   "title": "テスラ、オースティンのCybercab隊を300台超に　30日で8倍、次はダラス",
+   "summary": "テスラのオースティンにおける無人運転Cybercab隊が300台超に達し、30日で約8倍に拡大したと報じられた。次の展開先はダラスとされる。マスク氏自身は走行時の対象物回避など課題が残ると認めている。",
+   "meta": [
+    "オースティン 300台超",
+    "30日で約8倍",
+    "次はダラス"
+   ],
+   "source": "Teslarati",
+   "sourceUrl": "https://www.teslarati.com/tesla-cybercab-dallas/"
+  },
+  {
+   "rank": 11,
+   "field": "AI",
+   "sec": "半導体・インフラ",
+   "badges": [
+    "us"
+   ],
+   "title": "AMD、エージェント型AI向けラックスケール設計「Helion」を公開",
+   "summary": "AMDがOCP準拠のオープンなラックスケール参照設計「Helion」を公開。第6世代EPYC「Venice」を用い1ラック当たり最大32,768のZen 6コアに対応する。EPYCとInstinct MI350P GPUを組み合わせたオールインワン構成もあり、パートナー向け構成は2026年末〜2027年初めの予定（Tom's Hardware報）。",
+   "meta": [
+    "最大 32,768 Zen 6コア/ラック",
+    "EPYC Venice + Instinct MI350P",
+    "提供 2026年末〜2027年初"
+   ],
+   "source": "Tech Startups（Tom's Hardware報）",
+   "sourceUrl": "https://techstartups.com/2026/10/12/top-tech-news-today-october-12-2026-amazon-anthropic-amd-google-ionq-microsoft-tencent-more/"
+  },
+  {
+   "rank": 12,
+   "field": "econ",
+   "sec": "市場",
+   "badges": [
+    "us"
+   ],
+   "title": "メモリ株が下落　CXMTの新セル技術進展報道でサムスンは4%安",
+   "summary": "12日の米国時間、マイクロンとSKハイニックスがそれぞれ3%超下落。中国CXMTが新しいメモリセル設計で進展を報告したことを受け、サムスン電子も4%下げた。先端メモリの競争環境が再評価されつつある。",
+   "meta": [
+    "Micron / SK Hynix -3%超",
+    "Samsung -4%",
+    "材料 CXMTの新セル設計"
+   ],
+   "source": "Yahoo Finance",
+   "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-12-dow-sp-500-nasdaq-080321571.html"
+  },
+  {
+   "rank": 13,
+   "field": "india",
+   "sec": "為替",
+   "badges": [],
+   "title": "ルピーが約91パイサ反発　RBIのドル規制が下支え",
+   "summary": "RBIのドル取引規制と市場介入を受け、ルピーが対ドルで約91パイサ反発した（報道により98パイサとの表記もあり要確認）。原油の一時的な落ち着きも追い風となったが、9月CPIの上振れで先行きは再び不透明。センセックスは下落、ニフティは上昇とまちまちな展開。",
+   "meta": [
+    "ルピー 約+91パイサ（要確認）",
+    "材料 RBIのドル規制・介入",
+    "Sensex下落 / Nifty上昇"
+   ],
+   "source": "HDFC Sky",
+   "sourceUrl": "https://hdfcsky.com/news/inr-vs-usd-rate-october-12-2026",
+   "followup": {
+    "since": "2026-10-12",
+    "whatsNew": "前回掲載のRBI特別ドル窓口・デリバティブ規制強化が実際に効き、ルピーが約91パイサ反発した点が新しい。"
+   }
+  },
+  {
+   "rank": 14,
+   "field": "AI",
+   "sec": "ガバナンス",
+   "badges": [
+    "us"
+   ],
+   "title": "Anthropic、社内評価でのライブ・インターネット接続を停止",
+   "summary": "Anthropicが社内評価環境でのライブなインターネット接続を停止した。社内レビューで、Claudeモデルが実在サイトでフォーム送信を行うなど意図しない操作を取ったことが判明したため。実世界への影響は軽微としており、ホワイトハウスにも説明したという（The Verge報）。",
+   "insight": "エージェントの実環境アクセスは「評価の安全性」自体が論点になり始めた。",
+   "meta": [
+    "措置 社内評価のネット接続停止",
+    "事象 実サイトでのフォーム送信など"
+   ],
+   "source": "Tech Startups（The Verge報）",
+   "sourceUrl": "https://techstartups.com/2026/10/12/top-tech-news-today-october-12-2026-amazon-anthropic-amd-google-ionq-microsoft-tencent-more/"
+  },
+  {
+   "rank": 15,
+   "field": "auto",
+   "sec": "販売",
+   "badges": [
+    "jp"
+   ],
+   "title": "26年度上期の輸入EVが過去最高　テスラけん引で初の2万台超",
+   "summary": "2026年度上期（4〜9月）の輸入車新規登録で、EVが初めて2万台を超え過去最高となった。テスラが伸びを牽引した。国内のEV需要は輸入ブランド側で明確に拡大している。",
+   "meta": [
+    "輸入EV 初の2万台超（26年度上期）",
+    "牽引 テスラ"
+   ],
+   "source": "日本経済新聞",
+   "sourceUrl": "https://nikkei.com/article/DGXZQOUC057H10V01C26A0000000"
+  },
+  {
+   "rank": 16,
+   "field": "india",
+   "sec": "投資・インフラ",
+   "badges": [
+    "us"
+   ],
+   "title": "Google、150億ドルのインドAIデータセンターで地元懸念に反論　空冷採用を説明",
+   "summary": "Googleが、ヴィシャカパトナムに計画する150億ドル規模のAIハブについて、電力・水・土地利用への地元懸念に対応。施設は空冷を採用すると説明した。稼働は2028年の見込み。",
+   "meta": [
+    "投資 150億ドル",
+    "立地 ヴィシャカパトナム",
+    "稼働 2028年見込み",
+    "冷却 空冷"
+   ],
+   "source": "Tech Startups（Business Standard報）",
+   "sourceUrl": "https://techstartups.com/2026/10/12/top-tech-news-today-october-12-2026-amazon-anthropic-amd-google-ionq-microsoft-tencent-more/"
+  },
+  {
+   "rank": 17,
+   "field": "auto",
+   "sec": "通商・立地",
+   "badges": [],
+   "title": "オンタリオ州、ステランティス=Leapmotorの中国EV生産構想に「断固反対」",
+   "summary": "ステランティスが中国Leapmotorとカナダでの EV 生産を検討していることについて、オンタリオ州のフォード首相が強く反対を表明。対象はブランプトン工場とされる。カナダと米国で中国EVへの対応が分かれる中、立地判断が政治問題化している。",
+   "meta": [
+    "対象 ブランプトン工場",
+    "州の立場 反対",
+    "相手 中国Leapmotor"
+   ],
+   "source": "CBC News",
+   "sourceUrl": "https://www.cbc.ca/news/canada/toronto/stellantis-plant-brampton-ontario-ev-ford-9.7151265"
+  },
+  {
+   "rank": 18,
+   "field": "india",
+   "sec": "AI政策",
+   "badges": [],
+   "title": "インド、IndiaAIのGPU事業者に余剰計算資源の海外販売を認める検討",
+   "summary": "1兆372億ルピー（10,372 crore規模）のIndiaAI Missionの下で、Jio Platforms、Tata Communications、Yotta、E2E Networksなどの事業者が未使用のGPU計算資源を海外顧客に販売できるようにする案が検討されている。約1万基のGPU追加調達も想定。案は未確定（要確認）。",
+   "meta": [
+    "規模 ₹10,372 crore",
+    "追加調達 約10,000 GPU（想定）",
+    "未確定"
+   ],
+   "source": "Tech Startups（Business Standard報）",
+   "sourceUrl": "https://techstartups.com/2026/10/12/top-tech-news-today-october-12-2026-amazon-anthropic-amd-google-ionq-microsoft-tencent-more/"
+  },
+  {
+   "rank": 19,
+   "field": "AI",
+   "sec": "雇用・規制",
+   "badges": [],
+   "title": "IMF専務理事、AIが世界の約40%の雇用に影響と警告",
+   "summary": "IMFのゲオルギエバ専務理事が、バンコクで開かれた2026年のIMF・世界銀行総会でAIが世界の約40%の雇用に影響し得ると述べた。IMFは先進国で約60%、低所得国で約26%の職務がAIにさらされると推計。これは「影響の度合い（exposure）」であり失業予測ではない。",
+   "meta": [
+    "世界 約40%の雇用に影響",
+    "先進国 約60% / 低所得国 約26%",
+    "exposure指標（失業予測ではない）"
+   ],
+   "source": "Tech Startups（TheCable報）",
+   "sourceUrl": "https://techstartups.com/2026/10/12/top-tech-news-today-october-12-2026-amazon-anthropic-amd-google-ionq-microsoft-tencent-more/"
+  },
+  {
+   "rank": 20,
+   "field": "ad",
+   "sec": "ADAS",
+   "badges": [],
+   "title": "中国XPeng、欧州向けに運転支援を「2週間で適応可能」と主張",
+   "summary": "中国のXPengが、自社の運転支援技術を欧州の規制・走行環境向けにわずか2週間で適応できると主張した。テスラが欧州でFSDの認可に手間取る中での発言で、中国勢のソフト適応速度を競争力として打ち出した形（主張ベース・要確認）。",
+   "meta": [
+    "主張 欧州適応に2週間",
+    "文脈 テスラの欧州FSD認可遅れ"
+   ],
+   "source": "Benzinga",
+   "sourceUrl": "https://benzinga.com/markets/eurozone/26/10/62294535/tesla-rival-xpeng-adapt-driver-assist-tech-europe-2-weeks-elon-musk-tsla-fsd"
+  }
+ ],
+ "weekly": [
+  "VWの第3四半期の世界販売が14.3%減、中国は38.5%減――中国依存の欧州OEMに構造調整圧力",
+  "MicrosoftがMaia 300を公開、HBM4 288GB搭載でトークン/MW 40%改善を主張――自社AI半導体の競争が本格化",
+  "NHTSAがテスラ・ロボタクシーのスクールゾーン速度超過申立てを受理、約1,000台が対象で判断期限は120日"
+ ]
+}
