@@ -1,0 +1,252 @@
+{
+  "date": "2026-10-14",
+  "sub": "水",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": ["us"],
+      "title": "Meta、初のフロンティアモデル「Muse Wonder」公開　エージェント用途に照準",
+      "summary": "Meta Superintelligence Labsが10月12日、独自モデル「Muse Wonder」と上位版「Muse Wonder Full」を発表。テキスト・画像・音声・動画を入力に取り、約100万トークンの文脈長で複数ステップのエージェント作業を狙う。Artificial Analysis Intelligence IndexでFullは56、WonderはAPI提供版として52。重みは非公開で、Full版は従量課金APIが未提供。",
+      "insight": "上位版をサブスク限定にする囲い込みは、業務組み込み時の移植性と調達条件に直接影響する。",
+      "meta": ["API 入力$4/出力$20 per Mtok", "文脈 約100万tok", "Full版はAPI従量課金なし"],
+      "source": "VentureBeat",
+      "sourceUrl": "https://venturebeat.com/technology/metas-new-muse-wonder-and-muse-wonder-full-models-achieve-frontier-performance-but-only-the-weaker-one-is-available-via-api"
+    },
+    {
+      "rank": 2,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "日経平均が4日続落、1253円安の6万7777円　半導体株安と中東不安が重荷",
+      "summary": "10月13日の東京市場で日経平均は前日比1253.40円安の6万7777.52円と4日続落。一時2000円近く下げた。米ハイテク・半導体株安と中東情勢を受けたリスク回避が主因で、キオクシアは13%安。一方で商社・資源株は逆行高となり、TOPIXは上昇した。",
+      "meta": ["終値 67,777.52円（-1,253.40円）", "キオクシア -13%", "TOPIXは上昇"],
+      "source": "日本経済新聞",
+      "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL134F60T11C26A0000000/"
+    },
+    {
+      "rank": 3,
+      "field": "econ",
+      "sec": "決算",
+      "badges": ["us"],
+      "title": "米大手銀が第3四半期決算　ゴールドマンは大幅増益、JPモルガンは市場予想未達",
+      "summary": "10月13日、米大手銀が7-9月期決算を発表。JPモルガンは純利益が6%増の153億ドル（1株5.57ドル）ながら市場予想5.90ドルに未達、収入は8%増の502億ドル。ゴールドマンは1株17.01ドルで予想13.02ドルを大きく上回り、株式部門収入が72%増の64.4億ドル。シティは1株2.85ドル（予想2.65ドル）、収入238億ドルで予想超過。トレーディング好調と貸出の底堅さが共通項となった。",
+      "insight": "市場部門の収益が全体を押し上げる構図で、実体経済の強さを示す材料とは読み替えにくい。",
+      "meta": ["JPM EPS $5.57（予想$5.90）", "GS EPS $17.01（予想$13.02）", "Citi EPS $2.85（予想$2.65）"],
+      "source": "TheStreet",
+      "sourceUrl": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-13-2026"
+    },
+    {
+      "rank": 4,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": ["us"],
+      "title": "Character.AIが連邦破産法11条を申請　資産の一部をディズニーに2000万ドルで売却",
+      "summary": "AIコンパニオン・サービスのCharacter.AIが10月13日、連邦破産法11条の適用を申請した。運営コストの増大と、未成年利用者の自殺に関連するとして提起された訴訟を含む法的負担を理由に挙げている。資産の一部についてディズニーが2000万ドルで取得を提案しており、サービス停止の可能性も報じられている。",
+      "insight": "消費者向けAIで安全性に起因する法的リスクが事業継続性を直接左右した初期事例。",
+      "meta": ["Chapter 11 申請", "ディズニーが2000万ドルで資産取得を提案"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html"
+    },
+    {
+      "rank": 5,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us", "jp"],
+      "title": "世界的な半導体株売りが深化　AI投資懸念と中国勢の追い上げが重なる",
+      "summary": "10月13日、半導体株の下落が世界的に拡大。中国CXMTの新型メモリセル設計の進展報道をきっかけとした競争懸念に、AI投資の持続性への疑念が重なり、マイクロン・SKハイニックス・サムスンが下げた。アジアではキオクシアが一日で16%下落する場面もあり、韓国はレバレッジ型ETFの規制を強化した。",
+      "meta": ["キオクシア 一時 -16%", "Micron・SK hynix・Samsungが下落"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/technology/articles/global-chip-selloff-deepens-ai-worries-085657296.html",
+      "followup": {
+        "since": "2026-10-13",
+        "whatsNew": "前回はCXMT報道でサムスンが4%安という単発の動きだったが、下げがアジア全体に広がりキオクシアの急落と韓国の規制対応にまで波及した。"
+      }
+    },
+    {
+      "rank": 6,
+      "field": "india",
+      "sec": "決算",
+      "badges": [],
+      "title": "HCLTechの第2四半期、売上11.5%増・純利益21.2%増　AI関連売上は78%増",
+      "summary": "インドIT大手HCLTechがFY27第2四半期決算を発表。売上は前年同期比11.5%増の3万5620クロー・ルピー（約3562億ルピー）、純利益は21.2%増の5132クロー・ルピー（約513億ルピー）。AI関連売上が78%増と伸び、利益率も改善した。インドIT株全体の押し上げ要因となった。",
+      "insight": "インドITのAI案件は実売上として立ち上がり始めており、オフショア活用の前提が変わりつつある。",
+      "meta": ["売上 ₹35,620クロー（+11.5%）", "純利益 ₹5,132クロー（+21.2%）", "AI売上 +78%"],
+      "source": "Kotak Securities",
+      "sourceUrl": "https://www.kotakneo.com/news/stocks/hcltech-q2-fy27-results-revenue-profit-and-deal-wins/"
+    },
+    {
+      "rank": 7,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": ["us"],
+      "title": "NVIDIAの中国AIチップシェアが34%に低下　ファーウェイが28%まで接近",
+      "summary": "IDCのデータに基づく報道によると、中国のAIデータセンター向けチップ市場でNVIDIAのシェアが34%まで低下し、ファーウェイが28%に達した。ファーウェイの出荷量はほぼ倍増したとされる。輸出規制下でNVIDIAの中国事業が縮小する一方、国産代替が量産フェーズに入った構図。",
+      "meta": ["NVIDIA 34%", "Huawei 28%（出荷ほぼ倍増）", "出典 IDC"],
+      "source": "Reuters（Investing.com経由）",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/nvidias-china-aichip-share-falls-as-huawei-closes-gap-report-finds-4945333"
+    },
+    {
+      "rank": 8,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "インド株が急反発　センセックス1109ポイント高、ニフティは2万2700台を回復",
+      "summary": "10月13日のインド市場でセンセックスが1109ポイント上昇、ニフティは2万2700台を回復した。HCLTechの好決算を受けたIT株の急伸が主導し、金属・PSU銀行・自動車も上昇。原油の落ち着きとRBIのルピー防衛策が全体のセンチメントを支えた。",
+      "meta": ["センセックス +1,109pt", "ニフティ 22,700超", "IT・金属・PSU銀行が主導"],
+      "source": "HDFC Sky",
+      "sourceUrl": "https://hdfcsky.com/news/market-close-report-today-october-13-2026-nifty-sensex-stage-sharp-recovery-as-it-stocks-rally"
+    },
+    {
+      "rank": 9,
+      "field": "auto",
+      "sec": "新車・EV",
+      "badges": [],
+      "title": "XPengが欧州生産を拡大へ　G9L投入で海外販売が初の月1万台超",
+      "summary": "中国XPengが10月12日に欧州でSUV「G9L」を投入し、海外販売が月間で初めて1万台を超えた。同社幹部は、欧州の現地調達比率規制の導入を見据えて欧州生産を拡大する方針を示した。現在はマグナのオーストリア・グラーツ工場で生産しており、能力が手狭になったと報じられている。",
+      "insight": "中国勢の欧州現地化は関税回避から現地調達要件への備えに段階が移り、欧州Tier1の受注構造にも影響する。",
+      "meta": ["海外販売 初の月1万台超", "生産拠点 マグナ・グラーツ工場", "2本目の欧州生産ラインを検討"],
+      "source": "CnEVPost",
+      "sourceUrl": "https://cnevpost.com/2026/10/12/xpeng-launches-g9l-europe/"
+    },
+    {
+      "rank": 10,
+      "field": "auto",
+      "sec": "新車・EV",
+      "badges": ["us"],
+      "title": "テスラの中国事業が輸出偏重に　9月は現地販売が減少、上海からの輸出が急増",
+      "summary": "テスラの中国事業で、9月は現地販売が減少する一方、上海工場からの輸出が大幅に増加した。上海工場の卸売台数は前年同月比5%増の9万5366台で2026年の最高水準。中国が新エネルギー車の輸出税還付率を13%から9%へ引き下げる方針を示したことが、駆け込み的な輸出を促したとみられる（現地販売の減少率は出典により9〜16%と差があり、要確認）。",
+      "meta": ["上海工場卸売 95,366台（+5%）", "NEV輸出税還付 13%→9%", "現地販売の減少率は要確認"],
+      "source": "CnEVPost / Electrek",
+      "sourceUrl": "https://cnevpost.com/2026/10/09/tesla-china-sept-2026-wholesale/"
+    },
+    {
+      "rank": 11,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "原油が反落　WTIは91.78ドル、ブレントは104.40ドル（13日取引時間中）",
+      "summary": "10月13日の取引時間中、WTIは2.09%安の1バレル91.78ドル、ブレントは同率安の104.40ドルまで下落した。米政権がロシア産ディーゼルの供給制限を一時的に緩和したことが売り材料。ただし中東では対イラン行動の可能性やサウジアラビアへの攻撃が続いており、高値圏は維持している。",
+      "meta": ["WTI $91.78（-2.09%）", "Brent $104.40（-2.09%）", "13日取引時間中の値・終値未確定"],
+      "source": "TheStreet",
+      "sourceUrl": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-13-2026",
+      "followup": {
+        "since": "2026-10-13",
+        "whatsNew": "前回はタンカー攻撃でブレントが106ドル台まで続伸したが、ロシア産ディーゼルの規制緩和を受けて104ドル台へ反落した。"
+      }
+    },
+    {
+      "rank": 12,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": ["us"],
+      "title": "Apple、299ドルのスマートディスプレイ「HomeView」発表　Siri AIの受け皿に",
+      "summary": "Appleが10月13日の「Welcome home」イベントで、スマートホームハブ「HomeView」を発表した。価格は299ドルで同日予約開始。刷新されたSiriのAI機能を前面に出した製品で、同時にApple TV 4KとHomePod mini 2も公開された。",
+      "meta": ["価格 $299", "同時発表 Apple TV 4K・HomePod mini 2"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html"
+    },
+    {
+      "rank": 13,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "WaymoがナッシュビルでLyftアプリ経由の運行開始　Lyftが整備デポを開設",
+      "summary": "10月12日、ナッシュビルでWaymoのロボタクシーがLyftアプリ上で稼働を開始した。Lyft傘下Flexdriveが約8万平方フィートの整備デポ（旧郵便施設を転用）を開設し、車両管理と整備を担う。元Lyftドライバーが整備要員として配置されている点も報じられた。",
+      "insight": "配車プラットフォームが自前の車両オペレーション網を抱える分業モデルが、ロボタクシー拡大の実務的な前提になりつつある。",
+      "meta": ["デポ 約8万平方フィート", "運営 Flexdrive by Lyft", "10月12日 運行開始"],
+      "source": "Hoodline",
+      "sourceUrl": "https://hoodline.com/2026/10/nashville-opens-80-000-square-foot-waymo-depot-as-robotaxis-expand-on-lyft/"
+    },
+    {
+      "rank": 14,
+      "field": "india",
+      "sec": "為替・金融政策",
+      "badges": [],
+      "title": "ルピーが約1カ月ぶり高値　RBIのドル需要抑制策が効果",
+      "summary": "RBIがドル需要を抑える規制強化と特別な石油向けドル供給枠を導入したことを受け、ルピーは10月13日に約1カ月ぶりの高値を付けた。12日には約6カ月で最大の上昇率を記録しており、為替ヘッジコストの引き上げと市場介入が組み合わさった防衛策が続いている。",
+      "meta": ["約1カ月ぶり高値", "石油向け特別ドル供給枠", "一部FXヘッジのコスト引き上げ"],
+      "source": "Tradingpedia",
+      "sourceUrl": "https://www.tradingpedia.com/2026/10/13/rupee-hits-1-month-peak-as-rbi-tightens-dollar-grip/",
+      "followup": {
+        "since": "2026-10-13",
+        "whatsNew": "前回は約91パイサの反発にとどまっていたが、上昇が続いて約1カ月ぶりの高値まで戻した。"
+      }
+    },
+    {
+      "rank": 15,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": ["us"],
+      "title": "Anthropic、第3四半期の財務情報を投資家に開示へ　IPO準備の一環と報道",
+      "summary": "Anthropicが第3四半期の財務情報を投資家に共有すると報じられた。株式公開の可能性に向けた準備の一環とされる。AI大手の収益・損益の実数がテック相場の判断材料として扱われるようになってきた流れを受けた動き（上場時期・評価額は未確定で要確認）。",
+      "meta": ["Q3財務を投資家に開示", "IPO時期・評価額は要確認"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html"
+    },
+    {
+      "rank": 16,
+      "field": "ad",
+      "sec": "ADAS規制",
+      "badges": ["us"],
+      "title": "テスラ、欧州で「FSD」を「Tesla Assisted Driving」に改称　EU認可取得を見据え",
+      "summary": "テスラが欧州市場で「Full Self-Driving」の名称を「Tesla Assisted Driving」に変更した。運転支援機能の名称が実際の能力を超えているとの規制当局の懸念に対応し、EUでの認可取得を進める狙いとみられる。オランダでの承認を起点に、各国への展開段階にある。",
+      "insight": "機能名称そのものが型式認可の論点になった事例で、日本のハンズオフ表記にも波及しうる。",
+      "meta": ["旧称 Full Self-Driving", "新称 Tesla Assisted Driving", "10月9日報道"],
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/"
+    },
+    {
+      "rank": 17,
+      "field": "auto",
+      "sec": "新車・EV",
+      "badges": [],
+      "title": "シトロエン「2CV」が復活　265万円で2028年までに市販化（パリモーターショー2026）",
+      "summary": "パリモーターショー2026でシトロエンが「2CV」の復活モデルを公開した。価格は265万円で、2028年までの市販化を予定する。同ショーではルノーの「8 ゴルディーニ コンセプト」も世界初公開され、欧州勢が往年のモデルを現代解釈した低価格EVで攻める構図が目立っている。",
+      "meta": ["価格 265万円", "市販化 2028年までを予定", "パリモーターショー2026"],
+      "source": "レスポンス",
+      "sourceUrl": "https://response.jp/article/2026/10/13/417732.html"
+    },
+    {
+      "rank": 18,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["jp"],
+      "title": "いすゞ・日野のEVバスがリコール　インバーター内部の短絡で火災のおそれ",
+      "summary": "いすゞ「エルガEV」および日野のEVバスについてリコールが届け出られた。インバーター内部で短絡が生じ、火災に至るおそれがあるとされる。商用EVの高電圧部品に起因する事案で、電動バスの導入が進む事業者側の運用にも影響する。",
+      "meta": ["対象 いすゞ エルガEV・日野のEVバス", "不具合 インバーター内部の短絡", "リスク 火災"],
+      "source": "MONOist（Yahoo!ニュース）",
+      "sourceUrl": "https://news.yahoo.co.jp/articles/c443b258e61501d4af8a51fb094cae67543d33b6"
+    },
+    {
+      "rank": 19,
+      "field": "auto",
+      "sec": "販売",
+      "badges": ["jp"],
+      "title": "三菱「デリカD:5」、2026年度上半期販売が過去最高の1万6798台（前年比24%増）",
+      "summary": "三菱自動車のミニバン「デリカD:5」の2026年度上半期販売が前年同期比24%増の1万6798台となり、過去最高を更新した。モデル末期に入っても需要が落ちない特異な商品で、国内ミニバン市場での根強い支持を示している。",
+      "meta": ["1万6798台（+24%）", "2026年度上半期", "過去最高を更新"],
+      "source": "レスポンス",
+      "sourceUrl": "https://response.jp/article/2026/10/13/417723.html"
+    },
+    {
+      "rank": 20,
+      "field": "AI",
+      "sec": "業務活用",
+      "badges": ["us"],
+      "title": "AtlassianとOpenAIが提携拡大　GPT-6をRovo・Jira・Confluenceに組み込み",
+      "summary": "AtlassianとOpenAIが提携を拡大し、OpenAIのフロンティアモデルを同社のAIアシスタント「Rovo」やJira・Confluenceに組み込む。Teamwork Graphに蓄積された社内知識をエージェントの行動につなげる構成で、Codexとの連携も含まれる。社内のタスク管理・ドキュメント基盤がそのままAIエージェントの実行環境になる方向性を示す。",
+      "insight": "既存のITSM／ドキュメント基盤がエージェントの実行面になると、AI導入の論点はモデル選定より権限設計に移る。",
+      "meta": ["対象 Rovo・Jira・Confluence", "Teamwork Graphを知識源に", "Codex連携を含む"],
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/atlassian-partnership/"
+    }
+  ],
+  "weekly": [
+    "Metaが初のフロンティアモデル「Muse Wonder」を公開。エージェント用途に照準を定め、上位版はサブスク限定で囲い込む",
+    "日経平均が4日続落し1253円安の6万7777円。半導体株安と中東リスクでリスク回避が強まり、キオクシアは13%安",
+    "中国EVの欧州現地化が加速。XPengがG9L投入で海外販売初の月1万台超、現地調達規制を見据え欧州生産を拡大へ"
+  ]
+}
