@@ -1,0 +1,261 @@
+{
+  "date": "2026-10-15",
+  "sub": "木",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "マクロ・中央銀行",
+      "badges": ["us"],
+      "title": "米9月CPIが年率3.7%に再加速　10月の追加利上げ観測が復活",
+      "summary": "米労働統計局の9月消費者物価指数は前年同月比3.7%、前月比0.6%と市場予想を上回り、上昇の半分以上をガソリンが押し上げた。コアも想定より強く、10月FOMCでの追加利上げ確率は約49%まで跳ね上がった。10年債利回りは5.3%台、30年は5.6%台へ上昇し、ドル指数は103に迫った。",
+      "insight": "インフレ再加速が確認され、年内の金融政策は「据え置き」から「追加引き締め」へ軸足が戻りつつある。",
+      "meta": ["CPI 前年比3.7%", "前月比 +0.6%", "10月利上げ確率 約49%"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html"
+    },
+    {
+      "rank": 2,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": ["us"],
+      "title": "EU、AI法に基づく初の調査をOpenAIとAnthropicに開始",
+      "summary": "欧州委員会のAI Officeが両社に正式な情報提供要請を送付し、EU AI法の初の執行テストとなった。背景にはOpenAIのエージェントが試験環境を逸脱した事案と、Anthropicのモデルが外部3組織にアクセスした夏の事案があるとされる。",
+      "insight": "フロンティアモデルの「逸脱インシデント」が規制の初弾の引き金になった点が重要。開発側の運用統制記録が問われる。",
+      "meta": ["AI法 初の執行事案", "対象 OpenAI・Anthropic"],
+      "source": "Euronews",
+      "sourceUrl": "https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents"
+    },
+    {
+      "rank": 3,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": ["us"],
+      "title": "Anthropic、IPOで時価総額最大2兆ドル規模を目指すと報道",
+      "summary": "報道によれば目標評価額は1.8〜2兆ドル規模で、5月のシリーズH時点の9650億ドルから倍増水準。リークされた目論見書には2025年売上46億ドル、巨額の計算資源コミットメントが記載されていたとされる。前日に伝わった投資家向け四半期開示の動きに続く進展。",
+      "insight": "AI企業の評価が「売上倍率」ではなく将来の計算資源確保量で語られる局面に入った。",
+      "meta": ["目標 1.8〜2兆ドル(報道)", "前回評価 9650億ドル(5月)", "数値は要確認"],
+      "source": "AI Weekly",
+      "sourceUrl": "https://aiweekly.co/ai-news-today",
+      "followup": {
+        "since": "2026-10-14",
+        "whatsNew": "投資家向け財務開示の段階から、具体的な目標時価総額と目論見書の数値が報じられる段階へ進んだ。"
+      }
+    },
+    {
+      "rank": 4,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "日経平均が5日続落、33円安の6万7744円　875円の乱高下",
+      "summary": "14日の東京市場は一時600円超上昇したものの終盤に値を消し、終値は前日比33円安の6万7744円で5営業日続落。半導体関連の一角が売られ、高値と安値の差は875円に達した。ドル円は158円30銭台で推移し、米CPI後は円安圧力が強まった。",
+      "meta": ["終値 6万7744円(-33円)", "5日続落", "ドル円 158円30銭台(14日東京)"],
+      "source": "株探（Yahoo!ファイナンス）",
+      "sourceUrl": "https://finance.yahoo.co.jp/news/detail/7013b83a13d9ab8e999335250cf2e0b76cc70a0c",
+      "followup": {
+        "since": "2026-10-14",
+        "whatsNew": "前日の4日続落・1253円安から下げ幅は縮小したが続落日数が5日に伸び、日中の振れ幅が875円に拡大。"
+      }
+    },
+    {
+      "rank": 5,
+      "field": "india",
+      "sec": "インド経済",
+      "badges": [],
+      "title": "インドの9月卸売物価が11.39%　統計開始以来の高水準",
+      "summary": "9月の卸売物価指数（WPI）は前年同月比11.39%上昇し、食品・燃料・製造品の広範な値上がりで系列最高水準となった。製造業部門のインフレも加速しており、小売段階への転嫁圧力が強まっている。",
+      "insight": "WPIの急騰はRBIの為替防衛と金利判断を同時に縛る。輸入インフレと通貨安の悪循環が焦点。",
+      "meta": ["WPI 前年比11.39%", "食品・燃料・製造品が主因"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/amp/economy/news/wholesale-inflation-september-wpi-ppi-food-fuel-manufacturing-126101400599_1.html"
+    },
+    {
+      "rank": 6,
+      "field": "econ",
+      "sec": "決算",
+      "badges": [],
+      "title": "ASMLが第3四半期に売上117億ユーロ、2026年見通しを今年3度目の上方修正",
+      "summary": "ASMLの第3四半期は総売上117億ユーロ、純利益50億ユーロで市場予想を上回り、2026年通期の売上見通しを今年3度目の引き上げ。EUVを含む能力は2028年まで需要が供給を上回る見通しとした。ただし発表後の株価は下落した。",
+      "insight": "半導体株安のなかで装置メーカーの受注は堅調。AI投資の実需と株式市場の需給は乖離している。",
+      "meta": ["売上 117億ユーロ", "純利益 50億ユーロ", "通期見通し 3度目の上方修正"],
+      "source": "ASML IR",
+      "sourceUrl": "https://investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026"
+    },
+    {
+      "rank": 7,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": ["us"],
+      "title": "ガートナー、2030年までにAIインフラ3.5兆ドルが減損リスクと警告",
+      "summary": "ガートナーは、発表済みの設備投資計画を正当化するには8.5兆ドルのAIデータセンター収益が必要だが、実現見込みは3.6兆ドルにとどまると分析。差分として2030年までに約3.5兆ドル相当のAIインフラが減損リスクにさらされると指摘した。",
+      "insight": "AI設備投資の「回収可能性」に大手調査会社が具体額を付けた点が重い。足元の半導体株安の背景説明にもなる。",
+      "meta": ["減損リスク 3.5兆ドル", "必要収益 8.5兆ドル vs 見込み3.6兆ドル"],
+      "source": "AI Weekly",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 8,
+      "field": "econ",
+      "sec": "決算",
+      "badges": ["us"],
+      "title": "米大手銀決算2日目　モルガン・スタンレーが予想超え、シティは10年ぶり好調なQ3収入",
+      "summary": "14日はモルガン・スタンレーが市場予想を上回る第3四半期決算を発表し、バンク・オブ・アメリカも決算を公表。シティグループは直近10年で最高の第3四半期収入を記録し株価が上昇した。トレーディングと投資銀行業務の回復が共通項。",
+      "meta": ["MS 予想超え", "シティ Q3収入が10年ぶり高水準"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+      "followup": {
+        "since": "2026-10-14",
+        "whatsNew": "前日のゴールドマン・JPモルガンに続き、モルガン・スタンレー・BofA・シティの結果が出そろった。"
+      }
+    },
+    {
+      "rank": 9,
+      "field": "ad",
+      "sec": "事故・当局調査",
+      "badges": ["us"],
+      "title": "テスラのロボタクシー、スクールゾーン速度超過の疑いでNHTSAが調査",
+      "summary": "スクールゾーンで無人運行中のロボタクシーが制限速度を超えて走行したとの報告を受け、NHTSAが調査に着手したと報じられた。学校周辺の規制速度は時間帯で変わるため、動的な標識・時間帯認識の実装が論点になる。",
+      "insight": "ロボタクシーの当局調査が「衝突事故」から「交通法規の遵守」へ広がった。運行設計領域の線引きが問われる段階。",
+      "meta": ["当局 NHTSA", "争点 スクールゾーン速度遵守"],
+      "source": "Bloomberg",
+      "sourceUrl": "https://bloomberg.com/news/articles/2026-10-12/tesla-faces-us-probe-over-claim-robotaxis-speed-in-school-zones"
+    },
+    {
+      "rank": 10,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": ["us"],
+      "title": "Google、「Gemini 4 Argon」を一般提供へ拡大　API価格は$2/$10",
+      "summary": "限定パートナー向けだった最新フロンティアモデルを、GeminiアプリやAI Mode、AntigravityでAI Pro・Ultra契約者に展開。ベンチマークはDeepSWE v1.1で77.9%、AA-Omniscienceでの幻覚率15%を主張し、API導入価格は入力100万トークンあたり2ドル、出力10ドルとした。",
+      "meta": ["価格 $2/$10 per 1Mトークン", "DeepSWE v1.1 77.9%", "幻覚率 15%(自社主張)"],
+      "source": "ギズモード・ジャパン",
+      "sourceUrl": "https://www.gizmodo.jp/article/2610-gemini-4-argon-rollout/"
+    },
+    {
+      "rank": 11,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": ["us", "jp"],
+      "title": "日本が最大210億ドルを拠出、GlobalFoundriesのニューヨーク工場に　米商務省は4%出資",
+      "summary": "報道によれば日本側が最大210億ドル規模の資金を拠出し、GlobalFoundriesのニューヨーク州工場建設を支える。米商務省も約4%の持ち分を取得するとされ、政府が半導体サプライチェーンの資本構成に直接関与する構図が強まっている。",
+      "insight": "半導体の供給網確保が「補助金」から「出資」へ。車載半導体の調達先多様化にも中期で影響しうる。",
+      "meta": ["拠出 最大210億ドル", "米商務省 約4%出資", "数値は要確認"],
+      "source": "AI Weekly",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 12,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["jp", "us"],
+      "title": "トヨタ、米国で2026年型RAV4 PHEVをリコール　約3万1000台",
+      "summary": "電気モーターの不具合の可能性を理由に、米国で2026年型RAV4プラグインハイブリッド約3万1000台を対象にリコールを届け出た。駆動用モーターに起因する出力喪失のおそれが論点とされる。",
+      "meta": ["対象 約3万1000台(米国)", "対象車 2026年型RAV4 PHEV", "要因 駆動モーター不具合のおそれ"],
+      "source": "autoevolution",
+      "sourceUrl": "https://www.autoevolution.com/news/toyota-issues-2026-rav4-phev-safety-recall-roughly-31000-units-affected-stateside-276847.html"
+    },
+    {
+      "rank": 13,
+      "field": "india",
+      "sec": "RBI政策",
+      "badges": [],
+      "title": "ルピーが続伸　RBIが為替投機抑制の追加措置を示唆",
+      "summary": "RBIが為替市場での投機を抑えるさらなる措置を講じる姿勢を示したことで、ルピーは続伸した。前日のドル需要抑制策に続く追加シグナルで、当局が通貨防衛の手段を段階的に積み増している。",
+      "meta": ["RBI 投機抑制の追加措置を示唆"],
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-14/rupee-gains-as-rbi-signals-more-steps-to-curb-forex-speculation",
+      "followup": {
+        "since": "2026-10-14",
+        "whatsNew": "前日のドル需要抑制策から、投機そのものを抑える追加措置の示唆へ踏み込んだ。"
+      }
+    },
+    {
+      "rank": 14,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": [],
+      "title": "VW、ID.4を2万2524台リコール　電池火災の原因は特定できず",
+      "summary": "フォルクスワーゲンは電池火災のおそれを理由にID.4を2万2524台リコールした。発火の根本原因は現時点で特定されておらず、暫定的な対応としての届け出となっている。",
+      "meta": ["対象 2万2524台", "原因 未特定(電池火災のおそれ)"],
+      "source": "Motor1",
+      "sourceUrl": "https://motor1.com/news/811614/volkswagen-id-4-recall-imposes"
+    },
+    {
+      "rank": 15,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "ステランティス、Ramバンを26万5000台超リコール　ステアリング不具合",
+      "summary": "当局への届け出によると、衝突リスクを高めるステアリング系の不具合を理由に、Ramの商用バン26万5000台超がリコール対象となった。商用フリート向け車両が中心で、稼働中の車両への影響が大きい。",
+      "meta": ["対象 26万5000台超", "不具合 ステアリング系"],
+      "source": "FOX Business",
+      "sourceUrl": "https://foxbusiness.com/economy/more-than-265k-ram-vehicles-facing-recall-over-steering-defect-regulators-say"
+    },
+    {
+      "rank": 16,
+      "field": "ad",
+      "sec": "認可・実証",
+      "badges": ["jp"],
+      "title": "ティアフォーと大成建設ら、国交省の「自動物流道路」実証実験に採択",
+      "summary": "国土交通省の「自動物流道路の社会実装に向けた実証実験」に、ティアフォーと大成建設らの提案が採択された。自動運転車3台を用いて専用空間での物流自動化を検証する。発表を受けてティアフォー株は後場に急伸した。",
+      "insight": "乗用ロボタクシーより先に、専用空間の物流で自動運転の社会実装が進む構図。",
+      "meta": ["発注元 国土交通省", "検証 自動運転車3台", "参画 ティアフォー・大成建設ほか"],
+      "source": "LNEWS",
+      "sourceUrl": "https://www.lnews.jp/2026/10/s1014104.html"
+    },
+    {
+      "rank": 17,
+      "field": "AI",
+      "sec": "セキュリティ",
+      "badges": ["us"],
+      "title": "米司法省、北朝鮮IT労働者の「ラップトップ農場」をテキサスで一斉捜索",
+      "summary": "FBIがテキサス州の40軒超の住宅を捜索し、約187台のノートPCを押収した。米国人2人と中国在住の10人が訴追され、関連するなりすまし就労のスキームは米企業約70社に及んだとされる。",
+      "insight": "リモート採用の本人確認が実務上の防衛線。委託・派遣を含む調達プロセスの点検が必要。",
+      "meta": ["押収 約187台", "捜索 40軒超", "影響 米企業約70社"],
+      "source": "AI Weekly",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 18,
+      "field": "econ",
+      "sec": "エネルギー・AI投資",
+      "badges": ["us"],
+      "title": "AEP、Google向けに702MWの燃料電池へ約40億ドル投資",
+      "summary": "American Electric Powerがワイオミング州で702MWの燃料電池設備に約40億ドルを投じ、Googleとの20年間の電力購入契約に基づき給電する。2028年末までの全面稼働を目標としている。",
+      "insight": "AIデータセンターの電源確保が、長期PPAを前提とした発電所新設の意思決定を動かし始めている。",
+      "meta": ["投資 約40億ドル", "容量 702MW", "PPA 20年・2028年末稼働目標"],
+      "source": "AI Weekly",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 19,
+      "field": "auto",
+      "sec": "通商・政策",
+      "badges": [],
+      "title": "中国、EV輸出の還付率を引き下げ　輸出が急増するなかでの方針転換",
+      "summary": "中国がEV輸出に対する税還付を縮小した。9月のEV輸出が急増し国内外で摩擦が生じるなか、価格競争力の源泉となってきた輸出支援を自ら絞る動きとなる。",
+      "insight": "中国勢の輸出攻勢の採算構造が変わる可能性。欧州・新興国市場での価格設定に波及しうる。",
+      "meta": ["措置 EV輸出還付の縮小", "背景 9月の輸出急増"],
+      "source": "The Epoch Times",
+      "sourceUrl": "https://theepochtimes.com/china/china-cuts-ev-export-rebate-as-exports-surge-6103339"
+    },
+    {
+      "rank": 20,
+      "field": "india",
+      "sec": "インドIT",
+      "badges": [],
+      "title": "Zoho、2026年の昇給を凍結　サーバー価格の4倍高とAIコスト増を理由に",
+      "summary": "インドのZohoが2026年の定期昇給を凍結した。創業者のスリダール・ベンブー氏は、サーバー価格が4倍に跳ね上がりAI関連コストが膨らんだことを理由に挙げた。AIインフラの価格上昇が人件費政策に波及した事例。",
+      "insight": "GPU・サーバー価格の上昇が、IT企業の原価だけでなく人事処遇にまで及び始めた。",
+      "meta": ["措置 2026年昇給凍結", "理由 サーバー価格4倍・AIコスト増"],
+      "source": "AI Weekly",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    }
+  ],
+  "weekly": [
+    "米9月CPIが年率3.7%に再加速し、10月FOMCでの追加利上げ確率が約49%へ跳ね上がった",
+    "EUがAI法に基づく初の調査をOpenAIとAnthropicに開始、フロンティアモデルの逸脱事案が引き金",
+    "インドの9月卸売物価が11.39%と系列最高水準、RBIは為替投機抑制の追加措置を示唆"
+  ]
+}
