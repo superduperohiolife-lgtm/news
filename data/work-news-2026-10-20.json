@@ -1,0 +1,248 @@
+{
+  "date": "2026-10-20",
+  "sub": "火",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "通商・地政学",
+      "badges": ["us"],
+      "title": "原油が急落、ブレント1.9%安の107.8ドル　トランプ政権のロシア制裁免除で供給懸念が後退",
+      "summary": "トランプ大統領がグラム法に基づく対ロシア新規制裁の適用を免除する大統領令に署名したことで、供給途絶懸念が後退。19日はブレントが1.9%安の107.8ドル、WTIが1%安の100.4ドルまで下落した。前営業日のWTI 101.35ドルからの続落で、ホルムズ海峡の緊張が残るなかでもインフレ期待は緩和に向かっている。",
+      "insight": "燃料・樹脂系の投入コストは一旦ピークアウト観測。ただし免除は裁量措置で、再発動リスクは残る。",
+      "meta": ["ブレント 107.8ドル(-1.9%)", "WTI 100.4ドル(-1.0%)", "取得時点 10/19"],
+      "source": "HDFC Sky",
+      "sourceUrl": "https://hdfcsky.com/news/brent-crude-oil-price-today-october-19-2026-brent-falls-1-9percent-to-107-8-wti-drops-1percent-to-100-4-as-trump-eases-russia-sanctions"
+    },
+    {
+      "rank": 2,
+      "field": "auto",
+      "sec": "サプライヤー再編",
+      "badges": ["jp"],
+      "title": "三菱電機、車載子会社株50%を鴻海に1,150億円で譲渡　自動車機器事業を共同運営へ最終合意",
+      "summary": "三菱電機は自動車機器子会社「三菱電機モビリティ」の株式50%を鴻海（ホンハイ）側に1,150億円で譲渡し、共同運営する最終合意を結んだ。自動運転やSDV領域での協業を想定する。19日にはNHKが同社の記者会見を報じており、日系Tier1の資本構成が台湾EMS主導へ移る転換点となる。",
+      "insight": "日系OEMの調達先が「日系資本のTier1」から外れていく流れ。既存取引先の資本・開発体制の確認が必要。",
+      "meta": ["譲渡比率 50%", "譲渡額 1,150億円", "対象 三菱電機モビリティ"],
+      "source": "MONOist",
+      "sourceUrl": "https://monoist.itmedia.co.jp/mn/articles/2610/17/news015.html"
+    },
+    {
+      "rank": 3,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": ["us"],
+      "title": "Anthropic、自社株の5%以上を新設の公益基金に拠出すると表明",
+      "summary": "Anthropicは19日、発行株式の少なくとも5%を新設する「public benefit fund（公益基金）」に拠出すると発表した。AI開発企業が株主価値の一部を恒久的に公益目的へ振り向ける枠組みで、将来的な株式公開との関係を含め各社の企業統治モデルに影響する可能性がある。基金の運営主体・配分先の詳細は(要確認)。",
+      "insight": "AI企業の「営利と公益」の線引きが資本構造レベルで動き始めた事例。",
+      "meta": ["拠出比率 5%以上", "対象 自社株式"],
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/economy/2026/10/19/anthropic-says-it-will-commit-5-of-shares-to-public-benefit-fund"
+    },
+    {
+      "rank": 4,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": ["us"],
+      "title": "S&P Global、大手ハイパースケーラーのAI関連債務は「開示より多い」と警告",
+      "summary": "S&P Globalは19日、主要ハイパースケーラーが抱えるAI関連の債務・債務的義務が現在開示されている水準より大きい可能性が高いと警告した。データセンター建設に伴うリース・長期契約などオフバランス的な義務が積み上がっているとの指摘で、AI設備投資が金利水準を高止まりさせる要因になるとの見方も示した。",
+      "insight": "前日のBernstein・Jefferiesに続き、AI投資の「資金調達側」への警戒がレポートベースで連続。",
+      "meta": ["指摘主体 S&P Global", "論点 未開示のAI関連債務"],
+      "source": "Global Banking & Finance Review",
+      "sourceUrl": "https://www.globalbankingandfinance.com/top-hyperscalers-likely-ai-linked-debt-known-p-global-warns/"
+    },
+    {
+      "rank": 5,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "米ハイテク株が反発、ナスダックは259ポイント高　主要決算を前にAI関連に買い戻し",
+      "summary": "19日の米市場はAI関連株の買い戻しでナスダックが約1%（259ポイント）高、S&P500も上昇した一方、ダウは小幅安となった。前週の急落から持ち直す動きで、今週に集中する大型決算を前にリスク選好が戻った。なお米東部時間19日の取引は本稿作成時点（10月20日01:40 JST）で進行中のため、終値は未確定。",
+      "meta": ["ナスダック +約1%(+259pt)", "ダウ 小幅安", "取得時点 10/19 米取引時間中"],
+      "source": "Quartz",
+      "sourceUrl": "https://qz.com/nasdaq-tech-stocks-rebound-dow-slips-101926"
+    },
+    {
+      "rank": 6,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "日経平均は407円安の64,916円で反落　一時1,400円超下げたが後場に下げ渋り",
+      "summary": "19日の東京市場で日経平均は前週末比407.59円（0.62%）安の64,916.70円と反落した。米ハイテク株安を受け半導体関連が売られ、朝方は一時1,400円超下落したが、後場は下げ幅を縮めて引けた。ドル円は158円の節目を意識する水準で推移した。",
+      "meta": ["終値 64,916.70円", "前週末比 -407.59円", "一時 -1,400円超"],
+      "source": "株探",
+      "sourceUrl": "https://kabutan.jp/news/marketnews/?b=n202610190900"
+    },
+    {
+      "rank": 7,
+      "field": "ad",
+      "sec": "サプライ・安全保障",
+      "badges": ["us"],
+      "title": "Waymo、米ロボタクシー向けに中国製Zeekr車5,100台を発注　議会で安全保障懸念が浮上",
+      "summary": "Waymoが米国のロボタクシー隊列拡大に向け、中国・吉利傘下Zeekrの車両5,100台規模を発注していたと報じられ、議会側でデータ・サプライチェーンの安全保障懸念が強まっている。米自動車メーカーが中国製車両の全面禁止を求める一方、Waymoは中国製シャシーを前提に展開を進めてきた構図で、規制が入れば配車台数計画に直接影響する。",
+      "insight": "自動運転の車両供給が地政学リスクに直結。中国製プラットフォーム採用の是非は日系にも波及しうる論点。",
+      "meta": ["発注規模 5,100台", "供給元 Zeekr(吉利系)", "論点 議会の安保懸念"],
+      "source": "NewsBytes",
+      "sourceUrl": "https://www.newsbytesapp.com/news/business/waymo-to-bring-5100-zeekr-vans-amid-washington-security-concerns/tldr"
+    },
+    {
+      "rank": 8,
+      "field": "ad",
+      "sec": "提携・開発",
+      "badges": ["us"],
+      "title": "メルセデス・ベンツとNVIDIA、高度自動運転で戦略提携を拡大　ボルボ・カーズとも協業深化",
+      "summary": "メルセデス・ベンツとNVIDIAは、次世代の高度自動運転の実現に向け戦略的提携を拡大すると発表した。NVIDIAの車載コンピュートとAIスタックを次の10年の量産車に展開する枠組みで、同時期にボルボ・カーズとの自動運転協業拡大も明らかになっている。欧州OEMがAD基盤をNVIDIAに寄せる動きが一段と鮮明になった。",
+      "insight": "ADのソフト・半導体基盤がNVIDIAに集約。自社開発か外部調達かの判断期限が前倒しになる。",
+      "meta": ["対象 高度自動運転(次の10年)", "他社 ボルボ・カーズも拡大"],
+      "source": "Mercedes-Benz Group",
+      "sourceUrl": "https://group.mercedes-benz.com/company/news/mb-and-nvidia-expand-strategic-partnership.html"
+    },
+    {
+      "rank": 9,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "センセックスが876ポイント安で2日続伸が途切れる　IT・民間銀行が重し、ニフティは22,889",
+      "summary": "19日のインド市場はセンセックスが876ポイント安、ニフティが22,889で引け、2日続伸が途切れた。前週に2008年以来最大の週間上昇となったIT株が反落し、アクシス銀行など民間銀行株も3%超下げて指数を押し下げた。前週末にニフティが23,100台を回復した流れが一巡した形。",
+      "meta": ["センセックス -876pt", "ニフティ 22,889", "主因 IT・民間銀行安"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/amp/markets/news/stock-market-live-october-19-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bond-yields-q2-results-hind-zinc-share-price-today-ipo-today-126101900052_1.html",
+      "followup": {
+        "since": "2026-10-19",
+        "whatsNew": "前回報じたニフティの23,100台回復とIT株の記録的週間上昇が、19日のIT・民間銀行安で反転した。"
+      }
+    },
+    {
+      "rank": 10,
+      "field": "econ",
+      "sec": "決算",
+      "badges": ["us"],
+      "title": "GMが20日寄り付き前に第3四半期決算　市場予想EPSは3.63ドル、テスラ・メタ含む決算ウィークに",
+      "summary": "ゼネラル・モーターズは10月20日の米市場寄り付き前に2026年第3四半期決算を発表する。市場予想EPSは3.63ドルで、価格規律と新規事業の進捗が焦点。同週はテスラ、メタ、ネットフリックスなど70社規模の決算が集中し、AI設備投資とEV収益性の両面で見通しが試される。",
+      "meta": ["発表 10/20 寄り付き前", "予想EPS 3.63ドル", "同週 70社規模の決算"],
+      "source": "AlphaStreet",
+      "sourceUrl": "https://news.alphastreet.com/general-motors-q3-2026-earnings-preview-october-20-street-expects-3-63-eps/"
+    },
+    {
+      "rank": 11,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": ["us"],
+      "title": "OpenAIのAPIに未告知の「aurora」3モデルが出現　画像生成系との見方",
+      "summary": "OpenAIのAPI上に aurora-red-alpha、aurora-green-alpha、aurora-blue-alpha の3モデルが公式発表なしで現れたと18日に指摘され、19日時点でも正式アナウンスはない。初期検証では画像生成系とみられるとの観測が出ているが、用途・価格・提供時期はいずれも(要確認)。",
+      "meta": ["モデル数 3(red/green/blue)", "公式発表 なし(要確認)"],
+      "source": "FourWeekMBA",
+      "sourceUrl": "https://fourweekmba.com/ai-three-unannounced-aurora-models-reported-in-openais-api/"
+    },
+    {
+      "rank": 12,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": ["us"],
+      "title": "ウィスコンシン州、Character.AIを「重大な安全リスク」として法的措置　多州連携の訴えに加わる",
+      "summary": "ウィスコンシン州は19日、AIチャットボットのCharacter.AIが未成年者らに重大な安全リスクをもたらしたとして法的措置を取ったと報じられた。複数州が連携する動きの一環で、15日にはOpenAIに対しても複数州が提訴している。対話型AIの安全設計と年齢確認が、州法レベルの執行リスクとして現実化してきた。",
+      "insight": "業務でのチャットボット導入も、安全設計・年齢確認・ログ保全の要件が州法ベースで厳格化する方向。",
+      "meta": ["提訴主体 ウィスコンシン州(多州連携)", "争点 安全リスク"],
+      "source": "Virginia Lawyers Weekly",
+      "sourceUrl": "https://valawyersweekly.com/2026/10/19/wisconsin-joins-multistate-action-character-ai-chatbot-safety-risks"
+    },
+    {
+      "rank": 13,
+      "field": "econ",
+      "sec": "商品・中央銀行",
+      "badges": ["us"],
+      "title": "金は4,176ドル近辺で小動き、原油安が支え　10月のFRB利上げ観測は後退",
+      "summary": "19日の金相場は4,176ドル近辺で方向感を欠き、原油下落によるインフレ懸念の緩和が下支えとなった。市場では10月のFRB利上げ観測が後退し、据え置き見通しが優勢。銀は上昇した。前営業日に金が4,180ドル台だった水準から大きな変化はない。",
+      "meta": ["金 約4,176ドル", "10月FRB 据え置き観測優勢", "取得時点 10/19"],
+      "source": "Kitco",
+      "sourceUrl": "https://www.kitco.com/news/article/2026-10-19/gold-slips-silver-gains-oil-retreats-and-fed-pause-expectations-hold-kitco"
+    },
+    {
+      "rank": 14,
+      "field": "india",
+      "sec": "通商・エネルギー",
+      "badges": [],
+      "title": "インドのロシア原油輸入が日量180〜190万バレルで安定化　米制裁免除で調達継続へ",
+      "summary": "トランプ政権が対ロシア新規制裁の適用を免除したことで、インドのロシア産原油調達は継続する見通しとなり、輸入量は日量180〜190万バレル水準で安定化していると報じられた。関税懸念で一時12%落ち込んだ輸入は底を打った形。製油業者の原料コストと経常収支には追い風となる。",
+      "insight": "インド製造拠点のエネルギーコストは当面安定。ただし関税再発動の選択肢は残されている。",
+      "meta": ["輸入量 180〜190万bpd", "一時 -12%から回復", "背景 米制裁免除"],
+      "source": "Swarajya",
+      "sourceUrl": "https://swarajyamag.com/news-brief/indias-russian-oil-imports-stabilise-at-18-19-million-bpd-after-trump-waives-sanctions-law"
+    },
+    {
+      "rank": 15,
+      "field": "auto",
+      "sec": "SDV・ソフトウェア",
+      "badges": ["jp"],
+      "title": "トヨタのSDV全車種化報道で株価が7日続伸　2030年までに約50車種へ",
+      "summary": "トヨタが2030年までに全約50車種をSDV化すると報じられたことを受け、19日の株価は7営業日続伸した。独自ソフトで購入後も性能向上を図る構想で、市場はソフト収益化の期待を織り込みつつある。報道ベースの計画であり、投資規模や車種別の適用時期は(要確認)。",
+      "meta": ["対象 約50車種", "時期 2030年まで", "株価 7日続伸"],
+      "source": "レスポンス",
+      "sourceUrl": "https://response.jp/article/2026/10/19/417976.html",
+      "followup": {
+        "since": "2026-10-19",
+        "whatsNew": "前回のSDV化報道に対し、19日は株価が7日続伸と市場評価が明確に表れた点が新しい。"
+      }
+    },
+    {
+      "rank": 16,
+      "field": "econ",
+      "sec": "為替",
+      "badges": ["jp", "us"],
+      "title": "ドル円は158円の節目を試す展開　FRB利上げ見送り観測と原油高インフレ懸念が綱引き",
+      "summary": "19日のドル円は158円の節目突破を試す地合いとなり、FRBの利上げ見送り観測による円買い要因と、原油高に伴うインフレ懸念によるドル買い要因が綱引きとなった。東京時間は下値を探った後に下げ幅を縮小し、ロンドン時間は高値からやや調整。日銀は10月会合で据え置きの公算が大きいと報じられている。",
+      "meta": ["節目 158円", "日銀10月 据え置き公算(報道)", "取得時点 10/19"],
+      "source": "外為どっとコム",
+      "sourceUrl": "https://www.gaitame.com/media/entry/2026/10/19/070900"
+    },
+    {
+      "rank": 17,
+      "field": "auto",
+      "sec": "海外展開",
+      "badges": [],
+      "title": "広汽集団、パリモーターショーで新ブランドと欧州「全チェーン現地化」を発表",
+      "summary": "広汽集団（GAC）はパリモーターショー2026で新ブランドと新サービス・新製品を公開し、欧州でバリューチェーン全体を現地化する新段階に入ると表明した。グローバルサービスブランド「GAC CARE+」の欧州展開も発表。中国OEMが欧州で販売網・サービス・生産を一体で構築する動きが具体化している。",
+      "meta": ["発表 パリMS 2026", "サービス GAC CARE+", "方針 欧州の全チェーン現地化"],
+      "source": "PR Newswire",
+      "sourceUrl": "https://www.prnewswire.com/news-releases/gac-unveils-new-brand-services-and-products-at-2026-paris-motor-show-marking-a-new-chapter-in-full-chain-localization-in-europe-302905775.html"
+    },
+    {
+      "rank": 18,
+      "field": "india",
+      "sec": "為替",
+      "badges": [],
+      "title": "ルピーが9パイサ上昇の1ドル=94.80　原油安が支えに",
+      "summary": "19日の寄り付き段階でインドルピーは対ドルで9パイサ上昇し1ドル=94.80となった。原油価格の下落とRBIによる為替支援が記録的安値圏からの戻りを支えている。ただしドル高基調は続いており、戻り幅は限定的。",
+      "meta": ["1ドル=94.80ルピー", "前日比 +9パイサ", "取得時点 10/19 寄り付き"],
+      "source": "HDFC Sky",
+      "sourceUrl": "https://hdfcsky.com/news/inr-vs-usd-rate-october-19-2026"
+    },
+    {
+      "rank": 19,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": [],
+      "title": "OMODA & JAECOO、専用設計のレベル4ロボタクシーを公開　グローバル市場へ展開表明",
+      "summary": "奇瑞系のOMODA & JAECOOは19日、ドライバーレス専用設計のレベル4ロボタクシーを公開し、グローバル市場への展開方針を示した。中国OEMが完成車ブランドとして自前のロボタクシー車両を持ち込む動きで、投入地域・時期・パートナーの詳細は(要確認)。",
+      "meta": ["車格 専用設計L4", "展開 グローバル市場(詳細要確認)"],
+      "source": "FinancialContent",
+      "sourceUrl": "https://financialcontent.com/article/marketersmedia-2026-10-19-omoda-and-jaecoo-to-showcase-purpose-built-l4-robotaxi-bringing-a-new-driverless-mobility-experience-to-global-markets"
+    },
+    {
+      "rank": 20,
+      "field": "auto",
+      "sec": "新車・EV",
+      "badges": [],
+      "title": "ルノー、電動ミニバン「Eスペース コンセプト」を世界初公開　パリモーターショー2026",
+      "summary": "ルノーはパリモーターショー2026で電動ミニバンの将来像を示す「Eスペース コンセプト」を世界初公開した。同ショーではシトロエンの2CV現代版やオペルSTXコンセプトなど欧州勢のコンセプト公開が相次いでおり、小型・実用EVと「レトロ」デザインの二極化が今回の潮流になっている。",
+      "meta": ["公開 パリMS 2026", "カテゴリ 電動ミニバン(コンセプト)"],
+      "source": "レスポンス",
+      "sourceUrl": "https://response.jp/article/2026/10/19/417970.html"
+    }
+  ],
+  "weekly": [
+    "トランプ政権の対ロシア制裁免除でブレントが1.9%安の107.8ドル、WTIは100.4ドルまで下落",
+    "三菱電機が車載子会社株50%を鴻海に1,150億円で譲渡、日系Tier1の資本構成が転換",
+    "Anthropicが自社株5%以上を新設の公益基金に拠出、AI企業の統治モデルに波及の可能性"
+  ]
+}
