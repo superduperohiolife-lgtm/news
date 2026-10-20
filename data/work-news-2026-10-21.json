@@ -1,0 +1,257 @@
+{
+  "date": "2026-10-21",
+  "sub": "水",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "AI",
+      "sec": "企業・資金調達",
+      "badges": ["us"],
+      "title": "OpenAI、約300億ドル調達を加速　評価額1.4兆ドル規模でAnthropic上場に先回り",
+      "summary": "OpenAIが約300億ドルの資金調達を急いでいると報じられた。評価額は約1.4兆ドルに達する可能性があり、競合Anthropicの株式公開に先立って資金を確定させる狙いとされる。AI向け資金調達の規模が一段と膨張している。",
+      "insight": "巨額調達の前倒しは、AI投資の資金需要が調達環境の変化リスクを上回って切迫していることを示す。",
+      "meta": ["調達額 約300億ドル", "評価額 約1.4兆ドル", "背景 Anthropic上場観測"],
+      "source": "Quartz",
+      "sourceUrl": "https://qz.com/openai-30-billion-funding-round-anthropic-ipo-102026"
+    },
+    {
+      "rank": 2,
+      "field": "auto",
+      "sec": "不正・ガバナンス",
+      "badges": ["jp"],
+      "title": "ニデック、永守氏ら旧役員9人に賠償責任　会計不正の損害額276億円と認定",
+      "summary": "ニデックの役員責任調査委員会は、創業者の永守重信氏を含む旧役員9人に損害賠償責任があると認定した。会計不正による損害額は276億円とされ、歴代5社長が損失の先送りを正さなかったと指摘。車載事業で減損を回避した点も問題視され、同社は法的措置の検討に入った。",
+      "insight": "品質不正とは別の会計不正ラインだが、経営責任の明確化は顧客OEMの取引審査やガバナンス要求に波及しうる。",
+      "meta": ["損害額 276億円", "対象 旧役員9人・歴代5社長", "指摘 車載事業の減損回避", "対応 法的措置を検討"],
+      "source": "日本経済新聞",
+      "sourceUrl": "https://www.nikkei.com/article/DGXZQOUF1665H0W6A011C2000000/",
+      "followup": {
+        "since": "2026-05-13",
+        "whatsNew": "品質不適切行為の調査に続き、会計不正について役員責任調査委員会が損害276億円と旧役員9人の賠償責任を認定し、10月20日に調査結果が公表された。"
+      }
+    },
+    {
+      "rank": 3,
+      "field": "econ",
+      "sec": "商品・地政学",
+      "badges": ["us"],
+      "title": "ブレント原油が一時111ドル台で5カ月ぶり高値　イラン情勢の供給リスクで急反転",
+      "summary": "ブレント原油が20日の取引で一時111ドル台に上昇し、約5カ月ぶりの高値を付けた。イランを巡る攻撃リスクと中東の海上輸送への懸念が供給不安を呼び込んだ。ただ午前中盤時点では109.07ドル（前日比-0.48ドル）へ反落しており、値動きは荒い（取得時点: 10月20日米国時間午前中盤）。",
+      "insight": "前営業日の「制裁免除で供給懸念後退」から数日で反転。地政学プレミアムの再織り込みが始まった。",
+      "meta": ["ブレント 一時111ドル台", "午前中盤 109.07ドル", "WTI 98.24ドル", "要因 イラン・中東の供給リスク"],
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/jp/news/articles/2026-10-20/TN7B86KIJH8M00",
+      "followup": {
+        "since": "2026-10-20",
+        "whatsNew": "前回はロシア制裁免除による急落（ブレント107.8ドル）だったが、イラン情勢を受けて一時111ドル台まで反発し5カ月ぶり高値に転じた。"
+      }
+    },
+    {
+      "rank": 4,
+      "field": "auto",
+      "sec": "決算",
+      "badges": ["us"],
+      "title": "GM、第3四半期は市場予想を上振れ　200億ドルの自社株買いも株価は5%安",
+      "summary": "GMの2026年第3四半期は調整後EPSが3.70ドル（予想3.69ドル）、売上高が500.2億ドル（予想488.3億ドル）と予想を上回った。取締役会は新たに200億ドルの自社株買い枠を承認し、フリーキャッシュフロー見通しも引き上げた。一方、通期EPS見通し12.75〜13.75ドルの中央値が市場予想13.41ドルを下回り、株価は約5%下落した。",
+      "insight": "キャッシュ還元の積み増しでも、通期収益レンジの上限不足が嫌われた。関税とEV採算の不透明感が残る。",
+      "meta": ["調整後EPS 3.70ドル（予想3.69）", "売上 500.2億ドル", "自社株買い 200億ドル", "通期EPS 12.75〜13.75ドル"],
+      "source": "Newsquawk",
+      "sourceUrl": "https://www.newsquawk.com/headlines/general-motors-company-gm-q3-2026-usd-eps-370-exp-369-revenue-500bln-exp-4883bln-approves-usd-20bln-buyback",
+      "followup": {
+        "since": "2026-10-20",
+        "whatsNew": "前回は「20日寄り付き前に決算発表、予想EPS3.63ドル」という事前観測だったが、実績EPS3.70ドルと上振れし、200億ドルの自社株買い発表と株価5%安という結果が確定した。"
+      }
+    },
+    {
+      "rank": 5,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "日経平均は841円安の64,075円で続落　半導体株に売り、原油高も重荷",
+      "summary": "20日の東京株式市場で日経平均は841.28円安の64,075.42円と続落した。ザラバ安値は63,807.15円（15時02分）。半導体関連株への売りが指数を押し下げ、原油高によるコスト懸念も重荷となった。",
+      "meta": ["終値 64,075.42円", "前日比 -841.28円", "安値 63,807.15円"],
+      "source": "中日新聞",
+      "sourceUrl": "https://www.chunichi.co.jp/article/1327754"
+    },
+    {
+      "rank": 6,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": ["us"],
+      "title": "Anthropic・Google・OpenAIが新モデルを準備　意図推論強化とGemini 4 Carbon、Terra系廉価版",
+      "summary": "The Informationによると、Anthropicは少ない指示からユーザーの根本的な目的を推測する推論強化モデルを開発中で、個別バグの背後にある構造的問題を特定して包括的な修正を提示できるという。GoogleはGemini 4 Argonの改良版「Gemini 4 Carbon」を準備し、動画解析やサイトテストなど視覚系タスクに強いとされる。OpenAIはGPT-6.1 Solより低価格なTerra系の新モデルを数週間内に投入する可能性がある。",
+      "insight": "フロンティア競争の軸が「性能の絶対値」から「意図の読み取り」と「同性能の値下げ」に移りつつある。",
+      "meta": ["Google Gemini 4 Carbon", "OpenAI Terra系（GPT-6.1 Solより低価格）", "時期 数週間内（要確認）"],
+      "source": "Investing.com（The Information報道）",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/anthropic-google-and-openai-prepare-new-ai-models-the-information-reports-4957891"
+    },
+    {
+      "rank": 7,
+      "field": "ad",
+      "sec": "当局調査",
+      "badges": ["us"],
+      "title": "NHTSA、テスラ・ロボタクシーのスクールゾーン速度超過申立てを審査　対象約1,000台",
+      "summary": "NHTSAは、CybercabとModel Yがスクールゾーンで制限速度を超えて走行しているとする欠陥申立ての審査に入った。対象は2026年式の約1,000台。正式な欠陥調査に移行するかは未決定で、別途Cybercabの技術文書と自己認証の検証も継続している。",
+      "insight": "ロボタクシーの法規遵守そのものが争点化。自己認証スキームの検証が並行している点が重い。",
+      "meta": ["対象 約1,000台（2026年式）", "対象車種 Cybercab・Model Y", "正式調査移行 未決定"],
+      "source": "Automotive World / AutoConnectedCar",
+      "sourceUrl": "https://www.autoconnectedcar.com/2026/10/autonomous-self-driving-vehicle-news-nhtsa-tesla-waymo-bot-auto-lenovo-nvidia-plusai-texas-ventures-iii-tomtom-deeproute-ai-valeo-kesai-tier-iv-arm-technical-university-of-munich-ta/"
+    },
+    {
+      "rank": 8,
+      "field": "india",
+      "sec": "IPO・資本市場",
+      "badges": [],
+      "title": "Jio IPOが21日開始　アンカー需要260億ドル、インド史上最大の新規上場へ",
+      "summary": "ムケシュ・アンバニ氏傘下のJio Platformsによるインド史上最大のIPOが10月21日に開始する。調達額は最大32億ドル規模で、上場前のアンカー投資家需要は260億ドルに達したと報じられた。MetaとGoogleが出資する同社の上場は、インド資本市場の厚みを測る試金石となる。",
+      "meta": ["開始 10月21日", "調達 最大32億ドル", "アンカー需要 260億ドル"],
+      "source": "CEOWORLD Magazine",
+      "sourceUrl": "https://ceoworld.biz/2026/10/20/indian-billionaire-mukesh-ambani-jio-ipo-draws-26-billion-in-anchor-bids-ahead-of-indias-largest-listing/"
+    },
+    {
+      "rank": 9,
+      "field": "AI",
+      "sec": "M&A",
+      "badges": ["us"],
+      "title": "セールスフォース、Brazeを56.6億ドルで買収　リアルタイムAIマーケティングを強化",
+      "summary": "セールスフォースが顧客エンゲージメント基盤のBrazeを56.6億ドルで買収することに合意した。買収価格は1株47.50ドルの現金で、Brazeの取締役会は全会一致で支持。発表を受けBraze株は約51%急騰した。リアルタイムのAIマーケティング領域を取り込む狙い。",
+      "insight": "AI関連M&Aの焦点がモデルから「顧客接点データと実行基盤」に移っている。",
+      "meta": ["買収額 56.6億ドル", "1株 47.50ドル（現金）", "BRZE株 +51%"],
+      "source": "Investing.com（ロイター）",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/salesforce-to-acquire-braze-in-a-566-billion-deal-4959937"
+    },
+    {
+      "rank": 10,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "米株は前日の急落から反発　ダウ470ドル高、10年債利回りは5.11%に低下",
+      "summary": "20日の米国市場は安く始まった後に上昇に転じ、午前中盤でダウが470.05ドル高の52,436、S&P500が7,724（+0.44%）、ナスダック総合が26,496（+0.25%）。前日まで9営業日続落していた半導体株も反発した。10年債利回りは5.11%へ低下、ドル円は157.95円、金は4,145.10ドル（いずれも米国時間午前中盤の取得値）。",
+      "meta": ["ダウ 52,436（+470.05）", "S&P500 7,724（+0.44%）", "10年債 5.11%", "ドル円 157.95"],
+      "source": "Investrade",
+      "sourceUrl": "https://investrade.com/mid-morning-look-october-20-2026/"
+    },
+    {
+      "rank": 11,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "フォード、速度計・回転計の不具合で米国10万2,200台をリコール",
+      "summary": "フォードが米国でFシリーズ・トラック10万2,200台のリコールをNHTSAに届け出た。速度計および回転計が正しく表示されない不具合が対象で、運転者が速度を把握できない安全上の問題となる。主力ピックアップが対象となった点で影響は大きい。",
+      "meta": ["対象 10万2,200台", "車種 Fシリーズ", "不具合 速度計・回転計の表示"],
+      "source": "Newsquawk / GV Wire",
+      "sourceUrl": "https://gvwire.com/2026/10/20/ford-recalls-more-than-102000-f-series-trucks-over-faulty-speedometer-us-nhtsa-says/"
+    },
+    {
+      "rank": 12,
+      "field": "india",
+      "sec": "金融政策・為替",
+      "badges": [],
+      "title": "RBI、ルピー下落で大型対外投資の審査を強化　6月以降の防衛介入は750〜800億ドル規模との推計",
+      "summary": "インド準備銀行（RBI）は、ルピー安が続くなか大型の対外投資案件に対する審査を強化した。資本流出の抑制が狙いとされる。RBIは6月以降、ルピー防衛に750〜800億ドルを投じたとの推計も出ている（推計値・要確認）。10日には石油決済向けの特別ドル供給枠も導入済み。",
+      "insight": "金利や介入だけでなく資本規制の運用で通貨を支える段階に入った。対印投資案件の承認プロセスに実務的な影響が出る可能性。",
+      "meta": ["措置 大型対外投資の審査強化", "介入推計 750〜800億ドル（6月以降・要確認）", "既存措置 石油決済向け特別ドル枠"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/amp/finance/investment/rbi-steps-up-scrutiny-of-large-overseas-investments-as-rupee-slides-126102000130_1.html"
+    },
+    {
+      "rank": 13,
+      "field": "AI",
+      "sec": "産業・政策",
+      "badges": [],
+      "title": "NVIDIAとドイツ政府、フィジカルAIで共同意向表明に署名　対象はロボ・製造・車両",
+      "summary": "ベルリンのサミットで、メルツ首相と連邦の2省がNVIDIAとフィジカルAIモデルの共同開発に関する意向表明に署名した。対象領域はロボティクス、製造業、車両。ジェンスン・フアン氏は自動車・機械メーカーに早期のAI導入を促し、「electrons will never replace atoms」と述べた。",
+      "insight": "欧州の産業AIがNVIDIA基盤に寄る構図。車両・製造の現場データが競争資源になる。",
+      "meta": ["対象 ロボ・製造・車両", "形式 共同意向表明（MOU）", "場所 ベルリン"],
+      "source": "Artificially Intimidating",
+      "sourceUrl": "https://artificiallyintimidating.com/p/ai-brief-october-20-2026"
+    },
+    {
+      "rank": 14,
+      "field": "ad",
+      "sec": "当局調査",
+      "badges": ["us"],
+      "title": "NHTSAとNTSB、Waymoの車両ソフトウェア異常で正式調査を開始",
+      "summary": "NHTSAとNTSBが、Waymo車両のソフトウェア挙動を対象に正式な調査を開始した。歩行者安全に関わる境界設定と、停止中のスクールバスの停止標識認識が問題視されている。先行企業であるWaymoにも当局の目が向いた形。",
+      "insight": "テスラとWaymoが同時に当局調査下に入り、ロボタクシー全体の規制トーンが引き締まる局面。",
+      "meta": ["機関 NHTSA・NTSB", "論点 歩行者安全の境界設定", "論点 スクールバス停止標識の認識"],
+      "source": "AutoConnectedCar",
+      "sourceUrl": "https://www.autoconnectedcar.com/2026/10/autonomous-self-driving-vehicle-news-nhtsa-tesla-waymo-bot-auto-lenovo-nvidia-plusai-texas-ventures-iii-tomtom-deeproute-ai-valeo-kesai-tier-iv-arm-technical-university-of-munich-ta/"
+    },
+    {
+      "rank": 15,
+      "field": "econ",
+      "sec": "マクロ",
+      "badges": ["us"],
+      "title": "米9月住宅着工は前月比5.9%減の122.1万戸　予想を大幅に下回る",
+      "summary": "米国の9月住宅着工件数は前月比5.9%減の年率122.1万戸となり、市場予想130.5万戸を下回った。前月分は128.8万戸へ下方修正。建設許可は年率140万戸（予想138.7万戸）と上振れたが、中古住宅販売保留指数は前月比7.3%減と弱く、金利高が住宅需要を抑え込む構図が続く。",
+      "meta": ["住宅着工 122.1万戸（予想130.5万）", "前月比 -5.9%", "建設許可 140万戸", "販売保留指数 -7.3%"],
+      "source": "Investrade",
+      "sourceUrl": "https://investrade.com/mid-morning-look-october-20-2026/"
+    },
+    {
+      "rank": 16,
+      "field": "india",
+      "sec": "自動車・投資",
+      "badges": [],
+      "title": "ステランティス、インドに400億ルピー投資　12車種投入と24カ月開発サイクルへ",
+      "summary": "ステランティスがインド市場に400億ルピー（約4,000億ルピー＝Rs 4,000 crore）を投資し、12車種を投入する計画を示した。新型車の投入サイクルを24カ月に短縮する方針で、シトロエンのインド事業には2030年までに2.4億ドル超を注入するとされる。保護主義下で現地生産・現地開発を強める動き。",
+      "insight": "欧州勢のインド回帰は、対中依存を避けた製造ハブ分散の一環。部品現調率の要求も上がる。",
+      "meta": ["投資 400億ルピー（Rs 4,000 crore）", "投入 12車種", "開発サイクル 24カ月", "シトロエン 2030年までに2.4億ドル超"],
+      "source": "Motoring Trends",
+      "sourceUrl": "https://motoring-trends.com/cover-story/stellantis-reaffirms-india-plans-with-inr-40-billion-investment-12-product-launches"
+    },
+    {
+      "rank": 17,
+      "field": "ad",
+      "sec": "実証・国内",
+      "badges": ["jp"],
+      "title": "大成建設・ティアフォーら、国交省事業で複数台の自律走行物流を実証　10月下旬から8日間",
+      "summary": "国土交通省は、複数台の自律走行物流の実証事業に大成建設・ティアフォー・大成ロテックの3社を選定した。実証は10月下旬から11月上旬の8日間、国の試験施設で3台の車両を使って行われ、隊列走行、トンネル内走行、精密停車などを検証する。",
+      "meta": ["車両 3台", "期間 8日間（10月下旬〜11月上旬）", "検証 隊列走行・トンネル・精密停車"],
+      "source": "AutoConnectedCar",
+      "sourceUrl": "https://www.autoconnectedcar.com/2026/10/autonomous-self-driving-vehicle-news-nhtsa-tesla-waymo-bot-auto-lenovo-nvidia-plusai-texas-ventures-iii-tomtom-deeproute-ai-valeo-kesai-tier-iv-arm-technical-university-of-munich-ta/"
+    },
+    {
+      "rank": 18,
+      "field": "econ",
+      "sec": "市場",
+      "badges": [],
+      "title": "韓国KOSPIが約3.5%下落　サムスン電子・SKハイニックスに売り、AI関連の調整広がる",
+      "summary": "韓国のKOSPIが約3.5%下落し、サムスン電子やSKハイニックスが売られた。データセンター関連の新規上場Eliceは30%超下落、欧州ABBは受注が40%増と好調でも株価は下落した。CoreWeaveは債務懸念、他のデータセンター事業者は規制・建設反対の政治的動きが逆風となっている。",
+      "insight": "AIサプライチェーンの株価は「業績」より「資金調達コストと立地の政治リスク」で振れ始めている。",
+      "meta": ["KOSPI 約-3.5%", "Elice -30%超", "ABB 受注+40%でも株安"],
+      "source": "Investrade",
+      "sourceUrl": "https://investrade.com/mid-morning-look-october-20-2026/"
+    },
+    {
+      "rank": 19,
+      "field": "ad",
+      "sec": "実証・国内",
+      "badges": ["jp"],
+      "title": "日産、神戸で自動運転パイロットを12月8〜18日に実施　スマホ配車を追加",
+      "summary": "日産は2026年度の自動運転パイロットを12月8日から18日まで神戸市灘五郷で実施する。スマートフォンによる配車機能を新たに追加し、車両はSAEレベル2のセレナで運転手が同乗する。横浜の遠隔運行センターから横浜・神戸の車両を同時監視する検証も行う。有償サービスは2027年、本格商用化は2030年を目標とする。",
+      "meta": ["期間 12月8〜18日", "車両 レベル2セレナ（運転手同乗）", "目標 有償2027年・商用化2030年"],
+      "source": "AutoConnectedCar",
+      "sourceUrl": "https://www.autoconnectedcar.com/2026/10/autonomous-self-driving-vehicle-news-nhtsa-tesla-waymo-bot-auto-lenovo-nvidia-plusai-texas-ventures-iii-tomtom-deeproute-ai-valeo-kesai-tier-iv-arm-technical-university-of-munich-ta/"
+    },
+    {
+      "rank": 20,
+      "field": "AI",
+      "sec": "業務活用",
+      "badges": ["us"],
+      "title": "OpenAI、COBOLなど低リソース言語の性能を大幅改善　移行テストで97.9%",
+      "summary": "OpenAIがCOBOLなど低リソース言語での性能向上を発表した。COBOL移行テストでGPT-6.1 Solは高推論設定で97.9%、低推論設定で86.6%を記録し、GPT-5.6 Solの5.4%から大きく改善した。同社はCOBOLがオンラインバンキングの40%超とATM取引の95%を支えていると説明している。",
+      "insight": "レガシー基幹系の移行は見積りが崩れやすい領域。社内の古い制御系・帳票系の棚卸しに使える余地がある。",
+      "meta": ["COBOL移行 97.9%（高推論）", "旧モデル比 5.4%→86.6%", "MultiLangBench 87.4%"],
+      "source": "Artificially Intimidating",
+      "sourceUrl": "https://artificiallyintimidating.com/p/ai-brief-october-20-2026"
+    }
+  ],
+  "weekly": [
+    "ニデックが会計不正で旧役員9人の賠償責任を認定、損害額276億円。車載事業の減損回避も問題視され、品質不正と合わせ二重の火種",
+    "ブレント原油が一時111ドル台で5カ月ぶり高値。イラン情勢による供給リスクが前営業日の急落から数日で反転",
+    "GMは第3四半期で予想を上回り200億ドルの自社株買いを発表したが、通期見通しの中央値が予想に届かず株価は5%安"
+  ]
+}
