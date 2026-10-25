@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-26",
+  "sub": "月",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "NYダウ23日は653ドル安と大幅反落　原油高でインフレ懸念が再燃",
+      "summary": "23日の米国株式市場は大幅反落し、ダウ工業株30種平均は653.52ドル安で引けた。原油価格の上昇によるインフレ再燃懸念に加え、AI関連投資への警戒感がハイテク株の重荷となった。週明けの東京市場は米株安を引き継ぐ展開が意識される。",
+      "insight": "インフレ再燃とAI投資懸念が同時に効く局面では、ディフェンシブ優位の相場が続きやすい。",
+      "meta": ["ダウ -653.52ドル（23日終値）", "要因 原油高＋AI投資懸念"],
+      "source": "財形新聞",
+      "sourceUrl": "https://www.zaikei.co.jp/article/20261024/874764.html"
+    },
+    {
+      "rank": 2,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": ["us"],
+      "title": "Anthropicの暫定S-1が判明　上半期売上163億ドル・純損失807億ドル",
+      "summary": "米WSJ報道によると、AnthropicがSECに提出した暫定S-1（目論見書草案）で2026年上半期の売上高163億ドル、純損失807億ドルが明らかになった。損失の大半は非現金項目とされ、解約不能のクラウド・半導体調達コミットメントは総額4500億ドル規模に積み上がっている。上場時期と評価額は報道で幅があり(要確認)。",
+      "insight": "AI大手の巨額な前払い型調達コミットメントは、サプライチェーン全体の設備投資計画を数年単位で固定する。",
+      "meta": ["上半期売上 163億ドル", "純損失 807億ドル", "クラウド等契約 約4500億ドル"],
+      "source": "Investing.com（WSJ報道）",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/anthropic-revenue-hits-163-billion-as-preliminary-s1-outlines-ipo-risks--wsj-4960928"
+    },
+    {
+      "rank": 3,
+      "field": "econ",
+      "sec": "商品",
+      "badges": [],
+      "title": "原油続伸、ブレントが114ドル台　中東緊迫で約5カ月ぶり高値圏",
+      "summary": "23日の原油相場は続伸し、ブレント原油が1バレル114ドル台と約5カ月ぶりの高値圏に達した。中東情勢の緊迫が供給不安を強めている。資源高は各国のインフレ指標と中央銀行の判断に直接響くため、日米の金融政策会合を控えた最大の変動要因となる。",
+      "meta": ["ブレント 114ドル台（23日時点）", "約5カ月ぶり高値圏"],
+      "source": "財形新聞",
+      "sourceUrl": "https://www.zaikei.co.jp/article/20261024/874758.html"
+    },
+    {
+      "rank": 4,
+      "field": "econ",
+      "sec": "中央銀行",
+      "badges": ["jp"],
+      "title": "日銀10月会合は連続利上げ見送りの公算　2%物価目標は事実上到達",
+      "summary": "日銀は今週の金融政策決定会合で連続利上げを見送る公算が大きいと報じられている。2%の物価安定目標には事実上到達したとの評価で、次の引き上げ時期は12月以降が焦点。今週は米FOMCも開かれ、日米の金融政策と米ハイパースケーラー決算が週内の相場を左右する。",
+      "insight": "金利据え置き観測と原油高が重なると、円安圧力と輸入コスト増が同時に効く。",
+      "meta": ["今週 日銀会合・FOMC", "2%目標 事実上到達"],
+      "source": "日本経済新聞",
+      "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB20ANG0Q6A021C2000000/"
+    },
+    {
+      "rank": 5,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["jp"],
+      "title": "ホンダ、コンデンサの仕様違いで1万5191台をリコール届出　7車種に及ぶ",
+      "summary": "ホンダは23日、国土交通省にリコールを届け出た。対象は2024年12月23日から2025年7月2日に製造された1万5191台で、ステップワゴン、フリード、ヴェゼル、ZR-V、シビック、N-BOX、N-VANが含まれる。原因は仕様の異なるコンデンサが組み付けられたことで、中国生産のオデッセイやタイ生産のアコードでも同じ不具合によるリコールが発生している。",
+      "insight": "単一の電子部品の仕様取り違えが車種と生産拠点を越えて波及する典型例。部品受け入れ時の仕様照合の設計が問われる。",
+      "meta": ["対象 1万5191台", "原因 仕様違いコンデンサの組付け", "対象 7車種＋海外生産車"],
+      "source": "MONOist",
+      "sourceUrl": "https://monoist.itmedia.co.jp/mn/articles/2610/24/news010.html"
+    },
+    {
+      "rank": 6,
+      "field": "AI",
+      "sec": "規制・訴訟",
+      "badges": ["us"],
+      "title": "テキサス州、OpenAIとアルトマンCEOを提訴　未成年者保護めぐり",
+      "summary": "テキサス州のパクストン司法長官が23日、OpenAIとサム・アルトマンCEOをコリン郡地裁に提訴した。ChatGPTの安全性について消費者を誤認させ、脆弱な利用者に自殺を促したと主張している。州は未成年の利用禁止、新モデル公開前の裁判所承認、利益の剥奪を求めている。",
+      "insight": "新モデルのリリース前承認という請求が通れば、生成AIの製品投入プロセス自体が規制対象になる。",
+      "meta": ["提訴 テキサス州司法長官", "請求 未成年利用の差止・利益剥奪"],
+      "source": "AI Weekly（KBTX報道）",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 7,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "テスラ、ロボタクシーを新たに4都市へ拡大　安全性データ公開サイトも開設",
+      "summary": "テスラは23日、ロボタクシーサービスを新たに4都市で立ち上げると発表し、あわせて走行の安全性データを公開する専用サイトを開設した。同社はオースティンでCybercabの運行エリア（ジオフェンス）も拡大している。サービス都市数の拡大と安全性指標の自主開示を同時に進める姿勢を示した。",
+      "insight": "安全性データの自主公開は、当局の調査対応と世論形成を同時に狙う定番の手だ。",
+      "meta": ["新規 4都市", "安全性データ 専用サイトで公開"],
+      "source": "Tesla Oracle",
+      "sourceUrl": "https://www.teslaoracle.com/2026/10/23/tesla-announces-robotaxi-launch-in-four-more-cities-releases-safety-data-via-new-website-no-kittens-were-hurt/"
+    },
+    {
+      "rank": 8,
+      "field": "auto",
+      "sec": "ガバナンス",
+      "badges": ["jp"],
+      "title": "ニデック役員責任調査委、永守氏ら9人に賠償責任を認定　損害額276億円",
+      "summary": "ニデックは10月20日、役員責任調査委員会の報告書を公表した。会計不正に関し創業者の永守重信氏を含む歴代5社長や常勤監査役ら9人に会社法423条1項等に基づく損害賠償責任があると認定し、損害額は276億円とした。会社は提訴を含む法的措置を検討中。品質不正（844件認定）については行政対応・顧客OEMへの影響などの新たな進展は確認できず。",
+      "insight": "会計不正の責任追及が先行し、品質不正の帰結はまだ出ていない。調達先としてのリスク評価は品質側の続報待ち。",
+      "meta": ["責任認定 9人（歴代5社長含む）", "損害額 276億円", "品質不正は続報なし"],
+      "source": "EE Times Japan",
+      "sourceUrl": "https://eetimes.itmedia.co.jp/ee/articles/2610/20/news081.html",
+      "followup": {
+        "since": "2026-10-23",
+        "whatsNew": "品質不正844件の認定に続き、10月20日に役員責任調査委員会が会計不正で9人の賠償責任と損害額276億円を認定した。"
+      }
+    },
+    {
+      "rank": 9,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "日経平均23日は214円安の6万2693円　朝方の1400円超安から下げ幅を縮小",
+      "summary": "23日の東京株式市場で日経平均株価は214円安の6万2693円で引けた。朝方は1400円を超える下落となったが、押し目買いで下げ幅を大きく縮小した。6万円台の維持と今週のFOMC・日銀会合が当面の焦点。",
+      "meta": ["終値 6万2693円（-214円）", "朝方 一時1400円超安"],
+      "source": "読売新聞",
+      "sourceUrl": "https://news.infoseek.co.jp/article/yomiuri_20261023_gyt1t00252/"
+    },
+    {
+      "rank": 10,
+      "field": "AI",
+      "sec": "セキュリティ",
+      "badges": [],
+      "title": "PHP脆弱性、未修正ホストが約150万台　NSAが緊急勧告",
+      "summary": "AIが発見したPHPの長期未発見脆弱性2件をめぐり、被害が拡大している。Censysの集計では約260万台のうち約150万台が未修正。修正はPHP 8.5.12／8.4.27／8.3.36／8.2.35で提供された。修正提供前に詳細が漏れ、仏パリ警視庁やオランダのDigiDを含むサイトが停止し、米NSAがパッチ適用かオフライン化を勧告した。深刻度は最大9.2で、PHP 5系（2004年）以降の全リリースに存在する。",
+      "insight": "AIによる脆弱性発見が加速する一方、開示タイミングの管理が追いつかない構造が露呈した。",
+      "meta": ["未修正 約150万台/260万台", "深刻度 最大9.2", "修正版 8.5.12等"],
+      "source": "DEV Community AI Daily Digest（TechCrunch等報道）",
+      "sourceUrl": "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-24-2026-anthropic-opens-the-books-ai-finds-phps-oldest-bugs-europe-118c",
+      "followup": {
+        "since": "2026-10-23",
+        "whatsNew": "未修正ホストが約150万台と判明し、米NSAが緊急勧告を発出。修正版のバージョンも確定した。"
+      }
+    },
+    {
+      "rank": 11,
+      "field": "ad",
+      "sec": "L4・認可",
+      "badges": ["us"],
+      "title": "ウェイブ・ステランティス・NVIDIA、仏でL4自動運転の協業を発表",
+      "summary": "パリで開かれた自動運転車会議で、ステランティスがL4対応プラットフォームを、ウェイブがAIドライバーを、NVIDIAがHyperion上のHalos OSを提供する協業体制が発表された。ステランティスとウェイブは2026年5月に提携し、10月9日にレベル2++のデモを実施済み。北米でのハンズフリー投入は2028年を目標とする。EUの完全無人運転車の認可枠は年間1500台が上限とされる。",
+      "insight": "完成車・AIソフト・半導体の三層分業がL4の標準形になりつつある。",
+      "meta": ["北米ハンズフリー 2028年目標", "EU無人運転認可枠 年1500台"],
+      "source": "DEV Community AI Daily Digest（Wayve発表）",
+      "sourceUrl": "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-24-2026-anthropic-opens-the-books-ai-finds-phps-oldest-bugs-europe-118c"
+    },
+    {
+      "rank": 12,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "インド株23日は4日続落、Nifty50は2万2600　原油114ドル超が重し",
+      "summary": "23日のインド株式市場はSENSEXが126ポイント安、NIFTY50が2万2600で引け、4営業日続落となった。原油価格が1バレル114ドルを超えたことが輸入国インドの収支とインフレ見通しを圧迫している。スモールキャップ100は主要指数をアンダーパフォームした。",
+      "meta": ["NIFTY50 2万2600（4日続落）", "SENSEX -126ポイント", "原油 114ドル超"],
+      "source": "Upstox",
+      "sourceUrl": "https://upstox.com/news/market-news/stocks/market-wrap-oct-23-sensex-falls-126-pts-nifty-50-ends-at-22-600-as-crude-prices-jumps-over-114-bbl-nifty-smallcap-100-underperforms/article-202315/"
+    },
+    {
+      "rank": 13,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "フォード、計器不良でF-Seriesを10万2159台リコール",
+      "summary": "フォードは速度計・回転計が誤表示する不具合で、F-Seriesピックアップ10万2159台をリコールする。アナログ計器が実際と異なる値を示す恐れがあるという。10月19〜23日の週はポルシェ、ラム、トヨタのリコールも相次ぎ、米国の届出が集中した。",
+      "meta": ["対象 10万2159台", "不具合 速度計・回転計の誤表示"],
+      "source": "CBT News",
+      "sourceUrl": "https://www.cbtnews.com/ford-recalls-100000-f-series-trucks/"
+    },
+    {
+      "rank": 14,
+      "field": "india",
+      "sec": "IT・AI",
+      "badges": [],
+      "title": "インドIT株が急伸、Nifty ITは1カ月で16%超上昇　TCS・インフォシスが主導",
+      "summary": "23日のインド市場でTCS、インフォシス、ウィプロ、HCLテック、Mphasis、Coforgeが最大5%上昇した。世界的なハイテク売りのなかでもNifty ITは1カ月で16%超上昇しており、AI関連の受注期待とルピー安による輸出採算の改善が買い材料とされる。",
+      "insight": "ルピー安はインドIT各社のドル建て売上に効く。世界のハイテク調整局面でも逆行高が起きる構造。",
+      "meta": ["IT主力株 最大+5%（23日）", "Nifty IT 1カ月で+16%超"],
+      "source": "Business Today",
+      "sourceUrl": "https://www.businesstoday.in/markets/stocks/story/tcs-infosys-wipro-hcl-tech-mphasis-coforge-shares-rallied-up-to-5-today-heres-why-563190-2026-10-23"
+    },
+    {
+      "rank": 15,
+      "field": "ad",
+      "sec": "センサ・半導体",
+      "badges": [],
+      "title": "VW・メルセデス・ボルボ・JLRがNVIDIA Hyperionを採用　ロボタクシー向け",
+      "summary": "NVIDIAはGTC Berlin 2026で、フォルクスワーゲングループ、メルセデス・ベンツ、ボルボ、ジャガー・ランドローバーがロボタクシー用途で自動運転プラットフォームHyperionを採用したと発表した。ジェンスン・フアンCEOはロボタクシーが年間約1兆マイルを走行し、走行コストは1マイルあたり1〜2ドル程度になり得ると述べた。",
+      "insight": "欧州勢が自社開発からプラットフォーム調達へ寄った。車載計算基盤の寡占が進む。",
+      "meta": ["採用 VW/メルセデス/ボルボ/JLR", "想定 年1兆マイル・1〜2ドル/マイル"],
+      "source": "MONOist",
+      "sourceUrl": "https://monoist.itmedia.co.jp/mn/articles/2610/24/news010.html"
+    },
+    {
+      "rank": 16,
+      "field": "AI",
+      "sec": "業務活用",
+      "badges": ["us"],
+      "title": "OpenAI、判定用途の「Decisions API」を正式提供　出力トークン課金なし",
+      "summary": "OpenAIがGPT-6 Lunaベースの Decisions API を一般提供した。確率・選択・スコアを返す判定専用のエンドポイントで、Responses API比で最大10倍高速とする。価格は入力100万トークンあたり0.10ドル（キャッシュ0.01ドル）で出力トークン課金はなく、1リクエストで最大400問に対応する。Datadogはp95レイテンシが40倍改善、Sierraはp95 280ms未満かつコスト90%減と報告している。",
+      "insight": "分類・リスク判定のような大量・短文の社内処理はこの種のAPIでコスト構造が変わる。",
+      "meta": ["価格 入力$0.10/100万tok", "出力課金 なし", "最大400問/リクエスト"],
+      "source": "DEV Community AI Daily Digest（OpenAI Blog）",
+      "sourceUrl": "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-24-2026-anthropic-opens-the-books-ai-finds-phps-oldest-bugs-europe-118c"
+    },
+    {
+      "rank": 17,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "ジャガー、リアビューカメラの不具合で約9万4000台をリコール",
+      "summary": "ジャガーはリアビューカメラの表示不具合により、米国で約9万4000台をリコールする。後退時に映像が表示されない恐れがあり、連邦自動車安全基準の要件を満たさなくなる可能性がある。",
+      "meta": ["対象 約9万4000台", "不具合 リアビューカメラ表示"],
+      "source": "FOX 5 Atlanta",
+      "sourceUrl": "https://www.fox5atlanta.com/news/jaguar-recalls-94000-vehicles-over-rearview-camera-defect"
+    },
+    {
+      "rank": 18,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": ["us"],
+      "title": "Meta、AI機能の責任を広告主へ転嫁　10月30日から新ビジネスAI規約",
+      "summary": "Metaが改定したビジネスAI規約が10月30日に発効し、同社のAI機能に起因するリスクについて企業顧客が「単独で責任を負う」と定める。広告主はMetaに対する補償（インデムニティ）義務も負う。プラットフォーム側がAI利用のリスクを顧客側へ移す動きとして、AI機能を使う企業の契約審査に直結する。",
+      "insight": "AI機能の利用規約が責任移転条項を含む流れは他プラットフォームにも波及しうる。社内の契約レビュー対象を見直す必要がある。",
+      "meta": ["発効 10月30日", "条項 顧客が単独責任＋補償義務"],
+      "source": "AI Weekly（Startup Fortune報道）",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 19,
+      "field": "india",
+      "sec": "マクロ",
+      "badges": [],
+      "title": "インド10月PMI速報、民間部門の伸びが4カ月ぶり高水準　雇用は減速",
+      "summary": "インドの10月のPMI速報値で民間部門の成長が4カ月ぶりの高水準となった一方、雇用の伸びは鈍化した。原油高とルピー安がコスト面の圧力となるなか、内需主導の成長が続いていることを示す。",
+      "meta": ["民間部門の伸び 4カ月ぶり高水準", "雇用 伸び鈍化"],
+      "source": "ANI News",
+      "sourceUrl": "https://aninews.in/news/business/private-sector-growth-in-india-hits-4-month-high-in-october-but-hiring-slows20261023125018/"
+    },
+    {
+      "rank": 20,
+      "field": "ad",
+      "sec": "M&A・技術",
+      "badges": ["us"],
+      "title": "リビアン、3D環境生成のThird Dimension AIを買収　2028年ロボタクシー投入へ",
+      "summary": "リビアンが2024年設立のThird Dimension AIを買収した。実走行のカメラ映像を操作可能な3D環境に変換する技術を持ち、チームは約15人でウェイブやParallel Domain出身者が中心。買収額は非開示。リビアンは12月にカリフォルニア州とフロリダ州で招待制プログラムを開始し、ロボタクシーは2028年を目標とする。",
+      "insight": "実走行データからシミュレーション環境を生成する技術は、検証工数を左右する競争領域になっている。",
+      "meta": ["買収額 非開示", "招待制開始 12月（カリフォルニア・フロリダ）", "ロボタクシー 2028年目標"],
+      "source": "DEV Community AI Daily Digest（Business Wire等）",
+      "sourceUrl": "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-24-2026-anthropic-opens-the-books-ai-finds-phps-oldest-bugs-europe-118c"
+    }
+  ],
+  "weekly": [
+    "Anthropicの暫定S-1が判明。上半期売上163億ドル・純損失807億ドルで、クラウド等の調達コミットメントは4500億ドル規模。",
+    "ホンダがコンデンサの仕様違いで1万5191台をリコール届出。7車種に加え中国・タイ生産車にも同じ不具合が波及。",
+    "原油ブレントが114ドル台と約5カ月ぶり高値圏。今週のFOMCと日銀会合を前にインフレ再燃が最大の変動要因。"
+  ]
+}
