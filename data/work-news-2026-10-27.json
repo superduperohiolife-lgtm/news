@@ -1,0 +1,252 @@
+{
+  "date": "2026-10-27",
+  "sub": "火",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": ["us"],
+      "title": "メタ、AI投資へ950億ドル規模の株式発行を計画　NVIDIA・AMDが引受候補",
+      "summary": "メタが10月26日、AIインフラ拡張の資金調達として約950億ドル規模の株式発行計画を公表。報道ではNVIDIAやAMDが引受候補に挙がっており、GPU供給元が顧客の資金調達側に回る構図が一段進む。AIデータセンター投資の資金需要が自己資金・デットの枠を超えつつあることを示す規模。",
+      "insight": "半導体ベンダーが顧客のファイナンスに関与する循環的構造は、AI投資のリスク評価を難しくする。",
+      "meta": ["調達規模 約950億ドル", "引受候補 NVIDIA・AMD", "用途 AIインフラ"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html"
+    },
+    {
+      "rank": 2,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": ["us"],
+      "title": "Anthropic、SECにS-1を正式提出　ナスダック「ANT」で上場へ",
+      "summary": "前日に内容が判明していた暫定版から進み、10月26日にSECへS-1を正式提出。ナスダック上場・ティッカー「ANT」を予定し、2026年上期売上は163億ドル、純損失は807億ドルと開示された。AI大手として初の大型IPOとなる見通し。",
+      "meta": ["上期売上 163億ドル", "純損失 807億ドル", "ティッカー ANT（ナスダック）"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-updates-frontier-ai-lab-discloses-revenue-and-risks-in-highly-anticipated-s-1-filing-141702607.html",
+      "followup": {
+        "since": "2026-10-26",
+        "whatsNew": "暫定S-1の判明から、SECへの正式提出とナスダック・ティッカー「ANT」の確定まで進んだ。"
+      }
+    },
+    {
+      "rank": 3,
+      "field": "econ",
+      "sec": "商品・地政学",
+      "badges": ["us"],
+      "title": "原油が反落、トランプ氏が対イラン攻撃を否定　WTIは101ドル近辺",
+      "summary": "トランプ米大統領が「今日は攻撃しない」とイランへの即時攻撃を否定し、10月26日の原油は2%超下落。WTIは101ドル近辺、ブレントは110ドルを割り込んだ。前営業日まで中東緊迫で約5カ月ぶり高値圏にあった流れが一転し、株式市場のインフレ懸念も後退した。",
+      "insight": "値動きは外交イベント次第で、供給リスクそのものは解消していない点に注意。",
+      "meta": ["WTI 約101ドル（26日時点）", "ブレント 110ドル割れ", "下落率 2%超"],
+      "source": "Benzinga",
+      "sourceUrl": "https://www.benzinga.com/news/politics/26/10/62581355/trump-iran-strike-oil-prices",
+      "followup": {
+        "since": "2026-10-26",
+        "whatsNew": "前日はブレント114ドル台まで続伸していたが、攻撃否定発言で一転して反落に転じた。"
+      }
+    },
+    {
+      "rank": 4,
+      "field": "econ",
+      "sec": "市場（日本）",
+      "badges": ["jp"],
+      "title": "日経平均は503円安で3日続落　約3カ月ぶり安値、AI関連に売り",
+      "summary": "10月26日の日経平均は前週末比503円安と3日続落し、約3カ月ぶりの安値。米国株でのAI関連株安を受け半導体・AI関連が売られ、後場に安値引けとなった。一方でTOPIXは反発し、指数内の二極化が進んだ。",
+      "meta": ["日経平均 503円安（26日終値）", "3日続落・約3カ月ぶり安値", "TOPIXは反発"],
+      "source": "株探",
+      "sourceUrl": "https://kabutan.jp/news/marketnews/?b=n202610260810"
+    },
+    {
+      "rank": 5,
+      "field": "econ",
+      "sec": "市場（米国）・中央銀行",
+      "badges": ["us"],
+      "title": "米株は上昇で始動、今週はFRB・ECB決定と大型ハイテク決算が集中",
+      "summary": "10月26日の米国市場はAnthropicの上場申請や原油安を受けて主要3指数が上昇。今週はFRBとECBの政策決定に加え、アルファベット・マイクロソフト・アマゾンなど大型ハイテクの決算が並ぶ。AI投資の採算性が焦点となる週。",
+      "meta": ["今週 FRB・ECB政策決定", "決算 Alphabet/Microsoft/Amazon等", "26日は3指数上昇"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-26-dow-sp-500-nasdaq-101153035.html"
+    },
+    {
+      "rank": 6,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": ["us"],
+      "title": "OpenAIが大幅値引き攻勢、Anthropicの大口顧客を奪取　ReplitやRipplingが移行",
+      "summary": "The Information報道をもとに、OpenAIが最大級の割引を提示してAnthropicの主要法人顧客を獲得していると伝えられた。ReplitやRipplingがすでに移行したとされ、フロンティアモデルの法人向け価格競争が本格化。トークン単価の下落は利用側には追い風だが、契約条件の確認が必要。",
+      "insight": "業務導入では単価だけでなく、レート制限や値引きの適用期間を契約段で押さえるべき。",
+      "meta": ["移行例 Replit・Rippling", "値引き 大幅（報道ベース・要確認）"],
+      "source": "TNW",
+      "sourceUrl": "https://thenextweb.com/news/openai-discounts-anthropic-customers-replit-rippling"
+    },
+    {
+      "rank": 7,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "アウディ、Q4 e-tron 9,048台をバッテリー火災リスクでリコール　恒久対策は未確定",
+      "summary": "アウディが米国でQ4 e-tron 9,048台を高電圧バッテリーの火災リスクでリコール。現時点で恒久的な修理方法は確定しておらず、所有者には充電量を抑えるよう案内されている。対策未確定のままリコール届出に至る例で、電池セル起因の品質問題の難しさを示す。",
+      "insight": "対策未定リコールは代替輸送・保管対応など現場コストが長期化しやすい。",
+      "meta": ["対象 9,048台", "原因 高電圧バッテリー火災リスク", "恒久対策 未確定"],
+      "source": "The EV Report",
+      "sourceUrl": "https://theevreport.com/audi-q4-e-tron-recall-battery-fire-risk"
+    },
+    {
+      "rank": 8,
+      "field": "auto",
+      "sec": "株価・評価",
+      "badges": ["us"],
+      "title": "テスラ株が急伸、バークレイズが格上げ　目標株価を450ドルへ引き上げ",
+      "summary": "バークレイズが10月26日にテスラを「オーバーウエート」へ格上げし、目標株価を20%引き上げて450ドルとした。SpaceXとの統合可能性を強気シナリオの柱に据えた点が特徴で、同日のテスラ株は5〜6%高。10月のMag7で最も強い値動きとなった。",
+      "meta": ["格上げ オーバーウエート", "目標株価 450ドル（+20%）", "26日株価 5〜6%高"],
+      "source": "24/7 Wall St.",
+      "sourceUrl": "https://247wallst.com/investing/2026/10/26/tesla-rises-6-as-barclays-upgrade-cites-spacex-merger-potential-lucid-drops-4-rivian-slips/"
+    },
+    {
+      "rank": 9,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": ["jp"],
+      "title": "政府がAIリスク抑制策を議論　法改正で悪質事業者への罰則も検討",
+      "summary": "政府は10月26日、AIの悪用・権利侵害などリスク抑制に向けた対策を議論。現行のAI関連法の改正を視野に、悪質な事業者への罰則導入も論点に挙がった。利活用促進と規制のバランスをどう取るかが今後の調整課題となる。",
+      "insight": "社内のAI利用規程は、罰則を含む改正の方向性が固まる前提で見直しの準備が要る。",
+      "meta": ["論点 法改正・罰則導入", "段階 議論中（内容は未確定）"],
+      "source": "共同通信（中日新聞Web）",
+      "sourceUrl": "https://chunichi.co.jp/article/1330614"
+    },
+    {
+      "rank": 10,
+      "field": "econ",
+      "sec": "為替・中央銀行",
+      "badges": ["jp"],
+      "title": "円相場は157円台　日銀30日会合は現状維持の見通し、12月利上げ観測が残る",
+      "summary": "10月26日午後5時時点の円相場は1ドル=157円13〜14銭。日銀は10月30日の金融政策決定会合で政策維持の見通しと報じられ、焦点は2%物価目標の到達評価と12月利上げの可能性に移っている。",
+      "meta": ["ドル円 157円13〜14銭（26日17時）", "日銀会合 10月30日", "12月利上げ観測（要確認）"],
+      "source": "時事通信",
+      "sourceUrl": "https://news.infoseek.co.jp/article/jiji_2026102600844/"
+    },
+    {
+      "rank": 11,
+      "field": "india",
+      "sec": "IT・半導体",
+      "badges": ["jp"],
+      "title": "RapidusとHCLTechが次世代半導体で協業　インド2拠点に開発センター",
+      "summary": "Rapidusとインド大手HCLTechが10月26日、次世代半導体技術での協業を発表。インド国内2拠点に開発センターを設け、設計面からRapidusの先端プロセスを支援する。日本の先端ロジックとインドの設計人材を結ぶ枠組みで、日印の半導体サプライチェーン連携が一段進む。",
+      "insight": "設計リソースの不足を海外人材で補う形は、国内の人材確保コストにも影響する。",
+      "meta": ["拠点 インド2都市", "領域 次世代半導体の設計支援"],
+      "source": "マイナビニュース TECH+",
+      "sourceUrl": "https://news.mynavi.jp/techplus/article/20261026-5198979/"
+    },
+    {
+      "rank": 12,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "インド株が4日続落から反発、Sensexは483高・Nifty50は2万2753",
+      "summary": "10月26日のインド市場はSensexが483ポイント高、Nifty50が2万2753で引け、4日続落に歯止めがかかった。原油価格の落ち着きが買い戻しを誘った。ただ日中は軟調な時間帯もあり、水準自体は依然前週からの下げを埋め切っていない。",
+      "meta": ["Sensex +483pt（26日終値）", "Nifty50 22,753", "4日続落から反発"],
+      "source": "HDFC Sky",
+      "sourceUrl": "https://hdfcsky.com/news/market-close-report-today-october-26-2026-sensex-nifty-rise-as-markets-snap-four-day-losing-streak",
+      "followup": {
+        "since": "2026-10-26",
+        "whatsNew": "前日に伝えた4日続落・Nifty2万2600水準から、原油安を受けて反発に転じた。"
+      }
+    },
+    {
+      "rank": 13,
+      "field": "ad",
+      "sec": "認可・規制",
+      "badges": [],
+      "title": "中国でL3級自動運転の運営・テスト資格取得が相次ぐ　VW中国は合肥で試験ナンバー",
+      "summary": "中国で高度自動運転（L3級）の運営・走行試験資格の付与が相次いでいると10月26日に報じられ、新たに2社が資格を取得。フォルクスワーゲン中国は合肥でL3級の道路試験ナンバーを得た。産業化の本格期を2028年とみる見方が出ている。",
+      "insight": "L3の法的枠組みを先に整える中国の進め方は、日米欧の認可競争に時間差の圧力をかける。",
+      "meta": ["新規取得 2社", "VW中国 合肥でL3試験ナンバー", "産業化本格期 2028年（見方）"],
+      "source": "21世紀経済報道",
+      "sourceUrl": "https://www.21jingji.com/article/20261026/herald/7c11df137118d2744c6766a30f36dbd5.html"
+    },
+    {
+      "rank": 14,
+      "field": "auto",
+      "sec": "提携・商品",
+      "badges": ["jp"],
+      "title": "ホンダと三菱自が四輪で初の相互補完　トライトンOEMを2028年投入",
+      "summary": "ホンダと三菱自動車が四輪商品の相互補完に関する覚書を締結。アセアン向けに三菱のピックアップ「トライトン」をベースとしたOEMモデルをホンダへ供給し、2028年の発売を予定する。両社の四輪での相互補完は初めて。",
+      "insight": "商品空白をOEMで埋める動きは、部品側の仕様共通化・調達計画にも波及する。",
+      "meta": ["対象 ピックアップ（トライトンベース）", "市場 アセアン", "発売 2028年予定"],
+      "source": "AUTOCAR JAPAN",
+      "sourceUrl": "https://www.autocar.jp/post/1289274"
+    },
+    {
+      "rank": 15,
+      "field": "ad",
+      "sec": "実用化",
+      "badges": ["jp"],
+      "title": "JALと福岡空港、貨物搬送でレベル4無人運転車の運用開始　西日本初",
+      "summary": "JALと福岡国際空港（FIAC）が10月26日、福岡空港の貨物搬送にレベル4の無人運転車両を導入し運用を開始。西日本の空港では初で、約1.7kmの区間を約10分で搬送する。空港業務の人手不足対策として省人化を進める。",
+      "meta": ["区間 約1.7km・約10分", "西日本の空港で初", "用途 貨物搬送の省人化"],
+      "source": "sky-budget",
+      "sourceUrl": "https://sky-budget.com/2026/10/26/first-in-western-japan-level-4-autonomous-transport-vehicles-begin-operation-at-fukuoka-airport/"
+    },
+    {
+      "rank": 16,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "ヒュンダイ、VenueとElantraをホイールナット緩みの恐れでリコール",
+      "summary": "ヒュンダイが米国でVenueおよびElantraを対象に、ホイールナットが緩む恐れがあるとしてリコールを届け出た。走行中の脱輪につながりうる不具合で、NHTSAの週次リコール公表に含まれた。締結管理に起因する典型的な組立工程の不具合。",
+      "meta": ["対象 Venue・Elantra", "不具合 ホイールナットの緩み", "対象台数 要確認"],
+      "source": "autoevolution",
+      "sourceUrl": "https://www.autoevolution.com/news/hyundai-venue-and-elantra-recalled-for-potentially-loose-lug-nuts-277539.html"
+    },
+    {
+      "rank": 17,
+      "field": "ad",
+      "sec": "物流・商用車",
+      "badges": ["jp"],
+      "title": "T2、無人／有人切替拠点での自動運転トラック発着に初成功　27年1月に商用運行",
+      "summary": "自動運転トラックのT2が、無人運転と有人運転を切り替える拠点での自動発着に初めて成功したと公表。一般道を経由した連続自動走行やスマートフォンからの発車指示も実証し、2027年1月の商用運行開始を目指す。高速道路外への拡張が進む。",
+      "meta": ["初成功 無人／有人切替拠点の自動発着", "商用運行 2027年1月目標", "一般道の自動走行も実証"],
+      "source": "LIGARE",
+      "sourceUrl": "https://ligare.news/story/t2_20261026/"
+    },
+    {
+      "rank": 18,
+      "field": "india",
+      "sec": "マクロ",
+      "badges": [],
+      "title": "インドの対外投資コミットメント、9月は37%減の43.4億ドル　RBI統計",
+      "summary": "RBI統計で、インド企業の海外投資コミットメントが9月に前年同月比37%減の43.4億ドルとなった。大型案件の端境期とみられるが、国内投資の優先や資金調達環境の影響も指摘される。対外M&Aの減速が続くか注目される。",
+      "meta": ["9月 43.4億ドル", "前年比 37%減", "出所 RBI統計"],
+      "source": "The Tribune",
+      "sourceUrl": "https://www.tribuneindia.com/news/business/indias-overseas-investment-commitments-fall-37-to-usd-4-34-billion-in-september-rbi"
+    },
+    {
+      "rank": 19,
+      "field": "econ",
+      "sec": "地政学",
+      "badges": [],
+      "title": "クレムリン、プーチン・トランプ・習の3者会談に向け準備と表明",
+      "summary": "ロシア大統領府が10月26日、プーチン・トランプ・習近平による3者会談に向けた準備が進んでいると表明した。日程や議題は示されていない。実現すれば通商・エネルギー・安全保障の各面で市場に影響しうるが、現時点では開催の確度は不明。",
+      "meta": ["段階 準備中（日程未定）", "開催確度 要確認"],
+      "source": "The Washington Times",
+      "sourceUrl": "https://washingtontimes.com/news/2026/oct/26/kremlin-says-preparations-underway-trilateral-summit-putin-trump-xi"
+    },
+    {
+      "rank": 20,
+      "field": "india",
+      "sec": "投資誘致",
+      "badges": ["jp"],
+      "title": "グジャラート州、日韓訪問後に新規投資の流入を見込むと表明",
+      "summary": "グジャラート州のサンガビ副首相が、日本と韓国の訪問を終え、州への新規投資が大きく流入する見通しだと述べた。製造誘致の競争が州単位で進む構図で、日本企業の対印投資の受け皿として同州が売り込みを強めている。具体的な案件額は示されていない。",
+      "meta": ["訪問先 日本・韓国", "案件額 未公表（要確認）"],
+      "source": "Asianet Newsable",
+      "sourceUrl": "https://newsable.asianetnews.com/india/gujarat-poised-for-new-global-investment-post-sanghavi-asia-missions-articleshow-wxr3k9e"
+    }
+  ],
+  "weekly": [
+    "メタがAIインフラ向けに約950億ドルの株式発行を計画し、NVIDIA・AMDが引受候補に挙がる",
+    "トランプ氏の対イラン攻撃否定で原油が反落、WTIは101ドル近辺まで下落",
+    "中国でL3級自動運転の運営・テスト資格取得が相次ぎ、VW中国は合肥で試験ナンバーを取得"
+  ]
+}
