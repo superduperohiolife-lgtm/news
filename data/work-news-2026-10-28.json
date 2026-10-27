@@ -1,0 +1,252 @@
+{
+  "date": "2026-10-28",
+  "sub": "水",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "auto",
+      "sec": "市場・競争",
+      "badges": ["jp"],
+      "title": "中国勢が欧州の四半期新車販売で日本勢を初逆転　シェア12.7%",
+      "summary": "調査会社Dataforceの集計で、中国ブランドの欧州四半期新車販売が初めて日本ブランドを上回り、シェアは12.7%に達した。BYDやMG（上汽）などが低価格EV・PHEVで台数を伸ばし、欧州市場で長く上位を占めてきた日本勢の地盤が崩れた形。EU関税下でも伸びが止まっていない点が焦点。",
+      "insight": "欧州は日本OEMの主要収益地域。価格帯と電動化ミックスの両面で中国勢と直接競合する段階に入った。",
+      "meta": ["中国ブランドシェア 12.7%", "出典データ Dataforce", "日本勢を初めて逆転"],
+      "source": "Taipei Times",
+      "sourceUrl": "https://www.taipeitimes.com/News/biz/archives/2026/10/27/2003866660"
+    },
+    {
+      "rank": 2,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": ["us"],
+      "title": "OpenAIが「GPT-6.1 Terra」投入　API価格を50%引き下げ、PC操作機能を強化",
+      "summary": "OpenAIは10月27日、新モデル「GPT-6.1 Terra」を公開し、標準API価格を従来比50%引き下げた。コンピュータ操作（computer use）とオフィス業務の自動化を主眼に据え、エージェントの処理速度は約3倍と説明。batch/flex利用でも標準価格比50%減となる。",
+      "insight": "推論コストの急落が続く局面。業務自動化の採算ラインが下がり、社内PoCの再評価が必要。",
+      "meta": ["標準API価格 -50%", "エージェント速度 約3倍", "用途 PC操作・事務自動化"],
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/"
+    },
+    {
+      "rank": 3,
+      "field": "auto",
+      "sec": "品質不正",
+      "badges": ["jp"],
+      "title": "ニデック、創業者・永守氏ら歴代経営陣9人を提訴へ　会計不正で損害賠償請求",
+      "summary": "ニデックは10月27日、創業者の永守重信氏や歴代5社長を含む計9人に対し、会社に損害を与えたとして損害賠償を求める訴えを起こすと決めた。報道では請求根拠は不正会計とされ、請求額は検討中。同社では会計不正の点検過程で品質不適切行為も判明し、9月に調査報告書が公表されていた。",
+      "insight": "品質不正を含む一連の不祥事の責任追及が、組織処分から個人への賠償請求に移行。サプライヤー側のガバナンス要求が一段強まる局面。",
+      "meta": ["提訴対象 9人（歴代5社長含む）", "請求額 検討中（要確認）", "請求根拠 不正会計と報道", "品質不正は別途調査報告済み"],
+      "source": "時事通信（Yahoo!ニュース）",
+      "sourceUrl": "https://news.yahoo.co.jp/articles/9b6666e9a196622f8879b3a2183b2d0525d60808",
+      "followup": {
+        "since": "2026-10-27",
+        "whatsNew": "会計・品質の不正を受け、創業者永守氏を含む歴代経営陣9人への損害賠償請求という個人責任追及の段階に進んだ。"
+      }
+    },
+    {
+      "rank": 4,
+      "field": "AI",
+      "sec": "企業・産業",
+      "badges": ["us"],
+      "title": "マイクロソフト、約6万人に希望退職を提示　AI投資のコスト圧力で人員再編",
+      "summary": "マイクロソフトが全世界で約6万人の社員に自主的な希望退職（voluntary buyout）を提示したと複数媒体が報じた。全従業員の約4分の1に相当する規模で、膨張するAI関連投資のコストを吸収しつつ人員構成をAI中心に組み替える狙いとされる。対象部門の内訳や受け入れ見込み人数は未公表。",
+      "insight": "AI capexの増加分を人件費で相殺する動きが大手で表面化。生産性施策としてのAI導入が雇用計画と直結し始めた。",
+      "meta": ["対象 約6万人（全体の約1/4）", "形式 希望退職の提示", "背景 AI投資のコスト圧力"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html"
+    },
+    {
+      "rank": 5,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "日経平均が1078円高で4日ぶり反発　終値6万3268円、半導体株指数は3%高",
+      "summary": "27日の東京株式市場で日経平均は前日比1078円高の6万3268円と4営業日ぶりに反発した。前日の米ハイテク株高が波及し、半導体関連の指数は約3%上昇。AnthropicのIPO申請を受けたAI・半導体株の見直し買いが支えとなった。前日は約3カ月ぶり安値まで下げていた。",
+      "meta": ["日経平均終値 63,268円（+1,078円）", "半導体株指数 約+3%", "取得時点 27日大引け"],
+      "source": "株探",
+      "sourceUrl": "https://s.kabutan.jp/news/n202610271089/"
+    },
+    {
+      "rank": 6,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us", "jp"],
+      "title": "トヨタ、米国でシエナHV 22万8367台をリコール　2列目シートバックの固定不良",
+      "summary": "トヨタは米国でシエナ・ハイブリッドのミニバン22万8367台をリコールすると米道路交通安全局（NHTSA）に届け出た。2列目シートのシートバックが確実に固定されない恐れがあり、衝突時に乗員保護が十分に機能しない可能性がある。NHTSAは10月26日にもフォード・ポルシェ・スバル・トヨタなど複数ブランドのリコールを公表している。",
+      "meta": ["対象 228,367台", "車種 シエナ ハイブリッド", "不具合 2列目シートバックの固定不良", "届出先 NHTSA"],
+      "source": "CarBuzz",
+      "sourceUrl": "https://carbuzz.com/toyota-sienna-seat-recall-october-27/"
+    },
+    {
+      "rank": 7,
+      "field": "econ",
+      "sec": "通商・地政学",
+      "badges": [],
+      "title": "ホーシー派、サウジ・ラスタヌラ製油所とリヤド空港への攻撃を主張　原油は1%安",
+      "summary": "イエメンのホーシー派が、サウジアラビアのラスタヌラ製油所やリヤドの空港、東西パイプラインの送油ポンプ場へのミサイル攻撃を実施したと主張した。サウジ側は一部について確認を公表していない。一方で米イラン外交の進展期待が優勢となり、27日の原油は1%程度下落、ブレントは115ドル前後で推移した。",
+      "insight": "供給途絶リスクと外交進展が綱引き。物流費・樹脂原料価格の前提は週単位で見直す必要がある。",
+      "meta": ["主張された標的 ラスタヌラ製油所・リヤド空港・東西パイプライン", "サウジの確認 一部未公表（要確認）", "ブレント 115ドル前後（27日時点）"],
+      "source": "Anadolu Agency",
+      "sourceUrl": "https://www.aa.com.tr/en/middle-east/yemen-s-houthis-claim-missile-attack-on-saudi-arabia-s-ras-tanura-oil-refinery/4102578"
+    },
+    {
+      "rank": 8,
+      "field": "AI",
+      "sec": "企業・産業",
+      "badges": ["us"],
+      "title": "AnthropicのS-1詳細判明　上期売上163億ドル・損失807億ドル、損失の大半は非現金",
+      "summary": "ナスダック上場（ティッカー「ANT」）を目指すAnthropicのS-1の中身が明らかになり、報道ベースで上期売上高163億ドル、純損失807億ドルとされる。損失の大半は株式報酬などの非現金項目で、実質的な負担はコンピュート（計算資源）調達コストに集中すると分析されている。申請書にはセキュリティ事案やモデル学習の一時停止も開示された。",
+      "insight": "AI大手の損益構造が初めて公開形式で検証可能になった。コンピュート契約の残高が実質的な固定費リスク。",
+      "meta": ["上期売上 163億ドル（報道ベース）", "純損失 807億ドル（大半が非現金）", "ティッカー ANT", "開示 セキュリティ事案・学習停止"],
+      "source": "Forbes",
+      "sourceUrl": "https://www.forbes.com/sites/ronschmelzer/2026/10/26/anthropic-ipo-ai-boom-valuation-risks/",
+      "followup": {
+        "since": "2026-10-27",
+        "whatsNew": "S-1提出の事実報道から、売上・損失の具体数値とセキュリティ事案・学習停止の開示内容まで中身が判明した。"
+      }
+    },
+    {
+      "rank": 9,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "マスク氏「勝負にならなかった」　テスラがオースティンで週43.8万マイル、Waymo超えと主張",
+      "summary": "マスク氏は、テスラのロボタクシーがオースティンで10月18日までの1週間に43.8万マイル（安全運転者なし）を走行し、Waymoの同地域の平均を上回ったと主張した。ただしWaymo側の数値は4〜6月の週平均約40.6万マイルで時期が一致しない。全米ではWaymoが第2四半期に週平均390万マイルで、テスラの約7倍、累計では約87倍。",
+      "insight": "単一都市の走行距離では接近したが、都市数と累計実績の差は依然大きい。比較の時点ずれに注意。",
+      "meta": ["テスラ オースティン 43.8万マイル/週（10/18週）", "Waymo 同地域 約40.6万マイル/週（Q2平均）", "全米 Waymoが週で約7倍", "集計 Robotaxi Tracker"],
+      "source": "Electrek",
+      "sourceUrl": "https://electrek.co/2026/10/27/musk-robotaxi-victory-waymo-austin-miles/"
+    },
+    {
+      "rank": 10,
+      "field": "econ",
+      "sec": "市場・中央銀行",
+      "badges": ["us"],
+      "title": "米株は半導体主導で上昇　FOMC結果は28日、今週の利上げ織り込みは11%",
+      "summary": "27日の米国市場は半導体株が主導して上昇し、ナスダック総合は26,344.46（+0.67%）、S&P500は7,705.78（+0.38%）、ダウは52,342.53（-0.04%）で推移した（いずれも27日の取引時間中の水準）。FOMCは27日に開幕し、金利決定は28日午後。政策金利は9月の0.25%引き上げで3.75〜4%となっており、CMEデータに基づく今週の追加利上げ織り込みは約11%にとどまる。",
+      "meta": ["ナスダック 26,344.46（+0.67%・27日取引中）", "政策金利 3.75〜4%", "今週の利上げ織り込み 約11%", "FOMC結果 28日午後（米東部）"],
+      "source": "HDFC SKY",
+      "sourceUrl": "https://hdfcsky.com/news/nasdaq-composite-jumps-175-points-to-26344-as-chip-stocks-rally-ahead-of-fed-decision"
+    },
+    {
+      "rank": 11,
+      "field": "india",
+      "sec": "IT・AI",
+      "badges": [],
+      "title": "インドIT株が急落　AnthropicのIPO申請を受けNifty ITが2%超安",
+      "summary": "27日のインド市場でIT株が売られ、Nifty ITは2%超下落してセクター別の最大の下げとなった。インフォシス、TCS、ウィプロ、HCLテック、Coforgeなどが安い。AnthropicのS-1提出でAI大手の収益規模が可視化され、受託型ITサービスの中抜きリスクが改めて意識されたとの見方が出ている。",
+      "insight": "AI収益化が進むほど、人月型オフショア開発の価格決定力が削られる構図。日系OEMのIT委託先選定にも波及しうる。",
+      "meta": ["Nifty IT 2%超安（27日）", "下落 Infosys・TCS・Wipro・HCLTech・Coforge", "契機 AnthropicのS-1提出"],
+      "source": "Business Today",
+      "sourceUrl": "https://www.businesstoday.in/markets/stocks/story/infosys-tcs-coforge-shares-it-stocks-fall-after-anthropic-ipo-filing-heres-why-563856-2026-10-27"
+    },
+    {
+      "rank": 12,
+      "field": "india",
+      "sec": "通商",
+      "badges": ["us"],
+      "title": "印米通商協定、大半の協議が終了し文言調整段階＝ゴヤル商工相",
+      "summary": "インドのゴヤル商工相は27日、米国との通商協定について大半の議論を終え、合意文書の最終調整（fine-tuning）に入ったと述べた。ホワイトハウス側も直近の協議を「生産的」と評価。関税や市場アクセスの具体条件は公表されておらず、妥結時期も明示されていない。",
+      "meta": ["状態 大半の協議終了・文言調整中", "発言者 ゴヤル商工相", "妥結時期 未公表（要確認）"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/amp/world-news/india-us-fine-tuning-trade-pact-after-concluding-most-discussions-goyal-126102700031_1.html"
+    },
+    {
+      "rank": 13,
+      "field": "auto",
+      "sec": "企業動向",
+      "badges": ["us"],
+      "title": "GM、11月17日にNYSEからナスダックへ上場市場を移管",
+      "summary": "ゼネラル・モーターズは10月27日、株式の上場市場をニューヨーク証券取引所からナスダックへ移すと発表した。移管は11月17日付で、ティッカー「GM」は維持する。GM株は発表を受けて取引序盤に5%程度上昇した。同社は自社をテクノロジー企業として位置づける方針を示している。",
+      "meta": ["移管日 2026年11月17日", "ティッカー GM（変更なし）", "発表日 10月27日"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/10/27/gm-nasdaq-nyse-stock-listing.html"
+    },
+    {
+      "rank": 14,
+      "field": "AI",
+      "sec": "研究・技術",
+      "badges": ["us"],
+      "title": "OpenAI、AI生成アルゴリズムが「指数時間仮説」を反証と主張　専門家が検証中（要確認）",
+      "summary": "OpenAIは、自社モデルが生成したアルゴリズムにより一部の計算困難問題を従来より高速に解けるとして、計算複雑性理論の「指数時間仮説（ETH）」を反証したと主張した。同社は数学・計算機科学・物理の複数分野で成果を主張しているが、証明の妥当性は外部専門家による査読段階で、確定していない。",
+      "meta": ["主張 指数時間仮説（ETH）の反証", "状態 外部専門家が検証中（未確定）", "主張分野 数学・CS・物理"],
+      "source": "The Washington Times",
+      "sourceUrl": "https://www.washingtontimes.com/news/2026/oct/27/openai-says-model-refuted-exponential-time-hypothesis/"
+    },
+    {
+      "rank": 15,
+      "field": "ad",
+      "sec": "実証・認可",
+      "badges": ["jp"],
+      "title": "NTTドコモビジネスと京都市、洛西エリアでレベル4を目指す自動運転バス実証",
+      "summary": "NTTドコモビジネスと京都市は、京都市洛西エリアで自動運転バスの実証を開始した。将来のレベル4運行を目標に据え、地域交通の担い手不足への対応を狙う。遠隔監視を含む運行体制と走行環境データの蓄積が当面の主眼。",
+      "meta": ["エリア 京都市洛西", "目標 レベル4運行", "主体 NTTドコモビジネス・京都市"],
+      "source": "AI Watch（Impress）",
+      "sourceUrl": "https://ai.watch.impress.co.jp/docs/news/2151233.html"
+    },
+    {
+      "rank": 16,
+      "field": "ad",
+      "sec": "実証・認可",
+      "badges": ["jp"],
+      "title": "マクニカ、滋賀・彦根城ルートで自動運転EVバスの実証運行",
+      "summary": "マクニカは滋賀県で、彦根城周辺ルートを走る自動運転EVバスの実証運行を実施する。観光地の回遊性向上と運転手不足対策を目的とし、一般公道での運用データを収集する。車両は電動小型バスを用いる。",
+      "meta": ["ルート 滋賀県・彦根城周辺", "車両 自動運転EVバス", "事業者 マクニカ"],
+      "source": "レスポンス",
+      "sourceUrl": "https://response.jp/article/2026/10/26/418213.html"
+    },
+    {
+      "rank": 17,
+      "field": "econ",
+      "sec": "マクロ・中央銀行",
+      "badges": ["jp"],
+      "title": "日銀30日会合は据え置き公算　エコノミストは全員が維持予想、次の利上げは12月が8割超",
+      "summary": "10月29〜30日の日銀金融政策決定会合について、日経の調査ではエコノミスト全員が政策金利の維持を予想し、次の利上げ時期は12月との見方が8割を超えた。2027年度の物価見通しは小幅に引き上げられる可能性が指摘される。27日の円相場は1ドル=157円台後半で、158円回復をうかがう展開となった。",
+      "meta": ["会合 10月29〜30日", "予想 全員が据え置き", "次回利上げ 12月予想が8割超", "ドル円 157円台後半（27日時点）"],
+      "source": "日本経済新聞",
+      "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL2271PTS6A021C2000000/",
+      "followup": {
+        "since": "2026-10-27",
+        "whatsNew": "据え置き観測が「全員維持予想・次回12月が8割超」という調査結果として固まり、27年度物価見通しの小幅引き上げ観測が加わった。"
+      }
+    },
+    {
+      "rank": 18,
+      "field": "auto",
+      "sec": "EV・通商",
+      "badges": [],
+      "title": "中国メーカーが欧州で生産を拡大　EU関税回避と国内過当競争が背景",
+      "summary": "中国の自動車メーカーが欧州での現地生産を拡大しているとの報道が相次いだ。BYDは欧州に新工場を建設してEV向けの通商障壁に対応する方針を示しており、国内市場の価格競争の激化も海外生産シフトを押している。中古EVを経由した関税回避の動きも指摘されている。",
+      "meta": ["狙い EU関税の回避", "動き BYDが欧州新工場を計画", "背景 中国国内の過当競争"],
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/business/china-evs/article/3372001/byd-build-new-factories-europe-combat-strict-trade-barriers-targeting-chinese-evs"
+    },
+    {
+      "rank": 19,
+      "field": "econ",
+      "sec": "決算",
+      "badges": ["us"],
+      "title": "ボーイング7-9月期は赤字縮小、売上は市場予想超え　737 MAX 10が型式証明取得",
+      "summary": "ボーイングの2026年7-9月期は純損失1億1600万ドル（1株当たり26セント）と、前年同期の53億4000万ドルの損失から大幅に縮小した。売上高は4%増の241億9000万ドルで、アナリスト予想の238億4000万ドルを上回った。米連邦航空局（FAA）は10月20日に737 MAX 10の型式証明を交付している。",
+      "meta": ["純損失 1.16億ドル（前年53.4億ドル）", "売上 241.9億ドル（+4%、予想超え）", "FAA 737 MAX 10型式証明を10/20交付"],
+      "source": "TheStreet",
+      "sourceUrl": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-27-2026"
+    },
+    {
+      "rank": 20,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "インド株はほぼ横ばいで終了　原油高とFOMC警戒が上値を抑制",
+      "summary": "27日のインド市場はSensex・Nifty50がともにほぼ横ばいで取引を終えた。中東情勢を受けた原油高とFOMCの結果待ちが上値を抑え、IT株の下落が指数の足を引っ張った。寄り付きでも原油とIT主導で下げて始まり、終日方向感を欠いた。",
+      "meta": ["Sensex・Nifty50 ほぼ横ばい（27日終値）", "重し 原油高・FOMC待ち", "セクター最大の下げ Nifty IT"],
+      "source": "HDFC SKY",
+      "sourceUrl": "https://hdfcsky.com/news/stock-market-close-report-today-october-27-2026-sensex-nifty-flatline-as-fed-looms-oil-boils"
+    }
+  ],
+  "weekly": [
+    "中国ブランドが欧州の四半期新車販売で日本勢を初逆転、シェア12.7%（Dataforce集計）",
+    "OpenAIがGPT-6.1 Terraを投入し標準API価格を50%引き下げ、PC操作と事務自動化が主眼",
+    "印米通商協定は大半の協議を終え文言調整段階、ホワイトハウスも協議を「生産的」と評価"
+  ]
+}
