@@ -1,0 +1,250 @@
+{
+  "date": "2026-10-29",
+  "sub": "木",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": ["us"],
+      "title": "OpenAIがGoogleのTPU調達へ　NVIDIA一本足の供給網を多極化",
+      "summary": "OpenAIがNVIDIA製GPUに加えてGoogleのTPUを調達する計画と複数媒体が報道。NVIDIAの最大顧客が競合の自社設計チップに手を広げる構図で、「NVIDIAチップは高すぎる」というコスト圧力が動機とされる。推論需要の急拡大に対し、単一ベンダー依存のリスクとコストを下げる狙い。",
+      "insight": "AI計算資源の調達は「性能最優先」から「コスト・供給安定の分散」に軸足が移りつつある。",
+      "meta": ["報道ベース(要確認)", "NVIDIA依存の低減"],
+      "source": "24/7 Wall St.",
+      "sourceUrl": "https://247wallst.com/investing/2026/10/28/openai-is-buying-googles-ai-chips-a-hit-to-nvidias-biggest-customer-bond/"
+    },
+    {
+      "rank": 2,
+      "field": "auto",
+      "sec": "品質不正",
+      "badges": ["jp"],
+      "title": "ニデック、有価証券報告書の「適正意見」得られず　上場廃止の瀬戸際、改善計画を東証提出へ",
+      "summary": "ニデックが会見し、有価証券報告書に対する監査法人の意見表明が期限内に得られなかったと説明。上場維持審査中の取得を目指し、内部管理体制の改善計画を東証に提出する方針を示した。会計不正の点検過程で発覚した品質不正（検査データの改ざん・ねつ造、顧客に無断の仕様変更など）が信頼回復の重荷となっている。発表を受け株価は後場に急落した。",
+      "insight": "部品サプライヤーのガバナンス不全が上場維持そのものを揺らす段階に入った。調達先としての継続性評価が実務上の論点になる。",
+      "meta": ["監査意見: 期限内に得られず", "元役員9人を提訴方針", "品質不正の認定件数は報道により差(要確認)"],
+      "source": "MONOist",
+      "sourceUrl": "https://monoist.itmedia.co.jp/mn/articles/2610/28/news083.html",
+      "followup": {
+        "since": "2026-10-28",
+        "whatsNew": "前回は元役員9人の提訴方針が主眼だったが、今回は有報の適正意見が期限内に得られず上場廃止リスクが現実化し、東証への改善計画提出方針と株価急落まで進展。"
+      }
+    },
+    {
+      "rank": 3,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "日経平均は685円高の6万3954円で続伸　AI信用不安が一服",
+      "summary": "28日の東京株式市場で日経平均株価は続伸し、終値は前日比685円高の6万3954円。AI関連の成長性・信用に対する懸念が後退し、半導体関連が引き続き買われた。SKハイニックスの好決算を受けキオクシアが急騰、アドバンテストは上方修正が市場予想を上回った。一方キヤノンなど決算への反応が厳しい銘柄は下落した。",
+      "meta": ["終値 6万3954円(+685円)", "10/28 大引け時点"],
+      "source": "日本経済新聞",
+      "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL285BK0Y6A021C2000000/"
+    },
+    {
+      "rank": 4,
+      "field": "AI",
+      "sec": "インフラ・資金",
+      "badges": ["us"],
+      "title": "Anthropic向けBroadcom製AIチップに630億ドルの融資枠　銀行団とBlackstoneが組成",
+      "summary": "ウォール街の銀行団とBlackstoneが、AnthropicがBroadcomから調達するAIチップ向けに総額630億ドルの資金を手当てしたとロイターが報じた。Broadcomは一時銀行側が難色を示したものの資金は「確保できる」と説明。半導体株の買い材料となり、Broadcom株やデータセンター関連が上昇した。",
+      "insight": "AI投資の主役が自己資金から外部レバレッジに移り、半導体需給が金融条件に連動し始めている。",
+      "meta": ["融資枠 630億ドル", "組成: 銀行団＋Blackstone"],
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/wall-street-banks-blackstone-line-up-63-billion-to-finance-broadcom-chips-for-anthropic-4973662"
+    },
+    {
+      "rank": 5,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "フォード、F-Series 10万2159台をリコール　速度計・回転計の不正表示",
+      "summary": "フォードが米国でF-150からF-750に及ぶ10万2159台をリコール。計器クラスターの不具合で速度計やタコメーターが不正確な値を表示し、運転者が速度を誤認して衝突リスクが生じるおそれがある。販売店での無償交換で対応する。",
+      "meta": ["対象 10万2159台", "不具合 計器クラスター"],
+      "source": "GuruFocus",
+      "sourceUrl": "https://www.gurufocus.com/news/9132411/ford-motor-f-recalls-102159-trucks-over-instrument-cluster-defect"
+    },
+    {
+      "rank": 6,
+      "field": "econ",
+      "sec": "マクロ・金利",
+      "badges": ["jp"],
+      "title": "長期金利が2.825%に上昇　幅広い年限に売り、債券先物は126円29銭",
+      "summary": "28日の国内債券市場で新発10年物国債利回りが2.825%に上昇。日本株高を受けたリスク選好と、30日の日銀金融政策決定会合を控えた持ち高調整で幅広い年限に売りが出た。債券先物は126円29銭で取引を終えた。",
+      "meta": ["10年債 2.825%", "先物 126円29銭", "10/28 引け時点"],
+      "source": "日本経済新聞",
+      "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL284XY0Y6A021C2000000/"
+    },
+    {
+      "rank": 7,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": ["us"],
+      "title": "AMDがMetaの株式売り出しに10億ドル出資　Heliosラックは試験段階へ",
+      "summary": "AMDがMetaの株式売り出しに10億ドルを出資すると報じられた。並行して、AI向けラックスケール製品「Helios」が試験段階に入ったとされる。NVIDIAがMetaに30億ドル規模の出資を行ったとの報道に続く動きで、半導体ベンダーと大口顧客が資本で結び付く流れが続いている。AMD株は28日に5%上昇し、時価総額1兆ドル回復に迫った。",
+      "insight": "チップ供給と顧客の資本関係が一体化し、需要の「囲い込み」が競争軸になっている。",
+      "meta": ["出資額 10億ドル", "AMD株 +5%(10/28)"],
+      "source": "DIGITIMES",
+      "sourceUrl": "https://www.digitimes.com/news/a20261028VL215/amd-meta-chips-2026-nvidia.html"
+    },
+    {
+      "rank": 8,
+      "field": "auto",
+      "sec": "新車・EV",
+      "badges": ["jp"],
+      "title": "メルセデス、主力SUV初のEV「electric GLC」を日本発表　913万円から・航続642km",
+      "summary": "メルセデス・ベンツが新型バッテリーEV「electric GLC」を日本で発表し、28日から予約を開始した。新開発の専用車台を採用し、一充電航続距離は642km、価格は913万円から。421馬力の4WD仕様も設定する。主力SUV「GLC」として初のEVで、ミドルSUV市場の電動化を狙う。",
+      "meta": ["価格 913万円から", "航続 642km", "予約開始 10/28"],
+      "source": "Car Watch",
+      "sourceUrl": "https://car.watch.impress.co.jp/docs/news/2151891.html"
+    },
+    {
+      "rank": 9,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "テスラのヒューストン「ロケット型」運行エリア、一部は実際には走行不可との指摘",
+      "summary": "テスラが26日にヒューストンのロボタクシー運行エリアをロケット（Starship）形に拡大したと発表したが、Electrekは拡大区域の一部で実際にはサービスが提供されていないと報じた。地図上の面積が実際の運行能力を表していないとの指摘で、同社の投入車両は限られるとの報道もある。",
+      "insight": "ジオフェンスの面積は能力指標にならない。車両数・稼働率と併せた評価が必要。",
+      "meta": ["拡大発表 10/26", "一部区域で運行なしとの指摘(要確認)"],
+      "source": "Electrek",
+      "sourceUrl": "https://electrek.co/2026/10/28/tesla-robotaxi-houston-rocket-service-area-fake/"
+    },
+    {
+      "rank": 10,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "インド株は続落　Sensex 345ポイント安、NiftyはIT株主導で22,700割れ",
+      "summary": "28日のインド株式市場はSensexが345ポイント安、Nifty50は22,700を下回って終えた。InfosysやHCLテックなどIT株が指数を押し下げ、エネルギー関連の売りも重なった。医薬・自動車・銀行株の上昇では相殺できなかった。",
+      "meta": ["Sensex -345pt", "Nifty 22,700割れ", "10/28 終値ベース"],
+      "source": "India TV News",
+      "sourceUrl": "https://www.indiatvnews.com/business/news/28-october-2026-stock-market-updates-sensex-down-345-points-nifty-below-22-700-it-shares-infosys-hcl-tech-drag-2026-10-28-1058088"
+    },
+    {
+      "rank": 11,
+      "field": "auto",
+      "sec": "戦略・生産",
+      "badges": ["us"],
+      "title": "GM、主力SUV工場をハイブリッド生産に対応へ　EV販売減速で方針転換",
+      "summary": "GMがシェビー・トラバースやGMCアカディア、ビュイック・エンクレーブを生産する主力SUV工場をハイブリッド生産に対応させる準備を進めていると報じられた。米国でのEV需要が鈍化し、同社の電気自動車販売が大幅に減少する中、北米ラインアップへのハイブリッド投入を正式に認めた流れを受けた動き。",
+      "insight": "北米の電動化はBEV一本化からHEV併走へ。部品側はエンジン系・電動系の両建て需要が読みにくくなる。",
+      "meta": ["対象 中大型SUV工場", "背景 EV需要鈍化"],
+      "source": "Autoblog",
+      "sourceUrl": "https://www.autoblog.com/news/gm-preps-major-suv-plant-for-hybrids-as-ev-sales-slide"
+    },
+    {
+      "rank": 12,
+      "field": "AI",
+      "sec": "業務活用・提携",
+      "badges": ["us"],
+      "title": "オラクル、OpenAIとの提携を拡大　ChatGPTとCodexを企業業務に統合",
+      "summary": "オラクルがOpenAIとの提携を拡大し、ChatGPTとコーディングエージェントCodexを自社の企業向けアプリケーションや業務フローに統合する製品群を発表した。ERPやHCMなど基幹業務の画面からAIを呼び出す形を想定し、セキュリティ機能も含む4つの提供形態が示された。",
+      "insight": "汎用チャットから基幹業務の中への埋め込みへ。社内活用の導線は「別アプリ」から「いつもの画面」に移る。",
+      "meta": ["提供形態 4種", "対象 企業向け業務アプリ"],
+      "source": "StreetInsider",
+      "sourceUrl": "https://www.streetinsider.com/Corporate+News/Oracle+and+OpenAI+announce+expanded+enterprise+AI+product+suite/27239447.html"
+    },
+    {
+      "rank": 13,
+      "field": "econ",
+      "sec": "商品・通商",
+      "badges": [],
+      "title": "世界銀行、2026年の商品価格は23%上昇の見通し　エネルギー32%高・金属25%高",
+      "summary": "世界銀行が28日公表した商品市場見通しで、2026年の商品価格全体が23%上昇し、2027年は7%下落すると予測した。エネルギーは3年続いた下落から転じて32%上昇、ブレント原油は2026年平均で1バレル91ドル（2025年は69ドル）、2027年は79ドルを見込む。金属は25%上昇でアルミ・銅・すずが最高値、貴金属は40%上昇。中東情勢の悪化などが重なる悪化シナリオでは2027年のブレントが105ドル平均になるとした。",
+      "insight": "原材料は2026年に一段高、2027年に反落という山型。調達は年度をまたぐ価格前提の置き方が効く。",
+      "meta": ["2026年 +23%／2027年 -7%", "ブレント 91ドル(26年平均予測)", "金属 +25%・貴金属 +40%"],
+      "source": "World Bank",
+      "sourceUrl": "https://www.worldbank.org/en/news/press-release/2026/10/28/commodity-markets-outlook-october-2026"
+    },
+    {
+      "rank": 14,
+      "field": "ad",
+      "sec": "規制・認可",
+      "badges": ["us"],
+      "title": "Waymo、カナダ・アルバータ州にロボタクシー認可を要請　カルガリー進出を視野",
+      "summary": "Waymoがカナダ・アルバータ州に無人ロボタクシーの運行認可を求めていると報じられた。カルガリーでの展開を視野に入れたもので、同社は10月中旬にカナダ進出方針を示し、都市のマッピングを進めていた。米国外での面展開に向けた規制対応が焦点となる。",
+      "meta": ["対象 アルバータ州(カルガリー)", "カナダ進出方針 10月中旬表明"],
+      "source": "Drive Tesla Canada",
+      "sourceUrl": "https://driveteslacanada.ca/news/waymo-driverless-robotaxi-alberta-calgary-approval/"
+    },
+    {
+      "rank": 15,
+      "field": "india",
+      "sec": "IT・AI",
+      "badges": [],
+      "title": "TCSとインフォシス、売上の10%超をAIで稼ぐ　印IT大手のAI収入は17億ドル規模",
+      "summary": "TCSとインフォシスがそれぞれ売上の10%超をAI関連で得る段階に入ったと報じられた。FY27第2四半期時点で印IT大手のAI由来収入は合計17億ドル規模とされ、PoC段階を越えた企業導入が収益に寄与し始めている。一方で株式市場はAI設備投資ブームが受託開発モデルを侵食する懸念から下落圧力を受けている。",
+      "insight": "受託ITの「AIで食う／AIに食われる」の分岐が数字で見え始めた。",
+      "meta": ["AI収入 計17億ドル規模", "売上比 10%超"],
+      "source": "Elets CIO",
+      "sourceUrl": "https://cio.eletsonline.com/artificial-intelligence/tcs-infosys-ai-revenue-crosses-10-percent-q2-fy27-hcltech-enterprise-ai/76447/"
+    },
+    {
+      "rank": 16,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "フォード、ピックアップ3万台超を追加リコール　テールゲートのケーブル破断",
+      "summary": "フォードが2026〜2027年型F-Seriesを中心にピックアップ3万台超をリコールすると届け出た。テールゲートのケーブルが破断し、走行中に開いて荷物が落下するおそれがある。計器クラスターの大規模リコールに続く案件で、同社の品質コストが積み上がっている。",
+      "meta": ["対象 3万台超", "不具合 テールゲートケーブル"],
+      "source": "Ford Authority",
+      "sourceUrl": "https://fordauthority.com/2026/10/2026-2027-ford-f-series-recalled-over-tailgate-cable-failures/"
+    },
+    {
+      "rank": 17,
+      "field": "ad",
+      "sec": "政策・規制",
+      "badges": ["jp"],
+      "title": "維新、副首都でのロボタクシー運行を提言　「権限移譲特区」創設を念頭",
+      "summary": "日本維新の会が規制改革の提言案で、副首都構想を念頭に自動運転タクシー（ロボタクシー）の参入促進を打ち出した。国から地方への権限移譲を可能にする特区の創設も盛り込み、地域単位で先行的に実装を進める構想を示した。",
+      "insight": "国の一律認可から地域特区方式へ。実証の主体が自治体側に寄る可能性がある。",
+      "meta": ["提言案 10/27報道", "特区 権限移譲型"],
+      "source": "産経新聞",
+      "sourceUrl": "https://news.yahoo.co.jp/articles/df940bc138a1b84cefa69ae7d167a9e8ad39f46e"
+    },
+    {
+      "rank": 18,
+      "field": "AI",
+      "sec": "研究",
+      "badges": ["us"],
+      "title": "Anthropicも「指数時間仮説」の反証を主張　OpenAIに続く形",
+      "summary": "AnthropicがOpenAIに続き、計算量理論の「指数時間仮説（ETH）」を反証したと主張したと報じられた。AIによる数学・アルゴリズム生成の成果とされるが、主張の妥当性は学界での検証途上にあり、確定した結果としては扱えない（要確認）。",
+      "meta": ["学界検証中(要確認)", "OpenAIの主張に続く形"],
+      "source": "GuruFocus",
+      "sourceUrl": "https://www.gurufocus.com/news/9146860/anthropic-follows-openai-in-debunking-exponential-time-hypothesis",
+      "followup": {
+        "since": "2026-10-28",
+        "whatsNew": "前回はOpenAI単独の主張だったが、Anthropicも同様の反証主張を示し、同種の主張が複数社に広がった。"
+      }
+    },
+    {
+      "rank": 19,
+      "field": "india",
+      "sec": "製造誘致・政策",
+      "badges": [],
+      "title": "ヴァイシュナウIT相、携帯PLIを擁護　「GST3兆ルピー超を生んだ」と反論",
+      "summary": "インドのヴァイシュナウ電子IT相が、携帯端末向けPLI（生産連動型優遇）制度への批判に反論し、同制度が3兆ルピー超のGST税収を生んだと述べた。投じた優遇額に対する税収効果を強調する主張で、インドの製造誘致政策の費用対効果が論点になっている。",
+      "meta": ["GST 3兆ルピー超(政府主張)", "制度 携帯端末PLI"],
+      "source": "Social News XYZ",
+      "sourceUrl": "https://www.socialnews.xyz/2026/10/28/vaishnaw-hits-back-at-bloomberg-says-mobile-pli-generated-rs-3-lakh-crore-gst-for-india/"
+    },
+    {
+      "rank": 20,
+      "field": "econ",
+      "sec": "個別株",
+      "badges": ["us"],
+      "title": "テスラ株が4%高の407ドル　SpaceXとの合併観測が材料視",
+      "summary": "テスラ株が4%上昇し407ドルで取引を終えた。SpaceXとの合併が実現した場合の株主への影響をめぐる観測が材料視された。合併は公式に決まったものではなく、現時点では観測報道の段階（要確認）。",
+      "meta": ["終値 407ドル(+4%)", "合併は未確定(要確認)"],
+      "source": "24/7 Wall St.",
+      "sourceUrl": "https://247wallst.com/investing/2026/10/28/tesla-closed-up-4-at-407-heres-what-a-spacex-merger-could-mean-for-your-shares"
+    }
+  ],
+  "weekly": [
+    "OpenAIがGoogleのTPU調達へ。AI計算資源の調達がNVIDIA一本足から多極化に向かう",
+    "ニデックが有報の適正意見を期限内に得られず上場廃止の瀬戸際。品質不正の帰結が調達先選定の実務論点に",
+    "日経平均は685円高の6万3954円で続伸、長期金利は2.825%に上昇。30日の日銀会合が次の焦点"
+  ]
+}
