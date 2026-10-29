@@ -1,0 +1,246 @@
+{
+  "date": "2026-10-30",
+  "sub": "金",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "マクロ・中央銀行",
+      "badges": ["us"],
+      "title": "FOMCは政策金利据え置き　NYダウは97ドル高で3日続伸、AI関連と金融株に買い",
+      "summary": "FRBは10月のFOMCで政策金利を3.75〜4.00%に据え置き、市場は無難な通過と受け止めた。28日の米国市場は3指数がそろって上昇し、NYダウは97ドル高で3日続伸。買いはAI関連株と金融株に向かった。",
+      "insight": "据え置きは織り込み済みで、焦点は12月会合に向けた物価指標の確認に移る。",
+      "meta": ["政策金利 3.75〜4.00%据え置き", "ダウ +97ドル・3日続伸", "28日終値ベース"],
+      "source": "日本経済新聞",
+      "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL2900Z0Z21C26A0000000/"
+    },
+    {
+      "rank": 2,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": ["us"],
+      "title": "Google、最上位モデル「Gemini 4 Carbon」を公開　知能指標で首位奪還、コーディングとサイバー防御を強化",
+      "summary": "Googleが新フラッグシップ「Gemini 4 Carbon」を発表した。Artificial Analysis の Intelligence Index で59を記録して首位に立ち、コーディング性能の大幅改善とサイバー防御向け用途を前面に出している。一方で提供範囲は当初限定され、全ユーザーが即座に使える形ではない。",
+      "insight": "ベンチマーク首位の入れ替わりが短周期化しており、業務での採用判断は指標より提供条件とコストで決まる。",
+      "meta": ["Intelligence Index 59", "価格 $2/$10", "提供は当初限定"],
+      "source": "VentureBeat",
+      "sourceUrl": "https://venturebeat.com/technology/google-unveils-gemini-4-carbon-retaking-the-worlds-no-1-spot-on-updated-harder-benchmarks-but-access-is-limited"
+    },
+    {
+      "rank": 3,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": ["us"],
+      "title": "Alphabetが利益未達で時間外10%安　同じ晩にMicrosoftは評価、AI投資の採点が二分",
+      "summary": "Alphabetの2026年7-9月期決算は利益が市場予想に届かず、時間外取引で株価が約10%下落した。クラウド売上は前年同期比103%増と伸びたが、AI向け設備投資の拡大がキャッシュフローを圧迫したと受け止められた。同日に発表したMicrosoftは予想を上回り、投資家の評価は対照的に分かれた。",
+      "insight": "AI投資は「増やすこと」ではなく「回収の見通しを示せるか」で株価の反応が分かれる段階に入った。",
+      "meta": ["時間外 約-10%", "クラウド売上 +103%", "Microsoftは予想超過"],
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/transcripts/earnings-call-transcript-alphabet-q3-2026-profit-miss-sparks-10-afterhours-drop-93CH-4981037"
+    },
+    {
+      "rank": 4,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "日経平均は705円高の6万4659円で大幅続伸　アドバンテストが指数を押し上げ",
+      "summary": "29日の東京市場で日経平均株価は前日比705.28円高の64,659.47円と大幅続伸した。FOMC通過と米AI関連株の堅調を受け、半導体関連が主導。アドバンテストの上昇が指数寄与の中心となった。",
+      "meta": ["終値 64,659.47円", "前日比 +705.28円", "29日大引け"],
+      "source": "ザイFX！",
+      "sourceUrl": "https://zai.diamond.jp/articles/-/498144"
+    },
+    {
+      "rank": 5,
+      "field": "auto",
+      "sec": "業界提携",
+      "badges": ["jp"],
+      "title": "ホンダと日産、EV用バッテリーの協業で具体的な交渉に入る",
+      "summary": "ホンダと日産自動車が、EV用バッテリーの協業に向けて具体的な交渉を進めていることが明らかになった。調達規模の確保とコスト低減が狙いとみられる。両社は電動化領域での協業枠組みを段階的に広げてきた経緯がある。",
+      "insight": "電池の共通化は部品表の上流まで波及するため、サプライヤー側は仕様統合の前提で引き合いを見直す必要がある。",
+      "meta": ["対象 EV用バッテリー", "段階 具体交渉(合意は未確認)"],
+      "source": "NHK",
+      "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261029de67424"
+    },
+    {
+      "rank": 6,
+      "field": "auto",
+      "sec": "品質不正",
+      "badges": ["jp"],
+      "title": "ニデック、30日に内部管理体制の改善計画を東証提出　第三者委は創業者・永守氏を「最も責任を負うべき」と指摘",
+      "summary": "会計不正に加え品質不正が認定されたニデックは、期限内に有価証券報告書への監査意見を得られず、30日に内部管理体制の改善計画を東京証券取引所へ提出する。第三者委員会は創業者の永守重信氏を「最も責任を負うべき」と指摘したが、本人は取材に応じていない。会社は永守氏ら元役員9人を提訴する方針を示している。",
+      "insight": "上場維持の判断材料が改善計画の中身に絞られ、顧客OEM側は供給継続リスクを実務ベースで見る段階になる。",
+      "meta": ["改善計画 30日提出", "元役員9人を提訴方針", "品質不正 844件(報道ベース・要確認)"],
+      "source": "MBSニュース",
+      "sourceUrl": "https://news.yahoo.co.jp/articles/97e281bf09bcb1219de57edcaf1e0b1b02930d42",
+      "followup": {
+        "since": "2026-10-29",
+        "whatsNew": "改善計画の提出日が30日と確定し、第三者委員会が永守氏の責任を名指しした点が新たに判明。"
+      }
+    },
+    {
+      "rank": 7,
+      "field": "AI",
+      "sec": "半導体",
+      "badges": [],
+      "title": "サムスン電子が四半期営業利益で過去最高　AIメモリ需要で前年比ほぼ9倍、SKハイニックスも最高益",
+      "summary": "サムスン電子の7-9月期営業利益は四半期として過去最高を記録し、前年同期比でほぼ9倍に膨らんだ。AI向けメモリの需要が牽引し、2027年も需給の逼迫が続くとの見通しを示した。SKハイニックスも再び四半期最高益を更新し、韓国メモリ2社がそろって記録を伸ばした。",
+      "insight": "メモリの供給制約が長引けば、車載・産機を含む他用途の調達単価と納期に跳ね返る。",
+      "meta": ["営業利益 前年比ほぼ9倍", "2027年も需給逼迫見通し", "SKハイニックスも最高益"],
+      "source": "TradingKey",
+      "sourceUrl": "https://www.tradingkey.com/analysis/stocks/more/262250486-samsung-q3-operating-profit-record-ai-storage-demand-2027-tradingkey"
+    },
+    {
+      "rank": 8,
+      "field": "auto",
+      "sec": "販売・生産",
+      "badges": ["jp"],
+      "title": "トヨタの9月世界販売は2.2%減の86万107台　生産も3カ月連続の減少",
+      "summary": "トヨタ自動車の9月の世界販売は前年同月比2.2%減の860,107台となり、生産も3カ月連続で減少した。中国と中東での苦戦が背景とされる。販売・生産がそろって3カ月続けて落ち込む形となった。",
+      "meta": ["世界販売 860,107台", "前年同月比 -2.2%", "3カ月連続減"],
+      "source": "Reuters(Investing.com)",
+      "sourceUrl": "https://www.investing.com/news/economic-indicators/toyota-september-sales-production-slide-for-a-third-straight-month-4981476"
+    },
+    {
+      "rank": 9,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "Waymo、5都市で運行区域を計約250平方マイル拡大　ロサンゼルス・ナッシュビル・オーランド・サンディエゴ・ベイエリア",
+      "summary": "Waymoが5都市で無人運行エリアを合計約250平方マイル拡大すると公表し、1週間かけて順次展開する。オーランドでは53平方マイルを追加して計120平方マイルとなり、ベイエリアはサンノゼのBART駅接続まで延伸する。同社の安全ダッシュボードでは無人走行の累計が2億7130万マイルとされる。",
+      "insight": "都市内の面取りが進み、競争軸は技術実証から運行密度と接続性(駅・空港)の設計に移っている。",
+      "meta": ["拡大 約250平方マイル・5都市", "オーランド 計120平方マイル", "累計無人走行 2億7130万マイル"],
+      "source": "GCN",
+      "sourceUrl": "https://gcn.com/waymo-expands-driverless-service-five-cities/22846"
+    },
+    {
+      "rank": 10,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "インド株が急反発　Sensex 905ポイント高の74,151、Nifty は22,936に",
+      "summary": "29日のインド市場でSensexは905.01ポイント高(+1.24%)の74,151.04、Nifty 50は237.90ポイント高(+1.05%)の22,936.75で引けた。FOMCの据え置きと原油下落、Adani Ports の増益決算が買いを呼んだ。直近8営業日のうち6日が下落しており、反発局面となった。",
+      "meta": ["Sensex 74,151.04(+905.01)", "Nifty 22,936.75(+237.90)", "10月の海外勢売り 37.4億ドル"],
+      "source": "HDFC Sky",
+      "sourceUrl": "https://hdfcsky.com/news/market-close-report-today-october-29-2026-sensex-nifty-stage-sharp-rebound-as-earnings-fed-fire-up-gains"
+    },
+    {
+      "rank": 11,
+      "field": "econ",
+      "sec": "為替・金融政策",
+      "badges": ["jp"],
+      "title": "ドル円は158円付近で推移　日銀決定会合の結果公表は30日、政策金利据え置きの公算",
+      "summary": "29日のNY為替序盤でドル円は158円付近で推移した。市場の関心は29〜30日の日銀金融政策決定会合に移り、政策金利1.25%の据え置きが有力とみられている(予想・要確認)。焦点は物価2%到達の判断と展望レポートでの見通し修正。",
+      "meta": ["ドル円 158円付近(29日NY序盤時点)", "政策金利 1.25%据え置きの公算(要確認)", "結果公表 30日"],
+      "source": "みんかぶFX",
+      "sourceUrl": "https://fx.minkabu.jp/news/382993"
+    },
+    {
+      "rank": 12,
+      "field": "auto",
+      "sec": "決算",
+      "badges": ["us"],
+      "title": "フォード、2026年通期の利益見通しを上方修正　コスト増とトラック生産の課題は残る",
+      "summary": "フォードは2026年通期の利益見通しを上方修正した。四半期決算は利益が市場予想を上回った一方、売上高は予想に届かなかった。コスト増加とトラック生産上の課題は継続課題として残る。",
+      "meta": ["通期利益見通し 上方修正", "利益は予想超過・売上は未達"],
+      "source": "CBT News",
+      "sourceUrl": "https://www.cbtnews.com/ford-raises-2026-profit-outlook-2"
+    },
+    {
+      "rank": 13,
+      "field": "ad",
+      "sec": "センサ・半導体",
+      "badges": [],
+      "title": "NVIDIA、欧州の自動運転開発を「Hyperion」で支援　Boltはレベル4対応車を2万5000台以上展開へ",
+      "summary": "NVIDIAが車載プラットフォーム「Hyperion」で欧州の自動運転開発を支援する方針を示した。配車サービスのBoltはこれを用いたレベル4対応車を2万5000台以上展開する計画。欧州でのL4車両調達が台数規模で動き始めた。",
+      "insight": "プラットフォーム一括採用が進むと、センサ・ECUの選定権が車両メーカーから半導体側に寄る。",
+      "meta": ["Bolt L4対応車 2万5000台超", "基盤 NVIDIA Hyperion"],
+      "source": "マイナビニュース TECH+",
+      "sourceUrl": "https://news.mynavi.jp/techplus/article/20261028-5205029"
+    },
+    {
+      "rank": 14,
+      "field": "econ",
+      "sec": "商品",
+      "badges": [],
+      "title": "原油が約1%下落　ブレント114.2ドル・WTI 101.4ドル、米イラン協議期待で",
+      "summary": "29日の原油はブレントが約1%安の114.2ドル、WTIが約1.4%安の101.4ドルとなった。米国とイランの外交再開への期待が売りを誘った。ただし水準自体は高く、インフレと企業マージンへの圧力は残る。",
+      "meta": ["ブレント 114.2ドル(約-1%)", "WTI 101.4ドル(約-1.4%)", "29日時点"],
+      "source": "HDFC Sky",
+      "sourceUrl": "https://hdfcsky.com/news/market-close-report-today-october-29-2026-sensex-nifty-stage-sharp-rebound-as-earnings-fed-fire-up-gains"
+    },
+    {
+      "rank": 15,
+      "field": "india",
+      "sec": "インド自動車市場",
+      "badges": [],
+      "title": "マルチ・スズキのEV輸出が5万台突破　インドのEV輸出の93%を占める",
+      "summary": "マルチ・スズキのEV輸出が累計5万台を超えた。インドからのEV輸出全体の93%を同社が占める構図となっている。インドをEVの輸出拠点として使う戦略が数量として表れ始めた。",
+      "insight": "インドが小型EVの輸出基地になれば、日系サプライヤーの現地調達比率見直しが前倒しになる。",
+      "meta": ["EV輸出 累計5万台超", "インドEV輸出シェア 93%"],
+      "source": "The Tribune",
+      "sourceUrl": "https://www.tribuneindia.com/news/automotive-industry/maruti-suzuki-ev-exports-cross-50000-units-accounts-for-93-of-segment-outbound-shipments"
+    },
+    {
+      "rank": 16,
+      "field": "AI",
+      "sec": "業務活用・産業",
+      "badges": ["us"],
+      "title": "Anthropic、創薬・バイオ研究構想の進捗を公表　「一人バイオテック」と「奇跡の時代」を提示",
+      "summary": "Anthropicがバイオ医薬領域での構想の次段階を公表し、研究の進捗をアップデートした。少人数あるいは一人で運営する「one-person biotech」が成立しうるとの見方と、「age of miracles」という表現で研究加速の展望を示した。",
+      "meta": ["領域 創薬・バイオ研究", "位置づけ 構想・進捗公表(製品発表ではない)"],
+      "source": "Endpoints News",
+      "sourceUrl": "https://endpoints.news/anthropic-pitches-age-of-miracles-gives-biopharma-research-update/"
+    },
+    {
+      "rank": 17,
+      "field": "ad",
+      "sec": "事業性",
+      "badges": ["us"],
+      "title": "Waymoは海外展開を進めても「ニッチで資金を燃やす事業」　CNBCが収益構造を指摘",
+      "summary": "CNBCは、Waymoが海外展開を加速させてもなお規模が小さく資金流出が続く事業だと指摘した。走行距離や都市数は伸びているが、単位経済性の確立には至っていないとの見方。エリア拡大と収益化のタイミングのずれが論点となっている。",
+      "insight": "拡大発表と採算の確立は別物であり、サプライヤー側は量産前提の投資判断を急ぐ根拠にはしにくい。",
+      "meta": ["論点 単位経済性", "分析 CNBC(28日)"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/10/28/as-waymo-expands-overseas-it-remains-a-niche-cash-burning-business.html"
+    },
+    {
+      "rank": 18,
+      "field": "india",
+      "sec": "インドIT・AI",
+      "badges": [],
+      "title": "TCS株が10月に28%上昇　7カ月ぶりの高値圏に",
+      "summary": "TCSの株価が10月に28%上昇し、7カ月超ぶりの高値を付けた。AI関連収益の寄与とIT需要の底打ち観測が買いの理由として挙げられている。29日のインド市場でもTCS・インフォシスなどIT株が上昇した。",
+      "meta": ["10月の上昇率 28%", "7カ月ぶり高値"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/markets/news/tcs-share-price-surges-28-in-october-hits-over-7-month-high-here-s-why-126102300497_1.html"
+    },
+    {
+      "rank": 19,
+      "field": "econ",
+      "sec": "中央銀行",
+      "badges": ["us"],
+      "title": "FRBが政策金利の投票回数を削減　1981年以来初の見直し",
+      "summary": "FRBが政策金利に関する投票の回数を削減する方針が報じられた。見直しは1981年以来初めてとされる。会合運営の変更は政策シグナルの出方にも影響する可能性がある。",
+      "meta": ["1981年以来初の見直し", "詳細な実施時期は要確認"],
+      "source": "24/7 Wall St.",
+      "sourceUrl": "https://247wallst.com/investing/2026/10/29/the-fed-is-cutting-back-on-rate-votes-for-the-first-time-since-1981/"
+    },
+    {
+      "rank": 20,
+      "field": "auto",
+      "sec": "決算",
+      "badges": [],
+      "title": "ルノー、第3四半期は堅調な売上を確保　2026年通期ガイダンスを据え置き",
+      "summary": "ルノー・グループは第3四半期で堅調な売上高を確保し、2026年の通期業績ガイダンスを据え置いた。市場環境の厳しさの中で計画を維持した形。",
+      "meta": ["Q3 売上は堅調", "2026年通期ガイダンス 維持"],
+      "source": "GlobeNewswire(Renault Group)",
+      "sourceUrl": "https://www.globenewswire.com/news-release/2026/10/29/3390921/0/en/renault-group-delivers-resilient-q3-revenue-and-confirms-its-2026-financial-guidance.html"
+    }
+  ],
+  "weekly": [
+    "Google「Gemini 4 Carbon」が知能指標59で首位奪還、価格は$2/$10で提供は当初限定",
+    "FOMCは3.75〜4.00%で据え置き、日銀会合の結果公表は30日・ドル円は158円付近",
+    "ニデックが30日に改善計画を東証提出、第三者委は創業者・永守氏を「最も責任」と指摘"
+  ]
+}
