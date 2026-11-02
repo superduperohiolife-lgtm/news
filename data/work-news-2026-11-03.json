@@ -1,0 +1,236 @@
+{
+  "date": "2026-11-03",
+  "sub": "火",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "決算・M&A",
+      "badges": ["us"],
+      "title": "マーベルがルーメンタムを1150億ドルで買収　AIデータセンター向け光通信に大型賭け",
+      "summary": "マーベル・テクノロジーが11月2日、光通信部品のルーメンタム・ホールディングスを1150億ドルの全株式交換方式で買収すると発表した。AIデータセンター需要の拡大で光ネットワーク市場が急成長するとみて、ブロードコムに正面から挑む構図となる。テック業界では過去最大級の案件と報じられた。",
+      "insight": "AI投資の主戦場がGPUから相互接続（光・ネットワーク）へ広がっていることを示す案件。",
+      "meta": ["買収額 1150億ドル", "全株式交換", "狙い AIデータセンター光通信"],
+      "source": "Reuters（Investing.com）",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/marvell-to-buy-lumentum-in-115-billion-deal-in-ai-datacenter-bet-4991167"
+    },
+    {
+      "rank": 2,
+      "field": "econ",
+      "sec": "決算・M&A",
+      "badges": ["jp"],
+      "title": "キオクシア株が約16%安　四半期見通しがメモリ需要の「平準化」を示唆",
+      "summary": "キオクシアホールディングス株が11月2日に約16%下落し、約半年ぶりの安値を付けた。次期四半期の売上高見通しが前四半期比で約0.8%増にとどまり、AI向けフラッシュメモリ需要の伸びが頭打ちになりつつあるとの見方が広がった。同社株安は同日の日本株全体の下押し要因にもなった。",
+      "insight": "AI需要を前提にした半導体バリュエーションの再評価リスクが、メモリから顕在化しつつある。",
+      "meta": ["株価 約16%安", "売上見通し 前四半期比約0.8%増", "水準 約6カ月ぶり安値"],
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-02/kioxia-shares-tumble-after-outlook-suggests-demand-leveling-off"
+    },
+    {
+      "rank": 3,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "原油急落で市場は落ち着き取り戻す　ブレント3%安の約110ドル、米10年債4.93%",
+      "summary": "10月30日の急落（S&P500が1.8%安、ナスダック100が約3.5%安）を受けた11月2日の市場は、原油の反落で落ち着きを取り戻した。ブレント原油（1月限）は約3%下げて110ドル前後、前週末に114ドル超を付けた水準から後退した。米10年債利回りは4.93%へわずかに上昇、金は1%戻して3,915ドル（10月は6.8%下落）。※いずれも2026年11月2日欧州時間朝時点。",
+      "meta": ["ブレント 約110ドル（3%安）", "米10年債 4.93%", "金 3,915ドル（+1%）"],
+      "source": "Saxo（Market Quick Take）",
+      "sourceUrl": "https://www.home.saxo/content/articles/macro/market-quick-take---markets-find-calm-after-friday-turmoil----2-november-2026-02112026"
+    },
+    {
+      "rank": 4,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "日経平均は208円安の6万3081円　米ハイテク安とキオクシア急落が重荷",
+      "summary": "11月2日の日経平均株価は前週末比208.25円安の6万3081.86円で引けた。前週末の米ハイテク株安を受けた売りと、好決算銘柄への買いが交錯する展開。キオクシアの急落が指数の下押し要因となった。",
+      "meta": ["終値 63,081.86円", "前週末比 -208.25円"],
+      "source": "財経新聞",
+      "sourceUrl": "https://www.zaikei.co.jp/article/20261102/875868.html"
+    },
+    {
+      "rank": 5,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "インド株が3営業日続伸　ニフティ1.68%高の23,441、リライアンスが11.6%高",
+      "summary": "11月2日のインド株は3営業日続伸し、ニフティ50が1.68%高の23,441で引けた。リライアンス・インダストリーズが過去最高益を受けて11.6%上昇し相場を牽引、原油価格が110ドルを下回ったことも輸入国インドには追い風となった。※センセックスの上昇幅は報道により949〜1,233ポイントと差があり(要確認)。",
+      "meta": ["ニフティ50 23,441（+1.68%）", "リライアンス +11.6%", "原油 110ドル割れ"],
+      "source": "India Infoline",
+      "sourceUrl": "https://www.indiainfoline.com/news/markets/closing-bell-nifty-surges-1-68-to-23441-as-reliance-rallies-11-6-on-record-profit-crude-cools-below-110"
+    },
+    {
+      "rank": 6,
+      "field": "ad",
+      "sec": "規制・認可",
+      "badges": ["jp"],
+      "title": "国交省、レベル4以上の「ハンドルなし」車を一律認定へ　12月から新制度",
+      "summary": "国土交通省は自動運転レベル4以上の車両について、ハンドルやペダルを備えない構造でも一律で認定できる制度を12月から始める方針を示した。現行は車両ごとの個別審査が必要で、ロボタクシー専用車の国内導入を阻む要因となっていた。制度化により専用設計車の型式認定が可能になる。",
+      "insight": "ウェイモ×トヨタbZ4Xの日本展開（2027年）など、専用車前提のロボタクシー計画の制度的な前提が整う。",
+      "meta": ["対象 レベル4以上", "開始 12月", "変更点 個別審査→一律認定"],
+      "source": "日本経済新聞",
+      "sourceUrl": "https://www.nikkei.com/article/DGXZQOUD309J10Q6A031C2000000/"
+    },
+    {
+      "rank": 7,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": ["us"],
+      "title": "OpenAI、ChatGPTの「Chat」と「Work」タブを統合へ",
+      "summary": "OpenAIは11月2日、ChatGPTで分かれていた「Chat」と「Work」のタブを統合し、Work側の機能をChatに取り込む方針を明らかにした。業務用コネクタ等の機能を通常の会話画面から使えるようにする。あわせてProプランの利用上限を2倍にする措置も案内している。",
+      "meta": ["対象 Chat/Workタブ統合", "Pro上限 2倍"],
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs"
+    },
+    {
+      "rank": 8,
+      "field": "india",
+      "sec": "マクロ",
+      "badges": [],
+      "title": "インド10月製造業PMIは54.7に小幅低下　輸出受注は6カ月ぶり高水準",
+      "summary": "11月2日発表のインド10月製造業PMIは54.7となり、前月から小幅に低下した。50を大きく上回る拡大圏は維持し、新規輸出受注は約6カ月ぶりの高水準に達した。国内需要の伸びが鈍る一方で外需が支える構図となっている。",
+      "meta": ["10月PMI 54.7", "輸出受注 6カ月ぶり高水準"],
+      "source": "ANI News",
+      "sourceUrl": "https://aninews.in/news/business/indias-manufacturing-pmi-eases-to-547-in-october-export-orders-hit-six-month-high20261102111017/"
+    },
+    {
+      "rank": 9,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": ["us"],
+      "title": "Anthropic、旧Claudeモデル4種にも不可視ウォーターマークを拡大　11月3日から",
+      "summary": "Anthropicは11月3日から、過去のClaudeモデル4種類の出力にも不可視のテキストウォーターマークを適用する。EU AI Actのコンテンツ表示義務への対応とされる。ただし一部の旧モデルは対象外のままで、抜け道が残ると指摘されている。",
+      "insight": "AI生成物の来歴表示が事実上の規制要件として実装段階に入った。",
+      "meta": ["開始 11月3日", "対象 旧モデル4種", "根拠 EU AI Act対応"],
+      "source": "the-decoder",
+      "sourceUrl": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/"
+    },
+    {
+      "rank": 10,
+      "field": "econ",
+      "sec": "マクロ・中央銀行",
+      "badges": ["us"],
+      "title": "米中間選挙は11月3日　豪RBAは利上げ織り込み87%、週内にBOEと米雇用統計",
+      "summary": "11月2日時点で市場は複数のイベントを控える。米中間選挙は11月3日。同日の豪州準備銀行（RBA）会合では4.85%への利上げを約87%織り込んでいる。週内には米財務省の国債入札計画（水）、イングランド銀行とノルウェー中銀の決定（木）、米雇用統計（金）が並ぶ。アップルの四半期決算は11月2日の米市場引け後で、本紙面には未反映。",
+      "meta": ["米中間選挙 11月3日", "RBA利上げ織り込み 約87%（4.85%へ）", "米雇用統計 金曜"],
+      "source": "Saxo（Market Quick Take）",
+      "sourceUrl": "https://www.home.saxo/content/articles/macro/market-quick-take---markets-find-calm-after-friday-turmoil----2-november-2026-02112026"
+    },
+    {
+      "rank": 11,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "フォード、F-Series 10万2159台をリコール　速度計・回転計の表示不良",
+      "summary": "フォードは2025〜2026年モデルのF-Series計10万2159台をリコールした。アナログ計器クラスターの不具合で速度計と回転計が不正確な値を表示するおそれがあり、事故リスクにつながるとされる。対象はF-150からF-750まで広範で、ディーラーで無償交換する。",
+      "meta": ["対象 102,159台", "不具合 アナログ計器クラスター", "対象車種 F-150〜F-750"],
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/812763/ford-f-series-recall-over/"
+    },
+    {
+      "rank": 12,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "テスラのテキサス州ロボタクシー登録が1,204台に　フォートワースで州内4都市目を開始",
+      "summary": "テスラのテキサス州におけるロボタクシー車両の登録台数が1,204台に達し、前回集計から128%増となった。11月1日にはフォートワースでの配車を開始し、州内で4都市目の運行となる。ウェイモとの台数差は報道により15台差・55台差と差異があり(要確認)。",
+      "meta": ["登録 1,204台（+128%）", "新規都市 フォートワース（州内4都市目）"],
+      "source": "Tesla North",
+      "sourceUrl": "https://teslanorth.com/2026/11/01/texas-robotaxi-fleet-1204/"
+    },
+    {
+      "rank": 13,
+      "field": "auto",
+      "sec": "当局調査",
+      "badges": ["us"],
+      "title": "NHTSA、ボルグワーナー（Akasol）製バッテリーパックのリコール対応を調査",
+      "summary": "米NHTSAが、電動トラック・バスに搭載されたボルグワーナー傘下Akasol製バッテリーパックの一連のリコールについて、是正範囲が十分かを問うリコールクエリ（RQ）を開始した。火災リスクを理由とする複数の商用車リコールが先行しており、サプライヤー起因の範囲認定が論点となる。意図的な不正の指摘ではなく、リコール対応の妥当性審査。",
+      "meta": ["調査形態 リコールクエリ（RQ）", "対象 Akasol製バッテリーパック", "搭載先 電動トラック・バス"],
+      "source": "The EV Report",
+      "sourceUrl": "https://theevreport.com/nhtsa-borgwarner-akasol-battery-pack-recall-query"
+    },
+    {
+      "rank": 14,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "リンカーン、ノーチラス／コルセアのHV 1万1623台をリコール　意図せずニュートラルに",
+      "summary": "フォード傘下リンカーンは、ノーチラスとコルセアのハイブリッド計1万1623台をリコールした。走行中に意図せずニュートラルへ切り替わるおそれがあり、駆動力を失う可能性がある。",
+      "meta": ["対象 11,623台", "不具合 意図せぬニュートラル移行"],
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/814060/lincoln-hybrid-recall-over-sudden/"
+    },
+    {
+      "rank": 15,
+      "field": "auto",
+      "sec": "生産・投資",
+      "badges": ["us"],
+      "title": "GM、ミシガン州ランシング工場をハイブリッド生産に転換　DOE補助金5億ドルを活用",
+      "summary": "GMはミシガン州のランシング・デルタ・タウンシップ工場をハイブリッド車の生産向けに改装する。米エネルギー省（DOE）の5億ドルの補助金を活用する。EV需要の伸び悩みを受け、北米の生産計画をHEV寄りに組み替える動きが続く。",
+      "meta": ["工場 ランシング・デルタ・タウンシップ", "DOE補助金 5億ドル", "転換先 ハイブリッド車"],
+      "source": "Wards Auto（MCG Executive Briefing）",
+      "sourceUrl": "https://macsmotorcitygarage.com/mcg-executive-briefing-for-november-2-2026/"
+    },
+    {
+      "rank": 16,
+      "field": "auto",
+      "sec": "決算・EV",
+      "badges": ["us"],
+      "title": "リビアン、第3四半期は売上38%増　新型R2が最量販車に",
+      "summary": "リビアンの2026年第3四半期決算は売上高が前年同期比38%増となり、市場予想を上回った。より安価なSUV「R2」の投入後、R2単体の販売がR1TとR1Sの合計を上回り、最量販車となった。米EV市場全体が縮小するなかで同社の販売は46%増とされる。",
+      "meta": ["Q3売上 前年同期比+38%", "販売 +46%", "R2 R1T+R1S合計を上回る"],
+      "source": "Drive Tesla Canada",
+      "sourceUrl": "https://driveteslacanada.ca/news/rivian-q3-2026-earnings-revenue-r2-best-seller/"
+    },
+    {
+      "rank": 17,
+      "field": "india",
+      "sec": "IT・AI",
+      "badges": [],
+      "title": "野村、インドIT大手に短期的なAI・マクロ逆風を指摘",
+      "summary": "野村は、インフォシス・TCS・ウィプロなどインドIT大手が短期的にAIによる案件単価の圧縮とマクロ環境の不確実性という二つの逆風に直面すると指摘した。一方で各社はAI関連の採用を拡大しており、エンタープライズAI導入の実装段階へ移っているとの見方も出ている。",
+      "meta": ["対象 Infosys・TCS・Wipro", "論点 AIによる単価圧縮＋マクロ不確実性"],
+      "source": "Moneycontrol（TradingView）",
+      "sourceUrl": "https://www.tradingview.com/news/moneycontrol:09f10f38d094b:0-infosys-tcs-wipro-face-near-term-ai-macro-headwinds-nomura/"
+    },
+    {
+      "rank": 18,
+      "field": "auto",
+      "sec": "新車・EV",
+      "badges": ["us"],
+      "title": "フォード、2028年型電動ピックアップ「Fathom」を2万9995ドルで投入へ",
+      "summary": "フォードは2028年型の電動ピックアップ「Fathom」を2万9995ドルの価格で投入し、失効した連邦EV税額控除に頼らず価格そのもので需要を取りにいく方針。来年の発売を予定する。",
+      "meta": ["価格 29,995ドル", "投入 2028年型／発売は来年", "前提 連邦EV税控除の失効"],
+      "source": "Autoweek（MCG Executive Briefing）",
+      "sourceUrl": "https://macsmotorcitygarage.com/mcg-executive-briefing-for-november-2-2026/"
+    },
+    {
+      "rank": 19,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": ["us"],
+      "title": "未発表の「GPT-6.2 Astra」がCodexの利用統計に出現(要確認)",
+      "summary": "一部のCodexアカウントの利用内訳に「gpt-6.2-astra」という独立した行が表示されたとの指摘が出ている。11月1日時点でOpenAIは発表しておらず、APIにも存在せず、モデル選択画面の表示も従来どおりとされる。未公表情報であり裏付けは取れていない(要確認)。",
+      "meta": ["状態 未発表(要確認)", "確認時点 11月1日時点でAPI未提供"],
+      "source": "AGTP Insights（X）",
+      "sourceUrl": "https://x.com/AGTPinsights/status/2116893571601043950"
+    },
+    {
+      "rank": 20,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "ビットコインは7万8789ドル　BTCファンドから6月以来最大の6.43億ドル流出",
+      "summary": "11月2日時点のビットコインは約7万8789ドルで0.67%高。ただしビットコイン関連ファンドからは約6億4300万ドルの資金流出があり、6月以来最大となった。コインベース株は約11%下落し、バイナンスのハッキングも市場心理を冷やしている。",
+      "meta": ["BTC 78,789ドル（+0.67%）", "ファンド流出 約6.43億ドル（6月以来最大）", "コインベース 約11%安"],
+      "source": "Saxo（Market Quick Take）",
+      "sourceUrl": "https://www.home.saxo/content/articles/macro/market-quick-take---markets-find-calm-after-friday-turmoil----2-november-2026-02112026"
+    }
+  ],
+  "weekly": [
+    "マーベルがルーメンタムを1150億ドルで買収、AIデータセンターの光通信に過去最大級の賭け",
+    "国交省がレベル4以上の「ハンドルなし」車を12月から一律認定、ロボタクシー専用車の国内導入に道",
+    "原油急落でインド株が3営業日続伸、キオクシア急落で日本株は小幅安"
+  ]
+}
