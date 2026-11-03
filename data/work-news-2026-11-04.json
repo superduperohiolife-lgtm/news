@@ -1,0 +1,244 @@
+{
+  "date": "2026-11-04",
+  "sub": "水",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "ナスダック100が調整局面入り　AI投資の回収懸念で年内3度目",
+      "summary": "11月3日の米国市場でナスダック100が直近の過去最高値から10%超下落し、テクニカルな調整局面に入った。2026年に入って3度目。AIデータセンター投資の回収期間と収益性への疑念が主因で、投資家の関心が成長ストーリーから利益・フリーキャッシュフローへ移っている。高止まりする米国債利回りも将来収益の現在価値を圧縮し、ハイテク株の重荷となっている。",
+      "insight": "AI設備投資は「発表すれば株高」の局面を終え、回収の説明責任が問われる段階へ。",
+      "meta": ["高値からの下落率 約10%(取得時点)", "2026年内3度目の調整"],
+      "source": "TipRanks",
+      "sourceUrl": "https://www.tipranks.com/news/nasdaq-100-enters-a-correction-as-ai-selloff-accelerates"
+    },
+    {
+      "rank": 2,
+      "field": "AI",
+      "sec": "企業・産業",
+      "badges": ["us"],
+      "title": "Anthropic、修正S-1で第3四半期売上約170億ドル　購入コミットメントは約8954億ドル",
+      "summary": "AnthropicがIPOに向けた修正S-1を提出し、第3四半期の売上が約170億ドル（前年同期比約1127%増）に達したことを開示した。一方で同四半期の純損失は約232.9億ドルで、主因は転換社債・デリバティブの公正価値変動。将来のコンピュート購入コミットメントとリース債務は合計約8954億ドルに上る。",
+      "insight": "売上の急拡大と巨額の長期コンピュート契約が同時に進み、AI大手の財務構造はインフラ事業に近づいている。",
+      "meta": ["Q3売上 約170億ドル", "純損失 約232.9億ドル", "コミットメント＋リース 約8954億ドル"],
+      "source": "AI Weekly",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 3,
+      "field": "AI",
+      "sec": "規制・サプライ",
+      "badges": ["us", "jp"],
+      "title": "NVIDIA、アジアのクラウド顧客に「非中国企業向け51%以上」を要求と報道",
+      "summary": "NVIDIAがシンガポール・マレーシア・日本のクラウド事業者に対し、提供するサービスの少なくとも51%を非中国系企業向けにするよう求め、従わない場合はGPU供給を失うリスクがあると通知したと報じられた。データセンターの立入確認や契約監査を通じた履行確認も含まれるとされる。(報道ベース・要確認)",
+      "insight": "計算資源の割当が実質的な輸出管理として機能し始めており、日本のクラウド/AI調達にも条件が波及しうる。",
+      "meta": ["対象 シンガポール・マレーシア・日本", "条件 非中国企業向け51%以上", "報道ベース(要確認)"],
+      "source": "AI Weekly",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 4,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "テスラ、デトロイトでCybercabのロボタクシー試験を開始",
+      "summary": "テスラがミシガン州デトロイトでCybercabによるロボタクシーの走行試験を始めたことが明らかになった。同市ではすでにWaymoが試験を進めており、寒冷地・降雪環境での自動運転検証が本格化する。テスラはテキサス州で車両登録を積み増しており、試験地域を全米へ広げる動きが続いている。",
+      "insight": "降雪・融雪剤環境はセンサー汚れと路面認識の難所。デトロイト進出は「カメラのみ」方式の実証としても注目点。",
+      "meta": ["車両 Cybercab", "先行 Waymoが同市で試験中"],
+      "source": "Drive Tesla Canada",
+      "sourceUrl": "https://driveteslacanada.ca/news/tesla-cybercab-detroit-testing"
+    },
+    {
+      "rank": 5,
+      "field": "auto",
+      "sec": "市場",
+      "badges": [],
+      "title": "中国10月のNEV卸売が過去最高の約180万台　CPCA推計",
+      "summary": "中国乗用車市場情報連席会（CPCA）は10月の新エネルギー車（NEV）卸売が約180万台と過去最高になったと推計した。年末需要と各社の値引き・新型投入が重なり、月次ベースでの最高を更新。中国市場の電動化比率の高さが、日系を含む外資メーカーの販売構成に引き続き圧力をかける。",
+      "meta": ["10月NEV卸売 約180万台(CPCA推計)", "過去最高"],
+      "source": "CnEVPost",
+      "sourceUrl": "https://cnevpost.com/2026/11/03/cpca-estimates-china-oct-2026-nev-wholesale/"
+    },
+    {
+      "rank": 6,
+      "field": "auto",
+      "sec": "EV",
+      "badges": [],
+      "title": "BYD、10月のEV販売30万5743台で過去最高　米国の四半期販売を1カ月で上回る",
+      "summary": "BYDは10月のEV（バッテリーEV）販売が30万5743台となり、過去最高を記録した。米国市場のEV販売量（直近四半期）を1カ月で上回る規模で、輸出比率の上昇が寄与している。国内価格競争の激化のなかでも数量を伸ばし、海外展開が成長の軸になりつつある。",
+      "meta": ["10月EV 305,743台", "過去最高"],
+      "source": "Electrek",
+      "sourceUrl": "https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter"
+    },
+    {
+      "rank": 7,
+      "field": "econ",
+      "sec": "決算",
+      "badges": ["us"],
+      "title": "パランティア、第3四半期売上23.1億ドルで96%増　米商用が政府部門を逆転",
+      "summary": "パランティアの第3四半期売上は23.1億ドル（前年同期比96%増）。米国商用部門が148%増の9.84億ドルとなり、米政府部門の9.53億ドルを初めて上回った。通年見通しも約85.3億ドルへ上方修正したが、受注の伸び鈍化とバリュエーション懸念から株価は下落した。",
+      "insight": "AI関連の「好決算でも株安」が続き、市場の評価軸が成長率から受注の持続性へ移っている。",
+      "meta": ["売上 23.1億ドル(+96%)", "米商用 9.84億ドル(+148%)", "通年見通し 約85.3億ドル"],
+      "source": "AI Weekly",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 8,
+      "field": "econ",
+      "sec": "商品・地政学",
+      "badges": ["us"],
+      "title": "原油反発、米のイラン拠点攻撃報道で　WTI98.51ドル・ブレント106.50ドル",
+      "summary": "11月3日の米国時間午前、米軍がイラン革命防衛隊の拠点を攻撃したとの報道を受けて原油が反発し、WTIは2.13%高の98.51ドル、ブレントは1.66%高の106.50ドルを付けた。前日は外交交渉の兆しから下落していたが、再び中東リスクが価格に織り込まれた。金先物は1.46%安の3911.80ドル、銀は3.91%安。(いずれも11月3日午前の取得時点)",
+      "meta": ["WTI 98.51ドル(+2.13%)", "ブレント 106.50ドル(+1.66%)", "11/3午前時点"],
+      "source": "TheStreet",
+      "sourceUrl": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-03-2026"
+    },
+    {
+      "rank": 9,
+      "field": "ad",
+      "sec": "ADAS規制",
+      "badges": [],
+      "title": "オランダ当局、テスラの運転支援の速度超過マージンを+50%から+10%に縮小",
+      "summary": "オランダの車両認証当局RDWが、テスラの運転支援機能で許容する制限速度超過のマージンを従来の+50%から+10%へ引き下げた。欧州では運転支援の速度設定が型式認証の対象で、当局判断が機能挙動を直接規定する。欧州向け仕様のソフト更新が必要になる見通し。",
+      "insight": "欧州はADASの「どこまで許容するか」を当局が数値で縛る方向。OTAで機能差を出す戦略は地域ごとの認証要件に収束していく。",
+      "meta": ["超過マージン +50%→+10%", "所管 RDW(オランダ)"],
+      "source": "Tesla North",
+      "sourceUrl": "https://teslanorth.com/2026/11/03/rdw-tesla-assisted-driving-speed-margin-10-percent"
+    },
+    {
+      "rank": 10,
+      "field": "auto",
+      "sec": "販売",
+      "badges": ["us"],
+      "title": "起亜の米国10月販売が8万0008台で過去最高　電動車は112%増",
+      "summary": "起亜の米国法人は10月の新車販売が8万0008台（前年同月比16%増）となり、6カ月連続で月次の過去最高を更新したと発表した。電動車（EV・HV等）の販売は112%増と伸び、2万9890ドルの新型EV3がディーラーへの納車を開始した。HVと小売需要の強さが米国市場全体でも韓国系メーカーの伸びを支えている。",
+      "meta": ["10月販売 80,008台(+16%)", "電動車 +112%", "EV3 29,890ドル"],
+      "source": "Kia America (PR Newswire)",
+      "sourceUrl": "https://www.prnewswire.com/news-releases/kia-america-achieves-sixth-consecutive-month-of-record-breaking-sales-302927617.html"
+    },
+    {
+      "rank": 11,
+      "field": "econ",
+      "sec": "資金調達",
+      "badges": ["us"],
+      "title": "オラクル、AI投資向けに200億ドル調達を申請　株価は6%超下落",
+      "summary": "オラクルがAIインフラ投資の原資として総額200億ドルの調達を申請した。内訳は普通株100億ドルとシニア債100億ドル。希薄化と負債増を嫌気して株価は6%超下落した。データセンター投資の資金調達手段が株式・社債の併用に広がっている。",
+      "meta": ["調達額 200億ドル(株式100億＋社債100億)", "株価 6%超安"],
+      "source": "AI Weekly",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 12,
+      "field": "AI",
+      "sec": "半導体・計算基盤",
+      "badges": [],
+      "title": "DeepSeek、華為製Ascend 950DTを16万基規模で新データセンターに展開へ",
+      "summary": "DeepSeekが内モンゴル・ウランチャブの新データセンターに、華為技術のAI半導体Ascend 950DTを少なくとも16万基導入する計画と報じられた。2026年末にも事前学習を開始する見通し。報道では、NVIDIAのGB300 1基に相当する性能を得るにはAscend 950が4基必要とされる。(報道ベース・要確認)",
+      "insight": "国産アクセラレータでの大規模学習が現実路線に。効率差を台数で埋める構図は電力制約の重さを示す。",
+      "meta": ["Ascend 950DT 16万基規模", "拠点 ウランチャブ", "報道ベース(要確認)"],
+      "source": "AI Weekly",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 13,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "インド株が4営業日続伸　センセックス1225ポイント高の76,917、ニフティ23,810",
+      "summary": "11月3日のインド株は4営業日続伸し、センセックスが1225.07ポイント高（1.62%）の76,917.85、ニフティ50が370.05ポイント高（1.58%）の23,810.85で引けた。4日間で約5%上昇し、約2カ月ぶりの高値。FMCG（+2.5%）、不動産（+2.10%）、民間銀行（+1.98%）が主導。前日の海外投資家は311.5億ルピーの買い越しで、ルピーは16パイサ高の1ドル=94.74ルピー。",
+      "meta": ["センセックス 76,917.85(+1.62%)", "ニフティ 23,810.85(+1.58%)", "ルピー 94.74(11/3終値)"],
+      "source": "HDFC Sky",
+      "sourceUrl": "https://hdfcsky.com/news/market-close-report-today-november-3-2026-diwali-party-continues-as-benchmarks-extend-mega-rally",
+      "followup": {
+        "since": "2026-11-03",
+        "whatsNew": "3日続伸・ニフティ23,441から4日続伸・23,810へ伸び、約2カ月ぶり高値に到達した。"
+      }
+    },
+    {
+      "rank": 14,
+      "field": "auto",
+      "sec": "サプライヤー",
+      "badges": ["us"],
+      "title": "アプティブ第3四半期は市場予想を上回るも、通期見通しは慎重姿勢",
+      "summary": "アプティブの第3四半期決算は売上・利益とも市場予想を上回った一方、通期見通しには慎重な表現が残った。完成車メーカーの生産計画変動と関税・原材料コストが収益性の不確実要素として挙げられている。電動化関連の受注は伸びているが、数量前提の読みにくさがサプライヤー共通の課題となっている。",
+      "meta": ["Q3 予想超過", "通期見通し 慎重"],
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/transcripts/earnings-call-transcript-aptiv-tops-q3-2026-estimates-but-outlook-stays-cautious-93CH-4995598"
+    },
+    {
+      "rank": 15,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "フォード、F-Series 3万123台をリコール　テールゲートケーブルの破損",
+      "summary": "フォードが2026〜2027年式のF-150およびスーパーデューティー計3万123台について、テールゲートのケーブルが破損しうる不具合でリコールを届け出た。原因は製造工程で用いた工具の破損に起因するとされ、走行中にテールゲートが意図せず開く恐れがある。",
+      "meta": ["対象 30,123台", "対象年式 2026-2027", "原因 工具破損に起因"],
+      "source": "autoevolution",
+      "sourceUrl": "https://www.autoevolution.com/news/broken-tooling-prompts-ford-f-series-recall-2026-and-2027-models-affected-277875.html"
+    },
+    {
+      "rank": 16,
+      "field": "econ",
+      "sec": "インフラ投資",
+      "badges": [],
+      "title": "Drax・ブルックフィールド連合、英国に1GWのAIデータセンター計画　総投資200億ポンド超",
+      "summary": "Drax、ブルックフィールド、Radiantが英ノースヨークシャーで出力1GWのAIデータセンターを計画していると発表した。2028年第1四半期までに最大100MWを稼働させる想定で、総投資額は200億ポンドを超える。Drax株は8.8%上昇した。ただし開発許可・系統接続・テナント確保はいずれも未確定。(要確認)",
+      "meta": ["規模 1GW", "2028年Q1までに最大100MW", "総投資 200億ポンド超(計画段階・要確認)"],
+      "source": "AI Weekly",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 17,
+      "field": "AI",
+      "sec": "セキュリティ",
+      "badges": ["us"],
+      "title": "OpenAI、バグバウンティを大幅引き上げ　重大脆弱性に最大3万ドル",
+      "summary": "OpenAIがセキュリティ強化の集中施策を開始し、報奨金の水準を従来の4倍超に引き上げた。中核製品における重大な脆弱性の報告には最大3万ドル、特に重要な発見には合計で約17万2000ドルに達しうる。外部研究者Cathedral Systemsとの共同スプリントも実施する。",
+      "insight": "AIエージェントの社内導入が進むほど、モデル単体ではなく製品面の脆弱性が実務リスクになる。",
+      "meta": ["重大脆弱性 最大3万ドル", "例外的発見 合計約17.2万ドル"],
+      "source": "AI Weekly",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 18,
+      "field": "india",
+      "sec": "自動車市場",
+      "badges": [],
+      "title": "インドの10月乗用車卸売が初めて50万台超　タタが2位を維持",
+      "summary": "インドの10月の乗用車卸売台数が月間で初めて50万台を超えた。祝祭期の需要とGST改定後の価格効果が重なり、過去最高水準となった。メーカー別ではタタ・モーターズが2位を維持し、国内販売は前年同月比6%増の約8万台となった。",
+      "meta": ["10月卸売 50万台超(月間初)", "タタ国内 約8万台(+6%)"],
+      "source": "Autocar India",
+      "sourceUrl": "https://www.autocarindia.com/car-news/october-2026-car-sales-tata-retains-second-place-441189"
+    },
+    {
+      "rank": 19,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": [],
+      "title": "美団、約1.6兆パラメータのマルチモーダル「LongCat-2.5 Preview」を公開",
+      "summary": "美団（Meituan）がマルチモーダルモデル「LongCat-2.5 Preview」を公開した。総パラメータは約1.6兆（アクティブ約480億）、コンテキスト長は100万トークン。学習は中国国産のアクセラレータで実施されたとしている。",
+      "meta": ["総パラメータ 約1.6兆(アクティブ約480億)", "文脈長 100万トークン", "国産アクセラレータで学習"],
+      "source": "AI Weekly",
+      "sourceUrl": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 20,
+      "field": "india",
+      "sec": "EV",
+      "badges": [],
+      "title": "タタ・モーターズとマヒンドラ、10月のEV販売が合計2万3000台超",
+      "summary": "インドのEV市場でタタ・モーターズとマヒンドラの10月販売が合計2万3000台を超えた。祝祭期需要と新型SUVの投入が寄与し、乗用EVの比率が押し上げられている。両社の競合はSUV型EVの価格帯に集中している。",
+      "meta": ["10月EV 2社合計 2万3000台超"],
+      "source": "NewsBytes",
+      "sourceUrl": "https://www.newsbytesapp.com/news/auto/october-2026-sees-tata-motors-mahindra-sell-over-23000-evs/tldr"
+    }
+  ],
+  "weekly": [
+    "ナスダック100が年内3度目の調整局面入り。AI投資の回収期間と収益性に市場の視線が移った",
+    "Anthropicが修正S-1でQ3売上約170億ドルを開示。購入コミットメント＋リースは約8954億ドル",
+    "テスラがデトロイトでCybercabのロボタクシー試験を開始。寒冷地での自動運転検証が本格化"
+  ]
+}
