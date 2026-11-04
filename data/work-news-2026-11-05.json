@@ -1,0 +1,244 @@
+{
+  "date": "2026-11-05",
+  "sub": "木",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "マクロ・政治",
+      "badges": ["us"],
+      "title": "米中間選挙で民主党が上下両院を奪還　ダウは一時1,100ドル超高",
+      "summary": "11月3日投票の米中間選挙で、AP等の集計に基づき民主党が下院・上院の双方で多数を奪還。分割政府となる見通し。4日の米株は寄り後に買いが優勢となり、ダウは10時17分ET時点で52,893.50（＋1,106.78ドル、＋2.14%）。アップルが6%高で最高値を更新する一方、エヌビディア・マイクロンなど半導体は1%超下落し、データセンター規制への警戒が残った。",
+      "insight": "「規制リスクはハイパースケーラーより電力・用地側に寄る」との読みが、ディフェンシブなメガキャップ買いに表れた。",
+      "meta": ["ダウ +1,106.78ドル(+2.14%) 10:17ET", "終値は要確認", "アップル +6% 最高値"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://ca.finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-earnings-140752043.html"
+    },
+    {
+      "rank": 2,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "日経平均は893円安の6万2,188円　一時3,000円超下落",
+      "summary": "4日の東京市場は米中間選挙で民主党優勢が伝わり、AI・半導体関連に売りが集中。日経平均は一時3,000円超下落して6万円割れに迫ったが、終値は893円安の6万2,188円で引けた。米国でのAI投資・データセンター規制強化への警戒が日本の関連銘柄に波及した構図。",
+      "meta": ["終値 62,188円(-893円)", "一時3,000円超安", "AI・半導体中心に売り"],
+      "source": "日本経済新聞",
+      "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL040X7TU6A101C2000000/"
+    },
+    {
+      "rank": 3,
+      "field": "AI",
+      "sec": "企業・ガバナンス",
+      "badges": ["us"],
+      "title": "OpenAI、元DOGE出身のCathedral Systemsを自社防御の検証に起用　Anthropicと手法で見解対立",
+      "summary": "OpenAIは、元DOGE職員が創業したCathedral Systemsを起用し、自社モデルを使って自社の防御体制を突く検証を実施。同社は以前バグバウンティ調査の過程でAnthropicの内部システムの一部にアクセスしており、Anthropicはテストの実施方法に異議を唱えた上で、モデル重みやClaudeの会話といった最重要システムには影響がなかったと説明している。",
+      "insight": "AIラボ間の「赤チーム」行為の線引きが、業界共通のセキュリティ規範づくりの論点に浮上。",
+      "meta": ["Anthropic: モデル重み・会話は影響なし", "OpenAIはバグバウンティ報奨も引き上げ"],
+      "source": "The Neuron",
+      "sourceUrl": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-4-2026/"
+    },
+    {
+      "rank": 4,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "Waymo、UberとのAustin・Atlanta独占提携を2028年1月に終了　自社アプリへ",
+      "summary": "WaymoはAustinとAtlantaでのUberアプリ独占配車を2028年1月に終了し、自社アプリでの提供に切り替える方針を明らかにした。共同CEOは、Uber経由では利用者が自動運転車に当たるかどうかが運任せ（crapshoot）になり体験の一貫性を欠くと説明。配車プラットフォーム依存からの転換が進む。",
+      "insight": "需要側チャネルを自社で握る動きは、ロボタクシーの収益モデルが「供給提供」から「直接運行」へ移る兆し。",
+      "meta": ["対象 Austin・Atlanta", "切替 2028年1月"],
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-04/waymo-co-ceo-says-uber-app-deal-was-crapshoot-for-riders"
+    },
+    {
+      "rank": 5,
+      "field": "auto",
+      "sec": "決算",
+      "badges": [],
+      "title": "欧州自動車大手3社が減収　中国市場の不振でリストラ加速へ",
+      "summary": "4日までに出そろった欧州自動車大手の決算で3社が減収となった。中国市場での販売不振が主因で、各社は人員・拠点の削減を含む構造改革を加速する構え。中国勢のEV攻勢と価格競争が欧州メーカーの収益基盤を削り続けている。",
+      "meta": ["3社が減収", "主因 中国市場の不振", "リストラ加速"],
+      "source": "共同通信（東京新聞）",
+      "sourceUrl": "https://tokyo-np.co.jp/article/526056"
+    },
+    {
+      "rank": 6,
+      "field": "econ",
+      "sec": "決算",
+      "badges": ["us"],
+      "title": "AMDの第3四半期が予想超え　データセンター売上がほぼ倍増",
+      "summary": "AMDは第3四半期決算で売上・利益とも市場予想を上回り、データセンター部門の売上はほぼ倍増した。AI向けアクセラレータとサーバ向けCPUの需要が牽引。ただし株価は時間外の上昇から失速し、本決算では選挙結果を受けたデータセンター投資への政策リスクが相殺要因となった。",
+      "meta": ["データセンター売上 ほぼ倍増", "売上・EPSともに予想超え"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://ca.finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-earnings-140752043.html"
+    },
+    {
+      "rank": 7,
+      "field": "auto",
+      "sec": "販売",
+      "badges": ["jp"],
+      "title": "トヨタの2026年度上半期世界販売は505万台　4.0%減で2年ぶりマイナス",
+      "summary": "トヨタが4日発表した2026年度上半期（4〜9月）の世界販売は約505万台で前年同期比4.0%減、上半期としては2年ぶりの減少となった。中国市場の不振が主因。一方で電動車の構成比は上昇が続いており、台数減と電動化シフトが並行して進む。",
+      "meta": ["上半期世界販売 約505万台", "前年同期比 -4.0%", "2年ぶりの減少"],
+      "source": "response.jp",
+      "sourceUrl": "https://response.jp/article/2026/11/04/418566.html"
+    },
+    {
+      "rank": 8,
+      "field": "AI",
+      "sec": "企業動向",
+      "badges": ["us"],
+      "title": "OpenAI、ChatGPTの週間利用者12億人　検索的クエリはGoogleの約2割と自社推計",
+      "summary": "OpenAIはChatGPTの週間利用者が12億人、音声入力の週間利用者が2.5億人に達したと公表。さらに自社定義による「検索に相当するクエリ」がGoogleの検索量の約20%に当たると推計した。あわせてChatとWorkを単一の体験に統合する計画も示している。（Googleとの比較は自社定義に基づく推計で、要確認）",
+      "insight": "検索代替の主張は広告・流通の交渉材料。定義が自社裁量である点は割り引いて読む必要がある。",
+      "meta": ["週間ユーザー 12億人", "音声入力 2.5億人/週", "Google比 約20%(自社推計・要確認)"],
+      "source": "The Neuron",
+      "sourceUrl": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-4-2026/"
+    },
+    {
+      "rank": 9,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "インド株が5営業日続伸　センセックス77,301・ニフティ23,960",
+      "summary": "4日のインド株は5営業日続伸。センセックスは383.55ポイント高の77,301.40、ニフティ50は149.75ポイント高の23,960.60で引け、ニフティは24,000に接近した。メディアが約5%高、金属・不動産が約2%高と内需・素材が主導。原油のブレントが約103ドルまで下げた点も支援材料。FPIは3日に685億ルピー規模の買い越し（暫定）。",
+      "meta": ["センセックス 77,301.40(+383.55)", "ニフティ 23,960.60(+149.75)", "FPI買い越し 6,837億ルピー(暫定)"],
+      "source": "HDFC Sky",
+      "sourceUrl": "https://hdfcsky.com/news/market-close-report-today-november-4-2026-diwali-party-continues-as-democrats-seize-congress-in-blow-for-trump",
+      "followup": {
+        "since": "2026-11-04",
+        "whatsNew": "前回の4日続伸から5日続伸に伸び、センセックスは76,917から77,301へ、主導セクターがITからメディア・金属・不動産に交代した。"
+      }
+    },
+    {
+      "rank": 10,
+      "field": "auto",
+      "sec": "決算",
+      "badges": ["jp"],
+      "title": "トヨタ、6四半期ぶりの増益見通し　決算発表を控え報道",
+      "summary": "トヨタの直近四半期は6四半期ぶりの増益になる見通しと報じられた。円安効果と北米での値上げ・ミックス改善が、米関税負担や中国での販売減を相殺する構図。確定値は決算発表での確認が必要（要確認）。",
+      "meta": ["6四半期ぶり増益の見通し", "数値は決算発表で要確認"],
+      "source": "BusinessDay",
+      "sourceUrl": "https://www.businessday.co.za/motoring/2026-11-04-toyota-profit-set-for-first-increase-in-six-quarters/"
+    },
+    {
+      "rank": 11,
+      "field": "econ",
+      "sec": "商品",
+      "badges": ["us"],
+      "title": "金・銀が急伸、原油は下落　選挙結果とドル安で",
+      "summary": "中間選挙の結果を受けたドル安を背景に、4日の金先物は早朝時点で約2.9%高、銀先物は4%台の上昇となった。一方で原油は売られ、米原油は朝方に約3%安。前日に米のイラン拠点攻撃報道で急騰した分の反動も重なった。（いずれも取引時間中の値で終値は要確認）",
+      "meta": ["金 +約2.9%(時間中)", "銀 +約4〜5%", "米原油 -約3%"],
+      "source": "StockTitan",
+      "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026"
+    },
+    {
+      "rank": 12,
+      "field": "ad",
+      "sec": "技術・中国勢",
+      "badges": [],
+      "title": "百度、ロボタクシー訓練用の世界モデルを公開　道路環境をシミュレート",
+      "summary": "百度（Baidu）は3日、道路環境をシミュレートしてApollo Goのロボタクシーを訓練するAIモデルを発表した。実走行データに依存せず仮想の道路でエッジケースを量産する狙いで、海外展開に向けた学習効率の引き上げを図る。同社のロボタクシー配車は22都市規模に拡大しているとされる（都市数は要確認）。",
+      "insight": "世界モデルによる仮想走行は、走行距離の実績でなく「シナリオ網羅」を競争軸に変える可能性がある。",
+      "meta": ["対象 Apollo Go", "用途 仮想道路での学習", "展開 22都市規模(要確認)"],
+      "source": "Reuters（WTVB）",
+      "sourceUrl": "https://wtvbam.com/2026/11/03/chinas-baidu-launches-ai-model-simulating-road-environment-for-robotaxis/"
+    },
+    {
+      "rank": 13,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": ["us"],
+      "title": "OpenAI社内で過大なデータアクセス権への警告　Reutersが関係者証言を報道",
+      "summary": "Reutersは関係者5人の証言に基づき、OpenAI社内で内部データへのアクセス権限が広すぎることや、研究ツールのセキュリティ審査が弱いことへの警告が出ていたと報道。警告は2022年のChatGPT公開前に経営幹部にも届いていたという。OpenAIはセキュリティを軽視したとの指摘を否定し、過去のセキュリティ強化では製品エンジニアの25%を投入したと説明している。",
+      "meta": ["証言者 5人", "警告はChatGPT公開前", "対応 製品エンジニアの25%投入と説明"],
+      "source": "The Neuron",
+      "sourceUrl": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-4-2026/"
+    },
+    {
+      "rank": 14,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "GM、ブレーキ制御ソフトの不具合で6万7,380台をリコール",
+      "summary": "GMはブレーキシステム制御モジュール（BSCM）のソフトが車輪の動きを誤認識し、低速時に一時的な制動力喪失を招くおそれがあるとして、米国で6万7,380台をリコールする。対象はキャデラックLYRIQ（2023〜2027年式）、シボレー・ブレイザーEV（2024〜2027年式）、キャデラックCELESTIQ・VISTIQの一部。OTAまたは販売店でのソフト更新で無償対応し、所有者通知は12月14日開始予定。意図的な不正ではなくソフト起因の不具合。",
+      "meta": ["対象 67,380台", "NHTSA 26V717", "対策 BSCMソフト更新(OTA可)", "通知開始 2026/12/14予定"],
+      "source": "The Brake Report",
+      "sourceUrl": "https://thebrakereport.com/gm-recall-cadillac-lyriq-blazer-ev-brake-software-26v717"
+    },
+    {
+      "rank": 15,
+      "field": "econ",
+      "sec": "経済指標",
+      "badges": ["us"],
+      "title": "米ADP民間雇用は8.6万人増で予想超え　ISM非製造業は54.5",
+      "summary": "ADPの民間雇用は8.6万人増と市場予想の6.7万人増を上回った。一方でISMサービス業景況感指数は54.5と予想の54.8をわずかに下回った。雇用の底堅さとサービス業の小幅減速が併存し、12月会合に向けた追加緩和観測の判断材料が錯綜している。",
+      "meta": ["ADP +8.6万人(予想 +6.7万人)", "ISMサービス 54.5(予想 54.8)"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://ca.finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-earnings-140752043.html"
+    },
+    {
+      "rank": 16,
+      "field": "india",
+      "sec": "IT・AI",
+      "badges": [],
+      "title": "インドIT株が逆行安　TCS2.5%安・インフォシス1.7%安",
+      "summary": "4日のインド市場でニフティITは約1.5%下落し、全体の続伸に逆行した。TCSが2.52%安の2,436ルピー、HCLテクノロジーズが2.37%安、インフォシスが1.73%安の1,128.20ルピー。米中間選挙で民主党が議会を制したことによる印米通商協議への影響に加え、H-1Bや学生ビザの規制強化が重荷となった。",
+      "insight": "政権交代が対印通商に追い風か逆風かは未確定で、ビザ規制の継続リスクがIT各社の人員モデルに直接効く。",
+      "meta": ["ニフティIT -約1.5%", "TCS -2.52% (2,436ルピー)", "インフォシス -1.73%"],
+      "source": "HDFC Sky",
+      "sourceUrl": "https://hdfcsky.com/news/market-close-report-today-november-4-2026-diwali-party-continues-as-democrats-seize-congress-in-blow-for-trump"
+    },
+    {
+      "rank": 17,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": ["us"],
+      "title": "アップル、年次報告書でAIエージェントの越権リスクを警告",
+      "summary": "アップルは年次報告書（年次開示）で、自律的に動作するAIエージェントが付与された権限を超えて動作し、無許可の取引を含む回復困難な損害を引き起こす可能性があると警告した。同時にiOS 27.3ベータでApp Intents経由のSiriを開発者に開放しており、エージェント活用の拡大とリスク開示を並行して進めている。",
+      "insight": "プラットフォーマー自らが「権限超過」を法定開示でリスク化した点は、企業の業務エージェント導入時の権限設計の根拠になる。",
+      "meta": ["開示 年次報告書", "懸念 権限超過・無許可取引", "並行 iOS 27.3betaでSiriを開発者開放"],
+      "source": "The Neuron",
+      "sourceUrl": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-4-2026/"
+    },
+    {
+      "rank": 18,
+      "field": "econ",
+      "sec": "M&A・再編",
+      "badges": ["us"],
+      "title": "CVSヘルス、2028年前半までに2社に分割へ",
+      "summary": "CVSヘルスは2028年前半までに事業を2つの独立した上場企業に分割する計画を発表した。保険・薬局・PBMを抱える統合モデルの見直しで、選挙結果を受けた医薬政策の不確実性が高まる局面での再編となる。株価は発表当日に2%台の下落。",
+      "meta": ["分割完了目標 2028年前半", "2つの独立上場会社へ", "当日株価 -約2.4%"],
+      "source": "TheStreet",
+      "sourceUrl": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
+    },
+    {
+      "rank": 19,
+      "field": "india",
+      "sec": "自動車・EV",
+      "badges": [],
+      "title": "ビンファスト、インドのEV乗用車で4位に　起亜・マルチ・ヒュンダイを上回る",
+      "summary": "ベトナムのビンファスト（VinFast）がインドの電気乗用車ブランド別で4位に浮上し、起亜・マルチスズキ・ヒュンダイを上回ったと報じられた。タミルナドゥ州の現地生産とディーラー網拡大が効いた形で、インドEV市場の上位はタタ・マヒンドラに新興外資が食い込む構図に変わりつつある。",
+      "meta": ["順位 インドEV乗用車4位", "上回った相手 起亜・マルチ・ヒュンダイ"],
+      "source": "Business Today",
+      "sourceUrl": "https://www.businesstoday.in/latest/trends/photo/vinfast-is-now-indias-no-4-electric-car-brand-ahead-of-kia-maruti-and-hyundai-565660-2026-11-04"
+    },
+    {
+      "rank": 20,
+      "field": "AI",
+      "sec": "業務活用",
+      "badges": [],
+      "title": "Revolut、自社ホスト型GLMを既定にしてAIコーディング費を約9割削減",
+      "summary": "英フィンテックのRevolutは、社内のAIコーディング環境の既定モデルを自社ホスト型のGLMに切り替え、コストを約90%削減したと公表した。商用APIからオープンウェイト＋自前推論への移行で、コードが社外に出ない運用と単価低減を同時に取る構成。",
+      "insight": "開発支援AIは「どのモデルが強いか」から「どこで推論するか」へ論点が移り、自前ホストが現実的な選択肢になってきた。",
+      "meta": ["削減率 約90%", "構成 自社ホストのGLMを既定化"],
+      "source": "The Neuron",
+      "sourceUrl": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-4-2026/"
+    }
+  ],
+  "weekly": [
+    "米中間選挙で民主党が上下両院を奪還。株高の一方でデータセンター規制とAI投資への政策リスクが新たな前提に",
+    "Waymoが2028年1月にUberとの独占配車を終了し自社アプリへ。ロボタクシーの収益モデルが直接運行へ移る",
+    "欧州自動車大手3社が中国不振で減収、トヨタも上半期販売4.0%減。中国市場の重さが日欧の収益構造に効き続ける"
+  ]
+}
