@@ -1,0 +1,255 @@
+{
+  "date": "2026-11-09",
+  "sub": "月",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "日経平均が3,643円安、57,434円に沈み歴代3位の下げ幅　5日続落で6万円割れ",
+      "summary": "11月6日の東京市場は5日続落し、日経平均は前日比3,643円安の57,434円で引け、下げ幅は歴代3位。前日の米AI・半導体株急落を受けて値がさ半導体関連に売りが集中し、終値で約半年ぶりの安値圏となった。下落率は約5.96%。",
+      "insight": "米AI relatedの調整が日本株の指数構成上位に直撃する構図が改めて鮮明。",
+      "meta": ["終値 57,434円", "下げ幅 3,643円（歴代3位）", "5日続落"],
+      "source": "株探",
+      "sourceUrl": "https://kabutan.jp/news/marketnews/?b=n202611061637"
+    },
+    {
+      "rank": 2,
+      "field": "econ",
+      "sec": "マクロ・中央銀行",
+      "badges": ["us"],
+      "title": "米10月雇用統計は16.5万人増で予想を大幅超過　失業率4.1%に改善",
+      "summary": "11月6日発表の米10月雇用統計は非農業部門雇用者数が16万5000人増となり、6万5000人増程度だった市場予想を大きく上回った。失業率は4.1%に改善し、採用は業種を横断して拡大。景気後退懸念が後退する一方、12月の追加利上げ観測が強まったと報じられている。",
+      "insight": "金融政策の方向感が「利下げ」から「追加利上げ」側に振れ、株式のバリュエーション前提が揺らぐ。",
+      "meta": ["NFP +16.5万人", "予想 +6.5万人程度", "失業率 4.1%"],
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/jp/news/articles/2026-11-06/TO31M5T9NJLS00"
+    },
+    {
+      "rank": 3,
+      "field": "auto",
+      "sec": "新車・EV",
+      "badges": ["us"],
+      "title": "テスラ、Cybertruckを2027年に生産終了　テキサス工場をCybercabに振り向け",
+      "summary": "イーロン・マスク氏は11月6日、テキサス工場でのCybertruck生産を2027年に終了し、ロボタクシー専用車Cybercabの量産に生産能力を振り向ける方針を明らかにした。Cybertruckは限られた市場での販売低迷が続いていた。終了時期は2027年半ばとの報道もある(要確認)。",
+      "insight": "ピックアップからロボタクシー専用車への資源集約は、テスラが収益の軸を車両販売から配車サービスへ移す宣言に近い。",
+      "meta": ["生産終了 2027年", "振替先 Cybercab", "生産地 テキサス"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html"
+    },
+    {
+      "rank": 4,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": ["us"],
+      "title": "OpenAI、データセンター立地地域への約束を発表　電力費は全額自己負担・公職者とのNDA不使用",
+      "summary": "OpenAIは11月上旬、AIデータセンターに関する政策提言と立地地域への約束を公表した。自社が使用する電力とインフラの費用を全額負担し、電力・水使用量を公表、公職者との秘密保持契約（NDA）を用いないとする内容。施設名称を「コンピュート・キャンパス」に改めるとも報じられた。",
+      "insight": "中間選挙でデータセンター規制が争点化した直後の発表であり、立地自治体の反発を先回りして抑える狙いが明確。",
+      "meta": ["電力・インフラ費 全額自社負担", "電力・水使用量を公表", "公職者とのNDA不使用"],
+      "source": "ITmedia NEWS",
+      "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/06/2000002928/"
+    },
+    {
+      "rank": 5,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "米株は11月6日に反発、ナスダックとS&P500が上昇　ダウは小幅安で週間は大幅下落",
+      "summary": "前日の急落から一転、11月6日の米市場はナスダック総合とS&P500が上昇して引け、ダウ平均は小幅安。前日売られた半導体株が買い戻された。ただしAI関連株には週を通じて売り圧力が残り、週間ベースでは主要指数が大きく下げた。",
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
+      "meta": ["ナスダック・S&P500 上昇", "ダウ 小幅安", "週間では大幅安"],
+      "followup": {
+        "since": "2026-11-06",
+        "whatsNew": "前回掲載のS&P500の3%安・ナスダック約5%安からの反転で、半導体株が買い戻された点が新しい。"
+      }
+    },
+    {
+      "rank": 6,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": ["us"],
+      "title": "米データセンター規制の住民投票、規制強化派がほぼ全勝　多数の自治体で建設制限が可決",
+      "summary": "中間選挙と同時に各地で実施されたAIデータセンター関連の住民投票で、規制強化を支持する結果が圧倒的多数を占めた。報道では「47件中46件」「45件中44件」「10州で38項目の制限が可決」など集計の取り方により件数が異なる(要確認)が、推進側のほぼ全面敗北という評価は共通している。",
+      "insight": "電力・水・用地をめぐる地元合意が、AI投資計画の実行速度を左右する一次制約になりつつある。",
+      "meta": ["規制派がほぼ全勝", "件数は報道により差異(要確認)", "対象 10州規模"],
+      "source": "GIGAZINE",
+      "sourceUrl": "https://gigazine.net/news/20261105-us-data-center-vote-reject/",
+      "followup": {
+        "since": "2026-11-06",
+        "whatsNew": "前回は「民主党勝利でAI規制が立法課題に再浮上」止まりだったが、自治体レベルの住民投票結果が具体的に集計された。"
+      }
+    },
+    {
+      "rank": 7,
+      "field": "auto",
+      "sec": "決算",
+      "badges": ["jp"],
+      "title": "三菱自動車、通期営業利益を700億円に下方修正　ASEAN・豪州の販売不振と米関税",
+      "summary": "三菱自動車は11月6日、2026年4〜9月期決算にあわせ通期の営業利益見通しを700億円へ引き下げた。ASEANや豪州での販売が想定を下回り、米関税の影響に対する挽回策も計画通りに進んでいないとした。当期純利益も大幅減益に修正。",
+      "meta": ["通期営業利益 700億円に下方修正", "要因 ASEAN・豪州の販売不振", "米関税の挽回策が未達"],
+      "source": "レスポンス",
+      "sourceUrl": "https://response.jp/article/2026/11/06/418704.html"
+    },
+    {
+      "rank": 8,
+      "field": "AI",
+      "sec": "製品・業務活用",
+      "badges": ["us"],
+      "title": "Perplexity、業務用AIエージェント「Teammates」を提供開始　上位有料プラン向け",
+      "summary": "Perplexityは11月6日、企業業務に特化した自律型AIエージェント「Teammates」を発表した。社内データやツールに接続して継続的にタスクを処理する設計で、上位の月額プラン利用者から順次提供される。月額水準は報道により167ドル・200ドルと差があり(要確認)。",
+      "insight": "検索UIの会社が「常駐して働くエージェント」に軸足を移す流れは、AIの課金単位が問い合わせ回数から業務量へ移る兆し。",
+      "meta": ["名称 Teammates", "対象 上位有料プラン", "月額は報道に差異(要確認)"],
+      "source": "GIGAZINE",
+      "sourceUrl": "https://gigazine.net/gsc_news/en/20261106-perplexity-teammates/"
+    },
+    {
+      "rank": 9,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "センセックスが1,718ポイント高で81,000台回復　ニフティは25,030で9カ月ぶり高値",
+      "summary": "11月6日のインド株は大幅続伸し、センセックスが1,718ポイント高で81,000台を回復、ニフティは25,030で約9カ月ぶりの高値となった。海外機関投資家の買いが流入し、直近7営業日で約10%上昇。週間ベースでも2021年以来最大級の上昇率となった。",
+      "insight": "米AI株の調整局面で資金がインドに向かう「リバースAIトレード」の受け皿になっている。",
+      "meta": ["センセックス +1,718pt／81,000台", "ニフティ 25,030", "7営業日で約10%高"],
+      "source": "Millennium Post",
+      "sourceUrl": "https://www.millenniumpost.in/business/sensex-soars-1718-pts-nifty-hits-9-month-high-to-regain-25k-level-682415",
+      "followup": {
+        "since": "2026-11-06",
+        "whatsNew": "前回の「2,009ポイント高・ニフティ24,500台」から続伸し、ニフティが25,000台を回復して9カ月ぶり高値を付けた。"
+      }
+    },
+    {
+      "rank": 10,
+      "field": "econ",
+      "sec": "企業統治・行政処分",
+      "badges": ["jp"],
+      "title": "経済産業省、中部電力に業務改善命令　浜岡原発の耐震データ不正など不祥事相次ぎ",
+      "summary": "経済産業省は中部電力に対し業務改善命令を出した。浜岡原子力発電所の耐震データをめぐる不正など不祥事が相次いだことを踏まえた措置で、11月末までの業務改善計画の提出と年度末の報告を求めた。再発防止策の実効性が問われる。",
+      "insight": "検査・試験データの改ざんに対する当局の対応が、自動車以外の規制産業でも厳格化している。",
+      "meta": ["処分 業務改善命令", "計画提出 11月末まで", "報告 年度末"],
+      "source": "中日新聞",
+      "sourceUrl": "https://www.chunichi.co.jp/article/1335490"
+    },
+    {
+      "rank": 11,
+      "field": "auto",
+      "sec": "決算",
+      "badges": ["jp"],
+      "title": "アイシン・トヨタ紡織・愛知製鋼が通期下方修正　部材高騰と中国市場の鈍化が直撃",
+      "summary": "トヨタグループ主要7社の2026年4〜9月期決算が出揃い、アイシン、トヨタ紡織、愛知製鋼が通期見通しを下方修正した。原材料・部材価格の高騰と中国市場の需要鈍化、トヨタの生産台数減が収益を押し下げた。デンソーも4〜9月期の純利益が減益。",
+      "insight": "完成車の上方修正と部品側の下方修正が同時に起きており、コスト負担の配分がサプライチェーン下流に偏っている。",
+      "meta": ["下方修正 アイシン・トヨタ紡織・愛知製鋼", "要因 部材高騰・中国鈍化", "対象 トヨタG7社"],
+      "source": "ニュースイッチ",
+      "sourceUrl": "https://newswitch.jp/p/50684"
+    },
+    {
+      "rank": 12,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "Lyft、年内にナッシュビルのWaymo車両を大幅拡大　運行支援で収益を得るモデルに",
+      "summary": "Lyftは年末までにナッシュビルで運用するWaymoのロボタクシー車両を大幅に増やす方針を示した。Lyftは車両の整備・充電・稼働管理を受託する立場で、自社アプリ経由の配車とあわせて手数料収入を得る。ロボタクシーの普及が必ずしも配車事業者の収益を損なわない構図を示す事例。",
+      "insight": "AV事業者が自前で持ちたくない「地上オペレーション」を既存配車網が引き受ける分業が定着しつつある。",
+      "meta": ["対象都市 ナッシュビル", "時期 2026年内", "役割 車両運行支援"],
+      "source": "U.S. News",
+      "sourceUrl": "https://www.usnews.com/news/top-news/articles/2026-11-05/lyft-to-expand-waymo-robotaxi-fleet-in-nashville-by-year-end"
+    },
+    {
+      "rank": 13,
+      "field": "india",
+      "sec": "為替",
+      "badges": [],
+      "title": "インドルピーが1.2%高の93.91ルピー　2026年で最大の週間上昇",
+      "summary": "インドルピーは対ドルで1.2%上昇し1ドル=93.91ルピーとなり、2026年で最大の週間上昇率を記録した。約30億ドル規模の海外証券投資（FPI）の流入と原油価格の大幅下落が追い風となり、6カ月続いた上値抵抗を突破した。数値は報道時点。",
+      "meta": ["1ドル=93.91ルピー", "週間 +1.2%", "FPI流入 約30億ドル"],
+      "source": "HDFC Sky",
+      "sourceUrl": "https://hdfcsky.com/news/rupee-surges-1-2percent-to-93-91-as-3-billion-fpi-flood-and-16percent-crude-crash-break-six-month-barrier"
+    },
+    {
+      "rank": 14,
+      "field": "econ",
+      "sec": "為替",
+      "badges": ["jp", "us"],
+      "title": "ドル円は157〜158円台で膠着　株安局面でも円高に振れず",
+      "summary": "AI・半導体株の急落と日経平均の大幅下落にもかかわらず、ドル円は157〜158円台で小動きの展開が続いた。日米金利差が意識されるなか、リスク回避による円買いが限定的にとどまっている。水準は11月7日時点。",
+      "meta": ["ドル円 157〜158円台", "取得時点 11月7日", "株安でも円高限定"],
+      "source": "外為どっとコム",
+      "sourceUrl": "https://www.gaitame.com/media/entry/2026/11/07/110000"
+    },
+    {
+      "rank": 15,
+      "field": "india",
+      "sec": "IT・AI",
+      "badges": [],
+      "title": "インドIT株が最大8%高　「リバースAIトレード」でInfosys・TCSなどに資金流入",
+      "summary": "11月6日のインド市場ではMphasis、Infosys、TCS、HCLTech、Coforgeなどが最大8%上昇した。米AI関連株から資金が引き揚げられる一方、AI活用の受益側とみられるITサービスに買いが向かう「リバースAIトレード」が指摘されている。TCSとInfosysはAI関連売上が全体の10%超に達したと報じられている。",
+      "insight": "AI投資の調整は、モデル側からサービス実装側へ収益期待が移る契機になり得る。",
+      "meta": ["上昇率 最大8%", "対象 Infosys・TCS・HCLTech等", "AI売上比率 10%超"],
+      "source": "Business Today",
+      "sourceUrl": "https://www.businesstoday.in/markets/trending-stocks/story/mphasis-infosys-tcs-hcl-tech-coforge-ltm-it-stock-climb-up-to-8-amid-reverse-ai-trade-566099-2026-11-06"
+    },
+    {
+      "rank": 16,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": ["us"],
+      "title": "AIバブル警戒論が拡大　著名テック投資家が「ネオクラウド勢の多くはゼロになる」と警告",
+      "summary": "AI関連株の急落を受け、GPUレンタルを主力とする新興クラウド事業者（ネオクラウド）への懐疑が強まっている。著名テック投資家は、債務依存で設備を積み上げた多くの事業者が無価値化し得ると警告した。あくまで一投資家の見解であり断定的な評価ではない(要確認)。",
+      "meta": ["対象 ネオクラウド各社", "論点 債務依存の設備投資", "位置づけ 個別見解(要確認)"],
+      "source": "Benzinga",
+      "sourceUrl": "https://www.benzinga.com/markets/tech/26/11/62968934/ai-bubble-about-to-burst-top-tech-investor-warns-most-neocloud-players-could-go-to-zero"
+    },
+    {
+      "rank": 17,
+      "field": "econ",
+      "sec": "決算",
+      "badges": ["jp"],
+      "title": "いすゞ自動車の4〜9月期は純利益7%増　最大500億円の自社株買いを発表",
+      "summary": "いすゞ自動車の2026年4〜9月期決算は純利益が前年同期比7%増と3年ぶりの増益となった。あわせて上限500億円の自社株買いを決議。通期見通しは据え置いたが、中東事業への影響は拡大しているとしている。",
+      "meta": ["4〜9月純利益 +7%", "自社株買い 上限500億円", "通期見通し 据え置き"],
+      "source": "日本経済新聞",
+      "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB064Z40W6A101C2000000/"
+    },
+    {
+      "rank": 18,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "Lyft CEO、「ロボタクシーは事業を殺していない」　AV展開都市でも成長と説明",
+      "summary": "Lyftの決算説明でCEOは、ロボタクシーが運行している市場でも自社の配車事業は成長していると述べ、Waymoとの提携内容を説明した。AV事業者向けの車両管理・運行支援を収益源に組み込む方針を強調している。",
+      "meta": ["AV展開都市でも成長", "Waymo提携の詳細を説明", "収益源 運行支援"],
+      "source": "Benzinga",
+      "sourceUrl": "https://www.benzinga.com/markets/earnings/26/11/62966806/robotaxis-arent-killing-lyfts-business-ceo-says-company-is-growing-in-av-markets-details-waymo-partnership"
+    },
+    {
+      "rank": 19,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["jp"],
+      "title": "ホンダ、オデッセイ628台をリコール　バッテリー上がりのおそれ",
+      "summary": "ホンダは11月6日、オデッセイ628台についてリコールを国土交通省に届け出た。電源制御に起因しバッテリーが上がるおそれがあるため。同社は10月にもステップワゴン、フリードなど複数車種で同種の不具合を届け出ている。",
+      "meta": ["対象 オデッセイ 628台", "不具合 バッテリー上がり", "届出 11月6日"],
+      "source": "レスポンス",
+      "sourceUrl": "https://response.jp/article/2026/11/06/418663.html"
+    },
+    {
+      "rank": 20,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "テスラ、RobotaxiアプリでCybercabが適しているかを乗客に提示する更新",
+      "summary": "テスラはRobotaxiアプリを更新し、配車時にCybercabとModel Yのどちらが利用者のニーズに合うかを示す機能を追加した。Cybercabの量産開始に向けて、車種を選べる配車体験の整備が進んでいる。",
+      "meta": ["対象 Robotaxiアプリ", "機能 車種適合の提示", "車種 Cybercab／Model Y"],
+      "source": "Teslarati",
+      "sourceUrl": "https://www.teslarati.com/tesla-robotaxi-app-cybercab-vs-model-y/"
+    }
+  ],
+  "weekly": [
+    "日経平均が3,643円安の57,434円、歴代3位の下げ幅でAI相場の調整が日本株に直撃",
+    "米10月雇用統計が16.5万人増で予想を大幅超過、失業率4.1%に改善し12月の追加利上げ観測が強まる",
+    "テスラがCybertruckを2027年に生産終了、テキサス工場の能力をロボタクシー専用車Cybercabに振り向け"
+  ]
+}
