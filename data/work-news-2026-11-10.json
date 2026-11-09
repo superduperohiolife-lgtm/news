@@ -1,0 +1,257 @@
+{
+  "date": "2026-11-10",
+  "sub": "火",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "AI",
+      "sec": "企業・ガバナンス",
+      "badges": ["us"],
+      "title": "エヌビディア取締役会、フアンCEOを調査　中国スパイ容疑者との関係認める　株価5%安",
+      "summary": "エヌビディアの取締役会が、ジェンスン・フアンCEOと中国のスパイと疑われる人物との関係について調査を開始。フアン氏は不倫関係を認めた。報道を受け11月9日の米市場で株価は5%程度下落し、AI関連株の反発局面で指数の重荷となった。取締役会はCEO本人や広報の過去の説明の妥当性も調査対象にするとされる。",
+      "insight": "半導体サプライチェーンの中核企業のトップリスクであり、対中規制・調達の政治的文脈にも波及しうる。",
+      "meta": ["株価 約5%安(11/9 米取引時間)", "調査主体 取締役会", "本人が関係を認定"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html"
+    },
+    {
+      "rank": 2,
+      "field": "econ",
+      "sec": "商品・地政学",
+      "badges": ["us"],
+      "title": "原油が急落、イランがホルムズ要求を緩和との報道　トランプ氏は抑制姿勢を示唆",
+      "summary": "11月9日の市場で原油が大幅安。イランがホルムズ海峡に関する要求を緩和したとの未確認報道と、トランプ大統領が対イランで抑制的な姿勢と交渉進展を示唆したことが材料。海運への攻撃が続く中でも、緊張緩和・和平期待が価格を押し下げた。下落率はブレントで5%前後と伝わる(要確認)。",
+      "insight": "原油安は日本の輸入コスト・インフレ圧力の緩和要因だが、ホルムズ情勢は未確定で反転リスクが大きい。",
+      "meta": ["材料 ホルムズ要求緩和報道(未確認)", "下落率 約5%(要確認)", "取得時点 11/9 米取引時間"],
+      "source": "Reuters (Yahoo Finance)",
+      "sourceUrl": "https://finance.yahoo.com/news/oil-falls-open-trump-says-235002807.html"
+    },
+    {
+      "rank": 3,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "日経平均が1,340円高の5万8,775円　5日続落から急反発、三菱重工など業績期待で買い",
+      "summary": "11月9日の東京株式市場で日経平均株価は前営業日比1,340円73銭高の5万8,775円50銭で引けた。前週末までの5日続落・歴代3位の下げ幅から急反発。三菱重工業の業績期待が買いを呼び込み、指数寄与度の高い銘柄がけん引した。",
+      "meta": ["終値 58,775.50円", "前日比 +1,340.73円", "取得時点 11/9 大引け"],
+      "source": "日本経済新聞",
+      "sourceUrl": "https://www.nikkei.com/article/DGXZQOUB091AYTZ01C26A1000000/",
+      "followup": {
+        "since": "2026-11-09",
+        "whatsNew": "前回報じた3,643円安・6万円割れの5日続落から一転、1,340円高で5万8,775円まで戻した。"
+      }
+    },
+    {
+      "rank": 4,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "米株はAI関連の反発でナスダック上昇　エヌビディア安が重荷、AMDは買われる",
+      "summary": "11月9日の米市場はAI関連株の買い戻しでナスダックが上昇し、ダウ・S&P500も堅調。寄り付き時点でS&P500は1.3%高、ナスダックは1.6%高と伝わる。一方でフアンCEO調査報道を受けたエヌビディアの5%安が指数の上値を抑え、AMDは4%程度上昇した(いずれも取引時間中の数値)。",
+      "meta": ["S&P500 +1.3%(寄り付き時点)", "ナスダック +1.6%(寄り付き時点)", "取得時点 11/9 米取引時間・終値未確定"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html",
+      "followup": {
+        "since": "2026-11-09",
+        "whatsNew": "前回の11月6日反発に続き、AI関連の買い戻しが継続。ただし主導役がエヌビディアからAMDなどに入れ替わった。"
+      }
+    },
+    {
+      "rank": 5,
+      "field": "econ",
+      "sec": "マクロ・政治",
+      "badges": ["us"],
+      "title": "米議会が中間選挙後に再開　12月11日のつなぎ予算期限と債務上限が焦点",
+      "summary": "11月9日、米議会が中間選挙による勢力変化を経てレームダック会期に復帰した。12月11日に迫る政府資金の期限、債務上限、国防長官人事などが山積し、政府機関閉鎖リスクが再浮上。民主党内ではイラン情勢を巡る対応と予算審議を絡める動きも出ていると報じられた。",
+      "insight": "12月のつなぎ予算期限は米経済指標の公表遅延や市場のボラティリティ要因になりうる。",
+      "meta": ["資金期限 12月11日", "論点 債務上限・国防長官人事"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/09/congress-government-funding-debt-limit-elections.html"
+    },
+    {
+      "rank": 6,
+      "field": "AI",
+      "sec": "インフラ・電力",
+      "badges": ["us"],
+      "title": "Anthropic、34億ドルでガス発電機を調達　1.7GW分、OnePWRの発注枠を引き継ぎ",
+      "summary": "Anthropicが自社AIデータセンター向けに約34億ドル規模のガスタービン発電機を確保したとFTが報じた。計1.7ギガワット相当で、テキサスのOnePWR Solutionsが抱えていた既存発注を引き継ぐ形。企業買収ではなく発注枠の取得で、長期の納入待ちを回避したとされる。両社は公式には未確認。",
+      "insight": "電力確保がAI事業の制約条件になり、ハイパースケーラーが自前の発電設備調達に踏み込む段階に入った。",
+      "meta": ["金額 約34億ドル", "容量 1.7GW", "出所 FT報道・両社未確認"],
+      "source": "Tom's Hardware",
+      "sourceUrl": "https://www.tomshardware.com/tech-industry/data-centers/anthropic-skips-six-year-waitlist-with-massive-usd3-4-billion-gas-turbine-generator-deal-firm-takes-over-onepwrs-orders-secures-1-7gw-of-capacity-to-power-ai-data-centers"
+    },
+    {
+      "rank": 7,
+      "field": "auto",
+      "sec": "リコール・当局",
+      "badges": ["us"],
+      "title": "NHTSA、フォード・エクスプローラー約124万台を予備調査　シート内蔵サイドエアバッグで熱傷",
+      "summary": "米NHTSAが11月9日、フォードのエクスプローラー1,236,155台を対象に予備調査を開始した。シートに内蔵されたサイドエアバッグの展開に伴う熱傷被害の申告が8件寄せられ、うち一部はベント（ガス排出口）が着座者側を向いていたとされる。リコールに発展するかは今後の調査次第。",
+      "insight": "乗員保護デバイス側の設計・配置に起因する案件で、Tier1のエアバッグ・シートサプライヤーにも波及しうる。",
+      "meta": ["対象 1,236,155台", "段階 予備調査(PE)", "苦情 8件"],
+      "source": "The Detroit News",
+      "sourceUrl": "https://www.detroitnews.com/story/business/autos/ford/2026/11/09/nhtsa-probes-1-2-million-ford-suvs-over-accidental-air-bag-deployment/92688525007/"
+    },
+    {
+      "rank": 8,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "テスラ、ロボタクシーをサンアントニオで開始　オースティンの運行エリアも拡大",
+      "summary": "テスラが11月9日、ロボタクシーサービスの提供地域をテキサス州サンアントニオに拡大した。あわせてオースティンのジオフェンス（運行対象エリア）も広げた。テキサス州の登録ベースでは同社のロボタクシー車両が1,282台に達し、Waymoの規模に接近しているとの集計もある(要確認)。",
+      "meta": ["新規都市 サンアントニオ", "テキサス登録台数 1,282台(要確認)"],
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/"
+    },
+    {
+      "rank": 9,
+      "field": "ad",
+      "sec": "当局調査",
+      "badges": ["us"],
+      "title": "NHTSA、Waymoのスクールバス追い越しを再調査　ソフト修正後も違反継続と指摘",
+      "summary": "米NHTSAは、Waymoのロボタクシーが停車中のスクールバスの停止標識を無視して追い越す事象が、同社のソフトウェア修正後も続いていたとして調査を進めている。当局は修正が実効性を持ったかを問題視。子どもの安全に直結する論点で、L4運行の認可環境に影響しうる。",
+      "insight": "ソフト更新による是正が当局に受け入れられるかという、AV監督の実効性を問う先例になる。",
+      "meta": ["論点 ソフト修正後も違反継続", "当局 NHTSA"],
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/"
+    },
+    {
+      "rank": 10,
+      "field": "auto",
+      "sec": "EV・製品",
+      "badges": ["us"],
+      "title": "マスク氏、Cybertruckの予約金を「多くの人に」返金へ　生産終了前に",
+      "summary": "イーロン・マスク氏は11月9日、生産終了を前にCybertruckの予約金を「多くの人」に返金する必要があると述べた。需要が残存生産能力を上回るためと説明し、収益性に問題があるとの報道は否定した。テスラは2027年にCybertruckの生産を終了し、テキサス工場をCybercabに振り向ける方針を示している。",
+      "meta": ["対応 予約金返金", "理由説明 需要が生産を上回る(会社説明)"],
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-09/musk-says-tesla-to-return-cybertruck-deposit-to-lot-of-people",
+      "followup": {
+        "since": "2026-11-09",
+        "whatsNew": "前回報じた2027年の生産終了方針に対し、既存予約客への返金という具体的な後処理が明らかになった。"
+      }
+    },
+    {
+      "rank": 11,
+      "field": "auto",
+      "sec": "決算",
+      "badges": ["jp"],
+      "title": "マツダが2年ぶり中間黒字、最終442億円　今期経常を14%上方修正",
+      "summary": "マツダの2026年9月中間連結決算は最終損益が442億円の黒字となり、2年ぶりに中間期の黒字を確保した。新型車投入効果と円安が寄与。あわせて今期の経常利益見通しを14%上方修正した。米関税や中国市場の影響で下方修正が相次ぐ日本車メーカーの中では対照的な内容。",
+      "meta": ["中間最終損益 442億円の黒字", "通期経常 14%上方修正", "2年ぶりの中間黒字"],
+      "source": "株探",
+      "sourceUrl": "https://kabutan.jp/news/?b=k202611090030"
+    },
+    {
+      "rank": 12,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": ["us"],
+      "title": "トランプ氏、AIの「ガードレール」に前向き　民主党との協調に言及、対中競争は堅持",
+      "summary": "トランプ大統領はテレビインタビューで、AIのリスクは管理可能との見方を示し、安全規制（ガードレール）の導入に異論はないと述べた。民主党と協調する余地にも言及した一方、規制によって米国が中国に遅れてはならないと強調。民主党側はAIに関する公聴会の準備を進めていると報じられた。",
+      "insight": "連邦レベルの包括規制が動けば、各州の個別規制やデータセンター規制の乱立を整理する方向に働く可能性。",
+      "meta": ["発言 ガードレールに異論なし", "条件 対中競争で後退しないこと"],
+      "source": "Yahoo News",
+      "sourceUrl": "https://www.yahoo.com/news/politics/articles/trump-says-ai-risks-managed-002858735.html"
+    },
+    {
+      "rank": 13,
+      "field": "econ",
+      "sec": "決算",
+      "badges": ["jp"],
+      "title": "ソフトバンク上期は売上3.8兆円で過去最高益　クラウド・AIが36.7%増、通期も上方修正",
+      "summary": "ソフトバンク（9434）の2026年度上期決算は売上高3.8兆円で過去最高益となった。クラウド・AI関連の売上が36.7%増と伸び、収益の柱に育っている。通期の最終利益見通しも9%上方修正し、最高益予想を上乗せした。",
+      "meta": ["上期売上高 3.8兆円", "クラウド・AI +36.7%", "通期最終 9%上方修正"],
+      "source": "株探",
+      "sourceUrl": "https://kabutan.jp/news/?b=k202611090143"
+    },
+    {
+      "rank": 14,
+      "field": "econ",
+      "sec": "金利",
+      "badges": ["jp"],
+      "title": "長期金利が2.695%に上昇　米債安と株高で、日銀12月利上げ観測も背景",
+      "summary": "11月9日の債券市場で新発10年国債利回りが2.695%まで上昇した。米債安と国内株高を受けた売りが優勢。日銀が12月に追加利上げに踏み切るとの見方が市場で多数を占めており、金利の上昇圧力が続いている。",
+      "meta": ["10年債利回り 2.695%", "取得時点 11/9 午前11時"],
+      "source": "日本経済新聞",
+      "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL091J30Z01C26A1000000/"
+    },
+    {
+      "rank": 15,
+      "field": "AI",
+      "sec": "エージェント",
+      "badges": [],
+      "title": "DeepSeekのAIエージェント「Harness」が日次154万ユーザー　3カ月弱で、プラグイン市場も計画",
+      "summary": "DeepSeekのオープンソースAIエージェント「Harness」の日次アクティブユーザーが154万に達した。公開から3カ月弱での到達で、同社は公式プラグインマーケットプレイスの開設も計画している。オープンウェイト陣営がエージェント領域で実利用を積み上げている構図。",
+      "insight": "業務用エージェントの選定でオープンソース系が現実的な比較対象に入ってきた。",
+      "meta": ["DAU 154万", "期間 公開から3カ月弱", "計画 公式プラグイン市場"],
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-08/deepseek-s-ai-agent-platform-hits-1-54-million-daily-users"
+    },
+    {
+      "rank": 16,
+      "field": "auto",
+      "sec": "新車・EV",
+      "badges": ["jp"],
+      "title": "ホンダ、グローバル電動SUV「アルファ」を予告　12月2日デビュー",
+      "summary": "ホンダが11月9日、新型のグローバル電動SUV「アルファ（ALPHA）」を予告した。デビューは12月2日。グローバル展開を前提とした電動SUVで、詳細な仕様・市場投入時期は発表時に明らかになる見通し。",
+      "meta": ["車名 アルファ", "発表日 12月2日"],
+      "source": "レスポンス",
+      "sourceUrl": "https://response.jp/article/2026/11/09/418747.html"
+    },
+    {
+      "rank": 17,
+      "field": "india",
+      "sec": "IT・AI",
+      "badges": [],
+      "title": "インドIT株が反落、Nifty ITは1%超安　世界のAI株反発で「逆張り資金」が流出",
+      "summary": "11月9日のインド市場でNifty IT指数が1%超下落し、Mphasis・HCL Tech・Infosysが2〜3%安となった。世界のAI関連株が反発したことで、前週にインドIT株へ流入していた「リバースAIトレード」の資金が巻き戻された。寄り付き段階からIT株が値下がり率上位に並んだ。",
+      "meta": ["Nifty IT 1%超安", "下落幅 主要銘柄で2〜3%", "取得時点 11/9 インド取引時間"],
+      "source": "Moneycontrol (TradingView)",
+      "sourceUrl": "https://www.tradingview.com/news/moneycontrol:b57babaf5094b:0-nifty-it-index-falls-over-1-as-global-ai-stocks-stage-recovery-mphasis-hcl-tech-infosys-down-2-3/",
+      "followup": {
+        "since": "2026-11-09",
+        "whatsNew": "前回報じた「リバースAIトレード」によるインドIT株の最大8%高が、世界のAI株反発で一転して巻き戻された。"
+      }
+    },
+    {
+      "rank": 18,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "センセックスが107ポイント高、ニフティは25,045　8カ月ぶり高値圏、PSU銀行指数は3%高",
+      "summary": "11月9日のインド株式市場はセンセックスが107ポイント高で終え、ニフティは25,045。ともに約8カ月ぶりの高値圏での引けとなった。値動きは荒く、利益確定売りで上げ幅を削った。国営銀行で構成するPSU Bank指数は3%高、インドステイト銀行が上昇率上位に入った。",
+      "meta": ["ニフティ 25,045", "センセックス +107ポイント", "PSU Bank指数 +3%"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/markets/news/stock-market-live-november-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-update-126110900058_1.html"
+    },
+    {
+      "rank": 19,
+      "field": "india",
+      "sec": "産業政策",
+      "badges": [],
+      "title": "インド政府、製造業支援を100品目に拡大検討　FY28予算での延長が浮上",
+      "summary": "インド政府が、国内製造業を後押しする支援措置を約100品目に広げ、2027年度（FY28）予算で延長する案を検討していると報じられた。生産連動型インセンティブ（PLI）に続く製造誘致策の枠組み拡張で、対象分野の選定が焦点となる。制度の最終形・金額は未確定(要確認)。",
+      "insight": "対象品目に自動車部品・電子部品が入るかが、日系メーカーのインド現地調達戦略に直結する。",
+      "meta": ["対象 約100品目", "時期 FY28予算で検討", "ステータス 検討段階(要確認)"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/news/govt-may-extend-fy28-budget-support-to-boost-manufacturing-of-100-products-126110900628_1.html"
+    },
+    {
+      "rank": 20,
+      "field": "india",
+      "sec": "自動車市場",
+      "badges": [],
+      "title": "タタ・モーターズがマヒンドラをリード維持　EV販売が乗用車シェア争いの決め手",
+      "summary": "インドの乗用車（PV）市場シェア争いで、タタ・モーターズがマヒンドラ＆マヒンドラに対するリードを維持している。けん引役はEV販売で、タタのEVは年初来の販売が節目を超えて伸びた。10月は祝祭需要でタタ・マヒンドラ・マルチ・ヒュンダイがそろって国内販売の記録を更新している。",
+      "meta": ["首位争い タタ vs マヒンドラ", "決め手 EV販売"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/industry/auto/tamo-keeps-m-m-in-its-rearview-as-ev-sales-drive-lead-in-pv-market-race-126110800512_1.html"
+    }
+  ],
+  "weekly": [
+    "エヌビディア取締役会がフアンCEOと中国スパイ容疑者の関係を調査、株価5%安",
+    "原油が急落、イランのホルムズ要求緩和報道とトランプ氏の抑制姿勢で緊張緩和期待",
+    "NHTSAがフォード・エクスプローラー約124万台をサイドエアバッグ熱傷で予備調査"
+  ]
+}
