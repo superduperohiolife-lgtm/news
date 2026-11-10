@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-11",
+  "sub": "水",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "マクロ・中央銀行",
+      "badges": ["us"],
+      "title": "米10月CPIが全面的に予想上回る　コア前月比+0.3%、12月の大幅利上げ観測でドル急反発",
+      "summary": "10月の米消費者物価指数はコアが前月比+0.3%と市場予想を上回り、総合も予想超え。住宅費が上昇分の約3割を占めた。市場は12月会合での大幅利上げを織り込む動きを強め、ドルが大幅反発した。",
+      "insight": "インフレ再加速が確認されれば、利下げ前提で積み上がったリスク資産のポジションに巻き戻し圧力がかかる。",
+      "meta": ["コアCPI 前月比+0.3%（予想上回り）", "住宅費が上昇の約30%", "取得時点 2026-11-10 米指標発表後"],
+      "source": "財経新聞",
+      "sourceUrl": "https://www.zaikei.co.jp/article/20261110/876943.html"
+    },
+    {
+      "rank": 2,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": ["us"],
+      "title": "Google・NVIDIA・AMDら、AnthropicのIPOに合わせ260億ドルを出資へ",
+      "summary": "Google、NVIDIA、AMDなどがAnthropicの新規株式公開に合わせて計260億ドルを出資する。チップ・クラウドの供給側が顧客であるAIモデル企業の株式を取得する構図で、AI投資の循環的な資金の流れがさらに強まる。",
+      "insight": "供給者が顧客に出資する構造は需要の実態を見えにくくし、AI関連の設備投資サイクルの持続性を測る難度を上げる。",
+      "meta": ["出資総額 260億ドル", "参加 Google / NVIDIA / AMD ほか"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/google-nvidia-amd-others-invest-120521300.html"
+    },
+    {
+      "rank": 3,
+      "field": "econ",
+      "sec": "決算・M&A",
+      "badges": ["us"],
+      "title": "Anthropic、1.4兆ドルの評価額を目指すIPOへ　「前例のない規模」との声",
+      "summary": "AnthropicがIPOで1.4兆ドルの企業評価を目指していると報じられた。AI企業として過去に例のない規模で、上場の成否がAI相場全体のセンチメントを左右する局面に入る。調達額などの詳細条件は要確認。",
+      "meta": ["目標評価額 1.4兆ドル", "調達額・価格レンジは要確認"],
+      "source": "CNN",
+      "sourceUrl": "https://www.cnn.com/2026/11/10/investing/weve-never-seen-anything-like-anthropic-ipo"
+    },
+    {
+      "rank": 4,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": ["us"],
+      "title": "Anthropic、上場直前に新モデル「Claude Fable 5.2」「Mythos 5.2」を投入",
+      "summary": "AnthropicがIPOを目前に、Claude Fable 5.2とMythos 5.2を発表した。上場前にフラッグシップを刷新し、OpenAI・Googleとのフロンティア競争での位置づけを示す狙い。性能指標の詳細は公表資料で要確認。",
+      "meta": ["新モデル Claude Fable 5.2 / Mythos 5.2", "発表 2026-11-09"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/technology/article/anthropic-debuts-claude-fable-52-and-mythos-52-models-as-ipo-nears-190405087.html"
+    },
+    {
+      "rank": 5,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "日経平均が終値で6万円台を回復　一時1800円超高、AI関連の買い戻し続く",
+      "summary": "11月10日の東京市場で日経平均が終値で6万円台を回復した。一時は1800円を超える上昇となり、前週に売られたAI関連への買い戻しが続いた。前日の急反発に続く2日連続の大幅高。",
+      "meta": ["終値 6万円台回復", "一時 1800円超高", "取得時点 2026-11-10 大引け"],
+      "source": "テレビ朝日",
+      "sourceUrl": "https://www.youtube.com/watch?v=rZZWIjepLXg"
+    },
+    {
+      "rank": 6,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "米株は週初の上昇を打ち消して反落　CPIが利上げ観測を呼び戻す",
+      "summary": "11月10日の米国市場はダウ・S&P500・ナスダックがそろって下落。週初の堅調な立ち上がりはCPI発表で打ち消された。インフレ指標がFRBの利上げ観測を強めたことが重荷となった。指数の変動率は取得時点で未確定のため要確認。",
+      "meta": ["3指数そろって下落", "下落率は要確認", "取得時点 2026-11-10 米市場"],
+      "source": "TheStreet",
+      "sourceUrl": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"
+    },
+    {
+      "rank": 7,
+      "field": "auto",
+      "sec": "決算",
+      "badges": ["jp"],
+      "title": "ホンダ中間決算は営業利益48.1%増の6487億円　通期最終を5000億円に上方修正",
+      "summary": "ホンダの2026年4〜9月期は営業利益が前年同期比48.1%増の6487億円。純利益は1.6倍以上に伸び、通期の最終利益予想を5000億円へ上方修正した。円安と北米のハイブリッド販売増が寄与した。",
+      "insight": "EV投資の負担を北米HV需要で吸収できている間に、電動化の次の一手をどこまで前倒しできるかが焦点。",
+      "meta": ["4-9月期 営業利益6487億円（+48.1%）", "通期最終予想 5000億円へ上方修正", "純利益 1.6倍以上"],
+      "source": "レスポンス",
+      "sourceUrl": "https://response.jp/article/2026/11/10/418836.html"
+    },
+    {
+      "rank": 8,
+      "field": "auto",
+      "sec": "品質不正",
+      "badges": ["jp"],
+      "title": "ニデック、品質不正800件超の認定を抱え東証の上場維持審査が継続　監査意見不表明が足かせ",
+      "summary": "ニデックは調査報告書で品質に関する不適切行為を800件超認定され（時事通信報道では844件）、実施していない強度試験の数値を作成して顧客に提出した事例などが含まれる。不適切行為の約9割は3事業部に集中。監査法人の追加調査が続き有価証券報告書に無限定適正意見が付かないまま、東証の上場維持可否審査が進む異例の状況にある。",
+      "insight": "顧客に無断の工程・材料変更が車載事業でも認定されており、調達先としての受け入れ可否判断を迫られる完成車メーカー側の作業は続く。",
+      "meta": ["認定 品質不正800件超（報道では844件）", "約9割が3事業部に集中", "東証 特別注意銘柄・上場維持審査が継続", "監査意見 不表明（時期未定）"],
+      "source": "MONOist",
+      "sourceUrl": "https://monoist.itmedia.co.jp/mn/articles/2611/09/news057.html"
+    },
+    {
+      "rank": 9,
+      "field": "auto",
+      "sec": "決算",
+      "badges": ["jp"],
+      "title": "スバル中間決算は営業利益12.9%増の1160億円　販売台数減でも増収増益",
+      "summary": "スバルの2026年4〜9月期は営業利益が前年同期比12.9%増の1160億円。世界販売は44.4万台と減少したが増収増益を確保した。通期の営業利益予想1500億円は据え置いた。",
+      "meta": ["4-9月期 営業利益1160億円（+12.9%）", "世界販売 44.4万台", "通期営業利益予想 1500億円を維持"],
+      "source": "Car Watch",
+      "sourceUrl": "https://car.watch.impress.co.jp/docs/news/2155176.html"
+    },
+    {
+      "rank": 10,
+      "field": "ad",
+      "sec": "事故・当局調査",
+      "badges": ["us"],
+      "title": "NHTSAのリコール照会、Waymoが米史上最大の自動運転リコールに発展する可能性",
+      "summary": "スクールバス追い越し問題でNHTSAが開いたリコール照会は、ソフト修正後も違反が続いたと指摘されており、米国で最大規模の自動運転車リコールにつながりうるとの見方が出ている。対象台数・措置内容は当局の判断待ちで要確認。",
+      "meta": ["論点 ソフト修正後も違反継続", "規模・措置は要確認"],
+      "source": "Tech Times",
+      "sourceUrl": "https://techtimes.com/articles/330310/20261109/nhtsas-recall-query-could-force-waymo-largest-autonomous-vehicle-recall-us-history.htm",
+      "followup": {
+        "since": "2026-11-10",
+        "whatsNew": "再調査の開始にとどまっていた前回から、米史上最大規模のAVリコールに発展しうるとの評価が加わった。"
+      }
+    },
+    {
+      "rank": 11,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "現代自、エアバッグが作動しなくなるソフト不具合でリコール",
+      "summary": "現代自動車が、ソフトウェアの不具合によりエアバッグが無効化される恐れがあるとしてリコールを届け出た。乗員保護機能が作動しない可能性があり、対象車種・台数は届出資料で要確認。",
+      "meta": ["不具合 ソフト起因でエアバッグ無効化", "対象台数 要確認"],
+      "source": "Repairer Driven News",
+      "sourceUrl": "https://www.repairerdrivennews.com/2026/11/10/hyundai-recalls-vehicles-for-software-malfunction-that-disables-airbag/"
+    },
+    {
+      "rank": 12,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": ["us"],
+      "title": "NVIDIAフアンCEO調査、投資家にAIチップへのアクセスを約束していたと報道",
+      "summary": "中国スパイ容疑者との関係をめぐるNVIDIAフアンCEOの調査で、同容疑者が投資家に対しNVIDIAのAIチップへのアクセスを約束していたと報じられた。チップ供給の割当が投資誘致の材料に使われていた構図が焦点となる。詳細は調査結果待ちで要確認。",
+      "meta": ["新事実 投資家にAIチップのアクセスを約束との報道", "調査主体 NVIDIA取締役会"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/amp/world-news/nvidia-ceo-s-alleged-china-spy-link-promised-investors-access-to-ai-chips-126111000250_1.html",
+      "followup": {
+        "since": "2026-11-10",
+        "whatsNew": "取締役会による調査開始の報に、容疑者が投資家へAIチップのアクセスを約束していたという具体的な手口の報道が加わった。"
+      }
+    },
+    {
+      "rank": 13,
+      "field": "india",
+      "sec": "インド自動車市場",
+      "badges": [],
+      "title": "インドの10月EV小売が前年比76.5%増　月間35万4625台で過去最高",
+      "summary": "インドの10月のEV小売販売は前年同月比76.47%増と急伸し、月間35万4625台の過去最高を記録した。二輪が牽引し、乗用車ではタタ・モーターズとマヒンドラが上位を占める構図が続く。",
+      "insight": "二輪主導の数量拡大は充電インフラと部品の国内調達に先に効くため、四輪EVのコスト構造にも波及する。",
+      "meta": ["10月EV小売 +76.47%（前年同月比）", "月間 35万4625台で過去最高", "牽引 二輪"],
+      "source": "NewsBytes",
+      "sourceUrl": "https://www.newsbytesapp.com/news/auto/india-ev-retail-sales-jump-7647-in-october-2026/tldr"
+    },
+    {
+      "rank": 14,
+      "field": "india",
+      "sec": "対印投資・製造誘致",
+      "badges": [],
+      "title": "インド政府、医療機器PLIを2035〜36年度まで延長　2700クロー・ルピー枠で新規募集",
+      "summary": "インド政府が医療機器向けの生産連動型優遇策（PLI）を2035〜36年度まで延長し、2700クロー・ルピー（約270億ルピー）の枠で新規申請を受け付ける。製造誘致策の対象期間を長期化し、設備投資の意思決定を促す狙い。",
+      "meta": ["延長 2035-36年度まで", "枠 2700クロー・ルピー", "対象 医療機器PLI"],
+      "source": "The Tribune",
+      "sourceUrl": "https://www.tribuneindia.com/news/business/govt-extends-medical-devices-pli-scheme-till-2035-36-invites-fresh-applications-with-rs-2700-crore-available"
+    },
+    {
+      "rank": 15,
+      "field": "india",
+      "sec": "インド経済",
+      "badges": [],
+      "title": "インド株式市場は11月10日休場　ディワリ・バリプラティパダで売買なし",
+      "summary": "NSE・BSEは11月10日をディワリ（バリプラティパダ）の祝日として休場とした。前営業日まで8カ月ぶり高値圏にあったインド株は、米CPIを受けた世界的なリスク再評価を翌営業日以降に織り込むことになる。",
+      "meta": ["休場 2026-11-10（NSE・BSE）", "名目 ディワリ・バリプラティパダ"],
+      "source": "Business Today",
+      "sourceUrl": "https://www.businesstoday.in/markets/stocks/story/stock-market-holiday-are-bse-nse-closed-on-november-10-check-remaining-holidays-in-2026-566529-2026-11-10"
+    },
+    {
+      "rank": 16,
+      "field": "ad",
+      "sec": "実証・展開",
+      "badges": ["us"],
+      "title": "テスラとWaymo、ミシガンの冬で自動運転の実地検証へ",
+      "summary": "テスラとWaymoが、降雪・路面凍結を伴うミシガンの冬季条件下でロボタクシーの走行性能を検証する。これまでの展開はテキサスやアリゾナなど温暖地が中心で、悪天候への対応が商用展開の次の関門となる。",
+      "insight": "積雪下でのセンサ性能は北米中西部・日本の雪国での事業性を直接左右するため、ここでの結果が車両構成の要求仕様に反映される。",
+      "meta": ["対象 テスラ・Waymo", "条件 ミシガンの冬季（降雪・凍結）"],
+      "source": "WJR",
+      "sourceUrl": "https://www.wjr.com/2026/11/10/can-robotaxis-handle-michigan-winters-tesla-and-waymo-aim-to-find-out/"
+    },
+    {
+      "rank": 17,
+      "field": "AI",
+      "sec": "業務活用",
+      "badges": ["jp"],
+      "title": "NVIDIA、日本のエージェント型AI開発に向けた取り組みを「Agentic AI Day Japan 2026」で提示",
+      "summary": "NVIDIAが日本向けイベント「Agentic AI Day Japan 2026」で、業務プロセスに組み込むエージェント型AIの開発手法を示した。同社は日本語のエージェント開発に使える合成ペルソナデータも公開しており、国内企業の学習データ不足を補う狙い。",
+      "meta": ["イベント Agentic AI Day Japan 2026", "提供 日本語向け合成ペルソナデータ"],
+      "source": "AI Watch",
+      "sourceUrl": "https://ai.watch.impress.co.jp/docs/news/2155320.html"
+    },
+    {
+      "rank": 18,
+      "field": "ad",
+      "sec": "センサ・サプライ",
+      "badges": ["jp"],
+      "title": "アスメック、ADAS・自動運転向けカメラ開発統合プラットフォーム「SXIVE 2.0」を国内販売開始",
+      "summary": "アスメックがADAS・自動運転向け車載カメラの開発統合プラットフォーム「SXIVE 2.0」の国内販売を開始した。カメラの設計・評価工程を統合し、開発期間の短縮を狙う。価格・提供条件は要確認。",
+      "meta": ["製品 SXIVE 2.0", "用途 ADAS・自動運転向けカメラ開発", "価格 要確認"],
+      "source": "レスポンス",
+      "sourceUrl": "https://response.jp/article/2026/11/10/418805.html"
+    },
+    {
+      "rank": 19,
+      "field": "ad",
+      "sec": "SDV",
+      "badges": ["jp"],
+      "title": "SDVの次の主戦場は「車内体験」へ　AD/ADASから車載アプリ・AIエージェントに軸足",
+      "summary": "SDV（ソフトウェア定義車両）の競争軸がAD/ADASの性能から車内体験へ移りつつあるとの見方が示された。車載アプリ、コンテンツ、AIエージェントが差別化要素となり、OEMにはソフト収益モデルの設計が求められる。",
+      "insight": "ハード原価で勝負しづらい領域に収益源を移す動きで、サプライヤーにはソフト側の役割分担の再定義が迫られる。",
+      "meta": ["論点 車内体験・車載アプリ・AIエージェント", "形式 インタビュー記事"],
+      "source": "レスポンス",
+      "sourceUrl": "https://response.jp/article/2026/11/10/418818.html"
+    },
+    {
+      "rank": 20,
+      "field": "india",
+      "sec": "インド経済",
+      "badges": [],
+      "title": "インドの経済転換は「製造業の物語」にとどまらない　サービス・デジタルの寄与を指摘",
+      "summary": "インドの成長を製造業誘致だけで捉えるのは不十分で、サービス輸出とデジタル基盤の寄与が大きいとの分析が示された。PLIなどの製造誘致策と並行して、サービス・デジタル分野の生産性向上が成長率を支える構図。",
+      "meta": ["論点 製造業偏重の見方への反論", "形式 分析記事"],
+      "source": "IANS",
+      "sourceUrl": "https://ianslive.in/indias-economic-transformation-is-more-than-a-manufacturing-story--20261110181611"
+    }
+  ],
+  "weekly": [
+    "米10月CPIがコア前月比+0.3%で予想超え、12月の大幅利上げ観測が再燃しドルが急反発",
+    "Google・NVIDIA・AMDらがAnthropicのIPOに合わせ260億ドル出資、評価額1.4兆ドルを目指す",
+    "ニデックは品質不正800件超の認定と監査意見不表明を抱え、東証の上場維持可否審査が継続"
+  ]
+}
