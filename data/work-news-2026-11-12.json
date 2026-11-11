@@ -1,0 +1,248 @@
+{
+  "date": "2026-11-12",
+  "sub": "木",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "IPO・資本市場",
+      "badges": ["us"],
+      "title": "Anthropic、IPO価格レンジを70〜78ドルに設定　11月19日取引開始へ",
+      "summary": "AnthropicはIPOの仮条件を1株70〜78ドルに設定し、ナスダックにティッカー「ANT」で11月19日の取引開始を目指すと報じられた。クラスA株8億2500万株の売り出しで調達額は約578億〜644億ドル、評価額は最大1.4兆ドル規模。前日報じられた「1.4兆ドルを目指す」段階から、価格帯と日程が具体化した。",
+      "insight": "AI企業の資金調達が株式公開市場に移る初の大型事例。値付けの成否がAI関連株全体の地合いに波及しやすい。",
+      "meta": ["仮条件 $70〜78", "調達 約578〜644億ドル", "上場予定 11/19・ナスダック"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+      "followup": {
+        "since": "2026-11-11",
+        "whatsNew": "評価額目標の報道段階から、仮条件70〜78ドル・株数8億2500万株・11月19日取引開始という具体条件の設定に進んだ。"
+      }
+    },
+    {
+      "rank": 2,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": ["us"],
+      "title": "Anthropic、Claudeを業務スイート化　表計算・ホワイトボード・会議参加をベータ提供",
+      "summary": "Anthropicが有料プラン向けにClaude Sheets（複数タブの表計算生成）、Claude Whiteboards（担当者・期限付きのボード化）、Claude Meetings（Google Meetに参加者として入る、Team/Enterprise向け）をベータ公開。旧Claude DashboardsはClaude Dataとして正式提供となり、Snowflake・Salesforce・Redshift・BigQuery・ClickHouseのコネクタを備える。製品責任者は「まだ基本機能であり複雑な財務モデリング向けではない」としている。",
+      "insight": "チャットから業務アプリ層への進出。既存のオフィススイートと機能が重なり始めた。",
+      "meta": ["Sheets/Whiteboards/Meetings ベータ", "Claude Data は正式提供", "コネクタ・プラグイン 9000超"],
+      "source": "DEV Community（AI Daily Digest、出典: Anthropic / Bloomberg）",
+      "sourceUrl": "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-11-2026-claude-becomes-an-office-suite-chatgpt-gets-business-agents-3bg8"
+    },
+    {
+      "rank": 3,
+      "field": "econ",
+      "sec": "市場・金融政策",
+      "badges": ["us", "jp"],
+      "title": "米12月FOMCの大幅利上げ観測が一段と強まる　ドル円は159円台で200日線を突破",
+      "summary": "米10月CPIの上振れを受け、12月FOMCでの利上げはほぼ全面的に織り込まれ、0.50%の大幅利上げ観測まで浮上。ドル円は11日のNY時間に159円台半ば〜159.70円まで上昇し、200日移動平均線を突破した（11日23時台時点）。米債券市場はベテランズデーで休場となり、手掛かりの乏しい中でドル買いが優勢だった。",
+      "insight": "日米金利差の再拡大局面。160円が視野に入れば本邦当局の姿勢が次の焦点。",
+      "meta": ["ドル円 159円台半ば（11/11 23時台）", "12月0.50%利上げ観測", "米債市場は休場"],
+      "source": "外為どっとコム／みんかぶFX",
+      "sourceUrl": "https://www.gaitame.com/media/entry/2026/11/11/095425",
+      "followup": {
+        "since": "2026-11-11",
+        "whatsNew": "CPI上振れによるドル反発から、12月利上げのほぼ全面的な織り込みと0.50%観測、ドル円の200日線突破まで進んだ。"
+      }
+    },
+    {
+      "rank": 4,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us", "jp"],
+      "title": "ホンダ、米国で63.5万台超をリコール　パワーステアリング喪失の恐れ",
+      "summary": "ホンダは米国で63万5000台超の車両をリコールすると発表。パワーステアリングが失われる恐れがあり、衝突リスクが高まるとされる。対象にはホンダ・パイロット、アキュラTLX・MDXなどが含まれる。NHTSAへの届出ベース。",
+      "meta": ["対象 63万5000台超", "不具合 パワステ喪失の恐れ", "対象車種 Pilot / TLX / MDX 等"],
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/815103/honda-recall-power-steering-failure/"
+    },
+    {
+      "rank": 5,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "日経平均が3日続伸、終値6万1285円　789円高でAI・半導体関連に買い",
+      "summary": "11日の東京株式市場で日経平均は3日続伸し、終値は前日比789円高の6万1285円と6万1000円台を回復した。AI・半導体関連を中心にリバウンドが続いた一方、値上がり銘柄は全体の54%にとどまり、物色は一部に集中した。",
+      "insight": "指数の戻りに比べ裾野は広がっていない。資金が半導体に偏る構図が続く。",
+      "meta": ["終値 6万1285円（+789円）", "3日続伸", "値上がり銘柄 54%"],
+      "source": "株探／中日新聞",
+      "sourceUrl": "https://kabutan.jp/news/marketnews/?b=n202611111325",
+      "followup": {
+        "since": "2026-11-11",
+        "whatsNew": "前日の6万円台回復からさらに続伸し、6万1000円台を回復した。"
+      }
+    },
+    {
+      "rank": 6,
+      "field": "AI",
+      "sec": "半導体・インフラ",
+      "badges": ["us"],
+      "title": "Google、第8世代TPUに「8tx」「8i Max」を追加　用途別4種類の体制に",
+      "summary": "Googleは第8世代TPUファミリーに2モデルを追加した。TPU 8txは規制業種・政府向けで、第5世代AMD EPYCホストと組み合わせ処理中のデータとモデル重みを暗号化、TPU 8t比で最大2倍の低レイテンシをうたう。TPU 8i Maxは8iダイ2個を1パッケージに載せ、演算・SRAM・HBM帯域を倍増しつつ既存ラック設計に収める。これで8t（学習）・8i（低遅延推論）・8tx（機密計算）・8i Max（長文脈）の4系統となった。",
+      "insight": "NVIDIA対抗の自社シリコンが用途別に分化。推論コスト競争の軸が明確になってきた。",
+      "meta": ["8tx 機密計算向け・最大2倍の低遅延", "8i Max は演算/SRAM/HBM帯域が倍", "第8世代は4変種体制"],
+      "source": "DEV Community（AI Daily Digest、出典: Google / Reuters）",
+      "sourceUrl": "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-11-2026-claude-becomes-an-office-suite-chatgpt-gets-business-agents-3bg8"
+    },
+    {
+      "rank": 7,
+      "field": "auto",
+      "sec": "決算",
+      "badges": ["jp"],
+      "title": "日産、2026年度上期は営業利益800億円で黒字転換　売上高8.8%増の6兆720億円",
+      "summary": "日産自動車は11日、2026年度上期決算を発表した。売上高は前年同期比8.8%増の6兆720億円、営業利益は800億円と黒字に転換した。グローバル販売台数は減少したものの、国内販売は6.3%増と伸び、増収増益を確保した。",
+      "meta": ["売上高 6兆720億円（+8.8%）", "営業利益 800億円（黒字転換）", "国内販売 +6.3%"],
+      "source": "日産自動車ニュースリリース",
+      "sourceUrl": "https://global.nissannews.com/ja-JP/releases/261111-01-j"
+    },
+    {
+      "rank": 8,
+      "field": "auto",
+      "sec": "当局調査",
+      "badges": ["us"],
+      "title": "NHTSA、フォード約120万台のエアバッグ展開を巡り調査を開始",
+      "summary": "米運輸省道路交通安全局（NHTSA）がフォード車約120万台を対象に、エアバッグの展開を巡る予備調査を開始した。衝突時の作動挙動が問題視されている。リコールに発展するかは今後の調査次第。",
+      "meta": ["対象 約120万台", "論点 エアバッグ展開", "段階 予備調査"],
+      "source": "Insurance Journal",
+      "sourceUrl": "https://www.insurancejournal.com/news/national/2026/11/10/892179.htm"
+    },
+    {
+      "rank": 9,
+      "field": "ad",
+      "sec": "当局・安全",
+      "badges": ["us"],
+      "title": "Waymoのスクールバス問題、NHTSAがソフト修正の実効性に疑義",
+      "summary": "NHTSAは、Waymoが実施したソフトウェア修正の後もロボタクシーが停車中のスクールバスを違法に追い越す事例が続いているとして、修正の有効性に疑問を呈している。リコール照会は継続中で、対象は2895台規模と報じられる。",
+      "insight": "OTAによる是正を当局がどう評価するかの先例になる。SDV全般の規制運用に波及しうる。",
+      "meta": ["対象 2895台規模", "論点 ソフト修正後も違反継続", "段階 リコール照会継続"],
+      "source": "The Autowire",
+      "sourceUrl": "https://theautowire.com/2026/11/10/nhtsa-doubts-waymos-school-bus-software-fix/",
+      "followup": {
+        "since": "2026-11-11",
+        "whatsNew": "リコール照会の発生段階から、実施済みソフト修正の実効性そのものを当局が疑う段階に進んだ。"
+      }
+    },
+    {
+      "rank": 10,
+      "field": "AI",
+      "sec": "企業・産業",
+      "badges": ["us"],
+      "title": "TSMC、AnthropicとOpenAIにそれぞれ最大5億ドルの出資を承認",
+      "summary": "TSMCの取締役会が、AnthropicのIPO価格での株式取得に最大5億ドル、OpenAI Group PBCの優先株に最大5億ドルの投資を承認した。OpenAI分の評価額や条件は非開示。別途、半導体エコシステムへの出資を行う投資会社に最大5億ドルを充てる案も承認された。",
+      "insight": "製造受託側が顧客の資本側に回る動き。需要の囲い込みと同時にリスクも抱える構図。",
+      "meta": ["Anthropic 最大5億ドル", "OpenAI 最大5億ドル（条件非開示）", "エコシステム投資枠 最大5億ドル"],
+      "source": "DEV Community（AI Daily Digest、出典: TSMC / Reuters）",
+      "sourceUrl": "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-11-2026-claude-becomes-an-office-suite-chatgpt-gets-business-agents-3bg8"
+    },
+    {
+      "rank": 11,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "インド株が続伸、センセックスが772ポイント高　ニフティは2万5250超で引け",
+      "summary": "11日のインド株式市場は続伸し、センセックスは772ポイント高、ニフティは2万5255超で引けた。米テック株の堅調を手掛かりに、自動車・銀行、特にPSU銀行が上昇を牽引した。ディワリ休場明けの流れを引き継いだ格好。",
+      "meta": ["センセックス +772pt", "ニフティ 25,255超", "主導 自動車・PSU銀行"],
+      "source": "India TV News",
+      "sourceUrl": "https://www.indiatvnews.com/business/markets/sensex-rallies-772-points-nifty-settles-above-25-255-tracking-gains-in-us-tech-stocks-2026-11-11-1059175"
+    },
+    {
+      "rank": 12,
+      "field": "india",
+      "sec": "マクロ",
+      "badges": [],
+      "title": "インド第2四半期GDP、SBIが7.8%成長予想　ムーディーズもFY27見通しを引き上げ",
+      "summary": "SBIがインドの2026年度第2四半期（7〜9月）実質GDP成長率を7.8%と予想し、RBIの見通しを上回る水準を示した。ムーディーズも2026年度（FY27）の成長見通しを引き上げた。内需の底堅さと製造業の回復が根拠とされる。",
+      "insight": "利下げ余地より成長の持続性が焦点に移りつつある。対印投資判断の前提が変わる。",
+      "meta": ["SBI予想 Q2 +7.8%", "RBI見通しを上回る", "ムーディーズ FY27上方修正"],
+      "source": "Business Today",
+      "sourceUrl": "https://www.businesstoday.in/latest/economy/story/indias-gdp-growth-to-beat-rbi-forecast-sbi-sees-7-8-expansion-in-q2-moodys-raises-fy27-outlook-566844-2026-11-11"
+    },
+    {
+      "rank": 13,
+      "field": "AI",
+      "sec": "ロボティクス",
+      "badges": ["us"],
+      "title": "Gemini Robotics 2.5、メルセデス工場でヒューマノイドが自動車部品キッティング",
+      "summary": "Google DeepMindのGemini Robotics 2.5を搭載したApptronikの「Apollo 2」が、メルセデス・ベンツのケチケメート（ハンガリー）およびジンデルフィンゲン（ドイツ）工場で部品キッティング作業を実施し、成功率96%と報告された。200超の器用さ評価タスクで従来比30〜100%高い成功率、20〜30%速い完了時間を示したとされる。",
+      "insight": "完成車の組立工程周辺に汎用ヒューマノイドが入り始めた。工程設計と人員配置の前提に関わる。",
+      "meta": ["キッティング成功率 96%", "200超タスクで成功率+30〜100%", "対人安全な完了 +43%"],
+      "source": "DEV Community（AI Daily Digest、出典: Google DeepMind / Ars Technica）",
+      "sourceUrl": "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-11-2026-claude-becomes-an-office-suite-chatgpt-gets-business-agents-3bg8"
+    },
+    {
+      "rank": 14,
+      "field": "ad",
+      "sec": "技術・開発",
+      "badges": ["jp"],
+      "title": "ティアフォー、地図情報・センサ構成に適応するエンドツーエンド自動運転を公開",
+      "summary": "ティアフォー（TIER IV）が、地図情報の有無やセンサ構成の違いに適応できるエンドツーエンド型の自動運転技術を公開した。高精度地図への依存と車種ごとのセンサ差異という、量産展開の二大ボトルネックへの対応を狙う。",
+      "insight": "モジュール型からE2Eへの移行は、OEM側の開発分担とサプライヤ選定にも影響する。",
+      "meta": ["地図情報の有無に適応", "センサ構成差に適応", "E2E方式"],
+      "source": "PR Newswire（The Manila Times掲載）",
+      "sourceUrl": "https://manilatimes.net/2026/11/11/tmt-newswire/pr-newswire/tier-iv-unveils-end-to-end-autonomous-driving-adaptable-to-map-information-and-sensor-configurations/2467229"
+    },
+    {
+      "rank": 15,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": ["us"],
+      "title": "Google、Gemini 4 Carbon をAI Ultra契約者へ展開　API導入価格は$2/$10",
+      "summary": "GoogleはGemini 4 CarbonをAI Ultra契約者向けにGeminiアプリ・AI Mode・Antigravityで展開開始した。API導入価格は100万トークンあたり入力2ドル・出力10ドルで、11月30日まで。Gemini 4 ArgonはAI Pro以上で引き続き利用できる。第三者比較では能力は高いが、タスク単価は安価な代替より数倍高いと報告されている。",
+      "meta": ["価格 $2/$10（〜11/30）", "対象 AI Ultra契約者", "Argonは AI Pro以上で継続"],
+      "source": "DEV Community（AI Daily Digest、出典: Google / 9to5Google）",
+      "sourceUrl": "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-11-2026-claude-becomes-an-office-suite-chatgpt-gets-business-agents-3bg8"
+    },
+    {
+      "rank": 16,
+      "field": "econ",
+      "sec": "商品市況",
+      "badges": ["us"],
+      "title": "金は4031ドルへ108ドル安、NY原油も続落　CPI上振れと地政学リスク後退が重し",
+      "summary": "米10月CPIの上振れでドル高・米金利上昇が進み、金は108ドル安の4031ドルへ下落（11日時点の報告値）。NY原油は米国が大規模な軍事作戦を見送る見通しから続落し0.93%安で引けたが、11日のNY時間には87ドル付近まで反発した（11日23時台時点）。",
+      "meta": ["金 4031ドル（-108）", "NY原油 -0.93%（前日終値）", "原油は87ドル付近へ反発（11/11 23時台）"],
+      "source": "OANDA Japan／みんかぶFX",
+      "sourceUrl": "https://www.oanda.jp/lab-education/market_news/report_xauusd_20261111/"
+    },
+    {
+      "rank": 17,
+      "field": "ad",
+      "sec": "サプライチェーン",
+      "badges": [],
+      "title": "Hesai、2026年第3四半期は売上が過去最高　ロボティクス向けが伸長",
+      "summary": "車載LiDAR大手のHesai Groupが2026年第3四半期決算で過去最高の売上を計上した。ADAS向けに加え、ロボティクス向け需要の立ち上がりが寄与したと説明している。詳細な数値は決算説明資料で要確認。",
+      "meta": ["Q3売上 過去最高", "牽引 ロボティクス向け", "具体数値は要確認"],
+      "source": "Benzinga",
+      "sourceUrl": "https://benzinga.com/news/26/11/63086544/hesai-gr-q3-2026-earnings-call-transcript"
+    },
+    {
+      "rank": 18,
+      "field": "AI",
+      "sec": "業界・活用",
+      "badges": ["us"],
+      "title": "Google Cloud、医療向けGeminiを投入",
+      "summary": "Google Cloudが医療領域に特化したGeminiの提供を発表した。臨床・事務双方のワークフローを対象とし、規制業種向けの導入要件に合わせた設計をうたう。詳細な提供条件・対象地域は要確認。",
+      "meta": ["対象 医療領域", "提供元 Google Cloud", "提供条件は要確認"],
+      "source": "Yahoo Tech",
+      "sourceUrl": "https://tech.yahoo.com/ai/gemini/articles/google-cloud-debuts-gemini-healthcare-145528327.html"
+    },
+    {
+      "rank": 19,
+      "field": "ad",
+      "sec": "普及・地域",
+      "badges": ["us"],
+      "title": "ロボタクシー、ロチェスターには当面来ず　寒冷地・中規模都市の壁",
+      "summary": "ニューヨーク州ロチェスターでは、ロボタクシー事業者の進出予定が立っていないと報じられた。降雪を伴う気候と中規模都市の需要密度が、サンベルト都市を優先する各社の展開順序に影響している。",
+      "insight": "ロボタクシーの普及は都市規模と気候で二極化する。寒冷地検証の進捗が次の分水嶺。",
+      "meta": ["対象 ニューヨーク州ロチェスター", "要因 降雪・需要密度", "各社はサンベルト優先"],
+      "source": "Rochester Beacon",
+      "sourceUrl": "https://rochesterbeacon.com/2026/11/11/no-robotaxis-for-rochester-yet/"
+    }
+  ],
+  "weekly": [
+    "AnthropicがIPO仮条件を70〜78ドルに設定し11月19日上場へ。評価額最大1.4兆ドル規模",
+    "ホンダが米国で63.5万台超をパワステ不具合でリコール、NHTSAはフォード120万台のエアバッグ調査も開始",
+    "米12月FOMCの大幅利上げ観測が強まりドル円は159円台で200日線突破、日経平均は3日続伸で6万1285円"
+  ]
+}
