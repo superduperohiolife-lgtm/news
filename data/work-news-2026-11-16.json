@@ -1,0 +1,237 @@
+{
+  "date": "2026-11-16",
+  "sub": "月",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "マクロ・中央銀行",
+      "badges": ["us"],
+      "title": "米10月PPIは前年同月比6.5%　卸売段階のインフレ広がり、12月利上げ観測強まる",
+      "summary": "米労働省が11月13日に公表した10月の生産者物価指数(PPI)は前月比0.3%上昇で市場予想を下回った一方、前年同月比は6.5%と高止まりした。サービスを含む幅広い品目で上昇が確認され、12月のFOMCでの利上げ観測が市場で強まっている。",
+      "insight": "PPIの前年比高止まりは、12月会合に向けた金利シナリオを「据え置き」から「利上げ」側へ押しやる材料。円相場・日本の金利にも波及する。",
+      "meta": ["前年比 +6.5%", "前月比 +0.3%（予想下回り）", "公表 11/13"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/economy/article/ppi-report-inflation-shows-signs-of-broadening-in-red-hot-wholesale-prices-keeping-pressure-on-fed-to-hike-rates-162115609.html"
+    },
+    {
+      "rank": 2,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": ["us"],
+      "title": "Anthropic、IPO価格レンジを70〜78ドルに設定　11月19日にナスダック上場へ",
+      "summary": "AnthropicがIPOの想定価格レンジを1株70〜78ドルに設定し、レンジ上限で評価額は最大約1.4兆ドルとなる。ナスダック上場は11月19日が予定されており、AI関連株が調整色を強めるなかでの大型上場となる。",
+      "insight": "AI相場の地合いが悪化する局面での上場。初値形成は「AI投資サイクルの持続性」に対する市場の採点表になる。",
+      "meta": ["価格レンジ $70〜78", "評価額 最大約1.4兆ドル", "上場予定 11/19（ナスダック）"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/anthropic-sets-ipo-price-range-140602411.html",
+      "followup": {
+        "since": "2026-11-13",
+        "whatsNew": "前回の「需要が複数倍・価格引き上げ観測」から進み、価格レンジ70〜78ドルと11月19日の上場日が具体化した。"
+      }
+    },
+    {
+      "rank": 3,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "米株は11月13日まちまち　ナスダック0.9%安、エヌビディア混乱が続きハイテクに重し",
+      "summary": "11月13日の米市場はナスダック総合とS&P500が下落し、ダウ平均は小幅高のまちまちで終えた。CEO交代を巡るエヌビディアの混乱がハイテク株の重しとなり、同社の時価総額は4兆ドルを下回る水準にとどまった。インフレ指標と来週の同社決算を控え、持ち高調整の動きが続いた。",
+      "meta": ["ナスダック -0.91%（11/13）", "ダウは小幅高", "エヌビディア決算 11/18週に控える"],
+      "source": "TheStreet",
+      "sourceUrl": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-13-2026",
+      "followup": {
+        "since": "2026-11-13",
+        "whatsNew": "前回報じた時価総額4兆ドル割れの後も11月13日は軟調が続き、ナスダックは0.91%安・ダウは小幅高のまちまちで引けた。"
+      }
+    },
+    {
+      "rank": 4,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": ["us"],
+      "title": "OpenAI、「ChatGPT Wallet」を投入　AIエージェントが利用者に代わって購入",
+      "summary": "OpenAIは11月13日、ChatGPT上で決済を扱う「ChatGPT Wallet」を公開した。同社がdotsと呼ぶAIエージェントが、利用者に代わって商品購入などの支払いを実行できる仕組み。対話型AIを「調べる道具」から「取引を完結させる窓口」へ広げる動きとなる。",
+      "insight": "エージェントに決済権限を渡す設計は、企業の購買・経費プロセスにも早期に波及する。承認フローと監査証跡の設計が実務上の論点になる。",
+      "meta": ["発表 11/13", "対象 ChatGPTのエージェント機能"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html"
+    },
+    {
+      "rank": 5,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "BMW、米国で72万796台をリコール　エンジン周りの火災リスクで屋外駐車を呼びかけ",
+      "summary": "BMWは11月13日、米国で計72万796台のリコールを届け出た。エンジン周辺から出火する恐れがあるとして、当局は修理が完了するまで建物から離れた屋外に駐車するよう促している。同社の主力モデルを含む広範な車種が対象となる。",
+      "meta": ["対象 72万796台（米国）", "不具合 火災リスク", "当局 NHTSA届出 11/13"],
+      "source": "The Detroit News",
+      "sourceUrl": "https://www.detroitnews.com/story/business/autos/foreign/2026/11/13/bmw-recalls-over-720000-vehicles-for-fire-risk/92756789007/"
+    },
+    {
+      "rank": 6,
+      "field": "ad",
+      "sec": "規制・認可",
+      "badges": ["jp"],
+      "title": "国交省、自動運転車のリコール制度見直しを検討　「事故1件」でも勧告できる仕組みを議論",
+      "summary": "国土交通省の検討会で、レベル4自動運転車については事故1件を端緒に国がリコール関連の行政処分を行えるようにすべきとの意見が出た。ソフトウェア欠陥が車両群全体に同時に及びうることが理由。基本は事業者の自主リコールで、実施されない場合に勧告→公表のうえ命令→罰則という流れが想定される。ベース車に自動運行装置を後付けする事業者へ義務主体を広げる案も議論された。制度改正は決定しておらず、施行時期も示されていない(要確認)。",
+      "insight": "「同種不具合の複数発生」を前提としてきた従来のリコール判断基準が、ソフト起因の不具合で崩れる。OEM側はOTA更新の検証・記録体制が問われる。",
+      "meta": ["対象 レベル4中心", "義務主体 後付け事業者へ拡大案", "制度改正は未決定（検討会の意見段階）"],
+      "source": "自動運転ラボ",
+      "sourceUrl": "https://jidounten-lab.com/u_69990"
+    },
+    {
+      "rank": 7,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "テスラ、サイバーキャブの個人向け受注を開始　一部顧客から販売へ",
+      "summary": "テスラは11月14日、ハンドルを持たない自動運転車「Cybercab」を一部の顧客に対し個人所有向けに売り出すと明らかにした。ロボタクシー網での運用に限らず、個人への販売へ踏み出す形。報道では価格は2万9990ドルとされる(要確認)。",
+      "insight": "個人所有のL4車両が市中に出れば、保有者・運行者・メーカーの責任分界が実務課題になる。日本の後付け事業者議論とも地続き。",
+      "meta": ["発表 11/14", "価格 2万9990ドル（要確認）", "形態 個人所有向け販売"],
+      "source": "Bloomberg",
+      "sourceUrl": "https://bloomberg.com/news/articles/2026-11-14/tesla-says-it-s-starting-to-sell-cybercabs-for-personal-use"
+    },
+    {
+      "rank": 8,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": ["us"],
+      "title": "非営利団体がOpenAI・Google・Anthropicを提訴　フロンティアAI開発の凍結を要求",
+      "summary": "複数の非営利団体が11月中旬、OpenAI、Google、Anthropicなどを相手に、最先端(フロンティア)AIモデルの開発を現状水準で凍結するよう求める訴訟を米国で提起した。安全性の立証が済むまで能力向上を止めるべきだという主張で、主要ラボをまとめて対象にしている。",
+      "insight": "立法が追いつかない領域で司法を使う戦術。請求が通る可能性は別として、開発停止を求める訴訟の存在自体がラボの安全性開示圧力を高める。",
+      "meta": ["提訴 11/12〜13報道", "被告 OpenAI・Google・Anthropicほか", "請求 フロンティア開発の凍結"],
+      "source": "Claims Journal",
+      "sourceUrl": "https://www.claimsjournal.com/news/national/2026/11/13/341283.htm"
+    },
+    {
+      "rank": 9,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "日経平均は2営業日ぶり反発、322円高の6万1142円　一時1000円超高",
+      "summary": "11月13日の東京株式市場で日経平均株価は前日比322円高の6万1142円と2営業日ぶりに反発した。AI・半導体関連への買い戻しで一時1000円超上昇したが、引けにかけて上げ幅を縮めた。TOPIXは5日続伸。",
+      "meta": ["日経平均 61,142円（+322円、11/13終値）", "一時 +1000円超", "TOPIX 5日続伸"],
+      "source": "読売新聞（Infoseekニュース）",
+      "sourceUrl": "https://news.infoseek.co.jp/article/yomiuri_20261113_gyt1t00365/"
+    },
+    {
+      "rank": 10,
+      "field": "india",
+      "sec": "インド経済",
+      "badges": [],
+      "title": "インドの10月貿易赤字が398.8億ドルで約1年ぶり最大　輸出は過去最高の約500億ドル",
+      "summary": "インドの10月の貿易赤字は398.8億ドルに拡大し、約1年ぶりの大きさとなった。輸出は過去最高の約500億ドルに達した一方、輸入の伸びがそれを上回った。赤字拡大はルピーと経常収支の圧力材料となる。",
+      "meta": ["貿易赤字 398.8億ドル（10月）", "輸出 約500億ドル（過去最高）", "赤字は約1年ぶり最大"],
+      "source": "QNC News",
+      "sourceUrl": "https://qncnews.com/2026/11/14/india-trade-deficit-widens-to-one-year-high-of-39-88-billion-dollars-in-october/"
+    },
+    {
+      "rank": 11,
+      "field": "auto",
+      "sec": "生産・投資",
+      "badges": ["us", "jp"],
+      "title": "ホンダ、米オハイオの新工場に30億ドル投資　北米生産体制の再構築を進める",
+      "summary": "ホンダが米オハイオ州の新工場に30億ドルを投じる計画が11月13日に伝えられた。北米での車両組立能力を強化する動きで、カナダでもオンタリオ工場の次世代車対応に向けた更新投資が進み、カナダ政府が3億1300万カナダドルの支援を決めている。",
+      "insight": "関税・現地調達要件を見据えた北米生産の積み増し。日系OEMの投資判断が「為替」より「政策リスク」で動いている局面。",
+      "meta": ["投資 30億ドル（オハイオ新工場）", "カナダ政府支援 3億1300万カナダドル（オンタリオ）", "報道 11/13"],
+      "source": "The Motley Fool",
+      "sourceUrl": "https://www.fool.com/investing/2026/11/13/honda-spend-3-billion-new-ohio-plant-what-it-means-for-investors/"
+    },
+    {
+      "rank": 12,
+      "field": "auto",
+      "sec": "決算",
+      "badges": ["jp"],
+      "title": "日産、上期の赤字を縮小　通期の黒字回復を表明",
+      "summary": "日産自動車は11月13日、損失を縮小したことを明らかにし、通期での黒字回復を目指す方針を示した。構造改革とコスト削減の効果が出つつあるとしており、再建計画の進捗が焦点となる。具体的な損益額は出典で要確認。",
+      "meta": ["発表 11/13", "赤字幅 縮小", "通期 黒字回復を表明"],
+      "source": "The Manila Times",
+      "sourceUrl": "https://www.manilatimes.net/2026/11/13/business/foreign-business/nissan-reduces-losses-vows-to-return-to-profit/2468346"
+    },
+    {
+      "rank": 13,
+      "field": "econ",
+      "sec": "為替",
+      "badges": ["jp", "us"],
+      "title": "ドル円は160円台で失速後に持ち直し　介入警戒がにじむ値動き",
+      "summary": "11月13日の東京外国為替市場でドル円は一時160円台に乗せたあと失速し、その後は底堅く持ち直した。当局の円安けん制発言を背景に、160円台では戻り売りと介入警戒が意識される構図が続いている。水準は11月13日時点。",
+      "meta": ["一時 160円台（11/13）", "その後失速→持ち直し", "介入警戒が継続"],
+      "source": "株探（かぶたん）",
+      "sourceUrl": "https://kabutan.jp/news/marketnews/?b=n202611131360"
+    },
+    {
+      "rank": 14,
+      "field": "india",
+      "sec": "インド自動車",
+      "badges": [],
+      "title": "タタ・モーターズの乗用車部門、第2四半期で黒字転換　EV販売が牽引",
+      "summary": "タタ・モーターズの乗用車事業が第2四半期に黒字へ転換したことが11月14日に報じられた。原材料価格やインフレ、地政学の逆風が続くなかでの改善で、EV販売の伸びが収益回復を支えている。同社はインド乗用車市場でマヒンドラとの2位争いを優位に進めている。",
+      "meta": ["第2四半期 乗用車部門が黒字化", "牽引役 EV販売", "報道 11/14"],
+      "source": "The Week (India)",
+      "sourceUrl": "https://www.theweek.in/news/biz-tech/2026/11/14/tata-motors-pv-q2-net-profit.html"
+    },
+    {
+      "rank": 15,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": ["us"],
+      "title": "Google、「Gemini 4 Hydrogen」を公開　コーディング・検索・Geminiアプリへ展開",
+      "summary": "Googleが11月12日に「Gemini 4」系の新モデル「Hydrogen」を公開し、コーディング用途、検索、Geminiアプリに展開したと報じられている。コード生成とエージェント的なタスク処理の強化が中心。ベンチマークや価格の詳細は出典により差があり要確認。",
+      "meta": ["公開 11/12（報道ベース）", "展開先 コーディング・検索・Geminiアプリ", "詳細スペックは要確認"],
+      "source": "Superpower Daily",
+      "sourceUrl": "https://superpowerdaily.com/posts/google-releases-gemini-4-hydrogen-for-coding-search-and-the-gemini-app"
+    },
+    {
+      "rank": 16,
+      "field": "ad",
+      "sec": "当局調査",
+      "badges": ["us"],
+      "title": "Waymo、スクールバス追い越し問題でNHTSAがリコール調査　ソフト修正後も違反継続",
+      "summary": "米NHTSAは、Waymoのロボタクシーが停車中のスクールバスを違法に追い越す事象について、同社のソフトウェア修正後も違反が続いているとしてリコール調査(recall query)を開始した。対象は2895台とされる。修正の実効性そのものが問われる局面に入った。",
+      "insight": "OTAによる「修正済み」宣言が当局に受け入れられない前例。ソフト更新の有効性を当局に立証する責任が重くなる。",
+      "meta": ["対象 2895台", "手続き リコール調査（recall query）", "争点 ソフト修正の実効性"],
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/"
+    },
+    {
+      "rank": 17,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "インド株は11月13日に下落、センセックスは319ポイント安　3日続伸が途切れる",
+      "summary": "11月13日のインド株式市場でセンセックスは319ポイント安で引け、3営業日続いた上昇が止まった。ニフティは2万5144で終了。インドVIXは7%下落し、変動性への警戒はむしろ後退した。水準は11月13日終値。",
+      "meta": ["センセックス -319ポイント（11/13）", "ニフティ 25,144", "インドVIX -7%"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/amp/markets/news/stock-market-live-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bn-agrochem-share-split-november-13-126111300069_1.html"
+    },
+    {
+      "rank": 18,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us", "jp"],
+      "title": "アキュラZDX、1万4648台をリコール　ブレーキ圧が抜ける恐れ",
+      "summary": "ホンダの高級ブランド・アキュラのEV「ZDX」について、ブレーキ圧が失われる恐れがあるとして1万4648台のリコールが届け出られた。制動系の電子制御に起因する不具合で、GMの同種のブレーキソフト不具合リコールに続く案件となる。",
+      "meta": ["対象 1万4648台", "不具合 ブレーキ圧喪失の恐れ", "系統 電子制御ブレーキ"],
+      "source": "The Truth About Cars",
+      "sourceUrl": "https://www.thetruthaboutcars.com/cars/news-blog/acura-zdx-recall-14-648-evs-may-dump-brake-pressure-45137092"
+    },
+    {
+      "rank": 19,
+      "field": "auto",
+      "sec": "新車・EV",
+      "badges": ["jp"],
+      "title": "日産、中国でPHEV「NX7」の予約を開始　EV航続320km・合計1666km",
+      "summary": "日産は11月13日、中国市場でプラグインハイブリッド車「NX7」の予約受付を開始した。EV走行で320km、エンジン併用の合計航続は1666kmとしている。中国勢が主導するPHEV市場で現地専用設計を投入し、販売回復を狙う。",
+      "meta": ["予約開始 11/13（中国）", "EV航続 320km", "合計航続 1666km"],
+      "source": "CarNewsChina",
+      "sourceUrl": "https://carnewschina.com/2026/11/13/nissan-opens-pre-sales-for-nx7-phev-in-china-with-320-km-ev-range-1666-km-combined"
+    }
+  ],
+  "weekly": [
+    "米10月PPIが前年比6.5%と高止まりし、12月FOMCの利上げ観測が前面に出た",
+    "Anthropicが価格レンジ70〜78ドルでIPO、11月19日のナスダック上場がAI相場の試金石に",
+    "国交省がレベル4車両のリコール制度見直しを検討、事故1件での勧告やベース車後付け事業者への義務拡大が論点に"
+  ]
+}
