@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-17",
+  "sub": "火",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "日経平均は1480円安の大幅反落　終値で6万円台を割り込む",
+      "summary": "11月16日の東京市場で日経平均株価は前営業日比1480円安と大幅反落し、終値で6万円の節目を割り込んだ。半導体関連に売りが集中し、非鉄金属が6.61%安となる一方、内需の小売は2.46%高と資金のシフトが鮮明。前営業日の322円高から一転しての下落。",
+      "insight": "エヌビディア決算を前にAI関連の持ち高調整が日本株にも波及。",
+      "meta": ["日経平均 1480円安（11/16終値）", "6万円台を割れ", "非鉄金属 -6.61%"],
+      "source": "世界一やさしい投資の学校",
+      "sourceUrl": "https://tbladvisory.com/20261116nk/"
+    },
+    {
+      "rank": 2,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "米株はAI売りが再燃　ナスダックは1.7%安、エヌビディア決算待ち",
+      "summary": "11月16日の米国市場はAI関連株の売りが再開し、日本時間17日1時過ぎ時点でダウ平均は331ドル安、ナスダック総合は1.7%の大幅安で推移。19日発表予定のエヌビディア決算とAI投資の債務依存への懸念が重し。エヌビディア株は年初来高値から約3割安の水準。",
+      "meta": ["ダウ -331ドル（11/17 1:23 JST時点）", "ナスダック -1.7%", "エヌビディア 高値から約-30%"],
+      "source": "みんかぶFX",
+      "sourceUrl": "https://fx.minkabu.jp/news/384579"
+    },
+    {
+      "rank": 3,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": ["us"],
+      "title": "米、先端AI半導体の「遠隔アクセス」を規制　クラウド経由の迂回を封じる",
+      "summary": "米商務省は11月16日、米国製の先端AI半導体に対する海外からの遠隔アクセスを制限する規制を導入した。データセンター事業者が先端AIチップを調達する際に政府認可を義務付け、クラウド経由で輸出規制を迂回する経路をふさぐ狙い。マレーシアやシンガポール向けも許可制の対象となる。",
+      "insight": "物理的な輸出から「計算能力へのアクセス」そのものへ規制の射程が移った。",
+      "meta": ["データセンター調達に認可制", "東南アジア経由も対象"],
+      "source": "共同通信（Yahoo!ニュース）",
+      "sourceUrl": "https://news.yahoo.co.jp/articles/2a44c61e017f57d882ced22a2bbaafbda6bdd694"
+    },
+    {
+      "rank": 4,
+      "field": "auto",
+      "sec": "品質不正",
+      "badges": ["jp"],
+      "title": "ニデック、半期報告書の提出を12月16日に延期　海外拠点の修正作業が遅れ",
+      "summary": "会計不正と品質不正が続くニデックは11月16日、2026年度上半期の半期報告書の提出期限を1カ月延長し12月16日とすることが承認されたと発表した。法定期限の11月16日に間に合わなかった理由は、4〜9月期決算の修正作業が海外の一部拠点で遅れたため。品質面では一部製品で顧客に無断の設計変更が不正と認定されている。",
+      "insight": "供給元の開示が止まる期間が延びるほど、顧客OEM側は部品単位の影響範囲を自力で押さえる必要が増す。",
+      "meta": ["新期限 12月16日（1カ月延長）", "理由 海外拠点の決算修正遅れ", "不正内容 顧客に無断の設計変更ほか"],
+      "source": "関西テレビ",
+      "sourceUrl": "https://www.ktv.jp/news/articles/?id=31001",
+      "followup": {
+        "since": "2026-11-16",
+        "whatsNew": "品質不正の調査報告書公表後、上半期の半期報告書そのものが法定期限に出せず提出期限が12月16日まで延期された。"
+      }
+    },
+    {
+      "rank": 5,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": [],
+      "title": "アリババ、旗艦モデル「Qwen4-Max」を公開　コーディング性能で米勢に対抗",
+      "summary": "アリババは11月16日、旗艦AIモデル「Qwen4-Max」を発表した。パラメータ数2.4兆・コンテキスト100万トークンで、コーディング性能で競合モデルを上回ると主張。タスク単価は従来比で約6割低いとされ、オープンウェイトは公開しない方針。サイバー攻撃用途の利用を禁じる条項も設けた。",
+      "meta": ["2.4兆パラメータ", "文脈 100万トークン", "タスク単価 約-60%"],
+      "source": "The Next Web",
+      "sourceUrl": "https://thenextweb.com/news/alibaba-launches-qwen4-max-flagship-ai-model"
+    },
+    {
+      "rank": 6,
+      "field": "auto",
+      "sec": "当局調査",
+      "badges": ["us", "jp"],
+      "title": "NHTSA、ホンダ100万台超を調査開始　オートストップ/スタートのエンジン不具合",
+      "summary": "米NHTSAは11月16日、ホンダ車のアイドリングストップ機構（オートストップ/スタート）の不具合によるエンジン停止・故障の訴えを受け、100万台超を対象とする予備調査を開始した。アキュラを含めた対象台数を140万台超と報じる媒体もあり、正確な範囲は要確認。再始動不能に至る事例が申告の中心。",
+      "insight": "燃費規制対応で広く搭載された機構が、台数の大きい横断的リスクになりつつある。",
+      "meta": ["対象 100万台超（140万台超との報道も・要確認）", "不具合 オートストップ/スタート", "段階 予備調査"],
+      "source": "Quartz",
+      "sourceUrl": "https://qz.com/nhtsa-honda-stop-start-engine-probe-111626"
+    },
+    {
+      "rank": 7,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "アマゾンのZoox、Uberアプリでラスベガス営業を開始",
+      "summary": "アマゾン傘下のZooxは11月16日、ラスベガスでUberの配車アプリ経由の無人ロボタクシー提供を開始した。自社アプリ中心だった配車をUberの需要基盤に接続する形で、Waymo・テスラに対する規模獲得を急ぐ。ハンドルのない専用車両での運行。",
+      "insight": "ロボタクシーの勝敗が車両性能から「どの配車プラットフォームに載るか」に移る流れを後押しする。",
+      "meta": ["都市 ラスベガス", "経路 Uberアプリ"],
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas"
+    },
+    {
+      "rank": 8,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": ["jp"],
+      "title": "政府、高性能AIに安全確保義務と罰則新設を検討　AI法改正へ",
+      "summary": "政府は高性能AIの開発事業者に対し、安全確保義務とリスク情報の国への報告を求め、命令違反に罰則を設ける制度案の検討に入った。11月11日の会議資料で案が示され、サイバー攻撃への悪用を踏まえた法改正を想定。悪質な事業者への対抗手段を確保する狙い。",
+      "meta": ["対象 高性能AIの開発事業者", "手段 報告義務＋命令違反に罰則", "段階 制度案の検討"],
+      "source": "NOVAIST",
+      "sourceUrl": "https://novaist.jp/articles/japan-ai-safety-penalties/"
+    },
+    {
+      "rank": 9,
+      "field": "india",
+      "sec": "マクロ・金融政策",
+      "badges": [],
+      "title": "インド10月CPIは6.09%で約2年ぶり高水準　RBIの上限6%を突破",
+      "summary": "インドの10月の消費者物価上昇率は前年同月比6.09%となり、約2年ぶりの高水準でRBIの許容上限6%を上抜けた。食品が8.94%上昇と全体を押し上げ。12月の金融政策決定会合での利上げ観測が強まっている。",
+      "insight": "利下げ局面の終了が確認されれば、対印投資の資金コスト前提を組み替える必要が出る。",
+      "meta": ["CPI 6.09%（10月）", "食品 8.94%", "RBI上限 6%"],
+      "source": "ThePrint",
+      "sourceUrl": "https://theprint.in/economy/indias-october-retail-inflation-breaches-rbis-6-ceiling-odds-of-december-repo-rate-hike-rise/3097181/"
+    },
+    {
+      "rank": 10,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "テスラ、マイアミのロボタクシー営業エリアをほぼ倍に拡大",
+      "summary": "テスラは11月16日、マイアミのロボタクシー営業エリア（ジオフェンス）を拡大し、カバー範囲をほぼ倍増させた。サイバーキャブの個人向け納車は招待制のままで、マスク氏は月額300ドルの料金設定が高すぎると認めた発言も伝わっている。",
+      "meta": ["都市 マイアミ", "エリア ほぼ2倍", "サイバーキャブ 納車は招待制"],
+      "source": "Drive Tesla",
+      "sourceUrl": "https://driveteslacanada.ca/news/robotaxi-miami-geofence-expansion"
+    },
+    {
+      "rank": 11,
+      "field": "econ",
+      "sec": "M&A",
+      "badges": ["jp", "us"],
+      "title": "ピジョン、米ベビー用品Eleeo Brandsを約610億円で完全子会社化",
+      "summary": "ピジョンは11月16日、米ベビー用品会社Eleeo Brands LLCを完全子会社化すると発表した。投じる額は約610億円で、米国での販路開拓を狙う。円安下で海外勢による対日M&Aが増える一方、日本企業による米国事業の買い増しも続く構図。",
+      "meta": ["買収額 約610億円", "対象 Eleeo Brands LLC（米）", "目的 米販路開拓"],
+      "source": "日本経済新聞",
+      "sourceUrl": "https://www.nikkei.com/article/DGXZQOUC1666U0W6A111C2000000/"
+    },
+    {
+      "rank": 12,
+      "field": "auto",
+      "sec": "新車・EV",
+      "badges": ["jp"],
+      "title": "スズキ初の軽乗用EV「e SKY」が11月16日発売　事前受注4036台で月販目標の約4倍",
+      "summary": "スズキは11月16日、同社初の軽乗用EV「e SKY」を発売した。発売前の受注は4036台に達し、月販目標の約4倍。航続は300km超、実質負担155万円程度の価格設定で、静粛性を訴求する。競争が激化する軽EV市場に本格参入する。",
+      "insight": "軽EVは価格と航続の組み合わせが受注を左右する段階に入っており、補助金前提の実質価格設計が効いている。",
+      "meta": ["事前受注 4036台", "月販目標比 約4倍", "航続 300km超"],
+      "source": "レスポンス",
+      "sourceUrl": "https://matome.response.jp/articles/7394"
+    },
+    {
+      "rank": 13,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "インド株は海外勢の買い戻しで上昇　センセックスは8万2000台を回復",
+      "summary": "11月16日のインド株式市場はセンセックスが一時680ポイント超上昇し、8万2000台を回復して取引を終えた。ニフティ50も2万5200台を上回った。米AI関連株の調整を受けた資金がインドのIT・銀行株に向かい、外国機関投資家の買いが戻った。中小型株は相対的に弱い。",
+      "meta": ["センセックス 8万2000台回復（11/16）", "ニフティ 2万5200台超", "牽引 IT・銀行株"],
+      "source": "Kotak Neo",
+      "sourceUrl": "https://www.kotakneo.com/news/market-news/sensex-and-nifty-finish-in-the-positive/"
+    },
+    {
+      "rank": 14,
+      "field": "ad",
+      "sec": "規制・認可",
+      "badges": ["us"],
+      "title": "Waymo、ワシントンDCで足止め　イリノイ州でも参入法案が焦点に",
+      "summary": "WaymoはワシントンDCで市議会が労働者保護と安全規制を巡る議論を進めたため展開が足止めとなり、バージニア州北部への拡大が次の焦点となっている。イリノイ州では配車ドライバーの労組が反対する中、ロボタクシー参入の是非を定める法案の審議がシカゴ展開の試金石となる。",
+      "insight": "技術認可ではなく「雇用」を軸にした自治体レベルの抵抗が、米国でのエリア拡大の主要な律速要因になってきた。",
+      "meta": ["DC 市議会で規制議論", "次の焦点 北部バージニア", "イリノイ 法案審議中"],
+      "source": "WJLA",
+      "sourceUrl": "https://wjla.com/news/local/waymo-hits-roadblock-dc-driverless-cars-robotaxis-washington-council-northern-virginia-arlington-alexandria-janeese-lewis-george-transportation-labor-protections-public-safety"
+    },
+    {
+      "rank": 15,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": ["us"],
+      "title": "OpenAI、ServiceNowとの提携を拡大　業務ワークフローとChatGPTを接続",
+      "summary": "OpenAIはServiceNowとの提携を拡大し、企業の業務ワークフローとChatGPTを接続すると発表した。承認・起票などの社内手続きをChatGPT側から実行できるようにする方向で、エージェントの企業導入を基幹業務システム側から進める狙い。",
+      "insight": "AIエージェントの導入障壁は推論性能ではなく既存ワークフローへの接続にあり、ITSM側との提携はその最短経路。",
+      "meta": ["提携先 ServiceNow", "狙い 業務ワークフロー連携"],
+      "source": "MarketScale",
+      "sourceUrl": "https://marketscale.com/industries/software-and-technology/openai-and-servicenow-expand-partnership-to-connect-workflows-with-chatgpt"
+    },
+    {
+      "rank": 16,
+      "field": "econ",
+      "sec": "マクロ・中央銀行",
+      "badges": ["us"],
+      "title": "12月の米追加利上げ観測が強まる　市場は確率92%を織り込みドル高進行",
+      "summary": "FRB高官の発言を受けて12月の追加利上げ観測が強まり、市場は12月会合での利上げ確率を92%程度まで織り込んだ（11月16日時点）。ウォラー理事は0.5ポイント利上げの検討にも言及。ドルは一段高となり、FRB議長講演が次の焦点。金は1オンス3877ドル台で推移。",
+      "meta": ["12月利上げ確率 約92%（11/16時点）", "0.5pt案に言及（ウォラー理事）", "金 3877ドル台"],
+      "source": "KuCoin News",
+      "sourceUrl": "https://kucoin.com/ja/news/flash/gold-price-holds-at-3-877-66-as-market-eyes-92-probability-of-fed-rate-hike-in-december"
+    },
+    {
+      "rank": 17,
+      "field": "ad",
+      "sec": "認可・中国勢",
+      "badges": [],
+      "title": "小鵬汽車、広州市でL4ロボタクシーの試験運営許可を取得",
+      "summary": "小鵬汽車（XPeng）が広州市でレベル4自動運転ロボタクシーの試験運営許可を取得した。中国勢は都市単位の許可取得を積み上げてエリアを広げる戦略を取っており、Pony.ai・百度に続く形で量産車ベースのロボタクシー展開を狙う。",
+      "meta": ["都市 広州市", "段階 試験運営許可（L4）"],
+      "source": "JETRO ビジネス短信",
+      "sourceUrl": "https://www.jetro.go.jp/biznews/2026/11/bcf2e7e2fc2b3f15.html"
+    },
+    {
+      "rank": 18,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["jp"],
+      "title": "トヨタ、アルファード／ヴェルファイアのPHEV計3026台をリコール　配線損傷のおそれ",
+      "summary": "トヨタはアルファードとヴェルファイアのPHEV計3026台についてリコールを届け出た（11月12日届出、11月16日に各媒体が報道）。電気配線が損傷するおそれがあり、前照灯やシートベルト警告灯への影響が指摘されている。同時期にエアバッグ膨張装置の不具合で約9.6万台規模の届出も行われている。",
+      "meta": ["対象 3026台（PHEV）", "不具合 電気配線の損傷", "届出 11月12日"],
+      "source": "レスポンス（carcareplus）",
+      "sourceUrl": "https://carcareplus.jp/article/2026/11/16/16509.html"
+    },
+    {
+      "rank": 19,
+      "field": "india",
+      "sec": "投資・製造誘致",
+      "badges": [],
+      "title": "NITI Aayog、PLI制度の影響評価を公表　投資2.4兆ルピー呼び込むも雇用創出は遅れ",
+      "summary": "インドのNITI Aayogは11月、生産連動型優遇策（PLI）の影響評価報告を公表した。累計で2.40兆ルピー規模の投資を呼び込んだ一方、雇用創出は想定に届いていないと指摘。うち9.6万クロー規模が制度を直接の契機とした投資と整理されている。",
+      "insight": "対印製造誘致の評価軸が「投資額」から「雇用と裾野産業」に移りつつあり、次期制度設計の前提が変わる。",
+      "meta": ["累計投資 2.40兆ルピー", "課題 雇用創出が遅れ", "公表 2026年11月"],
+      "source": "Manufacturing Today India",
+      "sourceUrl": "https://www.manufacturingtodayindia.com/pli-schemes-attract-%E2%82%B92-40-lakh-crore-investment-but-job-creation-lags"
+    },
+    {
+      "rank": 20,
+      "field": "AI",
+      "sec": "業務活用",
+      "badges": ["jp"],
+      "title": "グーグル、AI認定講座を1万人に無料提供　「Google AI Pro」3カ月利用権付き",
+      "summary": "グーグルはAI認定講座を1万人に無料で提供すると発表した。受講者には有料プラン「Google AI Pro」の3カ月利用権も付く。生成AIの業務活用スキルの裾野を広げる施策で、企業側の人材育成コストを下げる受け皿になる。",
+      "meta": ["対象 1万人", "特典 Google AI Pro 3カ月"],
+      "source": "Impress Watch",
+      "sourceUrl": "https://www.watch.impress.co.jp/docs/news/2156720.html"
+    }
+  ],
+  "weekly": [
+    "日経平均が1480円安で6万円台割れ、エヌビディア決算を前にAI関連の持ち高調整が日本株に波及",
+    "ニデックが半期報告書の提出を12月16日へ延期、品質不正に続き開示の遅れが長期化",
+    "米商務省が先端AI半導体の遠隔アクセスを規制、クラウド経由の輸出規制迂回を封鎖"
+  ]
+}
