@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-18",
+  "sub": "水",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "決算・市場",
+      "badges": ["us"],
+      "title": "エヌビディア、フアン氏辞任後初の決算　暫定CEO体制で中国事業に注目",
+      "summary": "エヌビディアが米国時間17日にQ3（2027年1月期第3四半期）決算を発表。11月12日のジェンスン・フアン氏の辞任を受け、コレット・クレス氏が暫定CEOを務める体制下での初の決算となる。市場の焦点は業績そのものより、経営体制の先行きと中国向け売上に関する会社側の説明に移っている。",
+      "insight": "AI相場の牽引役が「カリスマ不在」でどう語るかが、当面の株価レンジを決める。",
+      "meta": ["暫定CEO Colette Kress", "辞任 11月12日", "前週比 -12.8%（取得時点・楽天証券集計）"],
+      "source": "AI-Weekly / Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/jp/news/articles/2026-11-17/TOM6IPN3N08Z00"
+    },
+    {
+      "rank": 2,
+      "field": "econ",
+      "sec": "マクロ",
+      "badges": ["jp"],
+      "title": "7〜9月期の実質GDPは年率0.1%減　4四半期ぶりマイナス、個人消費が落ち込み",
+      "summary": "2026年7〜9月期の実質GDP速報値は前期比年率0.1%減となり、4四半期ぶりのマイナス成長。個人消費の弱さが主因で、内需の失速が鮮明になった。12月の日銀会合をにらむ局面で、追加利上げの判断材料として重みを増す。",
+      "insight": "マイナス幅は小さいが「消費の弱さ」という中身は重い。賃上げ原資を巡る議論に直結する。",
+      "meta": ["実質GDP 年率-0.1%", "4四半期ぶりマイナス", "主因 個人消費"],
+      "source": "日本経済新聞",
+      "sourceUrl": "https://www.nikkei.com/article/DGXZQOUA138F50T11C26A1000000/"
+    },
+    {
+      "rank": 3,
+      "field": "AI",
+      "sec": "企業・資本市場",
+      "badges": ["us"],
+      "title": "Anthropic、IPO価格レンジを1株70〜78ドルに設定と報道　評価額は最大1.5兆ドル規模",
+      "summary": "Anthropic の新規株式公開（IPO）について、1株70〜78ドルの価格レンジが示されたと報じられた。評価額は最大1.5兆ドル、調達額は最大644億ドル規模とされ、実現すればスペースXの記録に迫る大型案件となる。直近四半期の売上は170億ドル規模と伝えられる。",
+      "insight": "AI企業の評価が公開市場の値付けにさらされる初の本格ケース。ここでの値決めが業界全体の資金調達環境を左右する。",
+      "meta": ["価格レンジ $70〜78", "評価額 最大1.5兆ドル（報道ベース）", "調達額 最大644億ドル（報道ベース）"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/amp/2026/11/16/anthropic-ipo-date-price-range.html"
+    },
+    {
+      "rank": 4,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": ["us"],
+      "title": "Megaspeed、エヌビディア製GPUを約120億ドル分発注　中国顧客にアジアDC経由で貸与とWSJ",
+      "summary": "米WSJは、Megaspeed が2024〜25年にかけて約120億ドル相当のエヌビディア製チップを発注し、アジアのデータセンターが先端GPUを中国の顧客に貸し出していたと報じた。前日に伝わった米政府の「遠隔アクセス規制」が封じようとしていた迂回ルートの実例にあたる。",
+      "insight": "規制の実効性は「どこに置くか」ではなく「誰が使うか」の追跡能力次第。輸出管理のコストが一段上がる。",
+      "meta": ["発注額 約120億ドル（2024〜25年）", "経路 アジアDCからの貸与"],
+      "source": "AI-Weekly（WSJ報道）",
+      "sourceUrl": "https://ai-weekly.ai/newsletter-11-17-2026/",
+      "followup": {
+        "since": "2026-11-17",
+        "whatsNew": "遠隔アクセス規制の報道に続き、実際に迂回が行われていたとされる具体的な発注規模（約120億ドル）が明らかになった。"
+      }
+    },
+    {
+      "rank": 5,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "日経平均は801円安で続落　半導体株中心に売りが継続し5万9000円割れ",
+      "summary": "17日の東京株式市場で日経平均株価は801円安と大幅続落し、終値で5万9000円を割り込んだ。エヌビディア決算を前にした半導体関連のリスク回避売りが続き、増配や上方修正を発表した好業績銘柄まで売られる地合いとなった。",
+      "meta": ["終値 5万8965円", "前日比 -801円", "主因 半導体株のリスク回避売り"],
+      "source": "株探",
+      "sourceUrl": "https://kabutan.jp/news/marketnews/?b=n202611171305"
+    },
+    {
+      "rank": 6,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "BMW、米国で72万台超をリコール　火災リスクで「屋外駐車」を呼びかけ",
+      "summary": "BMW が米国で72万台超の大規模リコールを届け出た。火災につながるおそれがあるとして、所有者には修理まで屋外に駐車するよう促している。台数・対象車種の詳細は当局公表資料での確認が必要。",
+      "meta": ["対象 72万台超（米国）", "リスク 火災", "措置 屋外駐車の呼びかけ"],
+      "source": "Slay News",
+      "sourceUrl": "https://slaynews.com/bmw-recalls-720000-american-cars-major-fire-risk-warns-owners-park-outside/"
+    },
+    {
+      "rank": 7,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["jp"],
+      "title": "トヨタ、30車種9万5927台を再リコール　助手席エアバッグ破損のおそれ",
+      "summary": "トヨタが30車種・計9万5927台の再リコールを届け出た。助手席エアバッグが破損するおそれがあるとしている。既存リコールの是正措置をやり直す「再リコール」であり、対策内容の妥当性が論点になる。",
+      "insight": "再リコールは一次対策の検証プロセスが問われる類型。サプライヤー側の工程確認も連動しやすい。",
+      "meta": ["対象 30車種・9万5927台", "不具合 助手席エアバッグの破損", "区分 再リコール"],
+      "source": "CarCare Plus",
+      "sourceUrl": "https://carcareplus.jp/article/2026/11/17/16527.html"
+    },
+    {
+      "rank": 8,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["jp"],
+      "title": "ロッキー／ライズ／レックス17万6683台をリコール　低速でエンストのおそれ",
+      "summary": "ダイハツが生産するロッキーとOEM供給先のトヨタ「ライズ」、スバル「レックス」の計17万6683台がリコール対象となった。低速走行時にエンジンが停止するおそれがあるとしている。1車種の不具合が3ブランドに波及する典型的なOEM供給案件。",
+      "meta": ["対象 17万6683台", "不具合 低速時のエンスト", "波及 3ブランド（ダイハツ・トヨタ・スバル）"],
+      "source": "CarCare Plus",
+      "sourceUrl": "https://carcareplus.jp/article/2026/11/17/16529.html"
+    },
+    {
+      "rank": 9,
+      "field": "auto",
+      "sec": "サプライチェーン",
+      "badges": [],
+      "title": "中国自動車工業協会、完成車17社のサプライヤー代金支払い実態を調査",
+      "summary": "中国自動車工業協会（CAAM）が主要完成車メーカー17社を対象に、サプライチェーンにおける代金支払いの実態調査に乗り出した。価格競争の激化で部品メーカーへの支払い条件が悪化しているとの指摘が背景。調査範囲・公表時期の詳細は要確認。",
+      "insight": "支払いサイトの圧縮はTier2以降の品質投資を直撃する。中国勢の原価構造を読む材料になる。",
+      "meta": ["対象 完成車17社", "論点 支払いサイト・条件", "主体 CAAM"],
+      "source": "Star News Korea",
+      "sourceUrl": "https://starnewskorea.com/ja/business-life/2026/11/17/2026111711172379732"
+    },
+    {
+      "rank": 10,
+      "field": "ad",
+      "sec": "生産・投資",
+      "badges": [],
+      "title": "テスラ、ドイツに33億ドル投資　サイバーキャブ年産100万台体制を構築へ",
+      "summary": "テスラがドイツ工場に33億ドルを投じ、ロボタクシー専用車「サイバーキャブ」を年産100万台規模で生産する計画が伝わった。北米偏重だったロボタクシー戦略を欧州展開に広げる布石となる。欧州での認可取得の見通しは別途要確認。",
+      "insight": "専用車の量産規模を先に固めるのはテスラらしい賭け。欧州の型式認可が追いつくかが最大の不確実性。",
+      "meta": ["投資額 33億ドル", "計画 年産100万台", "拠点 ドイツ"],
+      "source": "American Cars And Racing",
+      "sourceUrl": "https://americancarsandracing.com/2026/11/17/tesla-spending-billion-build-million-cybercabs-germany"
+    },
+    {
+      "rank": 11,
+      "field": "AI",
+      "sec": "製品・活用",
+      "badges": ["us"],
+      "title": "Google、Gemini Notebookで資料から対話型サイトを生成　Web版をグローバル提供",
+      "summary": "Google の Gemini Notebook が、アップロードした資料をチャット指示から対話型のWebサイトに変換する機能をグローバル展開した。Web版で18歳以上が対象、モバイル対応は後続。社内資料を即席の共有ページ化する用途に向く。",
+      "insight": "社内ナレッジの「見せ方」を作る工数がさらに下がる。要件定義や調査報告の共有フローを見直す余地。",
+      "meta": ["対象 Web版・18歳以上", "展開 グローバル", "モバイル 後日対応"],
+      "source": "AI-Weekly",
+      "sourceUrl": "https://ai-weekly.ai/newsletter-11-17-2026/"
+    },
+    {
+      "rank": 12,
+      "field": "ad",
+      "sec": "事業展開",
+      "badges": ["us"],
+      "title": "マスク氏、顧客所有テスラのロボタクシー投入を示唆　早ければ来月に試験",
+      "summary": "イーロン・マスク氏が、個人所有のModel Yなどをロボタクシー網に投入できる仕組みの提供を示唆し、早ければ来月にも顧客所有車での試験を始める可能性に言及した。自社保有フリートに頼らない台数拡大のシナリオだが、保険・責任分担など制度面の整理は未確定（要確認）。",
+      "meta": ["対象 顧客所有車", "時期 早ければ来月（本人発言）", "論点 保険・責任分担は未確定"],
+      "source": "Benzinga",
+      "sourceUrl": "https://www.benzinga.com/markets/tech/26/11/63331351/coming-soon-elon-musk-hints-tesla-owners-could-put-their-model-ys-to-work-as-robotaxis-without-driving"
+    },
+    {
+      "rank": 13,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "インド株は2日続伸、センセックス427ポイント高　銀行株が主導しルピーも回復",
+      "summary": "17日のインド株式市場はセンセックスが427ポイント高で引け、2営業日続伸。ニフティは25,387で終え、銀行株が相場を主導した。ルピーは海外投資家の資金回帰を背景に1ドル=93.6〜93.7台へ戻している（いずれも17日取引終了時点）。",
+      "meta": ["センセックス +427pt", "ニフティ 25,387", "ルピー 93.6〜93.7台（17日時点）"],
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-17-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bse-share-price-126111700071_1.html"
+    },
+    {
+      "rank": 14,
+      "field": "auto",
+      "sec": "当局調査",
+      "badges": ["us"],
+      "title": "NHTSA、フォード「マスタング・マッハE」のリコール是正策を調査",
+      "summary": "米NHTSAが、フォードのマスタング・マッハEに実施されたリコールの是正措置について調査を開始した。電源喪失の防止を狙った対策が十分に機能しているかが論点。是正策そのものの有効性を当局が問い直す「リコール・クエリ」型の案件。",
+      "insight": "是正策の有効性を当局が追検証する流れが米国で強まっている。対策設計の根拠資料の整備が実務上の防衛線。",
+      "meta": ["対象 Mustang Mach-E", "論点 リコール是正策の有効性", "当局 NHTSA"],
+      "source": "S&P Global AutoTechInsight",
+      "sourceUrl": "https://autotechinsight.spglobal.com/news/5272011/us-nhtsa-opens-investigation-into-fords-mustang-mach-e-recall-to-prevent-power-failures"
+    },
+    {
+      "rank": 15,
+      "field": "AI",
+      "sec": "業務活用",
+      "badges": ["us"],
+      "title": "OpenAI、研究者向けプログラムを最大20万人規模へ拡大　11月23日に5万件の新規枠",
+      "summary": "OpenAI が Academic Researchers プログラムを世界で最大20万人規模に拡大。11月23日から先着順で5万件の新規付与枠を開放する。各枠には受領者と共同研究者最大2名分のChatGPT Plusが含まれる。パイロットの自己申告調査では、AIなしなら同等の作業に1.9倍の時間がかかるとの回答だった。",
+      "meta": ["規模 最大20万人", "新規枠 5万件（11月23日・先着）", "効果 1.9倍の時間短縮（自己申告）"],
+      "source": "AI-Weekly",
+      "sourceUrl": "https://ai-weekly.ai/newsletter-11-17-2026/"
+    },
+    {
+      "rank": 16,
+      "field": "ad",
+      "sec": "技術・実証",
+      "badges": ["us"],
+      "title": "Waymo、アラスカ州フェアバンクスで冬季走行試験　極寒・積雪環境の性能を検証",
+      "summary": "Waymo がアラスカ州フェアバンクスでロボタクシーの試験走行を開始した。極寒・積雪下でのセンサー性能と走行判断の改善が目的で、温暖地域中心だった展開を北部都市へ広げる前提条件づくりにあたる。商用展開の時期は未公表（要確認）。",
+      "insight": "積雪対応はロボタクシーの地理的上限を決める要素。日本市場での実用性を測る指標にもなる。",
+      "meta": ["拠点 フェアバンクス（アラスカ州）", "目的 冬季性能の検証", "商用時期 未公表"],
+      "source": "Drive Tesla Canada",
+      "sourceUrl": "https://driveteslacanada.ca/news/waymo-fairbanks-winter-testing"
+    },
+    {
+      "rank": 17,
+      "field": "india",
+      "sec": "自動車・EV",
+      "badges": [],
+      "title": "インドのEV乗用車10月販売がほぼ倍増　タタとマヒンドラで64%のシェア",
+      "summary": "インドの10月のEV乗用車販売は前年同月比でほぼ倍増した。タタ・モーターズとマヒンドラの2社で約64%のシェアを占め、国内勢がEV市場の立ち上がりを握る構図が続いている。祝祭期の需要がEV全体を押し上げた。",
+      "insight": "インドEVは「国内2社寡占」で立ち上がっている。外資が入るタイミングを逸すると棚が残らない。",
+      "meta": ["10月EV乗用車販売 ほぼ倍増（前年同月比）", "タタ+マヒンドラ 約64%シェア"],
+      "source": "CarToq",
+      "sourceUrl": "https://www.cartoq.com/car-news/electric-car-sales-october-2026-india/"
+    },
+    {
+      "rank": 18,
+      "field": "AI",
+      "sec": "業務活用",
+      "badges": ["us"],
+      "title": "OpenAI、ChatGPT for Healthcareを強化　医療プラグイン20超とコンピュータ操作エージェント",
+      "summary": "OpenAI が ChatGPT for Healthcare に、コンピュータ操作エージェント、改良した臨床検索、20超の医療系プラグインを追加した。1300件以上の医師ブラインド評価で、更新版の臨床回答が8項目すべてで従来を上回ったとしている。",
+      "meta": ["追加 医療プラグイン20超", "評価 医師ブラインド1300件超", "結果 8項目すべてで改善"],
+      "source": "AI-Weekly",
+      "sourceUrl": "https://ai-weekly.ai/newsletter-11-17-2026/"
+    },
+    {
+      "rank": 19,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "米株は決算待ちで下落　ダウは取引中に337ドル安、ホームデポが足を引っ張る",
+      "summary": "17日の米株式市場は、エヌビディア決算を控えた様子見で主要3指数が下落。ダウ平均は取引時間中に337ドル安まで売られ、決算が失望を招いたホームデポが下げを主導した。当日終値は日本時間18日6時確定のため本稿では扱わない。",
+      "meta": ["ダウ 取引中 -337ドル", "主因 決算待ちの様子見", "終値 未確定（取得時点）"],
+      "source": "Quartz",
+      "sourceUrl": "https://qz.com/dow-falls-337-points-home-depot-nvidia-earnings-111726"
+    },
+    {
+      "rank": 20,
+      "field": "india",
+      "sec": "産業政策",
+      "badges": [],
+      "title": "インド、繊維PLIを改定　第4ラウンドの投資基準とインセンティブを見直し",
+      "summary": "インド政府が繊維分野のPLI（生産連動型優遇）制度を改定し、第4ラウンドの投資基準とインセンティブ条件を見直した。参入要件を緩めて国内生産の裾野を広げる狙い。具体的な金額要件は公式通知での確認が必要（要確認）。",
+      "meta": ["対象 繊維PLI 第4ラウンド", "変更点 投資基準・インセンティブ", "金額要件 要確認"],
+      "source": "India Briefing",
+      "sourceUrl": "https://www.india-briefing.com/news/india-textile-pli-scheme-amendment-round-4-47661.html"
+    }
+  ],
+  "weekly": [
+    "エヌビディアがフアン氏辞任後初の決算。暫定CEO体制と中国事業の説明がAI相場の方向を決める",
+    "AnthropicのIPO価格レンジは1株70〜78ドル。評価額最大1.5兆ドル規模とされ、AI企業の値付けが公開市場で試される",
+    "テスラがドイツに33億ドル投資、サイバーキャブ年産100万台へ。ロボタクシー競争が欧州に拡大"
+  ]
+}
