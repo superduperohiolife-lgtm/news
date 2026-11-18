@@ -1,0 +1,255 @@
+{
+  "date": "2026-11-19",
+  "sub": "木",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "決算",
+      "badges": ["us"],
+      "title": "エヌビディア、7〜9月期は売上1158億ドルで倍増　取締役会はフアン氏のCEO復帰を否定",
+      "summary": "暫定CEO体制下で迎えた決算は売上高1158億ドル、前年同期比103%増と市場予想を上回った。次世代基盤「Vera Rubin」への需要を「爆発的」と表現し、ガイダンスも強気。取締役会は辞任したフアン氏をCEOに復帰させないと明言した。株価は時間外で約4%上昇。",
+      "insight": "AI投資の持続性を疑う地合いの中で需要側は健在と確認された一方、後継CEO問題が新たな不確実性として残る。",
+      "meta": ["売上 1158億ドル(+103%)", "時間外 約+4%", "フアン氏復帰 否定"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/technology/live/nvidia-live-updates-interim-ceo-kress-prepares-for-q3-earnings-with-huang-reportedly-planning-comeback-153114076.html",
+      "followup": {
+        "since": "2026-11-18",
+        "whatsNew": "前回は決算前の注目点を扱ったが、今回は実績値と取締役会のCEO人事判断が確定した。"
+      }
+    },
+    {
+      "rank": 2,
+      "field": "ad",
+      "sec": "規制・当局",
+      "badges": ["us"],
+      "title": "Waymo、米国全土で高速道路の無人走行を停止　カリフォルニア州の安全命令受け",
+      "summary": "カリフォルニア州当局がフリーウェイでの無人走行を禁じる安全命令を出したことを受け、Waymoは同州だけでなく米国内すべての高速道路でのロボタクシー運行を一時停止した。一般道でのサービスは継続する。高速道路走行は今秋に拡大したばかりの機能で、事業計画への影響が注目される。",
+      "insight": "州単位の規制判断が全国展開を即座に巻き戻す構図で、L4事業のスケール前提が規制リスクに強く依存することが改めて示された。",
+      "meta": ["対象 米国内フリーウェイ全域", "一般道サービスは継続"],
+      "source": "NBC News",
+      "sourceUrl": "https://www.nbcnews.com/news/us-news/waymo-robotaxis-banned-california-freeways-rcna609917"
+    },
+    {
+      "rank": 3,
+      "field": "econ",
+      "sec": "中央銀行",
+      "badges": ["us"],
+      "title": "FRBウォラー理事、0.5%利上げで「市場に衝撃を与える」必要に言及　2年債利回り上昇",
+      "summary": "ウォラーFRB理事は、インフレ抑制のため12月会合で0.5%の大幅利上げによって市場に強いシグナルを送る必要があるかもしれないと述べた。FOMC内では引き締めペースをめぐり意見が分かれており、10月会合では2人が利上げを支持していた。発言を受けて2年債利回りが上昇した。",
+      "insight": "利下げ局面ではなく引き締め継続が前提になっており、円安・資源価格を通じた国内コストへの波及も見ておく必要がある。",
+      "meta": ["0.5%利上げ 言及", "2年債利回り 上昇", "12月会合が焦点"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html"
+    },
+    {
+      "rank": 4,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": ["us"],
+      "title": "OpenAI、GPT-6.2「Astra」を発表　前モデルの投入を撤回した後の最上位モデル",
+      "summary": "OpenAIは直前に予定していたモデルの投入を取り下げたうえで、業務利用向け最上位モデルGPT-6.2「Astra」を公開した。専門業務での性能を前面に出す構成で、安全面の新たなガードレールも併せて導入したとされる。同時に「Sol」系も展開。",
+      "meta": ["位置づけ プロ業務向け最上位", "前モデル投入は撤回"],
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-17/openai-unveils-new-astra-ai-model-after-scrapping-prior-release"
+    },
+    {
+      "rank": 5,
+      "field": "auto",
+      "sec": "品質不正",
+      "badges": ["jp"],
+      "title": "ニデック、半期報告書の提出期限を12月16日に延期　会計・品質不正の調査が長期化",
+      "summary": "ニデックは2026年度上半期の半期報告書の提出期限について1カ月の延長を申請し、承認された。新たな期限は12月16日。会計不正の調査過程で判明した品質不正の精査が続いており、調査委員会が認定した品質不正は844件と報じられている。顧客OEMへの供給影響やリコールの有無は本稿時点で確定情報なし(要確認)。",
+      "insight": "開示が年末まで後ろ倒しとなり、取引先としては供給継続性と是正計画の評価を12月中旬まで持ち越す形になる。",
+      "meta": ["新期限 2026-12-16", "延長 1カ月", "品質不正 844件(報道ベース)", "リコール有無 要確認"],
+      "source": "時事通信",
+      "sourceUrl": "https://www.jiji.com/jc/article?k=2026111600785&g=eco",
+      "followup": {
+        "since": "2026-11-16",
+        "whatsNew": "調査報告書公表後の節目として、上半期決算の開示そのものが12月16日まで延期されたことが新たに確定した。"
+      }
+    },
+    {
+      "rank": 6,
+      "field": "auto",
+      "sec": "リコール・当局",
+      "badges": ["us", "jp"],
+      "title": "NHTSA、ホンダ約103万台を調査開始　アイドリングストップからの再始動不良",
+      "summary": "米NHTSAは、アイドリングストップ機能からエンジンが再始動しない不具合について、ホンダ車約103万台を対象に予備調査を開始した。関連する苦情は約700件寄せられているとされる。交差点などでの立ち往生による追突リスクが論点。",
+      "insight": "機能自体は広範に搭載されており、調査がリコールに発展した場合の対象拡大余地が大きい。",
+      "meta": ["対象 約103万台", "苦情 約700件", "段階 予備調査"],
+      "source": "Reuters(Investing.com)",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/us-opens-probe-into-more-than-1-million-honda-vehicles-over-auto-stopstart-failures-5028995"
+    },
+    {
+      "rank": 7,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "米国株は大幅続落、ダウ848ドル安　ソフトウエア株の下げ目立つ",
+      "summary": "前営業日の米国市場でダウ工業株30種平均は848ドル(1.64%)下落し大幅続落。ソフトウエア関連の売りが目立ち、ナスダック総合指数も続落した。引け後に発表されたエヌビディア決算が市場予想を上回り、時間外では指数先物が持ち直した。",
+      "meta": ["ダウ -848ドル(-1.64%)", "ナスダック 続落", "取得時点 前営業日終値"],
+      "source": "日本経済新聞",
+      "sourceUrl": "https://www.nikkei.com/article/DGXZQOFL17CAP0X11C26A1000000/"
+    },
+    {
+      "rank": 8,
+      "field": "AI",
+      "sec": "企業・産業",
+      "badges": ["us"],
+      "title": "マイクロソフト、Ignite 2026で7つの新AIモデルを発表　企業向けAI基盤を拡充",
+      "summary": "マイクロソフトは年次イベントIgnite 2026で7つの新しいAIモデルを公開し、AzureとFoundryを中心に企業向けAI基盤の刷新を打ち出した。推論コスト上昇に対応するFoundryのモデルルーター拡張や、セキュリティ関連の更新も同時に発表した。",
+      "meta": ["新モデル 7本", "Foundry モデルルーター拡張"],
+      "source": "Microsoft Source",
+      "sourceUrl": "https://news.microsoft.com/source/2026/11/17/microsoft-ignite-2026-empowering-human-ambition-intelligence-and-trust/"
+    },
+    {
+      "rank": 9,
+      "field": "AI",
+      "sec": "企業・産業",
+      "badges": ["us"],
+      "title": "Anthropic、11月19日に上場予定　需要は募集株数の約6倍でレンジ上限超えの観測",
+      "summary": "AnthropicはIPO価格レンジを1株70〜78ドルとし、11月19日の取引開始を予定している。報道では需要が募集株数の約6倍に達し、上限を上回る価格での決定が見込まれる。最終的な公開価格と初値は本稿時点で未確定(要確認)。",
+      "insight": "AI株全般が調整局面にある中での大型上場で、初値形成がAI関連のバリュエーション水準の目安になる。",
+      "meta": ["レンジ $70〜78", "取引開始 11月19日(予定)", "公開価格 要確認"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html",
+      "followup": {
+        "since": "2026-11-18",
+        "whatsNew": "前回の価格レンジ報道に対し、受注倍率とレンジ上限超えの価格観測が新たに伝わり、上場日を迎えた。"
+      }
+    },
+    {
+      "rank": 10,
+      "field": "auto",
+      "sec": "産業動向",
+      "badges": ["jp"],
+      "title": "日本車、素材や部品の一部を共通化　業界で規格を統一しコスト削減へ",
+      "summary": "国内の自動車業界が主要素材や部品の一部で業界規格を統一し、共通化を進める方針を固めた。各社が個別に仕様を作り込んできた領域を標準化してコストを下げ、国際競争力の強化につなげる。対象範囲や導入時期の詳細は今後詰める。",
+      "insight": "仕様個別最適を前提にしてきた調達・設計プロセスに影響する話で、サプライヤー側の図面・認証対応にも波及しうる。",
+      "meta": ["対象 主要素材・部品の一部", "狙い コスト削減・競争力強化", "詳細時期 要確認"],
+      "source": "共同通信",
+      "sourceUrl": "https://news.yahoo.co.jp/articles/4005e4753a19dbb867e9a3f67ded80bd67faf609"
+    },
+    {
+      "rank": 11,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["jp"],
+      "title": "Pony.aiとトヨタ、第7世代bZ4Xロボタクシーで広州の完全無人商用運行を開始",
+      "summary": "Pony.aiとトヨタは共同開発した第7世代のbZ4Xロボタクシーを広州市内で完全無人の商用サービスに投入した。量産前提の車両で24時間運行を想定し、1000台規模の展開計画も伝えられている。中国勢との競争の中で量産ロボタクシーの実用段階に入った。",
+      "insight": "完成車メーカーが車両側を担い自動運転企業がソフトを担う分担型で、量産コストを武器にする中国市場の戦い方が鮮明。",
+      "meta": ["車両 第7世代bZ4X", "都市 広州", "計画 1000台規模(報道)"],
+      "source": "CnEVPost",
+      "sourceUrl": "https://cnevpost.com/2026/11/16/pony-ai-toyota-bz4x-robotaxi-guangzhou/"
+    },
+    {
+      "rank": 12,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "日経平均は163円85銭高の5万9024円28銭　上下500円超の乱高下",
+      "summary": "前営業日の東京市場で日経平均株価は163円85銭高の5万9024円28銭で終了した。エヌビディアの好決算を手がかりに買いが先行したが、AI関連の高値警戒感から下げに転じる場面もあり、日中の振れ幅は500円を超えた。値下がり銘柄は1110に上った。",
+      "meta": ["終値 59,024.28(+163.85)", "値下がり 1110銘柄", "取得時点 前営業日終値"],
+      "source": "時事通信(Yahoo!ファイナンス)",
+      "sourceUrl": "https://finance.yahoo.co.jp/news/detail/40d912f3eebf241877820375b3d74d0669ca4b0c"
+    },
+    {
+      "rank": 13,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "センセックスは500ポイント安の8万2031.81　利益確定売りと金属株安で下落",
+      "summary": "前営業日のインド株式市場でセンセックスは500.38ポイント(0.61%)下落し8万2031.81で終了、ニフティ50も2万5250を割り2万5228となった。直近の上昇を受けた利益確定売りに加え、金属株と消費財関連の下げが指数を押し下げた。",
+      "meta": ["センセックス 82,031.81(-500.38)", "ニフティ 25,228", "取得時点 前営業日終値"],
+      "source": "Zee Business",
+      "sourceUrl": "https://www.zeebiz.com/market-news/news-closing-bell-nov-18-2026-sensex-nifty-action-key-drivers-405714"
+    },
+    {
+      "rank": 14,
+      "field": "india",
+      "sec": "金融政策",
+      "badges": [],
+      "title": "ゴールドマン、RBIの追加3回利上げを予想　ルピーは「最悪期を過ぎた」",
+      "summary": "ゴールドマン・サックスはインド準備銀行(RBI)が今後さらに3回の利上げを行うとの見通しを示した。ルピーについては最悪期を脱したと評価し、ニフティ50の目標水準を2万8500とした。インフレ動向と資本流入が前提条件となる。",
+      "meta": ["追加利上げ 3回予想", "ニフティ目標 28,500", "区分 予想(確定値ではない)"],
+      "source": "Business Today",
+      "sourceUrl": "https://www.businesstoday.in/latest/economy/story/goldman-sachs-sees-three-more-rbi-rate-hikes-feels-rupees-worst-is-over-and-nifty-at-28500-568228-2026-11-18"
+    },
+    {
+      "rank": 15,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us", "jp"],
+      "title": "トヨタ、米国でタンドラ約6万2000台をリコール　カムシャフト破損で動力喪失のおそれ",
+      "summary": "トヨタは米国で2022〜2023年および2025〜2026年モデルのタンドラ約6万2000台をリコールする。カムシャフトが走行中に破損し、駆動力を失うおそれがある。タンドラはエンジン関連で複数回のリコール対象となっている。",
+      "meta": ["対象 約6.2万台", "不具合 カムシャフト破損", "対象MY 2022-2023/2025-2026"],
+      "source": "Toyota USA Newsroom",
+      "sourceUrl": "https://pressroom.toyota.com/toyota-recalls-certain-model-year-2022-2023-and-2025-2026-toyota-tundra-vehicles/"
+    },
+    {
+      "rank": 16,
+      "field": "AI",
+      "sec": "業務活用",
+      "badges": ["us"],
+      "title": "マイクロソフト「Agent 365」を更新　AIエージェントを社員同様に管理・統制",
+      "summary": "Ignite 2026に合わせ、AIエージェントの登録・権限管理・監査を一元化する「Agent 365」の機能更新が発表された。エージェントを人の従業員と同じガバナンス体系に組み込み、ID管理とセキュリティ基盤で統制する設計を打ち出している。",
+      "insight": "社内でエージェントを増やす前に、ID・権限・ログの設計をどこに寄せるかを決める必要が出てくる。",
+      "meta": ["対象 社内AIエージェント", "論点 ID・権限・監査"],
+      "source": "Microsoft Tech Community",
+      "sourceUrl": "https://techcommunity.microsoft.com/blog/agent-365-blog/whats-new-in-microsoft-agent-365-ignite-2026/4571753"
+    },
+    {
+      "rank": 17,
+      "field": "AI",
+      "sec": "企業・産業",
+      "badges": ["us"],
+      "title": "GoogleのGemini Agent、Anthropic製Claudeモデルも選択可能に",
+      "summary": "Googleはエージェント機能「Gemini Agent」を投入し、自社のGeminiに加えてAnthropicのClaudeモデルも利用できる構成にした。競合モデルを取り込むことで、企業側がタスクごとにモデルを選べる点を訴求する。",
+      "insight": "プラットフォーム側がマルチモデル前提に寄っており、特定ベンダーに固定しない設計が調達の標準になりつつある。",
+      "meta": ["対応 Gemini + Claude", "狙い マルチモデル選択"],
+      "source": "Pasquale Pillitteri (News)",
+      "sourceUrl": "https://pasqualepillitteri.it/en/news/21745/google-launches-gemini-agent-claude-models"
+    },
+    {
+      "rank": 18,
+      "field": "india",
+      "sec": "製造誘致・PLI",
+      "badges": [],
+      "title": "NITI Aayog、PLI制度の影響評価を公表　投資・生産は拡大、雇用と国内付加価値は遅れ",
+      "summary": "インド政府系シンクタンクNITI Aayogが生産連動インセンティブ(PLI)制度の影響評価を公表した。投資と生産は拡大した一方、雇用創出と国内付加価値の積み上げは目標に届いていないと指摘。太陽光では国内製造能力116GWのうち24GWがPLI支援案件とされる。",
+      "insight": "インドでの現地生産を検討する際、インセンティブ獲得と国内調達率要件のバランスが制度見直しの焦点になりうる。",
+      "meta": ["太陽光 116GW中24GWがPLI案件", "課題 雇用・国内付加価値"],
+      "source": "NITI Aayog",
+      "sourceUrl": "https://www.niti.gov.in/sites/default/files/2026-11/Impact-Assessment-of-PLI-Schemes.pdf"
+    },
+    {
+      "rank": 19,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": [],
+      "title": "EU AI法、12月2日から第50条の透明性義務が本格適用",
+      "summary": "EU AI法の第50条に基づく透明性義務が12月2日から適用される。AIとの対話であることの明示、ディープフェイクを含むAI生成・加工コンテンツの表示などが求められ、欧州委員会は関連ガイドラインを公表している。EU市場向けにAI機能を提供する事業者は表示要件の棚卸しが必要になる。",
+      "meta": ["適用日 2026-12-02", "対象 第50条 透明性義務"],
+      "source": "European Commission (Digital Strategy)",
+      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/faqs/transparency-obligations-under-article-50-ai-act"
+    },
+    {
+      "rank": 20,
+      "field": "india",
+      "sec": "自動車市場",
+      "badges": [],
+      "title": "タタ・モーターズ、Ghassan Aboudと提携しシリア市場に参入",
+      "summary": "タタ・モーターズは商用車分野でGhassan Aboudグループと提携し、シリア市場に参入する。復興需要を見込んだ中東展開の一環で、現地での販売・サービス網を同グループが担う構図。",
+      "meta": ["分野 商用車", "提携先 Ghassan Aboud"],
+      "source": "Indian Opinion",
+      "sourceUrl": "https://indianopinion.org/tata-motors-enters-syria-with-ghassan-aboud-cv-pact"
+    }
+  ],
+  "weekly": [
+    "エヌビディアが7〜9月期に売上1158億ドル・前年比103%増と予想超え、取締役会はフアン氏のCEO復帰を否定",
+    "Waymoがカリフォルニア州の安全命令を受け米国全土で高速道路の無人走行を停止、L4展開の規制リスクが表面化",
+    "ニデックが半期報告書の提出期限を12月16日に延期、会計・品質不正の精査が長期化し開示が年末へ後退"
+  ]
+}
