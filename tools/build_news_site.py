@@ -68,6 +68,8 @@ FIELDLABEL = dict(FIELDS)
 LEGACY = {"econ-news": "econ", "ai-news": "AI", "auto-news": "auto"}
 
 WD = ["月", "火", "水", "木", "金", "土", "日"]
+# 当日分が未着のカテゴリは、この日数以内の直近日の分で埋めて「⚠ 前日分」と明示する（2026-11-20 追加）
+FALLBACK_DAYS = 4
 
 
 def ri(text):
@@ -317,6 +319,27 @@ def build():
     wd = WD[datetime.date(y, mo, da).weekday()]
     datelabel = "%d月%d日(%s)" % (mo, da, wd)
 
+    # 当日分が無いカテゴリは直近日の分で埋める（空タブで公開しない）
+    import copy
+    fallback = {}
+    base = datetime.date(y, mo, da)
+    for ck in ORDER:
+        if day.get(ck, {}).get("articles"):
+            continue
+        for d2 in dates[1:]:
+            j2 = data[d2].get(ck)
+            if not (j2 and j2.get("articles")):
+                continue
+            if (base - datetime.date(*map(int, d2.split("-")))).days <= FALLBACK_DAYS:
+                j2 = copy.deepcopy(j2)
+                prepare({ck: j2}, d2)
+                if j2.get("articles"):
+                    day[ck] = j2
+                    fallback[ck] = d2
+            break
+    for ck, d2 in fallback.items():
+        print("[前日分で補完] %s ← %s（%d件）" % (ck, d2, len(day[ck]["articles"])))
+
     present = [ck for ck in ORDER if ck in day and day[ck].get("articles")]
     counts = {ck: len(day[ck]["articles"]) if ck in day else 0 for ck in ORDER}
 
@@ -340,6 +363,10 @@ def build():
     for i, ck in enumerate(ORDER):
         show = " active" if ck == defcat else ""
         body = ""
+        if ck in fallback:
+            fy, fm, fd = map(int, fallback[ck].split("-"))
+            body += '<div class="stale">⚠ 本日分が未着のため %d月%d日(%s)の分を表示しています</div>' % (
+                fm, fd, WD[datetime.date(fy, fm, fd).weekday()])
         if ck in present:
             weekly = (day[ck].get("weekly") or [])[:3]
             if weekly:
@@ -434,6 +461,7 @@ nav.tabs{position:sticky;top:0;z-index:10;background:rgba(246,245,241,.94);
 .insight{margin-top:10px;font-size:12.5px;line-height:1.65;color:#2f3e7a;background:#eef1fb;border-radius:8px;padding:8px 11px;}
 .src{margin-top:12px;display:flex;align-items:center;gap:8px;flex-wrap:wrap;}.pdate{font-size:12px;color:var(--muted2);white-space:nowrap;}.pdate.nod{color:#b3261e;font-weight:700;}.src a{font-size:12px;white-space:nowrap;}.srcx{font-size:12px;color:var(--muted2);}
 .empty{text-align:center;color:var(--muted);font-size:13.5px;padding:64px 0;}
+.stale{margin:4px 0 14px;font-size:12.5px;font-weight:700;color:#8a4b00;background:#fff4e0;border:1px solid #f3d9a8;border-radius:8px;padding:8px 12px;}
 footer{margin-top:40px;font-size:11.5px;color:var(--muted2);line-height:1.7;}
 #toTop{position:fixed;right:16px;bottom:18px;z-index:30;width:42px;height:42px;border:1px solid var(--line);
  border-radius:50%;background:var(--card);color:var(--ink);font-size:18px;box-shadow:0 3px 10px rgba(80,70,60,.18);
