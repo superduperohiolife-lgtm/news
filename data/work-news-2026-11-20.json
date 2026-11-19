@@ -1,0 +1,241 @@
+{
+  "date": "2026-11-20",
+  "sub": "金",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "IPO・市場",
+      "badges": ["us"],
+      "title": "アンソロピックがナスダック上場、初値111.50ドルで公開価格を34%上回る",
+      "summary": "公開価格83ドル（仮条件70〜78ドルの上限超え）で813億ドルを調達し、19日にティッカーANTで取引を開始。初値は111.50ドルで時価総額は1.5兆ドル超、初値形成までに1億800万株が売買された。ただし寄り後は伸び悩み、米東部19日15時33分時点では95.10ドル（＋14.6%）まで上げ幅を縮小。",
+      "insight": "AI企業への資金流入は旺盛だが、初値後の失速は相場全体のAI警戒感と同じ方向を向く。",
+      "meta": ["公開価格 $83", "初値 $111.50", "調達 813億ドル"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html",
+      "followup": {"since": "2026-11-19", "whatsNew": "前回「上場予定」だった案件が実際に上場し、公開価格・初値・調達額が確定した。"}
+    },
+    {
+      "rank": 2,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "米国株は下落が加速、ダウ1,035ドル安　半導体株が総崩れ",
+      "summary": "19日の米株式市場は終盤にかけ下げ幅を拡大し、ダウ平均は1,035.35ドル安の49,162.82（▲2.06%）、S&P500は▲1.90%の7,184.20、ナスダック総合は▲2.18%の23,898.48（いずれも米東部19日15時33分時点＝日本時間20日5時33分時点）。AI相場への警戒と民主党主導の次期議会をめぐる思惑が重荷となり、エヌビディアは午後の取引で2%安。",
+      "meta": ["ダウ ▲1,035ドル", "AMD ▲7〜9%（空売り開示）", "取得時点 米東部19日15:33"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html",
+      "followup": {"since": "2026-11-19", "whatsNew": "前日のダウ848ドル安からさらに下げ幅が拡大し、アンソロピック上場も相場の支えにならなかった。"}
+    },
+    {
+      "rank": 3,
+      "field": "AI",
+      "sec": "半導体・規制",
+      "badges": ["us"],
+      "title": "エヌビディア、H200の対中出荷を停止　暫定CEOクレス氏が確認",
+      "summary": "暫定CEOのコレット・クレス氏が、米政府の輸出承認を得ているH200についても中国向け出荷を行わないと表明。フアン氏の退任後に対中戦略を転換した形で、報道では24億ドル規模の中国売上が空白になると指摘されている。",
+      "insight": "車載半導体を含む中国向けAIチップ供給網の前提が変わる可能性があり、調達計画の確認が要る。",
+      "meta": ["対象 H200（Hopper）", "中国売上の空白 24億ドル規模（要確認）"],
+      "source": "Technology.org",
+      "sourceUrl": "https://www.technology.org/2026/11/19/nvidia-stops-shipping-hopper-h200-ai-chips-china-kress/",
+      "followup": {"since": "2026-11-19", "whatsNew": "前回は取締役会がフアン氏のCEO復帰を否定した段階だったが、今回は暫定CEOが対中出荷停止という具体的な経営判断を明言した。"}
+    },
+    {
+      "rank": 4,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["jp"],
+      "title": "ダイハツ「ロッキー」など3車種17万6000台をリコール　発電機部品の設計ミス",
+      "summary": "ダイハツ工業が、同社「ロッキー」とトヨタ・スバルへのOEM供給車を含む3車種、計約17万6000台のリコールを届け出た。発電機の一部部品の設計が不適切で、エンジンが始動できなくなるおそれがあるとしている。",
+      "meta": ["対象 約17万6000台", "原因 発電機部品の設計不良", "影響 始動不能のおそれ"],
+      "source": "ABCニュース",
+      "sourceUrl": "https://news.yahoo.co.jp/articles/a8fe8c5457ab2c65390589dba7188948b8a107d9"
+    },
+    {
+      "rank": 5,
+      "field": "econ",
+      "sec": "金融政策・為替",
+      "badges": ["us"],
+      "title": "FRB議事要旨のタカ派姿勢でドル急伸、ドル指数は19カ月ぶり高値",
+      "summary": "10月会合の議事要旨で利上げ判断が際どい賛否だったことと追加利上げへの傾斜が示され、12月の利上げ観測が強まった。ドル指数は19カ月ぶりの高値まで上昇した後に一服し、円は対ドルで下落。米長期金利も議事要旨を受けてじり高となった。",
+      "meta": ["ドル指数 19カ月ぶり高値", "焦点 12月利上げ観測", "取得時点 11月19日"],
+      "source": "FXStreet",
+      "sourceUrl": "https://www.fxstreet.com/news/us-dollar-takes-a-breather-after-rally-to-19-month-high-202611191423"
+    },
+    {
+      "rank": 6,
+      "field": "ad",
+      "sec": "当局調査",
+      "badges": ["us"],
+      "title": "NHTSA、Waymoのスクールバス対応ソフト改修の有効性を調査　対象2,895台",
+      "summary": "停止中のスクールバスを追い越す事象について、Waymoが実施したソフトウエアのリコール改修後も違反が続いたとして、NHTSAが改修の有効性を問うリコール調査を開始。対象はロボタクシー2,895台で、当局は事象の多くが改修後に発生したとしている。",
+      "insight": "リコール改修そのものの実効性を当局が検証する流れは、OTAで安全対策を打つ各社に共通の論点。",
+      "meta": ["対象 2,895台", "論点 改修後も違反継続"],
+      "source": "FOX 5 New York",
+      "sourceUrl": "https://www.fox5ny.com/news/feds-investigate-waymo-recall-after-continued-school-bus-violations"
+    },
+    {
+      "rank": 7,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": ["us"],
+      "title": "Google、Gemini 4 Neonを公開　100万トークン文脈と4段階の思考レベル",
+      "summary": "入力100万トークンあたり3ドル、出力15ドルの価格設定で提供。文脈長は100万トークン、思考レベルは4段階を備える。Googleは最上位のxhigh設定でArtificial Analysis Intelligence Index 3位と説明している（ベンチマーク順位は同社主張）。",
+      "meta": ["価格 $3/$15（100万tok）", "文脈 100万tok", "思考レベル 4段階"],
+      "source": "AI Weekly（Googleブログ）",
+      "sourceUrl": "https://aiweekly.co/ai-news-today/edition/2026-11-19"
+    },
+    {
+      "rank": 8,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "日経平均は419円93銭高の5万9444円21銭　TOPIXは4日続落",
+      "summary": "19日の東京市場は方向感の乏しい展開から、終盤にファストリ・東京エレクトロン・ソフトバンクGなど指数寄与度の高い銘柄が上昇し、日経平均は400円超高で引けた。一方で値下がり銘柄が多数を占め、TOPIXは1.53ポイント安の3,822.47と4日続落。プライムの売買代金は概算7兆7,100億円。",
+      "meta": ["日経平均 59,444.21円（+419.93）", "TOPIX 3,822.47（▲1.53）", "売買代金 7.71兆円"],
+      "source": "OANDA証券",
+      "sourceUrl": "https://www.oanda.jp/lab-education/market_news/mn_1044845_202611191753/"
+    },
+    {
+      "rank": 9,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "センセックスは990ポイント高、ニフティは2万5500台を回復",
+      "summary": "タカ派的なFRB議事要旨を受けて安く始まったインド株は、自動車・金融・耐久消費財主導で切り返し、センセックスが約990ポイント高、ニフティは2万5500台を回復して引けた。IT株は逆行安となり、上昇の裾野は限られた。",
+      "meta": ["センセックス 約+990pt", "ニフティ 25,500台回復"],
+      "source": "Kotak Neo",
+      "sourceUrl": "https://www.kotakneo.com/news/market-news/closing-bell-19-november-2026-sensex-nifty-end-higher-as-bulls-return-to-dalal-street/",
+      "followup": {"since": "2026-11-19", "whatsNew": "前日の約500ポイント安から反発し、下落要因だった金属株に代わって自動車株が相場を主導した。"}
+    },
+    {
+      "rank": 10,
+      "field": "AI",
+      "sec": "M&A",
+      "badges": ["us"],
+      "title": "パロアルトネットワークス、Applied Computeを45億ドルで買収",
+      "summary": "企業データ上でカスタマイズしたオープンウエイトのAIモデルを動かす基盤を手掛ける創業1年のApplied Computeを、株式対価45億ドルで買収することに合意。買収額は同社の11月2日時点のポストマネー評価額を12.5億ドル上回る水準。",
+      "meta": ["買収額 45億ドル（株式対価）", "評価額比 +12.5億ドル"],
+      "source": "AI Weekly（WSJ）",
+      "sourceUrl": "https://aiweekly.co/ai-news-today/edition/2026-11-19"
+    },
+    {
+      "rank": 11,
+      "field": "auto",
+      "sec": "政策・補助金",
+      "badges": ["jp"],
+      "title": "CEV補助金の申請受付終了は11月20日・24日・25日のいずれか　予算残高107億円",
+      "summary": "経済産業省が、クリーンエネルギー自動車（CEV）導入促進補助金の申請受付終了日を11月20日・24日・25日のいずれかになる見込みと公表した。公表時点の予算残高は107億円で、駆け込み申請が残枠を消化する展開となる。",
+      "insight": "年度内のEV販売計画と納車タイミングに直結するため、受付終了日の確定は要ウォッチ。",
+      "meta": ["予算残高 107億円", "終了日 11/20・24・25のいずれか"],
+      "source": "日刊自動車新聞",
+      "sourceUrl": "https://carview.yahoo.co.jp/news/detail/4ce46ed90ea1e78f77b66984b6700846ca998d94"
+    },
+    {
+      "rank": 12,
+      "field": "ad",
+      "sec": "事故・当局",
+      "badges": ["us"],
+      "title": "NHTSA報告でテスラ・サイバーキャブの事故は計8件に",
+      "summary": "NHTSAへの提出報告をもとに、ハンドルを持たないロボタクシー「サイバーキャブ」の事故が累計8件に達したと報じられた。報告の一部は内容が黒塗りで、低速走行中の事象も含まれるとされる。",
+      "meta": ["事故件数 8件", "報告の一部が非開示"],
+      "source": "The Autowire",
+      "sourceUrl": "https://theautowire.com/2026/11/19/tesla-cybercab-crashes-nhtsa-redacted-philadelphia/"
+    },
+    {
+      "rank": 13,
+      "field": "india",
+      "sec": "自動車",
+      "badges": [],
+      "title": "インド自動車株が急伸、Nifty Autoは4.4%高・マルチ・スズキは7.6%高",
+      "summary": "19日のインド市場ではNifty Autoが4.4%上昇し、セクター別で最大の上げ。マルチ・スズキが7.6%高と牽引し、金融・耐久消費財も上昇した一方、IT株は下落して全体の押し下げ要因となった。",
+      "meta": ["Nifty Auto +4.4%", "マルチ・スズキ +7.6%"],
+      "source": "HDFC Sky",
+      "sourceUrl": "https://hdfcsky.com/news/sectoral-snapshot-today-november-19-2026-auto-financials-consumer-durables-lead-rally-it-bucks-trend"
+    },
+    {
+      "rank": 14,
+      "field": "AI",
+      "sec": "半導体",
+      "badges": ["us"],
+      "title": "インテル、18A-Pで初の外部顧客を獲得　歩留まりは70%",
+      "summary": "リップブー・タンCEOがTomorrowX Summitで、ファウンドリー向け18A-Pプロセスで初の外部顧客と契約したと明らかにした。技術責任者のPushkar Ranade氏はXで18A-Pの歩留まりが70%に達したと投稿している。",
+      "meta": ["ノード 18A-P", "歩留まり 70%", "初の外部顧客"],
+      "source": "AI Weekly（CNBC）",
+      "sourceUrl": "https://aiweekly.co/ai-news-today/edition/2026-11-19"
+    },
+    {
+      "rank": 15,
+      "field": "auto",
+      "sec": "電動化",
+      "badges": ["us"],
+      "title": "フォード、米国で車載電池セルの生産を開始　中国企業の技術をライセンス活用",
+      "summary": "フォードが米国内で車載用電池セルの生産を開始した。中国企業の技術をライセンス供与の形で用いる構成で、関税・補助金政策の影響を受けやすい北米電池サプライチェーンの内製化を進める動きとなる。",
+      "meta": ["拠点 米国内", "方式 中国技術のライセンス活用"],
+      "source": "Investing.com",
+      "sourceUrl": "https://investing.com/news/stock-market-news/ford-begins-ev-battery-cell-production-in-the-us-with-chinas-tech-5036780"
+    },
+    {
+      "rank": 16,
+      "field": "AI",
+      "sec": "企業活用・リスク",
+      "badges": ["us"],
+      "title": "シティ・PNC・シチズンズ、AIエージェント経由の被害を顧客負担に",
+      "summary": "米銀3行が顧客規約を改定し、サードパーティ製AIエージェント経由の損失は、当該エージェントが不正アクセスを受けた場合でも口座保有者の負担とした。10月に同様の方針を示したJPモルガン・バンクオブアメリカに続く動きで、シティは自社製エージェントを適用除外としている。",
+      "insight": "業務でのエージェント導入時、事故責任の所在を社内規程側で定義しておく必要がある。",
+      "meta": ["対象 シティ/PNC/シチズンズ", "先行 JPモルガン・BofA（10月）"],
+      "source": "AI Weekly（TechCrunch）",
+      "sourceUrl": "https://aiweekly.co/ai-news-today/edition/2026-11-19"
+    },
+    {
+      "rank": 17,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "テスラ、ハンドル・ペダルなしのサイバーキャブの一般向け乗車をダラスに拡大",
+      "summary": "テスラがハンドルとペダルを持たないサイバーキャブによる一般向けライドを、ダラスまで広げたと報じられた。運用地域の拡大と並行して、同社のロボタクシー稼働は過去最高の日次実績を記録したとされる。",
+      "meta": ["追加都市 ダラス", "車両 ハンドル・ペダルなし"],
+      "source": "Teslarati",
+      "sourceUrl": "https://www.teslarati.com/tesla-cybercab-without-steering-wheel-pedals-expands-public-rides-dallas/"
+    },
+    {
+      "rank": 18,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["jp"],
+      "title": "三菱ふそう、EVトラック「eキャンター」3,115台をリコール　メーター表示に不具合",
+      "summary": "三菱ふそうトラック・バスが、電気トラック「eキャンター」のメータークラスター表示に不具合があるとして3,115台のリコールを届け出た。警告表示が正しく表示されない可能性がある。",
+      "meta": ["対象 3,115台", "不具合 メータークラスター表示"],
+      "source": "レスポンス",
+      "sourceUrl": "https://response.jp/article/2026/11/19/419231.html"
+    },
+    {
+      "rank": 19,
+      "field": "india",
+      "sec": "IT・市場",
+      "badges": [],
+      "title": "インドIT株は全面高のなか逆行安　FRBタカ派観測が重荷",
+      "summary": "19日のインド市場は自動車・金融主導で全体が反発したが、IT銘柄は下落して取引を終えた。タカ派的なFRB議事要旨による米金利上昇観測が、米国売上比率の高いIT各社の重荷となった。",
+      "meta": ["IT セクター逆行安", "背景 米金利上昇観測"],
+      "source": "Marketcalls",
+      "sourceUrl": "https://www.marketcalls.in/futures-and-options/post-market-report-19-november-2026.html"
+    },
+    {
+      "rank": 20,
+      "field": "AI",
+      "sec": "規制・訴訟",
+      "badges": ["us"],
+      "title": "Grokによる性的画像生成でxAIに連邦訴訟",
+      "summary": "Muslim Girl創業者のAmani Al-Khatahtbeh氏が、カリフォルニア州北部地区連邦地裁にxAIを提訴した。Xの利用者がGrokに指示し、公開されていた自撮り写真からヒジャブを外した画像や下着姿の画像を生成させたと主張。訴状は非同意の性的画像、設計上の欠陥、過失を争点としている。",
+      "meta": ["提訴先 カリフォルニア州北部地区連邦地裁", "争点 非同意画像・設計欠陥・過失"],
+      "source": "AI Weekly（WIRED）",
+      "sourceUrl": "https://aiweekly.co/ai-news-today/edition/2026-11-19"
+    }
+  ],
+  "weekly": [
+    "アンソロピックがナスダック上場、初値111.50ドル・時価総額1.5兆ドル超で公開価格を34%上回る",
+    "エヌビディアが暫定CEO体制でH200の対中出荷を停止、中国向けAIチップ供給の前提が変化",
+    "ダイハツが発電機部品の設計不良で3車種17万6000台をリコール、トヨタ・スバルのOEM供給車も対象"
+  ]
+}
