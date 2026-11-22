@@ -1,0 +1,254 @@
+{
+  "date": "2026-11-23",
+  "sub": "月",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "米国株、ダウとS&P500が調整領域入り　ナスダックは2026年の上昇分を消失",
+      "summary": "11月20日の米国市場でAI関連株の売りが加速し、ダウ平均とS&P500はそろって調整領域で取引を終えた。ナスダック総合は同日2.3%安と、序盤の上昇から下げに転じ、2026年の年初来上昇分を消した。エヌビディアが下げを主導し、上場直後のアンソロピック株も下落した。",
+      "insight": "AI関連の持ち高調整が指数全体の水準を押し下げる局面に入った。",
+      "meta": ["20日終値ベース", "ナスダック総合 -2.3%"],
+      "source": "UPI / Opening Bell Daily",
+      "sourceUrl": "https://www.upi.com/Top_News/US/2026/11/20/stocks-dow-jones-nasdaq-correction-territory/1061795214998/",
+      "followup": {
+        "since": "2026-11-20",
+        "whatsNew": "前回掲載の19日の急落（ダウ1,035ドル安）から下げが続き、20日にダウ・S&P500が調整領域入りを確定させた。"
+      }
+    },
+    {
+      "rank": 2,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "日経平均は3,008円安の急反落　ハイテク株中心に全面安",
+      "summary": "11月20日の東京市場で日経平均株価は前日比3,008円安と急反落し、3日ぶりの下落となった。AI・半導体関連を中心にハイテク株が全面安となり、米国市場のAI関連株売りが波及した形。",
+      "meta": ["20日終値", "前日比 -3,008円"],
+      "source": "OANDA証券 / 株探",
+      "sourceUrl": "https://www.oanda.jp/lab-education/market_news/20261120_nikkei_3000_drop/"
+    },
+    {
+      "rank": 3,
+      "field": "econ",
+      "sec": "市場",
+      "badges": [],
+      "title": "ビットコインが5万6,000ドルを下回る　週末にかけて暗号資産全体が急落",
+      "summary": "11月21日にビットコインは5万6,000ドルを下回る水準まで下落し、暗号資産市場全体に売りが広がった。報道では2年超ぶりの安値水準とされるが、底値の位置づけは媒体間で表現が異なる(要確認)。イーサリアム、XRPも10%超下げた。",
+      "insight": "リスク資産全般の巻き戻しがAI株から暗号資産へ波及している。",
+      "meta": ["21日時点", "BTC 5.6万ドル割れ", "2年超ぶり安値(要確認)"],
+      "source": "Bytes Europe / The Market Periodical",
+      "sourceUrl": "https://www.byteseu.com/2536113/"
+    },
+    {
+      "rank": 4,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "トヨタ、C-HR EVのリコールを世界1万9,000台に拡大　駆動力喪失のおそれ",
+      "summary": "トヨタは電動クロスオーバー「C-HR EV」の駆動システムに走行中の駆動力喪失につながる不具合があるとして、リコール対象を世界で約1万9,000台に拡大した。北米向けのC-HR EVはほぼ全数が対象になるとの報道もある。",
+      "insight": "EV専用車の駆動系ソフト・制御起因の不具合は、量が小さくても全数対象になりやすい。",
+      "meta": ["対象 約19,000台（世界）", "駆動力喪失のおそれ"],
+      "source": "Electrek",
+      "sourceUrl": "https://electrek.co/2026/11/18/toyota-expands-c-hr-ev-recall-to-19000-globally/"
+    },
+    {
+      "rank": 5,
+      "field": "ad",
+      "sec": "規制・認可",
+      "badges": ["us"],
+      "title": "Waymo、ロボタクシーを米国の高速道路から引き揚げ　高速走行開始から1年",
+      "summary": "Waymoは米国の高速道路（フリーウェイ）でのロボタクシー運行を停止し、一般道のみの運行に戻した。高速道路での旅客走行を始めてから約1年での方針転換で、カリフォルニア州当局の対応が背景にあると報じられている。",
+      "insight": "高速域の運行設計領域（ODD）は、L4商用化で最も戻しが効きやすい領域であることが示された。",
+      "meta": ["高速道路運行を停止", "一般道のみに戻す"],
+      "source": "CleanTechnica / Autonext",
+      "sourceUrl": "https://cleantechnica.com/2026/11/21/waymo-pulls-robotaxis-from-highways/"
+    },
+    {
+      "rank": 6,
+      "field": "AI",
+      "sec": "企業/産業動向",
+      "badges": ["us"],
+      "title": "AI関連株の売りが週末も継続　エヌビディア・アンソロピックに波及",
+      "summary": "11月22日時点でもAI関連銘柄の調整が主要テーマとなり、エヌビディアやナスダック、上場直後のアンソロピックに売りが及んでいると報じられた。AI投資の採算見通しに対する懐疑が、関連株全体の値動きを支配している。",
+      "meta": ["22日時点の報道", "AI取引の巻き戻し"],
+      "source": "Fox News",
+      "sourceUrl": "https://www.foxnews.com/live-news/ai-news-markets-correction-11-22-26"
+    },
+    {
+      "rank": 7,
+      "field": "ad",
+      "sec": "事故・当局調査",
+      "badges": ["us"],
+      "title": "Waymo、閉鎖中の高速車線に進入した車両でリコール",
+      "summary": "Waymoは、ロボタクシーが工事などで閉鎖された高速道路の車線に進入する事象が確認されたとして、リコール（ソフトウェア改修）を届け出た。高速道路運行の停止と同時期の対応で、走行環境認識の不備が焦点となっている。",
+      "meta": ["閉鎖車線への進入", "ソフト改修によるリコール"],
+      "source": "Mezha",
+      "sourceUrl": "https://mezha.net/eng/news/mezha-931106ca458956d3bc4ed9bc_waymo_recalls_robotaxis"
+    },
+    {
+      "rank": 8,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "暗号資産の週間まとめ　ビットコイン12%安、IBITは過去最大の資金流出",
+      "summary": "11月21日までの週で、ビットコインは約12%下落した。ブラックロックのビットコイン現物ETF「IBIT」では過去最大の資金流出が記録され、ビットコインを大量保有するStrategy株は約30%下落した。",
+      "insight": "ETF経由の資金流出と関連企業株の下落が同時に進み、機関投資家の持ち高縮小が鮮明。",
+      "meta": ["週間 BTC -12%", "IBIT 過去最大の流出", "Strategy株 -30%"],
+      "source": "CEO Economy",
+      "sourceUrl": "https://ceoeconomy.com/article/crypto-week-in-review-nov-21-2026"
+    },
+    {
+      "rank": 9,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": ["us"],
+      "title": "Google、Gemini のMacアプリにコンピュータ操作機能を追加",
+      "summary": "GoogleはMac版Geminiアプリに「コンピュータ使用（computer use）」機能を追加し、デスクトップ上のアプリを自律的に操作してタスクをバックグラウンドで実行できるようにした。一方で、エージェントに実行権限を与えるリスクを指摘する論調も多い。",
+      "insight": "PC操作エージェントが主要プラットフォームの標準機能に降りてきた段階。業務端末の権限設計が課題になる。",
+      "meta": ["Mac版Geminiアプリ", "バックグラウンド実行"],
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+    },
+    {
+      "rank": 10,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "センセックスは898ポイント高、ニフティは2万5,800台　世界的な下落の中で逆行高",
+      "summary": "インド市場ではセンセックスが898ポイント上昇し、ニフティは2万5,800台に乗せた。米国を中心としたAI関連株の急落が続く中での逆行高で、インド市場の相対的な底堅さが意識された。",
+      "meta": ["センセックス +898pt", "ニフティ 25,800台"],
+      "source": "The Shillong Times",
+      "sourceUrl": "https://theshillongtimes.com/2026/11/21/sensex-jumps-898-points-nifty-hits-25800-despite-global-rout/",
+      "followup": {
+        "since": "2026-11-20",
+        "whatsNew": "前回掲載の2万5,500台回復からさらに上昇し、世界的な下落局面でも2万5,800台に到達した。"
+      }
+    },
+    {
+      "rank": 11,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["jp"],
+      "title": "三菱ふそう、『キャンター』2万8,000台をリコール　メータークラスターに不具合",
+      "summary": "三菱ふそうトラック・バスは小型トラック「キャンター」約2万8,000台について、メータークラスターの表示に関する不具合でリコールを届け出た。前日にはEV版「eキャンター」3,115台で同種の表示不具合のリコールを届け出ていた。",
+      "insight": "表示系の電子部品に起因する不具合が、同一シリーズのエンジン車・EVの双方に広がった形。",
+      "meta": ["対象 約28,000台", "メータークラスター表示"],
+      "source": "レスポンス",
+      "sourceUrl": "https://response.jp/article/2026/11/20/419249.html",
+      "followup": {
+        "since": "2026-11-20",
+        "whatsNew": "前回掲載のeキャンター3,115台に続き、ディーゼルの『キャンター』約2万8,000台へ対象が広がった。"
+      }
+    },
+    {
+      "rank": 12,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "J.P.モルガン、テスラのロボタクシーは1万8,000台で2027年後半にWaymoの走行距離に並ぶと試算",
+      "summary": "J.P.モルガンは、テスラが約1万8,000台のロボタクシーを展開すれば2027年後半にWaymoの累計走行距離に並び得ると試算した。ただし台数より1台当たりの収益が重要だとの指摘も同時に出ている。",
+      "meta": ["試算 18,000台", "2027年後半（予測・要確認）"],
+      "source": "The Motley Fool",
+      "sourceUrl": "https://www.fool.com/investing/2026/11/22/j-p-morgan-says-tesla-s-robotaxi-fleet-could-match-waymo-s-miles-by-late-2027-with-18-000-cars-the-number-that-matters-is-how-much-each-car-earns/"
+    },
+    {
+      "rank": 13,
+      "field": "AI",
+      "sec": "企業/産業動向",
+      "badges": ["us"],
+      "title": "OpenAIブロックマン氏、「AIがAMD向けチップで5カ月未満に約1年分の進歩をもたらした」",
+      "summary": "OpenAIのグレッグ・ブロックマン氏は、AIを設計工程に投入することでAMD向けチップの開発が5カ月未満で「およそ1年分の進歩」に相当する成果を得たと述べた。半導体設計へのAI適用が開発期間短縮に直結しつつあることを示す発言。",
+      "insight": "設計・検証工程へのAI適用は、製品開発リードタイム短縮の実例として製造業にも波及しうる。",
+      "meta": ["5カ月未満で約1年分", "AMD向けチップ"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/openai-greg-brockman-ai-delivered-123532256.html"
+    },
+    {
+      "rank": 14,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "トヨタ、米国で31万4,029台をリコール　タカタ製エアバッグのリスク",
+      "summary": "トヨタは米国でタカタ製エアバッグに関連するリスクを理由に31万4,029台のリコールを実施した。NHTSAはホンダ、アキュラ、レクサス、トヨタの該当車両について注意を呼びかけている。届け出の正確な時期は要確認。",
+      "meta": ["対象 314,029台（米国）", "届け出時期は要確認"],
+      "source": "FINCHANNEL",
+      "sourceUrl": "https://finchannel.com/toyota-recall-covers-314029-u-s-vehicles-over-takata-airbag-risk/142530/american-business-trends/auto-en/2026/11/"
+    },
+    {
+      "rank": 15,
+      "field": "india",
+      "sec": "IT/AI",
+      "badges": [],
+      "title": "野村、インドIT大手3社に短期の逆風　AIとマクロが重荷",
+      "summary": "野村は、インフォシス、TCS、ウィプロのインドIT大手3社について、AIによる需要構造の変化とマクロ環境の双方から短期的な逆風を受けるとの見方を示した。生成AIの浸透で既存の人員積み上げ型モデルのブランド価値が低下しているとの指摘も出ている。",
+      "insight": "受託開発の人月モデルがAIで置き換わる懸念が、株価評価に直接反映され始めている。",
+      "meta": ["対象 Infosys・TCS・Wipro", "短期の需要・マクロ逆風"],
+      "source": "Moneycontrol / TradingView",
+      "sourceUrl": "https://www.tradingview.com/news/moneycontrol:09f10f38d094b:0-infosys-tcs-wipro-face-near-term-ai-macro-headwinds-nomura/"
+    },
+    {
+      "rank": 16,
+      "field": "ad",
+      "sec": "実証・開発",
+      "badges": ["us"],
+      "title": "Waymoとテスラ、デトロイトで冬季のロボタクシー試験",
+      "summary": "WaymoとテスラがいずれもデトロイトでロボタクシーのWinter（降雪・低温）条件の試験を進めている。積雪・路面凍結環境はセンサー認識と走行制御の難所で、北米全域展開の前提条件となる。",
+      "insight": "降雪地域での認識性能が、ロボタクシーの実質的な市場規模を決める次の分水嶺。",
+      "meta": ["デトロイト", "冬季条件の試験"],
+      "source": "Axios Detroit",
+      "sourceUrl": "https://www.axios.com/local/detroit/2026/11/20/waymo-tesla-robotaxi-race-winter-testing"
+    },
+    {
+      "rank": 17,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "シカゴ日経平均先物は大阪取引所終値比1,865円安",
+      "summary": "11月20日のシカゴ日経平均先物は大阪取引所の終値比で1,865円安となった。米国市場でのAI関連株売りを受け、週明けの東京市場も下値を試す展開が意識される水準で引けた。",
+      "meta": ["20日", "大取終値比 -1,865円"],
+      "source": "株探",
+      "sourceUrl": "https://kabutan.jp/news/marketnews/?b=n202611210167"
+    },
+    {
+      "rank": 18,
+      "field": "india",
+      "sec": "マクロ",
+      "badges": [],
+      "title": "インド経済は世界的な逆風下でも力強く成長　シェカワット連邦大臣",
+      "summary": "インドのシェカワット連邦大臣は11月22日、世界的な課題が続く中でもインド経済は力強く成長しているとの認識を示した。具体的な見通し数値の提示は確認できておらず、政策スタンスの表明にとどまる。",
+      "meta": ["22日の発言", "具体数値は要確認"],
+      "source": "Webindia123",
+      "sourceUrl": "https://news.webindia123.com/news/Articles/India/20261122/4523105.html"
+    },
+    {
+      "rank": 19,
+      "field": "auto",
+      "sec": "新車・EV",
+      "badges": ["jp"],
+      "title": "三菱自動車、デリカD:5の特別仕様車「シャモニー」を発売",
+      "summary": "三菱自動車はミニバン「デリカD:5」の定番特別仕様車「シャモニー」を発売した。長寿命モデルの商品力維持策としてSNSでも反応が大きく、国内ミニバン市場での根強い需要を裏付けた。",
+      "meta": ["22日報道", "特別仕様車「シャモニー」"],
+      "source": "レスポンス",
+      "sourceUrl": "https://response.jp/article/2026/11/22/419309.html"
+    },
+    {
+      "rank": 20,
+      "field": "india",
+      "sec": "自動車市場",
+      "badges": [],
+      "title": "インド自動車の週間動向　タタのEV計画、OlaのPLI認定、M&Mが国内2位を確定",
+      "summary": "インド自動車業界の週間まとめでは、タタ・モーターズのEV戦略の進展、Ola ElectricのPLI（生産連動型優遇）に関する前進、マヒンドラ&マヒンドラが国内販売2位の座を固めたことが主要な動きとして挙げられた。各項目の具体数値は原典で要確認。",
+      "meta": ["週間まとめ", "M&Mが国内2位", "数値は要確認"],
+      "source": "Autocar Professional",
+      "sourceUrl": "https://www.autocarpro.in/news/weekly-news-wrap-tata-motors-ev-plans-ma-moves-olas-pli-boost-and-mm-seals-no-2-position-130327"
+    }
+  ],
+  "weekly": [
+    "米国株はダウ・S&P500が調整領域入り、ナスダックは2026年の上昇分を消失（20日終値）",
+    "ビットコインが5万6,000ドルを下回り、暗号資産市場全体に売りが波及（21日）",
+    "Waymoが米国の高速道路からロボタクシーを引き揚げ、閉鎖車線進入でリコールも届け出"
+  ]
+}
