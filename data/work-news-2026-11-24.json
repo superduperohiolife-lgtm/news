@@ -1,0 +1,181 @@
+{
+  "date": "2026-11-24",
+  "sub": "火",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "AI",
+      "sec": "企業・経営",
+      "badges": ["us"],
+      "title": "エヌビディア取締役会、ジェンスン・ファン氏をCEOに復帰させる　株価は33%高",
+      "summary": "エヌビディアは11月23日、ファン氏を社長兼CEO兼取締役に復帰させたと発表。同氏は11月12日に取締役会から解任され、コレット・クレス氏が後任に指名されていた。取締役会は11月17日時点で「復帰させる意向はない」としていたが一転、米政府の関与を経ての決定と報じられ、トランプ大統領は自身が介入したと述べた。",
+      "insight": "AI相場の人的リスクが「経営トップ1人」に集中していることが可視化された。サプライヤー側も調達計画の前提を見直す必要がある。",
+      "meta": ["株価 +33%（23日）", "解任 11/12", "復帰 11/23"],
+      "source": "NVIDIA Newsroom / CNBC",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+    },
+    {
+      "rank": 2,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "米国株は急反発、S&P500とナスダックが約5%高　前週のAI売りから巻き戻し",
+      "summary": "11月23日の米国市場はダウ・S&P500・ナスダックがそろって上昇し、S&P500とナスダックは約5%高となった。エヌビディアのCEO復帰発表を受けたAI関連株の買い戻しが相場全体を押し上げた。前週は同指数が調整領域入りするなど急落していた。",
+      "insight": "前週の下落の主因がAIトレードへの不信だったことの裏返し。ファンダメンタルズではなくガバナンス要因で5%動く地合い。",
+      "meta": ["S&P500・ナスダック 約+5%（23日終値）"],
+      "source": "24/7 Wall St.",
+      "sourceUrl": "https://247wallst.com/investing/2026/11/23/stock-market-today-dow-sp-500-and-nasdaq-surge-as-nvidia-leads-a-major-ai-rebound/",
+      "followup": {
+        "since": "2026-11-23",
+        "whatsNew": "前回紙面の「ダウ・S&P500が調整領域入り」から一転、23日に急反発した。"
+      }
+    },
+    {
+      "rank": 3,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us", "jp"],
+      "title": "ホンダとトヨタ、タカタ製エアバッグで米国計約160万台をリコール　ホンダは約81万台",
+      "summary": "ホンダとトヨタが米国でタカタ製エアバッグインフレーターの破裂リスクを理由に計約160万台をリコールすると報じられた。ホンダ分は約81万600台。インフレーターが破裂し金属片が飛散するおそれがあるとされる。トヨタ分の正確な台数は報道により差があり(要確認)。",
+      "insight": "タカタ案件は決着済みではなく、対象型式の洗い直しが今も続いている。Tier1の過去不具合が10年超にわたり完成車側のコストに乗り続ける典型例。",
+      "meta": ["ホンダ 約81万600台", "ホンダ+トヨタ 計約160万台"],
+      "source": "The Japan Times",
+      "sourceUrl": "https://www.japantimes.co.jp/business/2026/11/21/honda-toyota-us-airbag-recall/",
+      "followup": {
+        "since": "2026-11-23",
+        "whatsNew": "前回はトヨタ単独31万4,029台の掲載だったが、ホンダ約81万台が加わり計約160万台規模に拡大した。"
+      }
+    },
+    {
+      "rank": 4,
+      "field": "india",
+      "sec": "市場",
+      "badges": [],
+      "title": "センセックスが1,484ポイント安　銀行株主導で急落、ニフティは25,350割れ",
+      "summary": "11月23日のインド市場はセンセックスが1,484ポイント(約1.75%)安で引け、ニフティ50は25,350を下回った。バンク・ニフティが約3%下落し下げを主導。投資家の時価総額は6兆ルピー超が消失したと報じられた。寄り付き後は一時700ポイント近く上昇する場面もあったが、終盤にかけて売りが加速した。",
+      "insight": "前営業日の世界的下落下での逆行高から一転。インド市場の底堅さは金融セクターの資金フローに依存しており、持続性は限定的。",
+      "meta": ["センセックス -1,484pt（23日終値）", "ニフティ -1.75%", "バンク・ニフティ -3%"],
+      "source": "India TV News",
+      "sourceUrl": "https://www.indiatvnews.com/business/news/investors-lose-over-rs-6-lakh-crore-as-sensex-plunges-1-483-points-and-nifty-below-25-350-2026-11-23-1060170",
+      "followup": {
+        "since": "2026-11-23",
+        "whatsNew": "前回の「898ポイント高の逆行高」から一転し、銀行株主導で急落に転じた。"
+      }
+    },
+    {
+      "rank": 5,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "テスラ、テキサス州のロボタクシー登録台数でWaymoを上回る",
+      "summary": "テキサス州の登録データに基づき、テスラのロボタクシー車両数がWaymoを上回ったと報じられた。テスラは同州での車両投入を加速させており、台数ベースでの逆転となる。ただし走行距離・運行回数ベースでの優劣は別途の指標であり、本件は登録台数に限った比較(要確認)。",
+      "insight": "台数の逆転は参入の勢いを示すが、収益性は1台あたりの稼働率で決まる。台数競争の指標化には注意が必要。",
+      "meta": ["対象 テキサス州", "指標 登録台数ベース"],
+      "source": "Teslarati",
+      "sourceUrl": "https://www.teslarati.com/tesla-overtakes-waymo-texas-robotaxi-fleet-performs-shock-flip/"
+    },
+    {
+      "rank": 6,
+      "field": "econ",
+      "sec": "暗号資産",
+      "badges": ["us"],
+      "title": "ビットコインが6万1,000ドル台を回復　週末の急落から反発",
+      "summary": "ビットコインは11月23日に6万1,000ドル台を回復し、週末の急落局面から反発した。米株先物の上昇が支援材料となり、市場で警戒されていた「ブラックマンデー」型の連鎖下落は回避された。今後は米インフレ指標とGDP発表が焦点。",
+      "meta": ["BTC 6万1,000ドル台（23日時点）"],
+      "source": "Analytics Insight",
+      "sourceUrl": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/bitcoin-rebounds-above-usd-61000-ahead-of-us-inflation-and-gdp-reports",
+      "followup": {
+        "since": "2026-11-23",
+        "whatsNew": "前回掲載の「5万6,000ドル割れ」から反発し、6万1,000ドル台を回復した。"
+      }
+    },
+    {
+      "rank": 7,
+      "field": "AI",
+      "sec": "M&A",
+      "badges": ["us"],
+      "title": "アマゾン、DecartのAIチップ向けソフトを買収へ　報道では約75億ドル",
+      "summary": "アマゾンがDecartのAIチップ向けソフトウェア事業を買収し、創業者陣も迎え入れると報じられた。買収額は約75億ドルとされる(要確認・報道ベース)。自社開発シリコンのソフトウェアスタック強化が狙いとみられる。",
+      "insight": "ハイパースケーラーの競争軸がチップ本体からソフトウェア層に移りつつある。半導体サプライチェーンの力関係に影響。",
+      "meta": ["買収額 約75億ドル(要確認)"],
+      "source": "GeekWire",
+      "sourceUrl": "https://www.geekwire.com/2026/amazon-is-buying-decarts-ai-chip-software-for-a-reported-7-5b-and-bringing-its-founders-aboard/"
+    },
+    {
+      "rank": 8,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "BMW、i5・i7の286台をリコール　充電ポート試験ソフトで感電リスク",
+      "summary": "BMWは充電ポートの試験用ソフトウェアに起因して感電リスクが高まるおそれがあるとして、EVのi5とi7の計286台をリコールする。台数は限定的だが、原因が機構部品ではなく検査・試験用ソフトに起因する点が特徴。",
+      "insight": "SDV時代のリコールは「ソフトの残存・誤設定」起因が増える。出荷時のソフト構成管理が品質保証の対象に入る。",
+      "meta": ["対象 286台", "原因 充電ポート試験ソフト"],
+      "source": "BMW BLOG",
+      "sourceUrl": "https://www.bmwblog.com/2026/11/21/bmw-i5-i7-recall-charging-port-software/"
+    },
+    {
+      "rank": 9,
+      "field": "econ",
+      "sec": "為替",
+      "badges": ["jp", "us"],
+      "title": "ドル円は159円台に戻す　160円を巡る攻防が継続",
+      "summary": "11月23日の為替市場でドル円は一時159円台に上昇した。米株高を受けてリスク回避の円高が一服した形。市場では160円を巡る攻防が続くとの見方が多く、今週は米PCEと東京都区部CPIが注目される。なお23日の日本市場は勤労感謝の日で休場。",
+      "meta": ["ドル円 159円台（23日NY序盤）", "節目 160円"],
+      "source": "みんかぶFX",
+      "sourceUrl": "https://fx.minkabu.jp/news/385205"
+    },
+    {
+      "rank": 10,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "テスラ、Cybercabの展開をダラスに拡大　Waymoは高速道路運行を停止中",
+      "summary": "テスラがCybercabの展開地域をダラスに広げる一方、Waymoは高速道路での無人運行を停止したままとなっている。カリフォルニア州当局による州内高速道路からの排除を受けた措置で、Waymoは全米で高速道路での無人乗車を見合わせている。",
+      "insight": "規制当局の判断が運行領域(ODD)の縮小に直結する局面。高速道路ODDの可否が両社の走行距離の伸びを左右する。",
+      "meta": ["テスラ 新拠点 ダラス", "Waymo 高速道路運行 停止中"],
+      "source": "Stocktwits",
+      "sourceUrl": "https://stocktwits.com/news-articles/markets/equity/zero-to-sixty-tesla-expands-cybercab-to-dallas-as-waymo-pauses-freeway-operations-this-week/cNbm5YSR91g"
+    },
+    {
+      "rank": 11,
+      "field": "india",
+      "sec": "EV",
+      "badges": [],
+      "title": "インドのEV年間販売が初の30万台超　2026年に大台を突破",
+      "summary": "インドの乗用EV年間販売が2026年に初めて30万台(3ラク)の大台を超えたと報じられた。国内メーカーの新型投入と生産能力増強が寄与。一方で需要が供給を上回る状態が続いているとの指摘もある。月次の内訳・メーカー別シェアは(要確認)。",
+      "insight": "日系の現地EV戦略は、台数の立ち上がりよりも生産能力の確保がボトルネック。部品現地調達の前倒し判断が要る。",
+      "meta": ["年間販売 30万台超（2026年）"],
+      "source": "Autocar India",
+      "sourceUrl": "https://www.autocarindia.com/car-news/annual-ev-sales-cross-3-lakh-mark-for-the-first-time-in-2026-441297"
+    },
+    {
+      "rank": 12,
+      "field": "AI",
+      "sec": "資本市場",
+      "badges": ["us"],
+      "title": "アンソロピック、IPOのオーバーアロットメントを全額行使して募集を完了",
+      "summary": "アンソロピックは11月23日、IPOに伴うオプション(オーバーアロットメント)を全額行使して公募を完了したと報じられた。同社は11月18〜19日に1株83ドルで813億ドルを調達し、過去最大のIPOとなった。調達資金は計算資源への投資に充てられるとされる。",
+      "insight": "AIラボが公開市場から大型調達を行う段階に入った。設備投資の原資が調達市場に移ることで、AI投資サイクルの景気感応度が上がる。",
+      "meta": ["調達額 813億ドル", "公開価格 83ドル"],
+      "source": "MEXC / CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+    },
+    {
+      "rank": 13,
+      "field": "ad",
+      "sec": "市場評価",
+      "badges": ["us"],
+      "title": "ゲイリー・ブラック氏、テスラのロボタクシー戦略に疑問　Waymo優位を予想",
+      "summary": "著名投資家のゲイリー・ブラック氏が、テスラのロボタクシー戦略に対し「Waymoとどう競うのか」と疑問を呈し、走行距離とトリップ数ではWaymoが先行し続けると予想した。前日のJ.P.モルガン試算(2027年後半にテスラが1万8,000台でWaymoの走行距離に並ぶ)と対照的な見方。",
+      "meta": ["指標 走行距離・トリップ数", "見解 Waymo優位を予想"],
+      "source": "Benzinga",
+      "sourceUrl": "https://www.benzinga.com/markets/tech/26/11/63519417/how-can-tsla-compete-with-waymo-gary-black-questions-teslas-robotaxi-strategy-predicts-waymo-will-lead-in-miles-and-trips"
+    }
+  ],
+  "weekly": [
+    "エヌビディアがファン氏をCEOに復帰させ、株価33%高。米国株は約5%高と全面高に転じた",
+    "ホンダとトヨタが米国でタカタ製エアバッグ計約160万台をリコール。ホンダ分は約81万台",
+    "インド市場はセンセックスが1,484ポイント安。銀行株主導で前営業日の逆行高から急反落"
+  ]
+}
