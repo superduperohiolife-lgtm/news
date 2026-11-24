@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-25",
+  "sub": "水",
+  "cat": "work",
+  "articles": [
+    {
+      "rank": 1,
+      "field": "ad",
+      "sec": "事故・当局調査",
+      "badges": ["us"],
+      "title": "Waymo、ソフトウェアリコール2件を届け出　閉鎖された高速車線への進入11件が引き金",
+      "summary": "Waymoは、ロボタクシーが工事などで閉鎖された高速道路車線に進入した新たな事案11件を受け、ソフトウェアのリコールを届け出た。もう1件は警察官などによる手信号での交通整理への対応に関するもの。カリフォルニア州が同社の高速道路走行を停止させた直後の措置。",
+      "insight": "L4の弱点が「想定外の一時的交通統制」に集中している構図が、当局対応の論点として固まりつつある。",
+      "meta": ["新規事案 11件", "リコール 2件"],
+      "source": "Insurance Journal",
+      "sourceUrl": "https://www.insurancejournal.com/news/national/2026/11/24/893481.htm"
+    },
+    {
+      "rank": 2,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["jp"],
+      "title": "日経平均が2,207円高の5万8,644円　エヌビディア前CEO復帰でAI・半導体株に買い戻し",
+      "summary": "11月24日の東京株式市場で日経平均株価は前営業日比2,207円高の5万8,644円で引けた。ジェンスン・ファン氏のエヌビディアCEO復帰報道を受け、前週のAI関連売りからの巻き戻しが入った。もっとも値上がり銘柄は全体の約6割にとどまり、上昇はAI・半導体中心に偏った。",
+      "insight": "指数の急騰幅と値上がり銘柄比率の乖離は、相場がなおAI一本足であることを示す。",
+      "meta": ["11/24終値 58,644円", "前日比 +2,207円"],
+      "source": "東京報道新聞",
+      "sourceUrl": "https://tokyonewsmedia.com/archives/30850"
+    },
+    {
+      "rank": 3,
+      "field": "AI",
+      "sec": "モデル・製品",
+      "badges": ["us"],
+      "title": "グーグル、業務横断の汎用「Geminiエージェント」を企業向けに投入",
+      "summary": "グーグルは企業向けイベント「Gemini at Work 2026」で、社内の業務アプリをまたいで動く汎用Geminiエージェントを発表した。従来分かれていた企業向けAI機能を単一エージェントに統合する形で、OpenAI・マイクロソフトの業務エージェントと正面から競合する。",
+      "insight": "「用途別アシスタント」から「社内業務を横断する1体のエージェント」への再編が、主要3社で同時に進んでいる。",
+      "meta": ["対象 企業向け", "統合 単一エージェント"],
+      "source": "Quartz",
+      "sourceUrl": "https://qz.com/google-gemini-universal-agent-enterprise-workplace-100826"
+    },
+    {
+      "rank": 4,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "米S&P500は0.8%安　半導体株が反落しAI投資への疑念が再燃",
+      "summary": "11月24日の米国株式市場でS&P500は0.8%安で終了した。前日に大幅高となった半導体株が売られ、エヌビディアはファン氏復帰による上昇分の一部を戻した。AI関連の設備投資の持続性に対する懐疑が改めて相場の重荷となった。",
+      "meta": ["11/24終値 S&P500 -0.8%"],
+      "source": "IBTimes AU",
+      "sourceUrl": "https://www.ibtimes.com.au/sp-500-falls-nvidia-ai-spending-doubts-1879314"
+    },
+    {
+      "rank": 5,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": ["us"],
+      "title": "アンソロピック株がIPO価格83ドルを一時下回る　上場直後の上昇が巻き戻し",
+      "summary": "11月24日の米市場で、アンソロピック株がIPO価格の83ドルを一時下回った。上場直後の急伸局面から一転して売りが優勢となったが、アナリストの評価は依然として強気が多数と報じられている。",
+      "meta": ["IPO価格 $83", "一時 IPO価格割れ"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+      "followup": {
+        "since": "2026-11-24",
+        "whatsNew": "オーバーアロットメント全額行使で募集を完了した翌日、株価がIPO価格を一時下回る局面に転じた。"
+      }
+    },
+    {
+      "rank": 6,
+      "field": "econ",
+      "sec": "マクロ・中央銀行",
+      "badges": ["us"],
+      "title": "12月9日FOMCの利上げ織り込みが9割超　NY連銀ウィリアムズ氏は連続利上げを否定せず",
+      "summary": "市場は12月9日のFOMCでの利上げをほぼ確実と見込み、織り込み度は95%前後まで上昇した。NY連銀のウィリアムズ総裁はインフレへの警戒を示し、会合を連続した利上げの可能性も排除しなかった。米国債利回りは同総裁発言後にやや低下した。",
+      "insight": "利上げ局面の継続観測は円安圧力の土台になり、日本側の為替・金利運営に直結する。",
+      "meta": ["次回会合 12/9", "織り込み 約95%（市場価格ベース）"],
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/24/treasury-yields-bonds-inflation.html"
+    },
+    {
+      "rank": 7,
+      "field": "AI",
+      "sec": "企業・産業動向",
+      "badges": ["us"],
+      "title": "エヌビディアのファンCEO、OpenAIとの1,000億ドル規模案件は「おそらく実現しない」",
+      "summary": "復帰したエヌビディアのジェンスン・ファンCEOは、取り沙汰されていたOpenAIとの1,000億ドル規模の取引について「おそらく実現しない」との見方を示した。AI投資の規模感を巡る期待の修正につながる発言となった。",
+      "meta": ["対象 OpenAI案件", "規模 $1,000億（報道ベース）"],
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/news/nvidia-ceo-jensen-huang-100b-123431494.html"
+    },
+    {
+      "rank": 8,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["us"],
+      "title": "ステランティス、ブレーキ制御ソフトの不具合でRamピックアップ約8.3万台をリコール",
+      "summary": "ブレーキ関連ソフトウェアの問題を受け、Ramブランドのピックアップトラック約8万3,000台が米国でリコールされる。制動機能に関わる制御ソフトの不具合が対象で、ソフト起因のリコールが引き続き増加傾向にある。",
+      "insight": "SDV化に伴い、機械部品ではなく制御ソフトが保安基準上のリコール要因となる事例が定着している。",
+      "meta": ["対象 約83,000台", "原因 ブレーキソフト"],
+      "source": "FOX 10 Phoenix",
+      "sourceUrl": "https://www.fox10phoenix.com/news/83000-ram-pickup-trucks-recalled-after-problems-brake-software"
+    },
+    {
+      "rank": 9,
+      "field": "ad",
+      "sec": "事故・当局調査",
+      "badges": ["us"],
+      "title": "NHTSA、Waymoのスクールバス対応ソフト修正を調査",
+      "summary": "米NHTSAは、Waymoがスクールバスへの対応として実施したソフトウェア修正が十分かどうかを調べる調査に入った。停車中のスクールバスの追い越し挙動が問題視されたもので、修正の有効性そのものが当局の検証対象となっている。",
+      "meta": ["当局 NHTSA", "対象 スクールバス対応の修正"],
+      "source": "The Rundown AI",
+      "sourceUrl": "https://www.therundown.ai/news/waymo-school-bus-safety-fix-nhtsa-probe"
+    },
+    {
+      "rank": 10,
+      "field": "india",
+      "sec": "インド自動車市場",
+      "badges": [],
+      "title": "タタ・ヒュンダイ・アウディ・マルチスズキが相次ぎ値上げ　12月1日から",
+      "summary": "原材料などのコスト上昇を理由に、タタ・モーターズ、ヒュンダイ、アウディがマルチスズキに続き乗用車の値上げを発表した。タタ・モーターズは乗用車・SUVを12月1日から0.5%引き上げる。",
+      "insight": "インドの需要期をまたいだ一斉値上げは、現地コスト環境の悪化が広く共通していることを示す。",
+      "meta": ["実施 12/1", "タタ +0.5%"],
+      "source": "Business Today",
+      "sourceUrl": "https://www.businesstoday.in/auto/story/car-prices-set-to-rise-from-december-1-hyundai-tata-motors-announce-hikes-heres-how-much-more-you-may-pay-569245-2026-11-24"
+    },
+    {
+      "rank": 11,
+      "field": "econ",
+      "sec": "市場",
+      "badges": ["us"],
+      "title": "原油が約3カ月ぶり安値　ブレントは88ドル台、WTIは80ドル割れ",
+      "summary": "供給回復と地政学プレミアムの後退を背景に、原油は約3カ月ぶりの安値圏に沈んだ。ブレントは1バレル88.28ドル、WTIは80ドルを下回る水準で推移。OPEC+会合を控え、供給過剰観測が売りを誘っている。",
+      "meta": ["ブレント $88.28", "WTI $80割れ"],
+      "source": "Arbiterz",
+      "sourceUrl": "https://arbiterz.com/oil-prices-today-brent-falls-to-88-28-per-barrel-wti-drops-below-80/"
+    },
+    {
+      "rank": 12,
+      "field": "ad",
+      "sec": "ロボタクシー",
+      "badges": ["us"],
+      "title": "テスラ、ハンドル・ペダルのないCybercabでダラスの一般向け乗車を開始",
+      "summary": "テスラはステアリングとペダルを持たないCybercabによる一般向けの乗車提供をダラスで開始した。設計はV1.5とされ、オースティンに続く2番目の米国ロボタクシー市場となる。",
+      "meta": ["都市 ダラス", "車両 Cybercab V1.5"],
+      "source": "TechRepublic",
+      "sourceUrl": "https://www.techrepublic.com/article/news-tesla-cybercab-dallas-public-rides/",
+      "followup": {
+        "since": "2026-11-24",
+        "whatsNew": "ダラスへの「展開拡大」の段階から、一般ユーザーが実際に乗車できる運用開始に進んだ。"
+      }
+    },
+    {
+      "rank": 13,
+      "field": "AI",
+      "sec": "規制・ガバナンス",
+      "badges": ["us"],
+      "title": "アンソロピックとOpenAIの従業員、未公開モデルの急速な能力向上とリスクを警告",
+      "summary": "アンソロピックとOpenAIの従業員が、未公開のAIモデルで能力向上が急速に進んでいることと、それに伴う安全性リスクについて懸念を表明した。開発競争の速度に対し、評価・安全対策が追いついていないという趣旨の指摘。",
+      "meta": ["論点 未公開モデルの安全性"],
+      "source": "Yahoo Tech",
+      "sourceUrl": "https://tech.yahoo.com/ai/claude/articles/anthropic-openai-staff-warn-risks-150041738.html"
+    },
+    {
+      "rank": 14,
+      "field": "india",
+      "sec": "インド経済",
+      "badges": [],
+      "title": "外国人投資家が10営業日連続の買い越し　567億ルピーが流入",
+      "summary": "インド株で外国機関投資家（FII）の買い越しが10営業日連続となり、5,672 crore ルピー（約567億ルピー）が流入した。株価指数は弱含む局面にあるものの、海外資金の流入は途切れていない。",
+      "insight": "指数の調整と海外資金流入が併存する構図は、インドが引き続き資金配分先として選ばれていることを示す。",
+      "meta": ["流入 Rs 5,672 crore", "連続 10営業日"],
+      "source": "Business Today",
+      "sourceUrl": "https://www.businesstoday.in/markets/stocks/story/as-bears-make-a-comeback-fiis-still-in-festive-mood-for-tenth-day-infuse-rs-5672-crore-569200-2026-11-24"
+    },
+    {
+      "rank": 15,
+      "field": "auto",
+      "sec": "リコール",
+      "badges": ["jp"],
+      "title": "三菱ふそう、大型トラック「スーパーグレート」のリコールを届け出",
+      "summary": "三菱ふそうトラック・バスが大型トラック「スーパーグレート」についてリコールを届け出た。対象台数と不具合の詳細は(要確認)。",
+      "meta": ["対象 スーパーグレート", "台数・不具合内容 (要確認)"],
+      "source": "ギズモ",
+      "sourceUrl": "https://www.gizumo.net/2026/11/24/58824/"
+    }
+  ],
+  "weekly": [
+    "Waymoが閉鎖車線進入11件を受けソフトウェアリコール2件を届け出、L4の当局対応が焦点に",
+    "日経平均が2,207円高の5万8,644円、ファン氏復帰でAI・半導体株に買い戻し",
+    "グーグルが業務横断の汎用Geminiエージェントを企業向けに投入、OpenAI・MSと正面競合"
+  ]
+}
